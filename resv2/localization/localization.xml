@@ -1,0 +1,323 @@
+<localization>
+	<localeIdList>
+		<localeId>cs</localeId>		<!-- Czech -->
+		<localeId>de</localeId>		<!-- German -->
+		<localeId>en</localeId>		<!-- English -->
+		<localeId>fr</localeId>		<!-- French -->
+		<localeId>pl</localeId>		<!-- Polish -->
+		<localeId>ru</localeId>		<!-- Russian -->
+		<localeId>ja</localeId>		<!-- Japanese -->
+		<localeId>es</localeId>		<!-- Spanish -->
+	</localeIdList>
+
+	<clusterList>
+		<clusterId>ru</clusterId>
+		<clusterId>eu</clusterId>
+		<clusterId>cn</clusterId>
+		<clusterId>na</clusterId>
+		<clusterId>asia</clusterId>
+	</clusterList>
+
+  <langTimeDateFormatList>
+    <langTimeDateFormat name="default" localeId="">
+      <item name="default" data="%d %B, %H:%M:%S"/>
+      <item name="dBAHMS" data="%d %B, %A, %H:%M:%S"/>
+      <item name="dmY" data="%d.%m.%Y"/>
+      <item name="dBYAHMS" data="%d %B %Y %A, %H:%M:%S"/>
+      <item name="dbYHMS" data="%d %b %Y, %H:%M:%S"/>
+      <item name="dmYHM" data="%d.%m.%Y %H:%M"/>
+    </langTimeDateFormat>
+    <langTimeDateFormat name="japanese" localeId="ja">
+      <item name="default" data="%B %d, %H:%M:%S"/>
+      <item name="dBAHMS" data="%d %B, %A, %H:%M:%S"/>
+      <item name="dmY" data="%Y.%m.%d"/>
+      <item name="dBYAHMS" data="%A %Y %B %d, %H:%M:%S"/>
+      <item name="dbYHMS" data="%Y %b %d, %H:%M:%S"/>
+      <item name="dmYHM" data="%Y.%m.%d %H:%M"/>
+    </langTimeDateFormat>
+  </langTimeDateFormatList>
+
+	<languagesList>
+		<language name="default" localeId="en"/>
+		<!--language name="arabic" localeId=""/-->
+		<language name="bulgarian" localeId="en"/>
+		<!--language name="schinese" localeId=""/-->
+		<!--language name="tchinese" localeId=""/-->
+		<language name="czech" localeId="cs"/>
+		<language name="danish" localeId="en"/>
+		<language name="dutch" localeId="en"/>
+		<language name="english" localeId="en"/>
+		<language name="finnish" localeId="en"/>
+		<language name="french" localeId="fr"/>
+		<language name="german" localeId="de"/>
+		<language name="greek" localeId="en"/>
+		<language name="hungarian" localeId="en"/>
+		<language name="italian" localeId="en"/>
+		<language name="japanese" localeId="ja"/>
+		<!--language name="koreana" localeId=""/-->
+		<language name="norwegian" localeId="en"/>
+		<language name="polish" localeId="pl"/>
+		<language name="portuguese" localeId="en"/>
+		<language name="brazilian" localeId="en"/>
+		<language name="romanian" localeId="en"/>
+		<language name="russian" localeId="ru"/>
+		<language name="spanish" localeId="es"/>
+		<language name="swedish" localeId="en"/>
+		<!--language name="thai" localeId=""/-->
+		<language name="turkish" localeId="en"/>
+		<language name="ukrainian" localeId="ru"/>
+	</languagesList>
+
+	<countiesList>
+		<county iso3166="default" name="default" localeId="en" clusterId="eu"/>
+		<county iso3166="AD" name="Andorra" localeId="" clusterId=""/>
+		<county iso3166="AE" name="United Arab Emirates" localeId="" clusterId=""/>
+		<county iso3166="AF" name="Afghanistan" localeId="" clusterId=""/>
+		<county iso3166="AG" name="Antigua and Barbuda" localeId="" clusterId="na"/>
+		<county iso3166="AI" name="Anguilla" localeId="" clusterId="na"/>
+		<county iso3166="AL" name="Albania" localeId="" clusterId="eu"/>
+		<county iso3166="AM" name="Armenia" localeId="" clusterId="ru"/>
+		<county iso3166="AO" name="Angola" localeId="" clusterId=""/>
+		<county iso3166="AQ" name="Antarctica" localeId="" clusterId=""/>
+		<county iso3166="AR" name="Argentina" localeId="" clusterId="na"/>
+		<county iso3166="AS" name="American Samoa" localeId="" clusterId="na"/>
+		<county iso3166="AT" name="Austria" localeId="de" clusterId="eu"/>
+		<county iso3166="AU" name="Australia" localeId="" clusterId="na"/>
+		<county iso3166="AW" name="Aruba" localeId="" clusterId="na"/>
+		<county iso3166="AX" name="Åland Islands" localeId="" clusterId="eu"/>
+		<county iso3166="AZ" name="Azerbaijan" localeId="" clusterId="ru"/>
+		<county iso3166="BA" name="Bosnia and Herzegovina" localeId="" clusterId="eu"/>
+		<county iso3166="BB" name="Barbados" localeId="" clusterId="na"/>
+		<county iso3166="BD" name="Bangladesh" localeId="" clusterId=""/>
+		<county iso3166="BE" name="Belgium" localeId="" clusterId="eu"/>
+		<county iso3166="BF" name="Burkina Faso" localeId="" clusterId=""/>
+		<county iso3166="BG" name="Bulgaria" localeId="" clusterId="eu"/>
+		<county iso3166="BH" name="Bahrain" localeId="" clusterId=""/>
+		<county iso3166="BI" name="Burundi" localeId="" clusterId=""/>
+		<county iso3166="BJ" name="Benin" localeId="" clusterId=""/>
+		<county iso3166="BL" name="Saint Barthélemy" localeId="" clusterId="na"/>
+		<county iso3166="BM" name="Bermuda" localeId="" clusterId="na"/>
+		<county iso3166="BN" name="Brunei Darussalam" localeId="" clusterId=""/>
+		<county iso3166="BO" name="Bolivia, Plurinational State of" localeId="" clusterId="na"/>
+		<county iso3166="BQ" name="Bonaire, Sint Eustatius and Saba" localeId="" clusterId="na"/>
+		<county iso3166="BR" name="Brazil" localeId="" clusterId="na"/>
+		<county iso3166="BS" name="Bahamas" localeId="" clusterId="na"/>
+		<county iso3166="BT" name="Bhutan" localeId="" clusterId=""/>
+		<county iso3166="BV" name="Bouvet Island" localeId="" clusterId=""/>
+		<county iso3166="BW" name="Botswana" localeId="" clusterId=""/>
+		<county iso3166="BY" name="Belarus" localeId="ru" clusterId="ru"/>
+		<county iso3166="BZ" name="Belize" localeId="" clusterId="na"/>
+		<county iso3166="CA" name="Canada" localeId="" clusterId="na"/>
+		<county iso3166="CC" name="Cocos (Keeling) Islands" localeId="" clusterId=""/>
+		<county iso3166="CD" name="Congo, the Democratic Republic of the" localeId="" clusterId=""/>
+		<county iso3166="CF" name="Central African Republic" localeId="" clusterId=""/>
+		<county iso3166="CG" name="Congo" localeId="" clusterId=""/>
+		<county iso3166="CH" name="Switzerland" localeId="" clusterId=""/>
+		<county iso3166="CI" name="Côte d'Ivoire" localeId="" clusterId=""/>
+		<county iso3166="CK" name="Cook Islands" localeId="" clusterId="na"/>
+		<county iso3166="CL" name="Chile" localeId="" clusterId="na"/>
+		<county iso3166="CM" name="Cameroon" localeId="" clusterId=""/>
+		<county iso3166="CN" name="China" localeId="" clusterId=""/>
+		<county iso3166="CO" name="Colombia" localeId="" clusterId="na"/>
+		<county iso3166="CR" name="Costa Rica" localeId="" clusterId="na"/>
+		<county iso3166="CU" name="Cuba" localeId="" clusterId="na"/>
+		<county iso3166="CV" name="Cabo Verde" localeId="" clusterId=""/>
+		<county iso3166="CW" name="Curaçao" localeId="" clusterId="na"/>
+		<county iso3166="CX" name="Christmas Island" localeId="" clusterId=""/>
+		<county iso3166="CY" name="Cyprus" localeId="" clusterId="eu"/>
+		<county iso3166="CZ" name="Czechia" localeId="cs" clusterId="eu"/>
+		<county iso3166="DE" name="Germany" localeId="de" clusterId="eu"/>
+		<county iso3166="DJ" name="Djibouti" localeId="" clusterId=""/>
+		<county iso3166="DK" name="Denmark" localeId="" clusterId="eu"/>
+		<county iso3166="DM" name="Dominica" localeId="" clusterId="na"/>
+		<county iso3166="DO" name="Dominican Republic" localeId="" clusterId="na"/>
+		<county iso3166="DZ" name="Algeria" localeId="" clusterId=""/>
+		<county iso3166="EC" name="Ecuador" localeId="" clusterId="na"/>
+		<county iso3166="EE" name="Estonia" localeId="" clusterId="eu"/>
+		<county iso3166="EG" name="Egypt" localeId="" clusterId=""/>
+		<county iso3166="EH" name="Western Sahara" localeId="" clusterId=""/>
+		<county iso3166="ER" name="Eritrea" localeId="" clusterId=""/>
+		<county iso3166="ES" name="Spain" localeId="" clusterId="eu"/>
+		<county iso3166="ET" name="Ethiopia" localeId="" clusterId=""/>
+		<county iso3166="FI" name="Finland" localeId="" clusterId="eu"/>
+		<county iso3166="FJ" name="Fiji" localeId="" clusterId="na"/>
+		<county iso3166="FK" name="Falkland Islands (Malvinas)" localeId="" clusterId="na"/>
+		<county iso3166="FM" name="Micronesia, Federated States of" localeId="" clusterId="na"/>
+		<county iso3166="FO" name="Faroe Islands" localeId="da" clusterId="eu"/>
+		<county iso3166="FR" name="France" localeId="fr" clusterId="eu"/>
+		<county iso3166="GA" name="Gabon" localeId="" clusterId=""/>
+		<county iso3166="GB" name="United Kingdom" localeId="en" clusterId="eu"/>
+		<county iso3166="GD" name="Grenada" localeId="" clusterId="na"/>
+		<county iso3166="GE" name="Georgia" localeId="" clusterId="ru"/>
+		<county iso3166="GF" name="French Guiana" localeId="" clusterId="na"/>
+		<county iso3166="GG" name="Guernsey" localeId="" clusterId="eu"/>
+		<county iso3166="GH" name="Ghana" localeId="" clusterId=""/>
+		<county iso3166="GI" name="Gibraltar" localeId="" clusterId="eu"/>
+		<county iso3166="GL" name="Greenland" localeId="da" clusterId="eu"/>
+		<county iso3166="GM" name="Gambia" localeId="" clusterId=""/>
+		<county iso3166="GN" name="Guinea" localeId="" clusterId=""/>
+		<county iso3166="GP" name="Guadeloupe" localeId="" clusterId="na"/>
+		<county iso3166="GQ" name="Equatorial Guinea" localeId="" clusterId=""/>
+		<county iso3166="GR" name="Greece" localeId="" clusterId="eu"/>
+		<county iso3166="GS" name="South Georgia and the South Sandwich Islands" localeId="" clusterId="na"/>
+		<county iso3166="GT" name="Guatemala" localeId="" clusterId="na"/>
+		<county iso3166="GU" name="Guam" localeId="" clusterId="na"/>
+		<county iso3166="GW" name="Guinea-Bissau" localeId="" clusterId=""/>
+		<county iso3166="GY" name="Guyana" localeId="" clusterId="na"/>
+		<county iso3166="HK" name="Hong Kong" localeId="" clusterId=""/>
+		<county iso3166="HM" name="Heard Island and McDonald Islands" localeId="" clusterId=""/>
+		<county iso3166="HN" name="Honduras" localeId="" clusterId="na"/>
+		<county iso3166="HR" name="Croatia" localeId="" clusterId="eu"/>
+		<county iso3166="HT" name="Haiti" localeId="" clusterId="na"/>
+		<county iso3166="HU" name="Hungary" localeId="" clusterId="eu"/>
+		<county iso3166="ID" name="Indonesia" localeId="" clusterId=""/>
+		<county iso3166="IE" name="Ireland" localeId="" clusterId="eu"/>
+		<county iso3166="IL" name="Israel" localeId="" clusterId="eu"/>
+		<county iso3166="IM" name="Isle of Man" localeId="" clusterId="eu"/>
+		<county iso3166="IN" name="India" localeId="" clusterId=""/>
+		<county iso3166="IO" name="British Indian Ocean Territory" localeId="" clusterId=""/>
+		<county iso3166="IQ" name="Iraq" localeId="" clusterId=""/>
+		<county iso3166="IR" name="Iran, Islamic Republic of" localeId="" clusterId=""/>
+		<county iso3166="IS" name="Iceland" localeId="" clusterId="eu"/>
+		<county iso3166="IT" name="Italy" localeId="" clusterId="eu"/>
+		<county iso3166="JE" name="Jersey" localeId="" clusterId="eu"/>
+		<county iso3166="JM" name="Jamaica" localeId="" clusterId="na"/>
+		<county iso3166="JO" name="Jordan" localeId="" clusterId=""/>
+		<county iso3166="JP" name="Japan" localeId="ja" clusterId="asia"/>
+		<county iso3166="KE" name="Kenya" localeId="" clusterId=""/>
+		<county iso3166="KG" name="Kyrgyzstan" localeId="" clusterId="ru"/>
+		<county iso3166="KH" name="Cambodia" localeId="" clusterId=""/>
+		<county iso3166="KI" name="Kiribati" localeId="" clusterId="na"/>
+		<county iso3166="KM" name="Comoros" localeId="" clusterId=""/>
+		<county iso3166="KN" name="Saint Kitts and Nevis" localeId="" clusterId="na"/>
+		<county iso3166="KP" name="Korea (the Democratic People's Republic of)" localeId="" clusterId=""/>
+		<county iso3166="KR" name="Korea (the Republic of)" localeId="" clusterId=""/>
+		<county iso3166="KW" name="Kuwait" localeId="" clusterId=""/>
+		<county iso3166="KY" name="Cayman Islands" localeId="" clusterId="na"/>
+		<county iso3166="KZ" name="Kazakhstan" localeId="ru" clusterId="ru"/>
+		<county iso3166="LA" name="Lao People's Democratic Republic" localeId="" clusterId=""/>
+		<county iso3166="LB" name="Lebanon" localeId="" clusterId=""/>
+		<county iso3166="LC" name="Saint Lucia" localeId="" clusterId="na"/>
+		<county iso3166="LI" name="Liechtenstein" localeId="" clusterId="eu"/>
+		<county iso3166="LK" name="Sri Lanka" localeId="" clusterId=""/>
+		<county iso3166="LR" name="Liberia" localeId="" clusterId=""/>
+		<county iso3166="LS" name="Lesotho" localeId="" clusterId=""/>
+		<county iso3166="LT" name="Lithuania" localeId="" clusterId="eu"/>
+		<county iso3166="LU" name="Luxembourg" localeId="" clusterId="eu"/>
+		<county iso3166="LV" name="Latvia" localeId="" clusterId="eu"/>
+		<county iso3166="LY" name="Libya" localeId="" clusterId=""/>
+		<county iso3166="MA" name="Morocco" localeId="" clusterId=""/>
+		<county iso3166="MC" name="Monaco" localeId="fr" clusterId="eu"/>
+		<county iso3166="MD" name="Moldova, Republic of" localeId="ru" clusterId="ru"/>
+		<county iso3166="ME" name="Montenegro" localeId="" clusterId="eu"/>
+		<county iso3166="MF" name="Saint Martin (French part)" localeId="" clusterId="na"/>
+		<county iso3166="MG" name="Madagascar" localeId="" clusterId=""/>
+		<county iso3166="MH" name="Marshall Islands" localeId="" clusterId="na"/>
+		<county iso3166="MK" name="Macedonia, the former Yugoslav Republic of" localeId="" clusterId="eu"/>
+		<county iso3166="ML" name="Mali" localeId="" clusterId=""/>
+		<county iso3166="MM" name="Myanmar" localeId="" clusterId=""/>
+		<county iso3166="MN" name="Mongolia" localeId="" clusterId=""/>
+		<county iso3166="MO" name="Macao" localeId="" clusterId=""/>
+		<county iso3166="MP" name="Northern Mariana Islands" localeId="" clusterId="na"/>
+		<county iso3166="MQ" name="Martinique" localeId="" clusterId="na"/>
+		<county iso3166="MR" name="Mauritania" localeId="" clusterId=""/>
+		<county iso3166="MS" name="Montserrat" localeId="" clusterId="na"/>
+		<county iso3166="MT" name="Malta" localeId="" clusterId="eu"/>
+		<county iso3166="MU" name="Mauritius" localeId="" clusterId=""/>
+		<county iso3166="MV" name="Maldives" localeId="" clusterId=""/>
+		<county iso3166="MW" name="Malawi" localeId="" clusterId=""/>
+		<county iso3166="MX" name="Mexico" localeId="es" clusterId="na"/>
+		<county iso3166="MY" name="Malaysia" localeId="" clusterId=""/>
+		<county iso3166="MZ" name="Mozambique" localeId="" clusterId=""/>
+		<county iso3166="NA" name="Namibia" localeId="" clusterId=""/>
+		<county iso3166="NC" name="New Caledonia" localeId="" clusterId="na"/>
+		<county iso3166="NE" name="Niger" localeId="" clusterId=""/>
+		<county iso3166="NF" name="Norfolk Island" localeId="" clusterId="na"/>
+		<county iso3166="NG" name="Nigeria" localeId="" clusterId=""/>
+		<county iso3166="NI" name="Nicaragua" localeId="" clusterId="na"/>
+		<county iso3166="NL" name="Netherlands" localeId="" clusterId="eu"/>
+		<county iso3166="NO" name="Norway" localeId="" clusterId="eu"/>
+		<county iso3166="NP" name="Nepal" localeId="" clusterId=""/>
+		<county iso3166="NR" name="Nauru" localeId="" clusterId="na"/>
+		<county iso3166="NU" name="Niue" localeId="" clusterId="na"/>
+		<county iso3166="NZ" name="New Zealand" localeId="" clusterId="na"/>
+		<county iso3166="OM" name="Oman" localeId="" clusterId=""/>
+		<county iso3166="PA" name="Panama" localeId="" clusterId="na"/>
+		<county iso3166="PE" name="Peru" localeId="" clusterId="na"/>
+		<county iso3166="PF" name="French Polynesia" localeId="" clusterId="na"/>
+		<county iso3166="PG" name="Papua New Guinea" localeId="" clusterId="na"/>
+		<county iso3166="PH" name="Philippines" localeId="" clusterId="na"/>
+		<county iso3166="PK" name="Pakistan" localeId="" clusterId=""/>
+		<county iso3166="PL" name="Poland" localeId="pl" clusterId="eu"/>
+		<county iso3166="PM" name="Saint Pierre and Miquelon" localeId="fr" clusterId="na"/>
+		<county iso3166="PN" name="Pitcairn" localeId="" clusterId="na"/>
+		<county iso3166="PR" name="Puerto Rico" localeId="" clusterId="na"/>
+		<county iso3166="PS" name="Palestine, State of" localeId="" clusterId=""/>
+		<county iso3166="PT" name="Portugal" localeId="" clusterId="eu"/>
+		<county iso3166="PW" name="Palau" localeId="" clusterId="na"/>
+		<county iso3166="PY" name="Paraguay" localeId="" clusterId=""/>
+		<county iso3166="QA" name="Qatar" localeId="" clusterId=""/>
+		<county iso3166="RE" name="Réunion" localeId="" clusterId=""/>
+		<county iso3166="RO" name="Romania" localeId="" clusterId="eu"/>
+		<county iso3166="RS" name="Serbia" localeId="" clusterId="eu"/>
+		<county iso3166="RU" name="Russian Federation" localeId="ru" clusterId="ru"/>
+		<county iso3166="RW" name="Rwanda" localeId="" clusterId=""/>
+		<county iso3166="SA" name="Saudi Arabia" localeId="" clusterId=""/>
+		<county iso3166="SB" name="Solomon Islands" localeId="" clusterId="na"/>
+		<county iso3166="SC" name="Seychelles" localeId="" clusterId=""/>
+		<county iso3166="SD" name="Sudan" localeId="" clusterId=""/>
+		<county iso3166="SE" name="Sweden" localeId="" clusterId="eu"/>
+		<county iso3166="SG" name="Singapore" localeId="" clusterId=""/>
+		<county iso3166="SH" name="Saint Helena, Ascension and Tristan da Cunha" localeId="" clusterId=""/>
+		<county iso3166="SI" name="Slovenia" localeId="" clusterId="eu"/>
+		<county iso3166="SJ" name="Svalbard and Jan Mayen" localeId="" clusterId="eu"/>
+		<county iso3166="SK" name="Slovakia" localeId="" clusterId=""/>
+		<county iso3166="SL" name="Sierra Leone" localeId="" clusterId=""/>
+		<county iso3166="SM" name="San Marino" localeId="it" clusterId="eu"/>
+		<county iso3166="SN" name="Senegal" localeId="" clusterId=""/>
+		<county iso3166="SO" name="Somalia" localeId="" clusterId=""/>
+		<county iso3166="SR" name="Suriname" localeId="" clusterId=""/>
+		<county iso3166="SS" name="South Sudan" localeId="" clusterId=""/>
+		<county iso3166="ST" name="Sao Tome and Principe" localeId="" clusterId=""/>
+		<county iso3166="SV" name="El Salvador" localeId="es" clusterId="na"/>
+		<county iso3166="SX" name="Sint Maarten (Dutch part)" localeId="" clusterId="na"/>
+		<county iso3166="SY" name="Syrian Arab Republic" localeId="" clusterId=""/>
+		<county iso3166="SZ" name="Swaziland" localeId="" clusterId=""/>
+		<county iso3166="TC" name="Turks and Caicos Islands" localeId="" clusterId="na"/>
+		<county iso3166="TD" name="Chad" localeId="" clusterId=""/>
+		<county iso3166="TF" name="French Southern Territories" localeId="" clusterId=""/>
+		<county iso3166="TG" name="Togo" localeId="" clusterId=""/>
+		<county iso3166="TH" name="Thailand" localeId="" clusterId=""/>
+		<county iso3166="TJ" name="Tajikistan" localeId="" clusterId="ru"/>
+		<county iso3166="TK" name="Tokelau" localeId="" clusterId="na"/>
+		<county iso3166="TL" name="Timor-Leste" localeId="" clusterId="na"/>
+		<county iso3166="TM" name="Turkmenistan" localeId="" clusterId="ru"/>
+		<county iso3166="TN" name="Tunisia" localeId="" clusterId=""/>
+		<county iso3166="TO" name="Tonga" localeId="" clusterId="na"/>
+		<county iso3166="TR" name="Turkey" localeId="" clusterId="eu"/>
+		<county iso3166="TT" name="Trinidad and Tobago" localeId="" clusterId="na"/>
+		<county iso3166="TV" name="Tuvalu" localeId="" clusterId="na"/>
+		<county iso3166="TW" name="Taiwan, Province of China" localeId="" clusterId=""/>
+		<county iso3166="TZ" name="Tanzania, United Republic of" localeId="" clusterId=""/>
+		<county iso3166="UA" name="Ukraine" localeId="ru" clusterId="ru"/>
+		<county iso3166="UG" name="Uganda" localeId="" clusterId=""/>
+		<county iso3166="UM" name="United States Minor Outlying Islands" localeId="" clusterId="na"/>
+		<county iso3166="US" name="United States" localeId="en" clusterId="na"/>
+		<county iso3166="UY" name="Uruguay" localeId="es" clusterId="na"/>
+		<county iso3166="UZ" name="Uzbekistan" localeId="" clusterId="ru"/>
+		<county iso3166="VA" name="Holy See (Vatican City State)" localeId="" clusterId="eu"/>
+		<county iso3166="VC" name="Saint Vincent and the Grenadines" localeId="" clusterId="na"/>
+		<county iso3166="VE" name="Venezuela, Bolivarian Republic of" localeId="" clusterId="na"/>
+		<county iso3166="VG" name="Virgin Islands, British" localeId="" clusterId="na"/>
+		<county iso3166="VI" name="Virgin Islands, U.S." localeId="" clusterId="na"/>
+		<county iso3166="VN" name="Viet Nam" localeId="" clusterId=""/>
+		<county iso3166="VU" name="Vanuatu" localeId="" clusterId="na"/>
+		<county iso3166="WF" name="Wallis and Futuna" localeId="" clusterId="na"/>
+		<county iso3166="WS" name="Samoa" localeId="" clusterId="na"/>
+		<county iso3166="YE" name="Yemen" localeId="" clusterId=""/>
+		<county iso3166="YT" name="Mayotte" localeId="" clusterId=""/>
+		<county iso3166="ZA" name="South Africa" localeId="" clusterId=""/>
+		<county iso3166="ZM" name="Zambia" localeId="" clusterId=""/>
+		<county iso3166="ZW" name="Zimbabwe" localeId="" clusterId=""/>
+	</countiesList>
+</localization>

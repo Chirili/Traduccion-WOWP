@@ -1,0 +1,5045 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator:  <>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_2PA-L"
+msgstr ""
+"Developed on the basis of the P-35 as a two-seat bomber escort fighter. "
+"Never entered service despite good flight performance."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_A-26B"
+msgstr ""
+"Developed as an attack bomber to replace the Douglas A-20 Havoc serving the "
+"U.S. Air Force. The A-26B was the first aircraft in the series to enter mass "
+"production. A significant number of modifications were built based on the "
+"A-26B."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_A4N"
+msgstr ""
+"Used widely during the Second Sino-Japanese War. The last biplane designed "
+"by Nakajima."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_A5M"
+msgstr ""
+"The first monoplane carrier-based fighter adopted by the Imperial Japanese "
+"Navy Air Service. Successfully used during the Second Sino-Japanese War."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_A6M1"
+msgstr ""
+"Early prototypes of the famous A6M Zero were equipped with Zuisei engines. "
+"First flew in April 1939."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_A6M2"
+msgstr ""
+"Early in the Pacific War, the A6M was the world's most capable carrier-based "
+"fighter, which gave Japan air superiority."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_A6M3-30"
+msgstr ""
+"Several A6M3 were experimentally fitted with 30 mm Type 2 autocannon. "
+"However, the trials revealed that the recoil of the 30 mm autocannon was too "
+"strong. As a result, the intention to equip the mass-produced A6M with this "
+"autocannon was abandoned."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_A6M5"
+msgstr ""
+"This modification of the A6M confronted Allied fighters until the final days "
+"of WWII. A total of 10,449 aircraft of all variants were produced."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_A7M"
+msgstr ""
+"Developed in 1942–1945 for the Imperial Japanese Navy as a successor to the "
+"A6M. Only 8 prototypes were produced and tested by the end of the war."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_AD10"
+msgstr ""
+"Development of this two-seat fighter with the tandem wing configuration was "
+"started by the Arsenal company in 1939. The prototype was completed during "
+"the occupation of France. The aircraft was tested in the summer of 1941, but "
+"it was decided not to put it into mass production."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_AO192"
+msgstr ""
+"An armed scout aircraft developed during creation of the light transport "
+"aircraft Ao 192 CA. No prototype was built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_AR-197"
+msgstr ""
+"The last German biplane fighter. Designed for naval operations for the never-"
+"completed aircraft carrier Graf Zeppelin."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_AR-2"
+msgstr ""
+"A drastic modification of the SB bomber built with the aim of improving its "
+"combat performance. First flew in 1940. A total of about 200 aircraft were "
+"built and saw combat along with the SB."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_AR-67"
+msgstr ""
+"Developed to replace the Ar 65. First flew in the fall of 1933. Being "
+"outperformed by the competing Ar 68, it never entered service."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_AR65"
+msgstr ""
+"Biplane fighter of the 1930s. Used mainly as a trainer in Luftwaffe flight "
+"schools."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_AR68"
+msgstr ""
+"The last biplane to enter service with the Luftwaffe. Used as a night "
+"fighter in Spain and in the initial period of World War II."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_AR80"
+msgstr ""
+"Lightweight fighter constructed in 1934 according to the specifications "
+"provided by the Luftwaffe Operational Headquarters."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_ATTACKER"
+msgstr ""
+"The first British carrier-based jet fighter, which first flew in July 1946. "
+"A total of 185 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_AVIA_B-534"
+msgstr ""
+"The main Czechoslovakian fighter of the 1930s. Later, the Luftwaffe, Slovak, "
+"and Bulgarian Air Forces also used these aircraft. It was last used for a "
+"military operation during the Slovak National Uprising in 1944."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_AVIA_BK-534"
+msgstr ""
+"A modification of the serial B-534 fighter with more powerful weapons. Due "
+"to the lack of 20 mm autocannons, only a small part of the Bk-534 was "
+"equipped with them regularly."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_B-17D"
+msgstr ""
+"The B-17D modification was developed in February 1941. Most of these bombers "
+"were sent to the U.S. air bases in the Pacific, where the beginning of the "
+"war with Japan found them."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_B-17G"
+msgstr ""
+"The most mass-produced version of the Flying Fortress with significantly "
+"enhanced defensive armament. Extensively used in the strategic bombing "
+"campaign against Germany."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_B-32"
+msgstr ""
+"Designed to the same specifications as the well-known B-29 Superfortress. "
+"However, the development of the B-32 was slow due to technical issues. Saw "
+"limited action during raids on Japan before the end of the war."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BA-27"
+msgstr ""
+"Designed as a high-speed monoplane fighter for the Italian Air Force, the "
+"Ba.27M was not accepted into service and so was offered for export. Employed "
+"by the Chinese Air Force during the Second Sino-Japanese War."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BEAUFIGHTER-F"
+msgstr ""
+"First flew in July 1939. Used as a long-range fighter and night fighter. A "
+"total of 5,928 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BEAUFIGHTER-V-IM"
+msgstr "A modification of the Beaufighter V inspired by Iron Maiden."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BF-109E-3"
+msgstr ""
+"The most widely produced version of the Bf 109 E that was extensively used "
+"in the French campaign in 1940 and the Battle of Britain. A total of 1,868 "
+"aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BF-109F"
+msgstr ""
+"Developed in 1940, the Bf 109 F outperformed the earlier Bf 109 E due to "
+"lighter armament, improved aerodynamics, and a more powerful engine."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BF-110C-6"
+msgstr ""
+"Modification of the serial Bf 110 equipped with a 30 mm MK-101 antitank "
+"cannon. A total of 12 aircraft were produced during May–July 1940."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BF-209V"
+msgstr ""
+"Blueprint created on the basis of the record-setting Me 209. The project was "
+"discontinued due to difficulties in maintenance of the uprated engine."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BF109"
+msgstr ""
+"The most widely produced model of the Messerschmitt fighter. Used in all "
+"theaters of war."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BF109C"
+msgstr ""
+"The winner of the contest to become the principal fighter aircraft with the "
+"Luftwaffe. Early modifications were used in Spain and in the initial period "
+"of World War II."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BF109E"
+msgstr ""
+"Modification of the Messerschmitt fighter created after military operations "
+"in Spain. Extensively used by the Luftwaffe and the air forces of German "
+"allies."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BF109TL"
+msgstr ""
+"Blueprint created on the basis of the Bf 109 featuring a jet engine. "
+"Presented in January 1943 as a \"backup\" for the Me 262. The project was "
+"discontinued."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BF109Z"
+msgstr ""
+"Heavy fighter-bomber incorporating two fuselages of the Bf 109. The only "
+"prototype was destroyed in an Allied bombing raid."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BF110B"
+msgstr ""
+"Created as a \"strategic fighter,\" a concept popular in the interwar "
+"period. Successfully used in campaigns in Poland, France, and Norway."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BF110E"
+msgstr ""
+"A forced upgrade of the 110 by the Messerschmitt company due to the failed "
+"creation of the Me 210. Used both offensively and as a night fighter."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BF209A1"
+msgstr ""
+"Originally designed to reach a higher top speed record. Later improved on to "
+"become a full-featured fighter to replace the Bf 109. Never entered mass "
+"production."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BLENHEIM-F"
+msgstr ""
+"Modification of the Blenheim bomber into a long-range fighter or night "
+"fighter. A total of 60 aircraft were modified."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BLENHEIM-IV"
+msgstr ""
+"Developed by the Bristol company as Type 149. Featured a lengthened nose, "
+"which provided more comfortable conditions for a navigator. The first "
+"several Blenheim Mk.IVs inherited the defensive armament of the Blenheim Mk."
+"I."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BOOMERANG"
+msgstr ""
+"Fighter designed and produced in Australia based on the CA-1 Wirraway. A "
+"total of 250 aircraft were built in 1942–1945."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BRISTOL-TYPE-105"
+msgstr ""
+"Served in the British Royal Air Force in 1929–1937. A total of 443 aircraft "
+"were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BRISTOL-TYPE-133"
+msgstr ""
+"Underwent trials in the summer of 1934. The first aircraft with retractable "
+"landing gear proposed to the Royal Air Force."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BRISTOL-TYPE-146"
+msgstr ""
+"Went through trials in 1938 as a new fighter for the Royal Air Force, but "
+"was considered inferior to the Hawker Hurricane and Supermarine Spitfire."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BSH-1"
+msgstr ""
+"In 1936, the Soviet Union purchased from the U.S. a production license for "
+"the Vultee V-11 attack bomber. Redesigned as the BSh-1, it underwent trials "
+"in 1937–1939."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BSH-2"
+msgstr ""
+"Single-seat heavily armored attack aircraft. Prototype model of the IL-2, "
+"which first flew on 12 October 1940."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BV-P203"
+msgstr ""
+"Project for a long-range interceptor with the envisaged ability to reach "
+"high speed in combat by using additional engines. The development was "
+"discontinued due to the end of the war."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BV-P210"
+msgstr ""
+"Designed as part of the project for a mass-produced and low-cost jet-powered "
+"\"people's fighter\". The concept and appearance of the aircraft were "
+"defined in September 1944, but the prototype was never built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BV-P212-03"
+msgstr ""
+"The BV P.212 was designed as part of the Luftwaffe's Emergency Fighter "
+"Program. Several concepts were developed. The BV P.212.03 version was "
+"selected as final. The first prototype was to make its first flight in the "
+"summer of 1945."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BV-P215-02"
+msgstr ""
+"Designed based on the BV P.212 concept. In March 1945, the Luftwaffe "
+"approved the project and recommended the construction of a prototype. "
+"However, by the end of World War II, only theoretical calculations for the "
+"new aircraft specifications were made."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_CR714"
+msgstr ""
+"Developed on the basis of the racing aircraft. Used during the French "
+"campaign of 1940. A total of about 90 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_D-H-103"
+msgstr ""
+"First flew in July 1944. A total of 383 aircraft of various modifications "
+"were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_D-H-98"
+msgstr ""
+"Widely used in various roles, including as a long-range fighter, night "
+"fighter, and fighter-bomber. A total of 7,781 aircraft of various "
+"modifications were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_DEMON"
+msgstr ""
+"Fighter version of the Hawker Hart light bomber. First flew in 1933. A total "
+"of 305 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_DI-6"
+msgstr ""
+"Developed as a two-seat multirole fighter capable of engaging single-seat "
+"fighters in maneuvering combat. Its first flight took place in September "
+"1934. The aircraft did not see active combat service. A total of 223 "
+"modifications of the DI-6 were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_DO-17Z"
+msgstr ""
+"Developed on the basis of the Do 17 Z bomber as a heavy night fighter. "
+"Featured more powerful weapons and reduced bomb load."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_DO-17Z-2"
+msgstr ""
+"The last and most advanced version of the Do 17 bomber. The prototype first "
+"took to the air in March 1938. It featured an absolutely new cockpit design, "
+"new engines, and enhanced defensive armament. A total of roughly 500 Do 17 Z "
+"aircraft in several versions were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_DO-217M"
+msgstr ""
+"The Do 217 M was a variant of the mass-produced Do 217 K with the DB 603 "
+"engine instead of the BMW 801 that was in great demand for fighters. Both "
+"bomber variants were used mainly on the Western Front."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_DO-335A1"
+msgstr ""
+"Developed as a high-speed heavy fighter-bomber. The prototype first took to "
+"the air on October 26, 1943. A series of about 12 Do 335 A-1s were built by "
+"the end of World War II."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_EF-131"
+msgstr ""
+"Before the capitulation of Germany in the war, the Junkers company managed "
+"to partially prepare the project documentation for the development of the Ju "
+"287 V3 design. Further development was carried out with the participation of "
+"German designers, but already as part of the Soviet OKB-1 work. Only a "
+"single prototype was built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_F-15C"
+msgstr ""
+"Prototype model of a mixed-power fighter. A total of 3 aircraft were built. "
+"Never entered service."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_F-84B"
+msgstr ""
+"Developed to replace the P-47 Thunderbolt fighters serving in the U.S. Air "
+"Force. First flew in February 1946. Successfully used as a fighter-bomber "
+"during the Korean War."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_F-84F"
+msgstr ""
+"A swept wing version of the F-84E featuring a new engine. First flew in June "
+"1950. A total of 2,711 F-84Fs were built as a fighter version."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_F11C"
+msgstr ""
+"Carrier-based fighter-bomber. A total of 28 aircraft were built for the U.S. "
+"Navy from 1932 through 1933. Exported as the Hawk II."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_F2A"
+msgstr ""
+"Exported to the Royal Air Force, Royal Netherlands Air Force, and Finnish "
+"Air Force. Used in the initial period of the Pacific War."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_F2A-1"
+msgstr ""
+"Early version of the F2A Buffalo. A total of 11 aircraft of this "
+"modification were built for the U.S. Navy."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_F2F"
+msgstr ""
+"Developed as a one-seat modification of the successful two-seat carrier-"
+"based Grumman FF-1 fighter. By September 1940 all F2Fs were converted into "
+"trainer aircraft."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_F2G"
+msgstr ""
+"Super Corsair, a high-speed modification of the famous F4U. Achieved fame as "
+"a trophy-winning air racer after World War II."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_F2H"
+msgstr ""
+"First flew in January 1947. Used during the Korean War. A total of 895 "
+"aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_F3F"
+msgstr ""
+"One of the best biplane fighters of the 1930s. Served through the end of "
+"1941."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_F4F"
+msgstr ""
+"The best U.S. carrier-based fighter at the start of the war with Japan. Used "
+"from the outset through the end of the war."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_F4U"
+msgstr ""
+"One of the most widely produced United States Navy fighters of World War II. "
+"Used in both carrier- and land-based operations."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_F4U-4"
+msgstr ""
+"A further modification of the F4U. Used extensively in World War II against "
+"Japan and the Korean War. A total of 2,557 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_F5U"
+msgstr ""
+"Experimental U.S. Navy fighter with unique configuration. Never saw combat "
+"due to the introduction of jet-powered aircraft."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_F6U"
+msgstr ""
+"The first jet-powered U.S. Navy fighter to feature an afterburner and "
+"composite construction. Entered serial production, but never saw combat."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_F7F"
+msgstr ""
+"Designed as a heavy carrier-based fighter for the U.S. Pacific Fleet. First "
+"flew in November 1943. A total of 364 aircraft were produced."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_F7U"
+msgstr ""
+"Carrier-based U.S. Navy fighter of the postwar period. Notable design "
+"features include no horizontal stabilizer, two engines, and twin rudders."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_F86A"
+msgstr ""
+"One of the most famous postwar jet fighters. Used by U.S. Air Force during "
+"the Korean War."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_F90"
+msgstr ""
+"Designed as an air defense penetration fighter. First flew in June 1949. "
+"Never entered service."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_F94"
+msgstr ""
+"Prototype built on the basis of the F-94B fighter and used as a test "
+"platform for various armament configurations. Never entered mass production."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_FANTOME"
+msgstr ""
+"Developed for export to the Belgian Air Force. A total of 4 prototypes were "
+"built and underwent trials in Great Britain, Belgium, and the U.S.S.R."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_FI-98"
+msgstr ""
+"Designed for close support of ground forces. The only completed prototype "
+"underwent trials in 1935. Never entered mass production."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_FJ1"
+msgstr ""
+"First operational U.S. Navy carrier-based jet fighter. Later became the "
+"basis for the famous F-86."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_FL-1"
+msgstr ""
+"Prototype carrier-based variant of the P-39 Airacobra, which first flew in "
+"May 1940. Tested as a new fighter for the U.S. Navy, but was considered "
+"inferior to the F4U Corsair."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_FW-159"
+msgstr ""
+"Designed and tested in 1935 as a new fighter for the Luftwaffe, but was "
+"considered inferior to the He 112 and Bf 109. Two prototypes were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_FW-189C"
+msgstr ""
+"Armored attack aircraft based on the famous Fw 189 reconnaissance aircraft. "
+"Several prototypes underwent trials in 1939–1940."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_FW-190A1"
+msgstr ""
+"Developed in 1939 as an alternative to the Bf 109 that served in the "
+"Luftwaffe. The Fw 190 entered mass production in 1941."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_FW-190A5"
+msgstr ""
+"A further modification of the Fw 190 featuring heavier armament and a more "
+"powerful engine. Entered service in the spring of 1943. Used extensively as "
+"a multirole fighter."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_FW-190A8"
+msgstr ""
+"Version of the most widely-manufactured modification of the Fw 190 featuring "
+"more powerful wing-mounted weapons. Saw mass production."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_FW-190D"
+msgstr ""
+"The Fw 190 D modification entered service in the fall of 1944. It proved to "
+"be one of the best German fighters during the last stages of the war."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_FW-252"
+msgstr ""
+"Designed as a new fighter featuring better flight performance compared to "
+"the Ta 183. Further development was discontinued as the war had ended."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_FW56"
+msgstr ""
+"One of the first designs of a fighter aircraft for the reviving Luftwaffe. "
+"The aircraft featured a parasol wing."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_FW57"
+msgstr ""
+"Twin-engine heavy fighter. One of the first Zerstörer concepts developed for "
+"the Luftwaffe."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_GLOSTER-JAVELIN"
+msgstr ""
+"All-weather interceptor, which first flew in November 1951. A total of 436 "
+"aircraft of various modifications were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_GLOSTER-P-228"
+msgstr ""
+"Project for a new two-seat night fighter. The development was discontinued "
+"during the design phase."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_GOLDFINCH"
+msgstr ""
+"Developed in early 1926 as an all-metal version of the Gamecock fighter. "
+"Never entered service."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_HA-137"
+msgstr ""
+"Developed in 1935–1936 in Germany to provide close air support for ground "
+"forces. Never entered service. A total of 6 prototypes were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_HA-137V1"
+msgstr ""
+"The initial prototype of Blohm und Voss Ha 137, first flown in April 1935. "
+"As the main difference from later modifications, it was equipped with the "
+"BMW 132 engine."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_HAWK-2"
+msgstr ""
+"An export variant of the F11C fighter. Used extensively during the Second "
+"Sino-Japanese War. Some of the aircraft were produced directly in China."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_HAWK-3"
+msgstr ""
+"An export version of the Curtiss BF2C-1. A total of 137 aircraft were built "
+"for the Air Forces of China, Argentina, Turkey, and Thailand. Licensed for "
+"production in China."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_HAWK75"
+msgstr ""
+"An export variant of the Model 75 aircraft. Used by the air forces of "
+"various countries throughout the world."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_HE-100"
+msgstr ""
+"Developed in the prewar period as an alternative to Messerschmitt fighters. "
+"Vied for the world speed record. Never entered service."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_HE-111H-2"
+msgstr ""
+"A modification of one of the most well-known German World War II bombers. "
+"The He 111 H-2 entered mass production in September 1939. This aircraft "
+"differed from the early Не 111 in the engines and enhanced defensive "
+"armament. Over 500 aircraft of the H-2 series were produced."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_HE-112"
+msgstr ""
+"Developed and tested in 1935 as a new fighter for the Luftwaffe. Exported to "
+"Spain, Japan, Hungary, and Romania. A total of 100 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_HE-51"
+msgstr ""
+"Developed in 1933 as a successor to the Ar 65 for the Luftwaffe. Used during "
+"the Spanish Civil War. A total of 700 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_HO-229"
+msgstr ""
+"Reimar and Walter Horten's “flying wing” project, also known as H IX. It was "
+"supposed to be mass-produced at the Gotha plant, but before the end of the "
+"war only a few prototypes were made, some of which fell into the hands of "
+"the Allied forces."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_HS-123"
+msgstr ""
+"First flew in May 1935. Successfully used for close air support during the "
+"Spanish Civil War and World War II. A total of about 260 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_HS-129"
+msgstr ""
+"Armored attack aircraft first flown in May 1939. A total of 865 aircraft of "
+"all modifications were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_HS-129A"
+msgstr ""
+"Early version of the armored Hs 129 attack aircraft fitted with Argus "
+"engines. A small series of aircraft was used mainly for pilot training."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_HUNTER"
+msgstr ""
+"Developed by the Hawker Aircraft company based on the experience gained when "
+"designing the Sea Hawk. The prototype first took to the air in July 1951. In "
+"1953, the Hawker Hunter entered mass production. It was exported to various "
+"countries and saw combat service in a range of conflicts in the latter half "
+"of the 20th century."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_HURRICANE-I"
+msgstr ""
+"The main British fighter type of early World War II. The prototype first "
+"flew in November 1935. Widely used in the French campaign in 1940 and "
+"massively used in the Battle of Britain."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_HURRICANE-IA"
+msgstr ""
+"The Hawker Hurricane fighter of the No. 303 Polish Fighter Squadron in the "
+"Royal Air Force. The squadron was actively involved in the Battle of "
+"Britain, claiming to have destroyed 126 German aircraft."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_HURRICANE-II"
+msgstr ""
+"The Hurricane Mk II entered service in 1940. Compared to the early fighter "
+"variants, it was equipped with a more powerful engine, and its armament was "
+"gradually enhanced. This modification remained in production until 1944 and "
+"was also built in Canada."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_HURRICANE-IID"
+msgstr ""
+"Developed in 1941 as a specialized anti-tank aircraft on the basis of the "
+"Hawker Hurricane fighter."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I-153-DM-4"
+msgstr ""
+"In October 1940, the mass-produced I-153 was experimentally fitted with "
+"auxiliary ramjet DM-4 engines. During the trials, a significant increase in "
+"the top speed was achieved. However, it was decided to continue work on the "
+"ramjet engines on newer types of aircraft."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I-15BIS-DM2"
+msgstr ""
+"Modification of the serial I-15 with ramjet engines for better climbing "
+"performance. Tested in 1939–1940."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I-16-29"
+msgstr ""
+"Last mass-produced modification of the Polikarpov I-16. First flew in 1940. "
+"The main difference from its predecessors was it had no guns in the wings, "
+"but carried a synchronized large-caliber machine gun."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I-17"
+msgstr ""
+"Developed in 1934–1937, but never entered service due to lack of advantage "
+"over the mass-produced I-16. Only prototypes were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I-180"
+msgstr ""
+"Third prototype of the I-180 fighter. Unlike its predecessors, the I-180-3 "
+"was equipped with weapons and engine intended by the design. The aircraft "
+"was viewed as a preproduction model, but the project was abandoned due to "
+"the cancelation of the I-180."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I-207-4"
+msgstr ""
+"The last developed version of the I-207 fighter. The aircraft was supposed "
+"to have the properties of both high-speed monoplanes and maneuverable "
+"biplanes. The prototype was built by the spring of 1941, but the project was "
+"discontinued."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I-21"
+msgstr ""
+"Project for a high-speed fighter equipped with an M-34 engine featuring an "
+"evaporative cooling system. Flight trials were never completed."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I-210"
+msgstr ""
+"A modification of the MiG-3 featuring a radial air-cooled engine. A total of "
+"5 aircraft were built and remained in service until 1944."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I-211"
+msgstr ""
+"Development started in 1946. The prototype first flew on September 5, 1947. "
+"The concept of the aircraft was constantly improved. The further development "
+"of the project resulted in the creation of the I-215."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I-215"
+msgstr ""
+"Designed on the basis of the I-211 with changes made to the engines and "
+"weapon mix. Never entered service due to the decision to concentrate the "
+"development of fighters in the Mikoyan and Yakovlev design bureau."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I-220"
+msgstr ""
+"High-altitude fighter designed for maneuvering combat. During development, "
+"the I-220 was tested with different types of engines. Several prototypes "
+"were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I-250"
+msgstr ""
+"Experimental mixed-power fighter fitted with both jet and piston engines. "
+"Several prototypes were produced in 1945-1946. Never entered service."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I-260"
+msgstr ""
+"Blueprint created on the basis of German BMW 003 engines. Some of its "
+"concepts were later employed in the MiG-9 design."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I-302P"
+msgstr ""
+"Fighter powered by a liquid fuel rocket and ramjet engines whose design was "
+"first proposed in 1940. The aircraft was developed in 1942–1944. A glider "
+"prototype was built. The project was discontinued in 1944, because the "
+"engines were not ready for production."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I-5SHKAS"
+msgstr ""
+"To increase firepower, the PV-1 machine guns on some of the I-5 fighters "
+"were replaced by the ShKAS, which had higher rate of fire."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I-7"
+msgstr ""
+"Developed in Germany by the Heinkel firm under the designation HD-37. Saw "
+"mass production in the U.S.S.R. as the I-7."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I15"
+msgstr ""
+"Early 1930s high specification biplane fighter. Saw extensive action in "
+"conflicts beyond the borders of the U.S.S.R."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I16-24"
+msgstr ""
+"Modification of the I-16 featuring more powerful weapons and improved "
+"performance."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I16-5"
+msgstr ""
+"Developed in the early 1930s as a high-speed fighter. Used in Spain in 1936, "
+"during the Battles of Khalkhyn Gol in 1939, and through World War II."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I5"
+msgstr ""
+"One of the main fighter aircraft of the Red Army Air Force in the early "
+"1930s. Used during World War II on a limited basis."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_IL-1"
+msgstr ""
+"Designed as an armored low- and mid-altitude fighter capable of engaging "
+"enemy aircraft in a maneuvering combat. The project was discontinued due to "
+"the achievement of air superiority by the Soviet Air Force in 1944."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_IL-10M"
+msgstr ""
+"A modification of the IL-10 featuring greater firepower and improved "
+"handling, the IL-10M went into mass production."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_IL-2MOD"
+msgstr ""
+"During frontline trials, several attempts were made to modify the IL-2 by "
+"adding a rear gunner position."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_IL-40P"
+msgstr ""
+"Developed on the basis of the IL-40 with major construction faults "
+"corrected. A total of 7 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_IL10"
+msgstr ""
+"A drastic modification of the IL-2 developed in 1944. Used in the final "
+"stages of World War II and during the Korean War."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_IL2"
+msgstr ""
+"This well-armored attack aircraft became a legend of the Soviet Air Force. "
+"Early models of the IL-2 lacked a rear gunner."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_IL20"
+msgstr ""
+"Experimental attack aircraft. It featured a wider visual field which allowed "
+"for better targeting. Never entered mass production."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_IL2X2"
+msgstr ""
+"A later version of the IL-2, configured with a rear gunner. Became the most "
+"widely produced attack aircraft of World War II."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_IL40"
+msgstr ""
+"Heavily armed and armored high-speed attack aircraft with tandem seating. "
+"Developed in 1953–1956."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_IL8"
+msgstr ""
+"A drastic modification of the IL-2 attack aircraft, it had much heavier "
+"armor to increase durability. Bomb capacity was also increased."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_J4M1"
+msgstr ""
+"Designed as a high-speed interceptor fighter. Delayed development made the "
+"Imperial Japanese Navy discontinue the project in favor of the J7W1."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_J7W1"
+msgstr ""
+"Interceptor designed to counter U.S. bombing raids on the Japanese islands. "
+"Only two prototypes were finished before the end of the war."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_J7W2"
+msgstr ""
+"Jet-powered version of the J7W1. Remained in blueprint form by the time of "
+"Japan's surrender."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_J7W3"
+msgstr ""
+"Blueprint of a further development of the J7W. The project was discontinued "
+"due to the surrender of Japan."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_J8M"
+msgstr ""
+"Rocket-powered interceptor based on German documentation. First flew in July "
+"1945. A total of 7 prototypes were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_JL-1"
+msgstr ""
+"Derived from the training aircraft JJ-1, it never went past the initial "
+"concept phase."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_JU-287"
+msgstr ""
+"The development of a high-speed jet bomber with a forward-swept wing was "
+"launched by the Junkers firm at the end of 1942. In August 1944, an "
+"experimental Ju 287 V1 took to the air, but only three prototypes were made "
+"before the end of the war."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_JU-288A"
+msgstr ""
+"It was created to replace the Ju 88 in the Luftwaffe under the Bomber B "
+"design competition. However, a number of technical problems and changes in "
+"requirements from the Ministry of Aviation (RLM) did not allow the model to "
+"be launched into production. Several pre-production prototypes were tested."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_JU-288C"
+msgstr ""
+"The development of the Ju 288 design, equipped with new engines and enhanced "
+"defensive armament. Due to the plight on the fronts and the subsequent "
+"cancellation of the Bomber B program, only a few pre-production prototypes "
+"were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_JU-52"
+msgstr ""
+"Designed by Ernst Zindel, the Ju 52 was the last Junkers' all-metal "
+"transport aircraft line, launched in 1919."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_JU-86E"
+msgstr ""
+"Due to problems with the diesel engines on the early Ju 86, it was decided "
+"to replace them with the radial BMW 132. The new modification—the Ju 86 E—"
+"served with the Luftwaffe until it was replaced by more advanced He 111 "
+"bombers."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_JU-87G"
+msgstr ""
+"Attack modification of the iconic Ju 87 Stuka dive bomber featuring enhanced "
+"armament and armor."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_JU-88A"
+msgstr ""
+"The most mass-produced modification of the Ju 88. Mass production started in "
+"March 1939, and by 1940–1941, the Ju 88 A became the main bomber type in the "
+"Luftwaffe. The aircraft was widely used on all fronts and was also supplied "
+"to the allies of Germany."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_JU-88P"
+msgstr ""
+"Anti-tank modification of the Ju 88 bomber. Several dozen aircraft equipped "
+"with different armament variants were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-10"
+msgstr ""
+"Last mass-produced biplane fighter used by the Japanese Army. First flew in "
+"March 1935. Saw combat in China and in the Soviet-Japanese conflict of "
+"Khalkhyn Gol. A total of about 600 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-102"
+msgstr ""
+"Developed in several versions to be used against both aerial and ground "
+"targets and to replace the Ki-45. Saw limited action before the end of the "
+"war."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-162-I"
+msgstr ""
+"In the spring of 1945 Germany provided the information about the Heinkel "
+"He 162 jet fighter to the Japanese. According to some sources, the "
+"development of a fighter with similar characteristics was started in Japan, "
+"but not even a model was completed by the end of World War II."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-162-III"
+msgstr ""
+"Due to the end of World War II, the Ki-162 project was not completed in "
+"combat-ready condition. Further development is only hypothetical based on "
+"the level of technology in Japan at that time."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-18"
+msgstr ""
+"Land modification of the A5M naval fighter. Underwent trials in 1935–1936 "
+"but never entered service, as the Japanese Army favored the Ki-10."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-27"
+msgstr ""
+"Developed to replace the Ki-10. The prototype first flew in October 1936. "
+"Saw combat in China, during the Battle of Khalkhyn Gol, and in the initial "
+"period of the Pacific War. A total of about 3,400 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-33"
+msgstr ""
+"Performed trials in 1936 as a new fighter for the Japanese Army. Two "
+"prototypes were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-43-I"
+msgstr ""
+"Developed by the Nakajima Aircraft Company to replace the Ki-27 in the "
+"Japanese Air Force. First aircraft entered service in the fall of 1941. A "
+"total of about 6,000 Ki-43s of various versions were built and used on all "
+"fronts until the end of World War II."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-43-IC"
+msgstr ""
+"Several Ki-43 aircraft were captured by the Chinese Nationalist Air Force "
+"and the Chinese Communist Air Force after Japan's defeat in the Pacific War. "
+"They were operated in China during the ongoing civil war."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-43-II"
+msgstr ""
+"Military use of the first Ki-43 models revealed that the fighter lacked "
+"firepower, survivability, and top speed. To correct these faults, the "
+"Nakajima Aircraft Company developed a new modification that remained in "
+"production until the end of World War II."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-45"
+msgstr ""
+"Developed as a long-range fighter for Southeast Asia and the Pacific. Saw "
+"combat from the summer of 1942 and was extensively used before the end of "
+"the war in the Japanese anti-aircraft defense to counter U.S. heavy bombers."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-5"
+msgstr ""
+"Designed in Japan under the guidance of German experts. A total of 4 "
+"prototypes were built and underwent trials in 1934."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-61"
+msgstr ""
+"First flew in December 1941. Different modifications of the Ki-61 were "
+"extensively used during the Pacific War from the early 1943 and through the "
+"final days of World War II. Over 3,000 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-8"
+msgstr ""
+"Designed for the Imperial Japanese Army Air Force in 1933–1935. A total of 5 "
+"prototypes were built. Never entered service."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-84"
+msgstr ""
+"Developed for the Japanese Air Force as a promising fighter based on the "
+"results of military use of the Ki-43 and Ki-61. The Ki-84 was considered the "
+"best mass-produced Japanese fighter during World War II. Over 3,500 aircraft "
+"were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-88"
+msgstr ""
+"Designed for the Imperial Japanese Army Air Force as a heavily armed "
+"interceptor. Development was discontinued during the prototype stage."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-93"
+msgstr ""
+"Designed to carry heavy cannon armament for fulfilling a wide range of "
+"combat missions. Only one prototype was built and took to the air only once."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-94-I"
+msgstr ""
+"Project for a high-speed fighter with heavy armament. A wooden mock-up was "
+"built by October 1943. However, the concept of the Ki-94-I was judged by the "
+"Japanese Army Air Force as too unconventional. The Tachikawa company was "
+"tasked to build an aircraft with a more conventional design. As a result, "
+"the Ki-94-II was created."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-94-II"
+msgstr ""
+"Project for a high-speed well-armed fighter developed by the Tachikawa "
+"Aircraft Company in 1943–1945. By the end of World War II only prototypes "
+"were built that never took to the air."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LA-11"
+msgstr ""
+"Developed on the basis of the La-9. Operated in the Chinese Civil War and in "
+"the Korean War. A total of 1,182 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LA-7"
+msgstr ""
+"A further development of the famous La-5 featuring enhanced aerodynamics. A "
+"total of 5,753 aircraft were produced from 1944 through 1945."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LA-9RD"
+msgstr ""
+"Developed on the basis of the mass-produced La-9 to explore the capabilities "
+"of ramjet engines. Several prototypes were produced and tested."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LA15"
+msgstr ""
+"Soviet jet-powered fighter aircraft of the first postwar generation. "
+"Produced in small numbers."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LA150"
+msgstr ""
+"The Lavochkin Design Bureau undertook development of this jet fighter well "
+"before the end of the war. Never entered mass production, although "
+"prototypes took part in public flyovers."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LA160"
+msgstr ""
+"The first Soviet jet fighter featuring a swept-wing layout. A prototype was "
+"displayed during a flyover in the summer of 1947, but the aircraft never saw "
+"mass production."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LA5FN"
+msgstr ""
+"A further development of the LaGG-3 featuring an air-cooled engine and "
+"enhanced aerodynamics."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LA9"
+msgstr ""
+"An all-metal fighter created on the basis of the La-7 featuring a wider "
+"combat radius and more powerful weapons. Used during the Korean War."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LAGG"
+msgstr ""
+"Fighter constructed of timber and designed as a high-speed aircraft in the "
+"prewar period. Used on all fronts until the end of the war."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LAGG-3-34"
+msgstr ""
+"Modification of the LaGG-3 fighter. Used extensively for destroying aerial "
+"and ground targets, including armored targets."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LAGG-3-4"
+msgstr ""
+"The LaGG-3 series 4 was fitted with a modified engine and carried more "
+"powerful armament compared to the early LaGG-3s. Extensively used in the "
+"initial period of World War II."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LBSH"
+msgstr ""
+"Developed as a high-speed two-seat attack aircraft with two prototypes "
+"produced."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LBSH_PR"
+msgstr ""
+"Developed as a high-speed two-seat attack aircraft with two prototypes "
+"produced."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_A5M"
+msgstr ""
+"The first monoplane carrier-based fighter adopted by the Imperial Japanese "
+"Navy Air Service. Successfully used during the Second Sino-Japanese War. "
+"Most remaining airframes were used for kamikaze attacks in the closing "
+"months of WWII."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_AR-67"
+msgstr ""
+"Developed as a successor to the Ar 65. First flew in the fall of 1933. Did "
+"not enter service due to better flight performance shown by the competing Ar "
+"68."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_ATTACKER"
+msgstr ""
+"The first British carrier-based jet fighter. The prototype first flew in "
+"July 1946, with a total of 185 aircraft being built. Used until the 1960s."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BEAUFIGHTER-F"
+msgstr ""
+"First flew in July 1939. The aircraft was used as a long-range fighter and "
+"night fighter. A total of 5,928 aircraft of various modifications were "
+"built. Some aircraft were used until 1960."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BF-109F"
+msgstr ""
+"Developed in 1940, the Bf 109 F outperformed the earlier Bf 109 E due to "
+"lighter armament, improved aerodynamics, and a more powerful engine. A total "
+"of 2,000 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BF-110C-6"
+msgstr ""
+"Modification of the serial Bf 110 equipped with the heavy 30 mm MK-101 "
+"antitank cannon. A small batch of twelve Bf 110 C-6 aircraft was produced in "
+"May–July 1940."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BF109TL"
+msgstr ""
+"Blueprint created on the basis of the Bf 109 featuring a jet engine. "
+"Presented in January 1943 as a \"backup\" for the Me 262. The project was "
+"discontinued due to the Me 262 successfully entering service."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BF110E"
+msgstr ""
+"A forced upgrade of the 110 by the Messerschmitt company due to the failed "
+"creation of the Me 210. Used both offensively and as an air defense night "
+"fighter."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BLENHEIM-F"
+msgstr ""
+"A fighter modification of the Bristol Blenheim bomber. Used as a long-range "
+"fighter and night fighter. A total of 60 aircraft were modified into "
+"fighters."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BOOMERANG"
+msgstr ""
+"The first combat aircraft designed and manufactured in Australia. Created on "
+"the basis of the CAC Wirraway. In 1942–1945, a total of 250 Boomerang "
+"fighters of several modifications were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BRISTOL-TYPE-105"
+msgstr ""
+"Served in the Royal Air Force from 1929-1937. A total of 443 aircraft were "
+"built, with some being exported to other countries. Used during the Spanish "
+"Civil War and during the war between Finland and the U.S.S.R. in 1939–1940."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BRISTOL-TYPE-133"
+msgstr ""
+"Underwent trials in the summer of 1934. The first aircraft with retractable "
+"landing gear proposed to the Royal Air Force. The only prototype to be tried "
+"as a new fighter was destroyed in a crash."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BRISTOL-TYPE-146"
+msgstr ""
+"First flew in February 1938. Underwent trials as a new fighter for the Royal "
+"Air Force, but was considered inferior to the Hawker Hurricane and the "
+"Supermarine Spitfire. One prototype was built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BSH-2"
+msgstr ""
+"Single-seat heavily armored attack aircraft. The prototype first flew on 12 "
+"October 1940. Further improvements resulted in the creation of the IL-2 "
+"attack aircraft."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_D-H-103"
+msgstr ""
+"Development of the well-proven De Havilland Mosquito concept. First flew in "
+"July 1944. A total of 383 aircraft of various modifications were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_D-H-98"
+msgstr ""
+"One of the most famous British aircraft of World War II. Extensively used as "
+"a long-range fighter, night fighter, and fighter-bomber. A total of 7,781 "
+"aircraft of various modifications were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_DEMON"
+msgstr ""
+"Fighter version of the Hawker Hart light bomber. First flew in February "
+"1933. A total of 305 aircraft were built. Never used in combat."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_DO-17Z"
+msgstr ""
+"A heavy night fighter developed on the basis of the Do 17 Z bomber. As the "
+"main difference from its predecessor, it featured more powerful forward-"
+"firing weapons and reduced bomb load."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_F-15C"
+msgstr ""
+"Prototype model of a mixed-power fighter fitted with both jet and piston "
+"engines. A total of 3 aircraft were built. Never entered service as the U.S. "
+"Armed Forces opted for pure jet aircraft instead."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_F2A"
+msgstr ""
+"Exported to the Royal Air Force, Royal Netherlands Air Force, and Finnish "
+"Air Force. Used in the initial period of the Pacific War, gradually replaced "
+"by more modern aircraft."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_F4U-4"
+msgstr ""
+"A further modification of the F4U, with the prototype first flying in the "
+"summer of 1944. Widely used in World War II against Japan and the Korean "
+"War. A total of 2,557 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_F94"
+msgstr ""
+"Modification of the F-94 fighter. Two prototypes were built on the basis of "
+"the F-94B and used as test platforms for different armament configurations. "
+"Never entered mass production."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_FI-98"
+msgstr ""
+"Developed under a program aimed to build close ground support aircraft. The "
+"only completed prototype underwent trials in 1935. Never entered mass "
+"production."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_FW-189C"
+msgstr ""
+"Armored attack aircraft developed on the basis on the famous Fw 189 "
+"reconnaissance aircraft. Several prototypes were built and tested in 1939–"
+"1940."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_GLOSTER-JAVELIN"
+msgstr ""
+"The all-weather interceptor Gloster Javelin first flew in November 1951. "
+"Never used in combat. A total of 436 aircraft of various modifications were "
+"built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_GLOSTER-P-228"
+msgstr ""
+"Project for a new two-seat night fighter created based on the experience "
+"gained by Gloster from the development of its early jet fighters. The "
+"project was discontinued during the design phase."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_GOLDFINCH"
+msgstr ""
+"Developed in early 1926 as an all-metal version of the Gamecock fighter. A "
+"prototype was built and first flew in May 1927. Never entered service."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_HS-129"
+msgstr ""
+"Armored attack aircraft designed to engage tanks and fortifications. First "
+"flew in May 1939. A total of 865 aircraft of various modifications were "
+"built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_HURRICANE-IID"
+msgstr ""
+"Developed in 1941 as a specialized anti-tank aircraft on the basis of the "
+"Hawker Hurricane fighter. First saw combat in the summer of 1942 in North "
+"Africa."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_I-21"
+msgstr ""
+"Project for a high-speed fighter equipped with an M-34 engine featuring an "
+"evaporative cooling system. Due to technical problems, further development "
+"was discontinued during flight trials."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_I-5SHKAS"
+msgstr ""
+"Modification of the serial I-5 fighter. To increase firepower, the PV-1 "
+"machine guns on some aircraft were replaced by the ShKAS, which had a higher "
+"rate of fire."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_I-7"
+msgstr ""
+"Developed in Germany by the Heinkel firm under the designation HD-37. Saw "
+"mass production in the U.S.S.R. as the I-7. A total of 131 aircraft were "
+"built in 1929–1934."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_I16-5"
+msgstr ""
+"Developed in the early 1930s as a high-speed fighter for the Red Army Air "
+"Force. Used in Spain in 1936, during the Battles of Khalkhyn Gol in 1939, "
+"and through World War II."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_IL-10M"
+msgstr ""
+"A modification of the IL-10 featuring greater firepower and improved "
+"handling, the IL-10M went into mass production. Some of the aircraft were "
+"transferred for service in the Chinese Communist Air Force."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_IL-2MOD"
+msgstr ""
+"During frontline trials, several attempts were made to modify the IL-2 by "
+"adding a rear gunner position. There were several modifications."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_IL-40P"
+msgstr ""
+"Developed on the basis of the IL-40 with major construction faults "
+"corrected. A total of 7 aircraft were built. Never entered service because "
+"the U.S.S.R. disbanded the ground attack branch of the air force."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_J7W1"
+msgstr ""
+"Interceptor designed to counter U.S. bombing raids on the Japanese islands. "
+"The only two prototypes finished before the end of the war were captured by "
+"U.S. troops."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_J8M"
+msgstr ""
+"Rocket-powered interceptor developed in Japan on the basis of German "
+"documentation. First flew in July 1945. A total of 7 prototypes were built "
+"before Japan's capitulation in September 1945."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_JU-87G"
+msgstr ""
+"Attack modification of the iconic Ju 87 Stuka dive bomber featuring enhanced "
+"armament and armor. Extensively used as an anti-tank aircraft."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_KI-18"
+msgstr ""
+"Land fighter developed as a modification of the A5M naval fighter in "
+"response to the Japanese Army requirements. It underwent trials in 1935–1936 "
+"but never entered service, as the competition was won by the Ki-10 biplane "
+"fighter."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_KI-33"
+msgstr ""
+"Underwent trials in 1936 as a new fighter for the Japanese Army. Two "
+"prototypes were built, but the aircraft never entered service."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_KI-5"
+msgstr ""
+"Designed in Japan under the guidance of the German experts. A total of 4 "
+"prototypes were built and underwent trials in 1934. Never entered service."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_LA-11"
+msgstr ""
+"Developed on the basis of the La-9 as a long-range fighter. Saw combat in "
+"the Chinese Civil War and in the Korean War. A total of 1,182 aircraft were "
+"built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_LA-7"
+msgstr ""
+"A further development of the famous La-5 featuring enhanced aerodynamics. "
+"One of the best Soviet fighters of World War II. A total of 5,753 aircraft "
+"were produced from 1944 through 1945."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_LAGG-3-34"
+msgstr ""
+"Modification of the LaGG-3 fighter featuring a large-caliber cannon. Used "
+"extensively for destroying aerial and ground targets, including armored "
+"targets."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_ME-262-HG2"
+msgstr ""
+"A further modification of the Me 262 A, with the prototype's first flight in "
+"January 1945. The concept improvement continued until the end of the war. "
+"The latest modifications were captured and tested by the Allies."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_ME-265"
+msgstr ""
+"A tailless design for a multirole attack aircraft. Development began in 1942 "
+"but was discontinued in favor of the more conventional Me 410."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_ME-329"
+msgstr ""
+"Designed simultaneously with the Me 265 as a new multirole attack aircraft "
+"for the Luftwaffe. The design was rejected in favor of the more conventional "
+"Me 410 which was approved for mass production."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_ME-P1092"
+msgstr ""
+"Developed in 1943 based on technologies introduced in the Me 262. Several "
+"versions were offered but remained only in blueprints."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_ME-P1099B"
+msgstr ""
+"Design of a multirole aircraft based on the Me 262 featuring different "
+"armament variants. Further development was discontinued due to the end of "
+"World War II."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_ME-P1101"
+msgstr ""
+"Development started in August 1944. The latest variant of this fighter was "
+"80% complete in early 1945 when it was captured by American troops. Used as "
+"a prototype for the Bell X-5."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_MIG-15BIS"
+msgstr ""
+"Further modification of the MiG-15 featuring a new engine. Successfully used "
+"during the Korean War in 1950–1953. Served in the air forces of more than 40 "
+"countries. A total of 8,354 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_MIG-9"
+msgstr ""
+"First Soviet jet-powered fighter that saw mass production. A total of 602 "
+"aircraft were built in 1946–1948. The majority of the MiG-9 were transferred "
+"to China in 1950–1951."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_MOSQUITO-MK26"
+msgstr ""
+"Canadian-built version of the Mosquito FB VI fighter-bomber. A significant "
+"number of the Mosquito FB Mk.26 were delivered to China after the end of the "
+"war against Japan."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_NC1070"
+msgstr ""
+"The NC 1070 was commissioned by the French Air Force as an attack aircraft "
+"to perform a wide range of missions. The single completed prototype was "
+"tested in 1947–1948."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_P-40-M-105"
+msgstr ""
+"As the U.S.S.R. lacked spare Allison engines, a few P-40 fighters were "
+"fitted with Soviet M-105 engines. Used in the defense of Leningrad on a "
+"limited basis."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_P-51H"
+msgstr ""
+"The fastest Mustang and one of the fastest piston fighters in the world. "
+"Entered service in the summer of 1945, too late to see combat. A total of "
+"555 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_P-82B"
+msgstr ""
+"A twin-fuselage fighter on the basis of the P-51 Mustang, designed to reduce "
+"the problem of pilot fatigue on long-range missions. A total of about 20 "
+"aircraft of this modification were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_P36"
+msgstr ""
+"The Model 75 developed by the Curtiss company became one of the most "
+"successful fighters of the prewar period. Served in the air forces of the "
+"United States, Great Britain, France, the Netherlands, Norway, and China."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_SEAFANG"
+msgstr ""
+"Developed by the Supermarine company on the basis of the Spiteful fighter. "
+"The aircraft did not enter service due to the active development of jet "
+"aircraft technology in the late 1940s. A small series of aircraft built was "
+"tested in 1945–1949."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_SPITFIRE-I"
+msgstr ""
+"One of the most famous British aircraft of World War II. First flown in "
+"March 1938. Used most successfully in the Battle of Britain."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_SPITFIRE-IX"
+msgstr ""
+"The Spitfire IX was created as a transition version, but proved to be one of "
+"the most successful modifications of the famous British fighter. A total of "
+"5,656 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_SPITFIRE-V"
+msgstr ""
+"The Spitfire V modification was developed in 1941 and replaced the Spitfire "
+"I and Spitfire II. Used extensively in Europe and North Africa. Some of the "
+"aircraft were exported to the South Pacific and to the U.S.S.R."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_SPITFIRE-XIV"
+msgstr ""
+"Entered service in the winter of 1944. Successfully used in Britain as a "
+"German V-1 flying bomb interceptor and during the closing stages of the war "
+"in Europe. A total of 957 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_SWIFT"
+msgstr ""
+"First flown in December 1948, entering service in 1954. Never used in "
+"combat. A total of 197 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_TSKB-12"
+msgstr ""
+"One of the I-16 (TsKB-12) prototypes equipped with a Wright Cyclone engine "
+"and three-blade propeller. Flight trials resulted in the decision to opt for "
+"the M-22 engine."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_VENOM"
+msgstr ""
+"Designed in 1935–1936 to meet a British Air Ministry specification for a new "
+"single-seat fighter. Due to engine problems, a single prototype was built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_WESTLAND-P-1056"
+msgstr ""
+"Project for a jet fighter-bomber carrying heavy offensive armament, proposed "
+"by Westland in 1945. Development was discontinued during the preliminary "
+"design phase."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_WIRRAWAY"
+msgstr ""
+"General-purpose aircraft designed to support ground forces. Used by the "
+"Royal Australian Air Forces against Japan in the Pacific during World War "
+"II. A total of 755 aircraft were built in 1939–1946."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_XF4F-3"
+msgstr ""
+"Underwent trials in 1939. After the detected faults had been corrected, the "
+"improved version of the fighter entered service with the U.S. Navy as the "
+"F4F Wildcat."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_XP-50"
+msgstr ""
+"A variant of Grumman XF5F Skyrocket carrier-based fighter. The aircraft was "
+"designed as a twin-engine interceptor for the U.S. Army Air Force. First "
+"flew in February 1941. Only one prototype was built. Never entered service."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_XP-58"
+msgstr ""
+"Designed as a further modification of the twin-engine P-38 Lightning "
+"fighter. Development was delayed due to technical issues and numerous "
+"changes in the U.S. Army Air Force's requirements to the new aircraft. The "
+"only completed prototype was tested in 1944."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_YAK-15"
+msgstr ""
+"The first jet-powered fighter to enter service with the Soviet Air Force. "
+"Developed on the basis of the Yak-3 in 1946. Used for pilot transition "
+"training. A total of 280 aircraft were produced."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_YAK-19"
+msgstr ""
+"Developed in 1946. The first Soviet jet-powered fighter of classic design. "
+"Only two prototypes were built, but technical know-how was used in "
+"development of the Yak-25 and the Yak-30."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_YAK-3"
+msgstr ""
+"Created in 1943 on the basis of the Yak-1. Major improvements in design "
+"resulted in impressive flight performance. One of the best Soviet fighters "
+"of 1944–1945. A total of 4,848 aircraft of this type were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_YAK-30"
+msgstr ""
+"Created on the basis of the Yak-25 in 1948. The first Yakovlev jet fighter "
+"featuring a swept-wing layout. Never entered service due to lack of "
+"advantage over the mass-produced MiG-15 and La-15. Two prototypes were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_YAK-9"
+msgstr ""
+"Developed in 1942 on the basis of the Yak-7. The most widely produced Soviet "
+"fighter. In 1944, this type of the aircraft comprised more of the Soviet Air "
+"Force than any other. A total of 16,769 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_YP-29"
+msgstr ""
+"Designed by the Boeing company as an attempt to produce a more advanced "
+"version of the highly successful P-26 Peashooter. A total of 4 prototypes "
+"were built during development of the P-29."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_M-20"
+msgstr ""
+"Designed as a simplified modification for mass production. Underwent trials "
+"in 1940–1941, but never entered service."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_M81A-1"
+msgstr ""
+"Early modification of the P-40, also known as the Curtiss Model 81A-1. A "
+"total of 199 aircraft of this modification were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_ME-210"
+msgstr ""
+"Heavy fighter designed to replace the Bf 110. Entered limited service with "
+"the Luftwaffe. Also licensed for production in Hungary."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_ME-262-HG2"
+msgstr ""
+"A further modification of the Me 262 A. The prototype first flew in January "
+"1945, with modification improvement continuing until the end of the war."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_ME-265"
+msgstr ""
+"A tailless design for a multirole attack aircraft. Development began in 1942 "
+"but was never completed."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_ME-329"
+msgstr ""
+"Designed simultaneously with the Me 265 as a new multirole attack aircraft "
+"for the Luftwaffe. Never entered mass production."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_ME-P1092"
+msgstr ""
+"Developed in 1943 based on technologies introduced in the Me 262. Several "
+"versions were offered."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_ME-P1099B"
+msgstr ""
+"Developed from the Me 262 as a multirole aircraft with different armament "
+"variants. Development was discontinued as the war had ended."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_ME-P1101"
+msgstr ""
+"Development started in August 1944. The latest variant of this fighter was "
+"80% complete in early 1945 when it was captured by American troops."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_ME-P1102B"
+msgstr ""
+"Preliminary design for a heavy multirole jet aircraft. Never went past the "
+"initial concept phase."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_ME1099"
+msgstr ""
+"Experimental design of a heavy fighter-bomber based on the Me 262 A, "
+"introduced in early 1944. No prototypes were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_ME1102"
+msgstr ""
+"Blueprint of a high-speed heavy fighter aircraft developed by the "
+"Messerschmitt company in 1944–1945."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_ME262"
+msgstr ""
+"The world's first jet-powered fighter to enter mass production. The start of "
+"development was delayed by the interference of German top leadership who "
+"demanded a bomber variant to be developed first."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_ME262HG3"
+msgstr ""
+"Blueprint of a further development of the Me 262 aircraft aimed at reaching "
+"a higher top speed."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_ME410"
+msgstr ""
+"Heavy fighter-bomber, a further development of the Zerstörer concept. Used "
+"mainly on the Western Front."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_ME609"
+msgstr ""
+"Blueprint of a heavy fighter-bomber incorporating two fuselages of the Me "
+"309. No prototypes were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_METEOR"
+msgstr ""
+"First mass-produced jet fighter built by the Allies. Mostly used for "
+"training. A total of 20 aircraft of this modification were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_MIG-15BIS"
+msgstr ""
+"Further modification of the MiG-15 featuring a new engine. Used during the "
+"Korean War. A total of 8,354 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_MIG-3"
+msgstr ""
+"Developed in 1940 as a high-altitude, high-speed interceptor. Extensively "
+"used in 1941–1942. Over 3,000 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_MIG-9"
+msgstr ""
+"First Soviet jet-powered fighter that saw mass production. A total of 602 "
+"aircraft were built in 1946–1948."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_MOSQUITO-MK26"
+msgstr ""
+"Canadian-built version of the Mosquito FB VI. A significant number of the "
+"Mosquito FB Mk.26 were delivered to China after the end of the war against "
+"Japan."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_MUSTANG-I"
+msgstr ""
+"Developed in the United States on request of the Royal Air Force. Further "
+"modification resulted in the creation of the P-51 Mustang fighter and the "
+"A-36 Apache attack aircraft."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_MUSTANG-IA"
+msgstr ""
+"Modification of the Mustang I that was supplied by the North American "
+"Aviation company to U.K. The aircraft featured powerful autocannon that "
+"replaced the machine guns fitted on the previous modification. A total of 93 "
+"aircraft of this modification were supplied to the Royal Air Force."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_NC1070"
+msgstr ""
+"Attack aircraft designed for a wide range of missions. The single completed "
+"prototype was tested in 1947–1948."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P-23"
+msgstr ""
+"Experimental all-metal fighter aircraft developed on the basis of the "
+"successful P-6E with several prototypes being produced."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P-26"
+msgstr ""
+"Developed on request of the U.S. Army Air Corps to replace the Boeing Р-12 "
+"fighters. A total of 151 aircraft were built. Used in the Second Sino-"
+"Japanese War and the initial period of the Pacific War."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P-35"
+msgstr ""
+"First flew in August 1935. A total of about 200 aircraft including "
+"experimental and export versions were built. Used in the initial period of "
+"the Pacific War."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P-36C"
+msgstr ""
+"One of the early modifications of the P-36 Hawk. A total of 30 aircraft of "
+"this modification were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P-38F"
+msgstr ""
+"First combat-ready modification of the P-38 Lightning. Used in Europe, North "
+"Africa, and the Pacific Theater. A total of 527 aircraft were produced."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P-38J"
+msgstr ""
+"A further development of the P-38 featuring improved controllability and "
+"speed performance. A total of 2,970 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P-39N-1"
+msgstr ""
+"The Bell Aircraft Corporation always searched for the ways of improving "
+"aircraft characteristics based on feedback from the pilots who flew various "
+"modifications of the P-39 Airacobra. The P-39N series was an attempt to "
+"lighten the airframe by reducing fuel capacity or partially demounting armor."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P-39Q"
+msgstr ""
+"A significant number of the P-39 Airacobra were supplied to the U.S.S.R. "
+"under the Lend-Lease program. The P-39Q-15 was a lighter version that had no "
+"wing-mounted weapons."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P-40-M-105"
+msgstr ""
+"As the U.S.S.R. lacked spare Allison engines, a few P-40 fighters were "
+"fitted with Soviet M-105 engines."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P-43"
+msgstr ""
+"First flew in March 1940. The aircraft saw combat in China. A total of 272 "
+"aircraft of various modifications were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P-44"
+msgstr ""
+"A further development of the P-43 Lancer featuring a more powerful Pratt & "
+"Whitney R-2180 engine. Development was discontinued due to the decision of "
+"the Republic Aviation Corporation to focus on building a more promising P-47 "
+"fighter."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P-47B"
+msgstr ""
+"Developed on request of the U.S. Army Air Corps after the production of the "
+"Р-43 Lancer and P-44 Rocket was discontinued. First flew in May 1941. A "
+"total of 171 P-47Bs were built and used for conducting flight trials and "
+"training of pilots."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P-47N"
+msgstr ""
+"Developed by the Republic Aviation Corporation in 1944 to keep the P-47 "
+"competitive with the P-51 Mustang fighter, which was introduced into service "
+"with the U.S. Army Air Force. A total of 1,816 P-47Ns were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P-51H"
+msgstr ""
+"The fastest Mustang and one of the fastest piston fighters in the world. A "
+"total of 555 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P-51K"
+msgstr ""
+"Dallas-built version of the P-51D. After World War II, it was exported to "
+"various countries including China, where it served in the Chinese "
+"Nationalist Air Force. A total of 1,500 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P-72"
+msgstr ""
+"A further development of the P-47 Thunderbolt concept featuring a new Pratt "
+"& Whitney R-4360 engine. Two prototypes built were tested in 1944–1945. "
+"Never entered service."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P-77"
+msgstr ""
+"Low-cost fighter developed by the Bell Aircraft Corporation to address the "
+"shortage of light-metal alloys used in aviation. Never entered service."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P-80A"
+msgstr ""
+"First mass-produced jet fighter used by the U.S. Army Air Force. The P-80A "
+"equipped several squadrons during World War II, but they did not see combat "
+"due to the end of the war. Later the designation was changed to F-80A. A "
+"total of 344 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P-82B"
+msgstr ""
+"A twin-fuselage fighter on the basis of the P-51 Mustang, designed to reduce "
+"the problem of pilot fatigue on long-range missions."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P12"
+msgstr ""
+"U.S. Army Air Corps and U.S. Navy biplane fighter of the interwar period."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P36"
+msgstr ""
+"One of the most successful fighters of the prewar period. Served in the air "
+"forces of the United States, Great Britain, France, the Netherlands, Norway, "
+"and China."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P39Q21"
+msgstr ""
+"U.S. Army Air Force fighter utilizing a mid-engine design. Used in the South "
+"Pacific, Africa, Italy, and supplied to Great Britain and the U.S.S.R."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P40"
+msgstr ""
+"Developed on the basis of the P-36. Most extensively used against Japan "
+"during the Pacific War and in China, and on the Soviet-German front."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P51"
+msgstr ""
+"One of the most famous American fighters during World War II. Used "
+"extensively in Europe and in the later stages of the war against Japan."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P51A"
+msgstr ""
+"An early model of one of the most famous U.S. Army Air Force fighters of "
+"World War II. Used mainly in North Africa, Burma, and Great Britain."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_P51JP"
+msgstr ""
+"Design based on the famous Mustang, powered by both jet and piston engines. "
+"The project was abandoned due to introduction of pure jet-powered aircraft."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_PE-2"
+msgstr ""
+"The main Soviet tactical bomber of World War II. The prototype first flew in "
+"December 1939. Over 11,000 Pe-2s of various modifications were built and saw "
+"extensive action throughout World War II."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_PE-2-M-82"
+msgstr ""
+"A modification of the Pe-2 bomber equipped with new engines. The prototype "
+"was built in the fall of 1942. Due to the shortage of engines that were in "
+"great demand for developing the Lavochkin fighters, only 32 aircraft were "
+"built, but saw limited combat."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_PEGAS"
+msgstr ""
+"Designed as a technologically simple and low-cost strike aircraft suitable "
+"for mass production. Several prototypes were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_PV-3"
+msgstr ""
+"The Hawker P.V.3 was developed as an enlarged version of the Hawker Fury "
+"fighter powered by a new engine with an enhanced armament of four machine "
+"guns. The single completed prototype was tested with several variants of the "
+"Goshawk engines in 1934–1935."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_PZL-P-38_WILK"
+msgstr ""
+"Developed from 1934 as a multipurpose aircraft with the ability to perform "
+"as both a fighter and a ground forces support aircraft. Only two prototypes "
+"were built and tested before World War II."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_RB-17"
+msgstr ""
+"Project for a high-speed reconnaissance bomber. Developed in 1945–1946 with "
+"the use of the German Jumo 004 engine. Development was discontinued in early "
+"1946 as the Myasishchev design bureau was closed."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_S-199"
+msgstr ""
+"Developed in Czechoslovakia after World War II on the basis of the German "
+"Messerschmitt Bf 109. In 1948, some of the S-199's were purchased by Israel, "
+"which later used them during the Arab-Israeli conflict. These aircraft "
+"became the first combat-ready fighters of the arising Israeli Air Force."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SAAB_J-21RB"
+msgstr ""
+"The first Swedish jet fighter. It was developed in 1945-1949 on the basis of "
+"the piston SAAB J 21A. The original power unit was replaced by the British "
+"Goblin jet engine. The aircraft did not see active combat service."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SAUCER"
+msgstr "Sleipnir combat vehicle in service with the Asgard Air Force."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SB"
+msgstr ""
+"The main Soviet pre-war medium bomber. First took to the air in 1934. "
+"Extensively used in the late 1930s and in early Word War II. A total of "
+"7,000 aircraft of various modifications were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SE100"
+msgstr ""
+"A project for a heavy fighter carrying powerful offensive and defensive "
+"armament. First flew in March 1939. The development was discontinued due to "
+"the occupation of France in 1940."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SEAFANG"
+msgstr ""
+"Developed by the Supermarine company on the basis of the Spiteful fighter. "
+"Underwent trials in 1945–1949 but never entered service."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SEAHAWK"
+msgstr ""
+"The first jet fighter built by the Hawker Aircraft company. Its prototype "
+"conducted its maiden flight on September 2, 1947. Initially, it was "
+"developed for the Royal Air Force, but was later redesigned for the Fleet "
+"Air Arm. Served in the German, Royal Netherlands, and Indian Navy."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SKUA"
+msgstr ""
+"Developed as a multi-purpose aircraft for the Royal Air Force. The first "
+"prototype flew in February 1937, with total of 192 aircraft being built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SLEIPNIR"
+msgstr ""
+"The New Year 2015 brings you special gifts—a new Snowball Fight mode and a "
+"unique Odin 42M flying saucer!"
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SPAD510"
+msgstr ""
+"First flew in January 1933. Served until 1940. Never saw combat. A total of "
+"about 60 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SPITFIRE-I"
+msgstr "First flown in March 1938. Widely used during the Battle of Britain."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SPITFIRE-IA"
+msgstr ""
+"The most advanced fighter of the Royal Air Force at the start of World War "
+"II. Widely used in the Dunkirk operation and the Battle of Britain."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SPITFIRE-IX"
+msgstr ""
+"One of the most successful modifications of the famous British fighter. A "
+"total of 5,656 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SPITFIRE-V"
+msgstr ""
+"Developed in 1941 to replace the Spitfire I and Spitfire II. Widely used in "
+"Europe and North Africa."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SPITFIRE-V-DB-605"
+msgstr ""
+"During trials of captured Spitfires in Germany, one aircraft was equipped "
+"with a German DB 605 engine. It was later destroyed in an Allied air raid."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SPITFIRE-VB-IM"
+msgstr "A modification of the Spitfire V inspired by Iron Maiden."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SPITFIRE-XIV"
+msgstr ""
+"Entered service in the winter of 1944. A total of 957 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SU-10"
+msgstr ""
+"The first jet bomber constructed by the Sukhoi Design Bureau. It was "
+"designed in 1946-1948, several aircraft configurations were proposed. "
+"Further development of the Su-10 was discontinued during the prototype "
+"construction stage."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SU-9"
+msgstr ""
+"Designed in 1946 under the influence of the German experience. The only "
+"prototype of the Su-9 was produced and tested in 1946–1947. The aircraft "
+"never entered service, since the project was abandoned in favor of the "
+"MiG-15."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SUPERMARINE-T-224"
+msgstr ""
+"First flew in February 1934. The experience gained during the Type 224 "
+"development was subsequently used to create the famous Spitfire."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SWIFT"
+msgstr ""
+"First flown in December 1948. Never used in combat. A total of 197 aircraft "
+"were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_TA-152"
+msgstr ""
+"Developed on the basis of the Fw 190. Entered service with the Luftwaffe at "
+"the end of 1944, but only a few Ta 152s saw combat."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_TA-183"
+msgstr ""
+"The Ta 183 design was recognized as the best aircraft in a Luftwaffe fighter "
+"competition. No prototypes were built by the end of the war."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_TANDEM"
+msgstr ""
+"Experimental attack aircraft of unusual design. Underwent trials in the fall "
+"of 1939, but never entered service with the Red Army Air Force."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_TEMPEST"
+msgstr ""
+"Designed as a modification of the Hawker Typhoon. However, due to multiple "
+"significant changes to the design, was redesignated into the Hawker Tempest. "
+"As a multirole fighter, it proved to be one of the best British World War II "
+"aircraft."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_TOMAHAWK-IIB"
+msgstr ""
+"Modification of the Curtiss P-40. Served with the 1st American Volunteer "
+"Group (Flying Tigers) and was actively used in operations against Japan."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_TORNADO"
+msgstr ""
+"Created by the Hawker company based on the experience gained from the "
+"development of the Hurricane. A total of 6 prototypes were built and tested "
+"in 1939–1941. However, due to engine problems, the project was abandoned in "
+"favor of the Hawker Typhoon."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_TSH1"
+msgstr ""
+"A heavily armored attack aircraft designed to support the troops and armored "
+"vehicles of the Red Army. Never saw mass production."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_TSH3"
+msgstr ""
+"Developed in the early 1930s as a heavy armored attack aircraft for the Red "
+"Army Air Force."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_TSKB-12"
+msgstr ""
+"A prototype of the I-16 (TsKB-12) equipped with a Wright Cyclone engine and "
+"three-blade propeller. Following trials, it was decided to produce I-16 with "
+"the M-22 engine."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_TU-1"
+msgstr ""
+"A heavy fighter based on modification 63 of the Tupolev Tu-2 bomber. "
+"Underwent trials during 1947. However, due to problems with the engines and "
+"the advent of the jet era, the project was discontinued."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_TU-10"
+msgstr ""
+"The further development of the Tu-2 with a new power unit and design "
+"changes. 10 aircraft were produced, however due to the beginning of the jet "
+"era, the manufacturers decided not to put the Tu-10 into mass production."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_TU-12"
+msgstr ""
+"An attempt to adapt the serial Tu-2 for jet engines. The aircraft was tested "
+"in 1947-1948. A small series of planes were built, they were used as testbed "
+"aircraft and for crew training."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_TU-2"
+msgstr ""
+"The best Soviet serial tactical bomber of World War II. Most actively used "
+"in 1944-1945. The Tu-2 bombers remained in the Soviet service until the "
+"mid-1950s, and were also supplied to Poland, Bulgaria, China, Indonesia, and "
+"North Korea."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_TYPE-91"
+msgstr ""
+"Developed at the request of the Imperial Japanese Army in cooperation with "
+"French aircraft designers."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_TYPHOON"
+msgstr ""
+"Developed simultaneously with the Hawker Tornado as a high-speed "
+"interceptor. However, it proved most effective as a multirole fighter. "
+"Remained the main support aircraft in the Royal Air Force until the end of "
+"combat in Europe."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_VAMPIRE-F1"
+msgstr ""
+"The first mass-produced modification of the DH.100 Vampire featuring the "
+"Goblin I engine. Entered service in April 1945. A total of 40 aircraft of "
+"the early F.1 series were built, but they did not see combat due to the end "
+"of World War II."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_VB10"
+msgstr ""
+"Development was started before the occupation of France. The prototype first "
+"flew in the summer of 1945. A total of 200 aircraft were ordered. However, "
+"due to the development of jet aircraft and decreasing interest in the "
+"project, only 2 prototypes and a series of 4 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_VENOM"
+msgstr ""
+"Designed in 1935–1936 to meet a British Air Ministry specification for a new "
+"single-seat fighter."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_WESTLAND-P-1056"
+msgstr ""
+"Project for a fighter-bomber created by Westland in 1945. Development was "
+"discontinued during the preliminary design phase."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_WIRRAWAY"
+msgstr ""
+"Designed to support ground forces. Used by the Royal Australian Air Forces "
+"in the Pacific during World War II. A total of 755 aircraft were built in "
+"1939–1946."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_XF-85"
+msgstr ""
+"Developed as a parasite fighter designed to be carried by a heavy bomber and "
+"defend the latter against enemy attacks. It underwent trials in 1948–1949, "
+"but never entered service. Two prototypes were handed over to museums."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_XF4F-3"
+msgstr ""
+"Underwent trials in 1939. Improved version of the fighter entered service "
+"with the U.S. Navy as the F4F Wildcat."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_XF4U-1"
+msgstr ""
+"Initial prototype of the famous F4U Corsair. First flown on 29 May 1940, "
+"demonstrating good flight performance."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_XP-31"
+msgstr ""
+"Developed in 1932–1933 for the U.S. Army. One prototype was built, but the "
+"aircraft never entered service."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_XP-36F"
+msgstr ""
+"One of the mass-produced P-36As was experimentally redesigned into a version "
+"with heavy cannon armament. Following a cycle of tests, it was decided to "
+"revert to the initial version with machine gun armament."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_XP-50"
+msgstr ""
+"Developed as a twin-engine interceptor for the U.S. Army Air Force. First "
+"flew in February 1941. Only one prototype was built. Never entered service."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_XP-55"
+msgstr ""
+"Designed as a promising interceptor fighter with a canard configuration. The "
+"first prototype took to the air in July 1943. The tests dragged on until "
+"December 1944 when the project was recognized as having no prospects."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_XP-58"
+msgstr ""
+"Further modification of the twin-engine P-38 Lightning fighter. The only "
+"completed prototype was tested in 1944."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_XP-75"
+msgstr ""
+"Developed as a heavy escort fighter. The XP-75 prototypes underwent trials "
+"in 1943–1944 but never entered mass production. A total of 13 aircraft were "
+"built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-1"
+msgstr ""
+"Developed in 1940 as the I-26 high-speed fighter. One of the best Soviet "
+"fighters of the early years of World War II. A total of 8,734 aircraft of "
+"various modifications were produced."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-15"
+msgstr ""
+"The first jet-powered fighter to enter service with the Soviet Air Force. "
+"Developed on the basis of the Yak-3 in 1946. A total of 280 aircraft were "
+"produced."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-19"
+msgstr ""
+"Developed in 1946. The first Soviet jet-powered fighter of classic design. "
+"Only two prototypes were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-1M"
+msgstr ""
+"Created in 1943 on the basis of the Yak-1. Further improvements led to "
+"creation of the Yak-3."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-3"
+msgstr ""
+"Created in 1943 on the basis of the Yak-1. One of the best Soviet fighters "
+"of 1944–1945. A total of 4,848 aircraft of this type were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-30"
+msgstr ""
+"Created on the basis of the Yak-25 in 1948. The first Yakovlev jet fighter "
+"featuring a swept-wing layout. Two prototypes were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-3RD"
+msgstr ""
+"Modification of the mass-produced Yak-3 featuring an auxiliary liquid-fuel "
+"rocket engine and a single cannon. The prototype underwent trials in 1944–"
+"1945."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-3T"
+msgstr ""
+"A version of the Yak-3 equipped with heavy armament and a slightly modified "
+"airframe, compared to the base model. Never entered mass production. Only "
+"one prototype was built and tested in 1945."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-7"
+msgstr ""
+"Developed in 1941 on the basis of the Yak-7UTI flight trainer. A total of "
+"6,399 fighters of various modifications were built, including training "
+"aircraft."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-7-M-82"
+msgstr ""
+"In the summer of 1941, an attempt to install an M-82A engine on the Yak-7 "
+"was made. The aircraft went through a number of changes in the design and "
+"composition of its weapons, but could not achieve the specified flight "
+"characteristics for technical reasons. Only one development prototype was "
+"made."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-9"
+msgstr ""
+"Developed in 1942 on the basis of the Yak-7. The most widely produced Soviet "
+"fighter. A total of 16,769 aircraft were built."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-9U"
+msgstr ""
+"A further modification of the Yak-9. Developed in 1943. Successfully used in "
+"1944-1945 on the Soviet-German front. Produced until 1948."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_YP-29"
+msgstr ""
+"Designed as an attempt of the Boeing company to produce a more advanced "
+"version of the successful P-26 Peashooter. A total of 4 prototypes were "
+"built."
+
+msgid "PLANE_LONGNAME_2PA"
+msgstr "Seversky 2PA"
+
+msgid "PLANE_LONGNAME_2PA-L"
+msgstr "Seversky 2PA-L"
+
+msgid "PLANE_LONGNAME_A-26B"
+msgstr "Douglas A-26B Invader"
+
+msgid "PLANE_LONGNAME_A4N"
+msgstr "Nakajima A4N"
+
+msgid "PLANE_LONGNAME_A5M"
+msgstr "Mitsubishi A5M"
+
+msgid "PLANE_LONGNAME_A6M1"
+msgstr "Mitsubishi A6M1 Zero"
+
+msgid "PLANE_LONGNAME_A6M2"
+msgstr "Mitsubishi A6M2 Zero"
+
+msgid "PLANE_LONGNAME_A6M3-30"
+msgstr "Mitsubishi A6M3 (experimental)"
+
+msgid "PLANE_LONGNAME_A6M5"
+msgstr "Mitsubishi A6M5 Zero"
+
+msgid "PLANE_LONGNAME_A7M"
+msgstr "Mitsubishi A7M Reppu"
+
+msgid "PLANE_LONGNAME_AD10"
+msgstr "Arsenal-Delanne AD 10C2"
+
+msgid "PLANE_LONGNAME_AO-192"
+msgstr "AGO Ao 192 Kurier"
+
+msgid "PLANE_LONGNAME_AR-197"
+msgstr "Arado Ar 197"
+
+msgid "PLANE_LONGNAME_AR-2"
+msgstr "Arkhangelsky Ar-2"
+
+msgid "PLANE_LONGNAME_AR-65"
+msgstr "Arado Ar 65"
+
+msgid "PLANE_LONGNAME_AR-67"
+msgstr "Arado Ar 67"
+
+msgid "PLANE_LONGNAME_AR-68"
+msgstr "Arado Ar 68"
+
+msgid "PLANE_LONGNAME_AR-80"
+msgstr "Arado Ar 80"
+
+msgid "PLANE_LONGNAME_ATTACKER"
+msgstr "Supermarine Attacker"
+
+msgid "PLANE_LONGNAME_AVIA_B-534"
+msgstr "Avia B-534"
+
+msgid "PLANE_LONGNAME_AVIA_BK-534"
+msgstr "Avia Bk-534"
+
+msgid "PLANE_LONGNAME_B-17D"
+msgstr "Boeing B-17D Flying Fortress"
+
+msgid "PLANE_LONGNAME_B-17G"
+msgstr "Boeing B-17G Flying Fortress"
+
+msgid "PLANE_LONGNAME_B-32"
+msgstr "Consolidated B-32 Dominator"
+
+msgid "PLANE_LONGNAME_BA-27"
+msgstr "Breda Ba.27 Metallico"
+
+msgid "PLANE_LONGNAME_BEAUFIGHTER-F"
+msgstr "Bristol Beaufighter"
+
+msgid "PLANE_LONGNAME_BEAUFIGHTER-V-IM"
+msgstr "Bristol Beaufighter V IM"
+
+msgid "PLANE_LONGNAME_BF-109B"
+msgstr "Messerschmitt Bf 109 B"
+
+msgid "PLANE_LONGNAME_BF-109C"
+msgstr "Messerschmitt Bf 109 C"
+
+msgid "PLANE_LONGNAME_BF-109E"
+msgstr "Messerschmitt Bf 109 E Emil"
+
+msgid "PLANE_LONGNAME_BF-109E-3"
+msgstr "Messerschmitt Bf 109 E-3"
+
+msgid "PLANE_LONGNAME_BF-109F"
+msgstr "Messerschmitt Bf 109 F Friedrich"
+
+msgid "PLANE_LONGNAME_BF-109G"
+msgstr "Messerschmitt Bf 109 G Gustav"
+
+msgid "PLANE_LONGNAME_BF-109TL"
+msgstr "Messerschmitt Me 109 TL"
+
+msgid "PLANE_LONGNAME_BF-109Z"
+msgstr "Messerschmitt Bf 109 Z Zwilling"
+
+msgid "PLANE_LONGNAME_BF-110B"
+msgstr "Messerschmitt Bf 110 B"
+
+msgid "PLANE_LONGNAME_BF-110C-6"
+msgstr "Messerschmitt Bf 110 C-6"
+
+msgid "PLANE_LONGNAME_BF-110E"
+msgstr "Messerschmitt Bf 110 E"
+
+msgid "PLANE_LONGNAME_BF-209A1"
+msgstr "Messerschmitt Me 209 A"
+
+msgid "PLANE_LONGNAME_BF-209V"
+msgstr "Messerschmitt Me 209 V4"
+
+msgid "PLANE_LONGNAME_BLENHEIM-F"
+msgstr "Bristol Blenheim F"
+
+msgid "PLANE_LONGNAME_BLENHEIM-IV"
+msgstr "Bristol Blenheim Mk.IV (early mod.)"
+
+msgid "PLANE_LONGNAME_BOOMERANG"
+msgstr "CAC CA-12 Boomerang"
+
+msgid "PLANE_LONGNAME_BRISTOL-TYPE-105"
+msgstr "Bristol Bulldog"
+
+msgid "PLANE_LONGNAME_BRISTOL-TYPE-133"
+msgstr "Bristol Type 133"
+
+msgid "PLANE_LONGNAME_BRISTOL-TYPE-146"
+msgstr "Bristol Type 146"
+
+msgid "PLANE_LONGNAME_BSH-1"
+msgstr "Kochyerigin BSh-1"
+
+msgid "PLANE_LONGNAME_BSH-2"
+msgstr "Ilyushin BSh-2"
+
+msgid "PLANE_LONGNAME_BV-P203"
+msgstr "Blohm und Voss BV P.203"
+
+msgid "PLANE_LONGNAME_BV-P210"
+msgstr "Blohm und Voss P.210"
+
+msgid "PLANE_LONGNAME_BV-P212-03"
+msgstr "Blohm und Voss P.212.03"
+
+msgid "PLANE_LONGNAME_BV-P215-02"
+msgstr "Blohm und Voss P.215.02"
+
+msgid "PLANE_LONGNAME_CR714"
+msgstr "Caudron-Renault C.714"
+
+msgid "PLANE_LONGNAME_D-H-103"
+msgstr "De Havilland 103 Hornet"
+
+msgid "PLANE_LONGNAME_D-H-98"
+msgstr "De Havilland 98 Mosquito"
+
+msgid "PLANE_LONGNAME_DEMON"
+msgstr "Hawker Demon"
+
+msgid "PLANE_LONGNAME_DI-6"
+msgstr "Kochyerigin-Yatsenko DI-6i"
+
+msgid "PLANE_LONGNAME_DO-17Z"
+msgstr "Dornier Do 17 Z-7 Kauz"
+
+msgid "PLANE_LONGNAME_DO-17Z-2"
+msgstr "Dornier Do 17 Z"
+
+msgid "PLANE_LONGNAME_DO-217M"
+msgstr "Dornier Do 217 M"
+
+msgid "PLANE_LONGNAME_DO-335A1"
+msgstr "Dornier Do 335 A-1 Pfeil"
+
+msgid "PLANE_LONGNAME_EF-131"
+msgstr "Junkers/OKB-1 EF 131"
+
+msgid "PLANE_LONGNAME_F-15C"
+msgstr "Curtiss XF15C"
+
+msgid "PLANE_LONGNAME_F-84B"
+msgstr "Republic F-84B Thunderjet"
+
+msgid "PLANE_LONGNAME_F-84F"
+msgstr "Republic F-84F Thunderstreak"
+
+msgid "PLANE_LONGNAME_F-86A"
+msgstr "North American F-86A Sabre"
+
+msgid "PLANE_LONGNAME_F11C"
+msgstr "Curtiss F11C-2"
+
+msgid "PLANE_LONGNAME_F2A"
+msgstr "Brewster F2A Buffalo"
+
+msgid "PLANE_LONGNAME_F2A-1"
+msgstr "Brewster F2A-1 Buffalo"
+
+msgid "PLANE_LONGNAME_F2F"
+msgstr "Grumman F2F"
+
+msgid "PLANE_LONGNAME_F2G"
+msgstr "Goodyear F2G Super Corsair"
+
+msgid "PLANE_LONGNAME_F2H"
+msgstr "McDonnell F2H Banshee"
+
+msgid "PLANE_LONGNAME_F3F"
+msgstr "Grumman F3F"
+
+msgid "PLANE_LONGNAME_F4F"
+msgstr "Grumman F4F Wildcat"
+
+msgid "PLANE_LONGNAME_F4U"
+msgstr "Chance-Vought F4U-1 Corsair"
+
+msgid "PLANE_LONGNAME_F4U-4"
+msgstr "Chance-Vought F4U-4 Corsair"
+
+msgid "PLANE_LONGNAME_F5U"
+msgstr "Chance-Vought XF5U Pancake"
+
+msgid "PLANE_LONGNAME_F6U"
+msgstr "Vought F6U Pirate"
+
+msgid "PLANE_LONGNAME_F7F"
+msgstr "Grumman F7F Tigercat"
+
+msgid "PLANE_LONGNAME_F7U"
+msgstr "Chance-Vought F7U Cutlass"
+
+msgid "PLANE_LONGNAME_F90"
+msgstr "Lockheed XF-90"
+
+msgid "PLANE_LONGNAME_F94"
+msgstr "Lockheed F-94D Starfire"
+
+msgid "PLANE_LONGNAME_FANTOME"
+msgstr "Fairey Fantome"
+
+msgid "PLANE_LONGNAME_FI-98"
+msgstr "Fieseler Fi 98"
+
+msgid "PLANE_LONGNAME_FJ-1"
+msgstr "North American FJ-1 Fury"
+
+msgid "PLANE_LONGNAME_FL-1"
+msgstr "Bell XFL-1 Airabonita"
+
+msgid "PLANE_LONGNAME_FW-159"
+msgstr "Focke-Wulf Fw 159"
+
+msgid "PLANE_LONGNAME_FW-189C"
+msgstr "Focke-Wulf Fw 189 C Eule"
+
+msgid "PLANE_LONGNAME_FW-190A1"
+msgstr "Focke-Wulf Fw 190 A-1"
+
+msgid "PLANE_LONGNAME_FW-190A5"
+msgstr "Focke-Wulf Fw 190 A-5"
+
+msgid "PLANE_LONGNAME_FW-190A8"
+msgstr "Focke-Wulf Fw 190 A-8/R2"
+
+msgid "PLANE_LONGNAME_FW-190D"
+msgstr "Focke-Wulf Fw 190 D"
+
+msgid "PLANE_LONGNAME_FW-252"
+msgstr "Focke-Wulf Fw 252"
+
+msgid "PLANE_LONGNAME_FW-56"
+msgstr "Focke-Wulf Fw 56 Stosser"
+
+msgid "PLANE_LONGNAME_FW-57"
+msgstr "Focke-Wulf Fw 57"
+
+msgid "PLANE_LONGNAME_GLOSTER-JAVELIN"
+msgstr "Gloster Javelin"
+
+msgid "PLANE_LONGNAME_GLOSTER-P-228"
+msgstr "Gloster P.228"
+
+msgid "PLANE_LONGNAME_GOLDFINCH"
+msgstr "Gloster Goldfinch"
+
+msgid "PLANE_LONGNAME_HA-137"
+msgstr "Blohm und Voss Ha 137"
+
+msgid "PLANE_LONGNAME_HA-137V1"
+msgstr "Blohm und Voss Ha 137 V1"
+
+msgid "PLANE_LONGNAME_HAWK-2"
+msgstr "Curtiss Hawk II"
+
+msgid "PLANE_LONGNAME_HAWK-3"
+msgstr "Curtiss Hawk III"
+
+msgid "PLANE_LONGNAME_HAWK-75"
+msgstr "Curtiss Hawk 75M"
+
+msgid "PLANE_LONGNAME_HE-100"
+msgstr "Heinkel He 100 D-1"
+
+msgid "PLANE_LONGNAME_HE-111H-2"
+msgstr "Heinkel He 111 H-2"
+
+msgid "PLANE_LONGNAME_HE-112"
+msgstr "Heinkel He 112"
+
+msgid "PLANE_LONGNAME_HE-51"
+msgstr "Heinkel He 51"
+
+msgid "PLANE_LONGNAME_HO-229"
+msgstr "Horten Ho 229"
+
+msgid "PLANE_LONGNAME_HS-123"
+msgstr "Henschel Hs 123"
+
+msgid "PLANE_LONGNAME_HS-129"
+msgstr "Henschel Hs 129 B"
+
+msgid "PLANE_LONGNAME_HS-129A"
+msgstr "Henschel Hs 129 А"
+
+msgid "PLANE_LONGNAME_HUNTER"
+msgstr "Hawker Hunter"
+
+msgid "PLANE_LONGNAME_HURRICANE-I"
+msgstr "Hawker Hurricane Mk I"
+
+msgid "PLANE_LONGNAME_HURRICANE-IA"
+msgstr "Hawker Hurricane Mk. Ia"
+
+msgid "PLANE_LONGNAME_HURRICANE-II"
+msgstr "Hawker Hurricane Mk II"
+
+msgid "PLANE_LONGNAME_HURRICANE-IID"
+msgstr "Hawker Hurricane IID"
+
+msgid "PLANE_LONGNAME_I-15"
+msgstr "Polikarpov I-15"
+
+msgid "PLANE_LONGNAME_I-153-DM-4"
+msgstr "Polikarpov I-153 DM-4"
+
+msgid "PLANE_LONGNAME_I-15BIS-DM2"
+msgstr "Polikarpov I-15bis DM-2"
+
+msgid "PLANE_LONGNAME_I-16-24"
+msgstr "Polikarpov I-16 (late mod.)"
+
+msgid "PLANE_LONGNAME_I-16-29"
+msgstr "Polikarpov I-16 Type 29"
+
+msgid "PLANE_LONGNAME_I-16-5"
+msgstr "Polikarpov I-16 (early mod.)"
+
+msgid "PLANE_LONGNAME_I-17"
+msgstr "Polikarpov I-17"
+
+msgid "PLANE_LONGNAME_I-180"
+msgstr "Polikarpov I-180-3"
+
+msgid "PLANE_LONGNAME_I-207-4"
+msgstr "Borovkov-Florov I-207/4"
+
+msgid "PLANE_LONGNAME_I-21"
+msgstr "Ilyushin I-21 (TsKB-32)"
+
+msgid "PLANE_LONGNAME_I-210"
+msgstr "Mikoyan-Gurevich I-210"
+
+msgid "PLANE_LONGNAME_I-211"
+msgstr "Alekseyev I-211"
+
+msgid "PLANE_LONGNAME_I-215"
+msgstr "Alekseyev I-215"
+
+msgid "PLANE_LONGNAME_I-220"
+msgstr "Mikoyan-Gurevich I-220"
+
+msgid "PLANE_LONGNAME_I-250"
+msgstr "Mikoyan-Gurevich I-250"
+
+msgid "PLANE_LONGNAME_I-260"
+msgstr "Mikoyan-Gurevich I-260"
+
+msgid "PLANE_LONGNAME_I-302P"
+msgstr "Kostikov 302"
+
+msgid "PLANE_LONGNAME_I-5"
+msgstr "Polikarpov I-5"
+
+msgid "PLANE_LONGNAME_I-5SHKAS"
+msgstr "Polikarpov I-5 ShKAS"
+
+msgid "PLANE_LONGNAME_I-7"
+msgstr "TsKB I-7"
+
+msgid "PLANE_LONGNAME_IL-1"
+msgstr "Ilyushin IL-1"
+
+msgid "PLANE_LONGNAME_IL-10"
+msgstr "Ilyushin IL-10"
+
+msgid "PLANE_LONGNAME_IL-10M"
+msgstr "Ilyushin IL-10M"
+
+msgid "PLANE_LONGNAME_IL-2-1"
+msgstr "Ilyushin IL-2"
+
+msgid "PLANE_LONGNAME_IL-2-2"
+msgstr "Ilyushin IL-2 two-seat"
+
+msgid "PLANE_LONGNAME_IL-20"
+msgstr "Ilyushin IL-20"
+
+msgid "PLANE_LONGNAME_IL-2MOD"
+msgstr "IL-2 with rear gunner"
+
+msgid "PLANE_LONGNAME_IL-40"
+msgstr "Ilyushin IL-40"
+
+msgid "PLANE_LONGNAME_IL-40P"
+msgstr "Ilyushin IL-40P"
+
+msgid "PLANE_LONGNAME_IL-8"
+msgstr "Ilyushin IL-8"
+
+msgid "PLANE_LONGNAME_J4M"
+msgstr "Mitsubishi J4M Senden"
+
+msgid "PLANE_LONGNAME_J7W1"
+msgstr "Kyushu J7W1 Shinden"
+
+msgid "PLANE_LONGNAME_J7W2"
+msgstr "Kyushu J7W2 Shinden-Kai"
+
+msgid "PLANE_LONGNAME_J7W3"
+msgstr "Kyushu J7W3"
+
+msgid "PLANE_LONGNAME_J8M"
+msgstr "Mitsubishi J8M Shusui"
+
+msgid "PLANE_LONGNAME_JL-1"
+msgstr "Shenyang JL-1A-37"
+
+msgid "PLANE_LONGNAME_JU-287"
+msgstr "Junkers Ju 287"
+
+msgid "PLANE_LONGNAME_JU-288A"
+msgstr "Junkers Ju 288 A"
+
+msgid "PLANE_LONGNAME_JU-288C"
+msgstr "Junkers Ju 288 C"
+
+msgid "PLANE_LONGNAME_JU-52"
+msgstr "Junkers Ju 52"
+
+msgid "PLANE_LONGNAME_JU-86E"
+msgstr "Junkers Ju 86 E"
+
+msgid "PLANE_LONGNAME_JU-87G"
+msgstr "Junkers Ju 87 G Stuka"
+
+msgid "PLANE_LONGNAME_JU-88A"
+msgstr "Junkers Ju 88 A"
+
+msgid "PLANE_LONGNAME_JU-88P"
+msgstr "Junkers Ju 88 P"
+
+msgid "PLANE_LONGNAME_KI-10"
+msgstr "Kawasaki Ki-10"
+
+msgid "PLANE_LONGNAME_KI-102"
+msgstr "Kawasaki Ki-102"
+
+msgid "PLANE_LONGNAME_KI-162"
+msgstr "Tachikawa Ki-162-I"
+
+msgid "PLANE_LONGNAME_KI-162-3"
+msgstr "Tachikawa Ki-162-III"
+
+msgid "PLANE_LONGNAME_KI-18"
+msgstr "Mitsubishi Ki-18"
+
+msgid "PLANE_LONGNAME_KI-27"
+msgstr "Nakajima Ki-27"
+
+msgid "PLANE_LONGNAME_KI-33"
+msgstr "Mitsubishi Ki-33"
+
+msgid "PLANE_LONGNAME_KI-43-I"
+msgstr "Nakajima Ki-43-I Hayabusa"
+
+msgid "PLANE_LONGNAME_KI-43-IC"
+msgstr "Nakajima Ki-43-Ic"
+
+msgid "PLANE_LONGNAME_KI-43-II"
+msgstr "Nakajima Ki-43-II Hayabusa"
+
+msgid "PLANE_LONGNAME_KI-45"
+msgstr "Kawasaki Ki-45 Toryu"
+
+msgid "PLANE_LONGNAME_KI-5"
+msgstr "Kawasaki Ki-5"
+
+msgid "PLANE_LONGNAME_KI-61"
+msgstr "Kawasaki Ki-61 Hien"
+
+msgid "PLANE_LONGNAME_KI-8"
+msgstr "Nakajima Ki-8"
+
+msgid "PLANE_LONGNAME_KI-84"
+msgstr "Nakajima Ki-84 Hayate"
+
+msgid "PLANE_LONGNAME_KI-88"
+msgstr "Kawasaki Ki-88"
+
+msgid "PLANE_LONGNAME_KI-93"
+msgstr "Rikugun Ki-93"
+
+msgid "PLANE_LONGNAME_KI-94-I"
+msgstr "Tachikawa Ki-94-I"
+
+msgid "PLANE_LONGNAME_KI-94-II"
+msgstr "Tachikawa Ki-94-II"
+
+msgid "PLANE_LONGNAME_LA-11"
+msgstr "Lavochkin La-11"
+
+msgid "PLANE_LONGNAME_LA-15"
+msgstr "Lavochkin La-15"
+
+msgid "PLANE_LONGNAME_LA-150"
+msgstr "Lavochkin La-150"
+
+msgid "PLANE_LONGNAME_LA-160"
+msgstr "Lavochkin La-160"
+
+msgid "PLANE_LONGNAME_LA-5"
+msgstr "Lavochkin La-5"
+
+msgid "PLANE_LONGNAME_LA-7"
+msgstr "Lavochkin La-7"
+
+msgid "PLANE_LONGNAME_LA-9"
+msgstr "Lavochkin La-9"
+
+msgid "PLANE_LONGNAME_LA-9RD"
+msgstr "Lavochkin La-9RD"
+
+msgid "PLANE_LONGNAME_LAGG-3"
+msgstr "Lavochkin LaGG-3"
+
+msgid "PLANE_LONGNAME_LAGG-3-34"
+msgstr "Lavochkin LaGG-3 series 34"
+
+msgid "PLANE_LONGNAME_LAGG-3-4"
+msgstr "Lavochkin LaGG-3 series 4"
+
+msgid "PLANE_LONGNAME_LBSH"
+msgstr "Kochyerigin Sh (LBSh)"
+
+msgid "PLANE_LONGNAME_LBSHD"
+msgstr "Tomashevich LShBD"
+
+msgid "PLANE_LONGNAME_LBSH_PR"
+msgstr "Kochyerigin Sh (LBSh)"
+
+msgid "PLANE_LONGNAME_M-20"
+msgstr "Miles M.20"
+
+msgid "PLANE_LONGNAME_M81A-1"
+msgstr "Curtiss Model 81A-1"
+
+msgid "PLANE_LONGNAME_ME-210"
+msgstr "Messerschmitt Me 210"
+
+msgid "PLANE_LONGNAME_ME-262"
+msgstr "Messerschmitt Me 262 Schwalbe"
+
+msgid "PLANE_LONGNAME_ME-262-HG2"
+msgstr "Messerschmitt Me 262 HG II"
+
+msgid "PLANE_LONGNAME_ME-262-HG3"
+msgstr "Messerschmitt Me 262 HG III"
+
+msgid "PLANE_LONGNAME_ME-265"
+msgstr "Messerschmitt Me 265"
+
+msgid "PLANE_LONGNAME_ME-329"
+msgstr "Messerschmitt Me 329"
+
+msgid "PLANE_LONGNAME_ME-410"
+msgstr "Messerschmitt Me 410 Hornisse"
+
+msgid "PLANE_LONGNAME_ME-609"
+msgstr "Messerschmitt Me 609"
+
+msgid "PLANE_LONGNAME_ME-P1092"
+msgstr "Messerschmitt Me P.1092"
+
+msgid "PLANE_LONGNAME_ME-P1099B"
+msgstr "Messerschmitt Me P.1099 B-2"
+
+msgid "PLANE_LONGNAME_ME-P1101"
+msgstr "Messerschmitt Me P.1101"
+
+msgid "PLANE_LONGNAME_ME-P1102"
+msgstr "Messerschmitt P.1102"
+
+msgid "PLANE_LONGNAME_ME-P1102B"
+msgstr "Messerschmitt Me P.1102 B"
+
+msgid "PLANE_LONGNAME_METEOR"
+msgstr "Gloster Meteor F. I"
+
+msgid "PLANE_LONGNAME_MIG-15BIS"
+msgstr "Mikoyan-Gurevich MiG-15bis"
+
+msgid "PLANE_LONGNAME_MIG-3"
+msgstr "Mikoyan-Gurevich MiG-3"
+
+msgid "PLANE_LONGNAME_MIG-9"
+msgstr "Mikoyan-Gurevich MiG-9"
+
+msgid "PLANE_LONGNAME_MOSQUITO-MK26"
+msgstr "De Havilland 98 Mosquito FB 26"
+
+msgid "PLANE_LONGNAME_MUSTANG-I"
+msgstr "North American Mustang Mk.I"
+
+msgid "PLANE_LONGNAME_MUSTANG-IA"
+msgstr "North American Mustang IA"
+
+msgid "PLANE_LONGNAME_NC1070"
+msgstr "SNCAC NC 1070"
+
+msgid "PLANE_LONGNAME_P-12"
+msgstr "Boeing P-12"
+
+msgid "PLANE_LONGNAME_P-23"
+msgstr "Curtiss P-23"
+
+msgid "PLANE_LONGNAME_P-26"
+msgstr "Boeing P-26 Peashooter"
+
+msgid "PLANE_LONGNAME_P-35"
+msgstr "Seversky P-35"
+
+msgid "PLANE_LONGNAME_P-36"
+msgstr "Curtiss P-36 Hawk"
+
+msgid "PLANE_LONGNAME_P-36C"
+msgstr "Curtiss P-36C Hawk"
+
+msgid "PLANE_LONGNAME_P-38F"
+msgstr "Lockheed P-38F Lightning"
+
+msgid "PLANE_LONGNAME_P-38J"
+msgstr "Lockheed P-38J Lightning"
+
+msgid "PLANE_LONGNAME_P-39N-1"
+msgstr "Bell P-39N-1 Airacobra"
+
+msgid "PLANE_LONGNAME_P-39Q"
+msgstr "Bell P-39Q-15 Airacobra"
+
+msgid "PLANE_LONGNAME_P-40"
+msgstr "Curtiss P-40 Warhawk"
+
+msgid "PLANE_LONGNAME_P-40-M-105"
+msgstr "Curtiss P-40 M-105"
+
+msgid "PLANE_LONGNAME_P-43"
+msgstr "Republic P-43 Lancer"
+
+msgid "PLANE_LONGNAME_P-44"
+msgstr "Republic XP-44 Rocket"
+
+msgid "PLANE_LONGNAME_P-47B"
+msgstr "Republic P-47B Thunderbolt"
+
+msgid "PLANE_LONGNAME_P-47N"
+msgstr "Republic P-47N Thunderbolt"
+
+msgid "PLANE_LONGNAME_P-51"
+msgstr "North American P-51D Mustang"
+
+msgid "PLANE_LONGNAME_P-51A"
+msgstr "North American P-51A Mustang"
+
+msgid "PLANE_LONGNAME_P-51H"
+msgstr "North American P-51H Mustang"
+
+msgid "PLANE_LONGNAME_P-51JP"
+msgstr "North American P-51 Jet Mustang"
+
+msgid "PLANE_LONGNAME_P-51K"
+msgstr "North American P-51K Mustang"
+
+msgid "PLANE_LONGNAME_P-72"
+msgstr "Republic XP-72"
+
+msgid "PLANE_LONGNAME_P-77"
+msgstr "Bell XP-77"
+
+msgid "PLANE_LONGNAME_P-80A"
+msgstr "Lockheed P-80A Shooting Star"
+
+msgid "PLANE_LONGNAME_P-82B"
+msgstr "North American P-82B Twin Mustang"
+
+msgid "PLANE_LONGNAME_PE-2"
+msgstr "Petlyakov Pe-2"
+
+msgid "PLANE_LONGNAME_PE-2-M-82"
+msgstr "Petlyakov Pe-2 M-82"
+
+msgid "PLANE_LONGNAME_PEGAS"
+msgstr "Tomashevich Pegasus"
+
+msgid "PLANE_LONGNAME_PV-3"
+msgstr "Hawker P.V.3"
+
+msgid "PLANE_LONGNAME_PZL-P-38_WILK"
+msgstr "PZL P.38 Wilk"
+
+msgid "PLANE_LONGNAME_RB-17"
+msgstr "Myasishchev RB-17"
+
+msgid "PLANE_LONGNAME_S-199"
+msgstr "Avia S-199 Sakeen"
+
+msgid "PLANE_LONGNAME_SAAB_J-21RB"
+msgstr "SAAB J 21RB"
+
+msgid "PLANE_LONGNAME_SAUCER"
+msgstr "Kampfflugplatte Sleipnir I"
+
+msgid "PLANE_LONGNAME_SB"
+msgstr "Arkhangelsky/Tupolev SB"
+
+msgid "PLANE_LONGNAME_SE100"
+msgstr "SNCASE SE 100"
+
+msgid "PLANE_LONGNAME_SEAFANG"
+msgstr "Supermarine Seafang F.32"
+
+msgid "PLANE_LONGNAME_SEAHAWK"
+msgstr "Hawker Sea Hawk"
+
+msgid "PLANE_LONGNAME_SKUA"
+msgstr "Blackburn Skua"
+
+msgid "PLANE_LONGNAME_SLEIPNIR"
+msgstr "Odin 42M Flying Saucer"
+
+msgid "PLANE_LONGNAME_SPAD510"
+msgstr "Blériot-SPAD S.510"
+
+msgid "PLANE_LONGNAME_SPITFIRE-I"
+msgstr "Supermarine Spitfire I"
+
+msgid "PLANE_LONGNAME_SPITFIRE-IA"
+msgstr "Supermarine Spitfire Mk Ia"
+
+msgid "PLANE_LONGNAME_SPITFIRE-IX"
+msgstr "Supermarine Spitfire IX"
+
+msgid "PLANE_LONGNAME_SPITFIRE-V"
+msgstr "Supermarine Spitfire V"
+
+msgid "PLANE_LONGNAME_SPITFIRE-V-DB-605"
+msgstr "Supermarine Spitfire V DB 605"
+
+msgid "PLANE_LONGNAME_SPITFIRE-VB-IM"
+msgstr "Supermarine Spitfire Vb IM"
+
+msgid "PLANE_LONGNAME_SPITFIRE-XIV"
+msgstr "Supermarine Spitfire XIV"
+
+msgid "PLANE_LONGNAME_SU-10"
+msgstr "Sukhoi Su-10"
+
+msgid "PLANE_LONGNAME_SU-9"
+msgstr "Sukhoi Su-9"
+
+msgid "PLANE_LONGNAME_SUPERMARINE-T-224"
+msgstr "Supermarine Type 224"
+
+msgid "PLANE_LONGNAME_SWIFT"
+msgstr "Supermarine Swift"
+
+msgid "PLANE_LONGNAME_TA-152"
+msgstr "Focke-Wulf Ta 152"
+
+msgid "PLANE_LONGNAME_TA-183"
+msgstr "Focke-Wulf Ta 183 Huckebein"
+
+msgid "PLANE_LONGNAME_TANDEM"
+msgstr "Grushin Sh-Tandem"
+
+msgid "PLANE_LONGNAME_TEMPEST"
+msgstr "Hawker Tempest"
+
+msgid "PLANE_LONGNAME_TOMAHAWK-IIB"
+msgstr "Curtiss Tomahawk IIb"
+
+msgid "PLANE_LONGNAME_TORNADO"
+msgstr "Hawker Tornado"
+
+msgid "PLANE_LONGNAME_TSH-1"
+msgstr "Kochyerigin TSh-2"
+
+msgid "PLANE_LONGNAME_TSH-3"
+msgstr "Kochyerigin TSh-3"
+
+msgid "PLANE_LONGNAME_TSKB-12"
+msgstr "Polikarpov TsKB-12bis"
+
+msgid "PLANE_LONGNAME_TU-1"
+msgstr "Tupolev Tu-1"
+
+msgid "PLANE_LONGNAME_TU-10"
+msgstr "Tupolev Tu-10"
+
+msgid "PLANE_LONGNAME_TU-12"
+msgstr "Tupolev Tu-12"
+
+msgid "PLANE_LONGNAME_TU-2"
+msgstr "Tupolev Tu-2"
+
+msgid "PLANE_LONGNAME_TYPE-91"
+msgstr "Nakajima Type-91"
+
+msgid "PLANE_LONGNAME_TYPHOON"
+msgstr "Hawker Typhoon"
+
+msgid "PLANE_LONGNAME_VAMPIRE-F1"
+msgstr "De Havilland DH.100 Vampire F.1"
+
+msgid "PLANE_LONGNAME_VB10"
+msgstr "Arsenal VB 10"
+
+msgid "PLANE_LONGNAME_VENOM"
+msgstr "Vickers Venom"
+
+msgid "PLANE_LONGNAME_WESTLAND-P-1056"
+msgstr "Westland P.1056"
+
+msgid "PLANE_LONGNAME_WIRRAWAY"
+msgstr "CAC CA-1 Wirraway"
+
+msgid "PLANE_LONGNAME_XF-85"
+msgstr "McDonnell XF-85 Goblin"
+
+msgid "PLANE_LONGNAME_XF4F-3"
+msgstr "Grumman XF4F-3"
+
+msgid "PLANE_LONGNAME_XF4U-1"
+msgstr "Chance-Vought XF4U-1"
+
+msgid "PLANE_LONGNAME_XP-31"
+msgstr "Curtiss XP-31"
+
+msgid "PLANE_LONGNAME_XP-36F"
+msgstr "Curtiss XP-36F Hawk"
+
+msgid "PLANE_LONGNAME_XP-50"
+msgstr "Grumman XP-50"
+
+msgid "PLANE_LONGNAME_XP-55"
+msgstr "Curtiss-Wright XP-55 Ascender"
+
+msgid "PLANE_LONGNAME_XP-58"
+msgstr "Lockheed XP-58 Chain Lightning"
+
+msgid "PLANE_LONGNAME_XP-75"
+msgstr "Fisher XP-75 Eagle"
+
+msgid "PLANE_LONGNAME_YAK-1"
+msgstr "Yakovlev Yak-1"
+
+msgid "PLANE_LONGNAME_YAK-15"
+msgstr "Yakovlev Yak-15"
+
+msgid "PLANE_LONGNAME_YAK-19"
+msgstr "Yakovlev Yak-19"
+
+msgid "PLANE_LONGNAME_YAK-1M"
+msgstr "Yakovlev Yak-1M"
+
+msgid "PLANE_LONGNAME_YAK-3"
+msgstr "Yakovlev Yak-3"
+
+msgid "PLANE_LONGNAME_YAK-30"
+msgstr "Yakovlev Yak-30"
+
+msgid "PLANE_LONGNAME_YAK-3RD"
+msgstr "Yakovlev Yak-3RD"
+
+msgid "PLANE_LONGNAME_YAK-3T"
+msgstr "Yakovlev Yak-3T"
+
+msgid "PLANE_LONGNAME_YAK-7"
+msgstr "Yakovlev Yak-7"
+
+msgid "PLANE_LONGNAME_YAK-7-M-82"
+msgstr "Yakovlev Yak-7 M-82"
+
+msgid "PLANE_LONGNAME_YAK-9"
+msgstr "Yakovlev Yak-9"
+
+msgid "PLANE_LONGNAME_YAK-9U"
+msgstr "Yakovlev Yak-9U"
+
+msgid "PLANE_LONGNAME_YP-29"
+msgstr "Boeing YP-29"
+
+msgid "PLANE_MIDNAME_2PA"
+msgstr "2PA"
+
+msgid "PLANE_MIDNAME_2PA-L"
+msgstr "2PA-L"
+
+msgid "PLANE_MIDNAME_A-26B"
+msgstr "A-26B Invader"
+
+msgid "PLANE_MIDNAME_A4N"
+msgstr "A4N"
+
+msgid "PLANE_MIDNAME_A5M"
+msgstr "A5M"
+
+msgid "PLANE_MIDNAME_A6M1"
+msgstr "A6M1 Zero"
+
+msgid "PLANE_MIDNAME_A6M2"
+msgstr "A6M2 Zero"
+
+msgid "PLANE_MIDNAME_A6M3-30"
+msgstr "A6M3 (exp.)"
+
+msgid "PLANE_MIDNAME_A6M5"
+msgstr "A6M5 Zero"
+
+msgid "PLANE_MIDNAME_A7M"
+msgstr "A7M Reppu"
+
+msgid "PLANE_MIDNAME_AD10"
+msgstr "AD 10C2"
+
+msgid "PLANE_MIDNAME_AO-192"
+msgstr "Ao 192 Kurier"
+
+msgid "PLANE_MIDNAME_AR-197"
+msgstr "Ar 197"
+
+msgid "PLANE_MIDNAME_AR-2"
+msgstr "Ar-2"
+
+msgid "PLANE_MIDNAME_AR-65"
+msgstr "Ar 65"
+
+msgid "PLANE_MIDNAME_AR-67"
+msgstr "Ar 67"
+
+msgid "PLANE_MIDNAME_AR-68"
+msgstr "Ar 68"
+
+msgid "PLANE_MIDNAME_AR-80"
+msgstr "Ar 80"
+
+msgid "PLANE_MIDNAME_ATTACKER"
+msgstr "Attacker"
+
+msgid "PLANE_MIDNAME_AVIA_B-534"
+msgstr "B-534"
+
+msgid "PLANE_MIDNAME_AVIA_BK-534"
+msgstr "Bk-534"
+
+msgid "PLANE_MIDNAME_B-17D"
+msgstr "B-17D Flying Fortress"
+
+msgid "PLANE_MIDNAME_B-17G"
+msgstr "B-17G Flying Fortress"
+
+msgid "PLANE_MIDNAME_B-32"
+msgstr "B-32 Dominator"
+
+msgid "PLANE_MIDNAME_BA-27"
+msgstr "Ba.27 Metallico"
+
+msgid "PLANE_MIDNAME_BEAUFIGHTER-F"
+msgstr "Beaufighter"
+
+msgid "PLANE_MIDNAME_BEAUFIGHTER-V-IM"
+msgstr "Beaufighter V IM"
+
+msgid "PLANE_MIDNAME_BF-109B"
+msgstr "Bf 109 B"
+
+msgid "PLANE_MIDNAME_BF-109C"
+msgstr "Bf 109 C"
+
+msgid "PLANE_MIDNAME_BF-109E"
+msgstr "Bf 109 E Emil"
+
+msgid "PLANE_MIDNAME_BF-109E-3"
+msgstr "Bf 109 E-3"
+
+msgid "PLANE_MIDNAME_BF-109F"
+msgstr "Bf 109 F Friedrich"
+
+msgid "PLANE_MIDNAME_BF-109G"
+msgstr "Bf 109 G Gustav"
+
+msgid "PLANE_MIDNAME_BF-109TL"
+msgstr "Me 109 TL"
+
+msgid "PLANE_MIDNAME_BF-109Z"
+msgstr "Bf 109 Z Zwilling"
+
+msgid "PLANE_MIDNAME_BF-110B"
+msgstr "Bf 110 B"
+
+msgid "PLANE_MIDNAME_BF-110C-6"
+msgstr "Bf 110 C-6"
+
+msgid "PLANE_MIDNAME_BF-110E"
+msgstr "Bf 110 E"
+
+msgid "PLANE_MIDNAME_BF-209A1"
+msgstr "Me 209 A"
+
+msgid "PLANE_MIDNAME_BF-209V"
+msgstr "Me 209 V4"
+
+msgid "PLANE_MIDNAME_BLENHEIM-F"
+msgstr "Blenheim F"
+
+msgid "PLANE_MIDNAME_BLENHEIM-IV"
+msgstr "Blenheim Mk.IV (early mod.)"
+
+msgid "PLANE_MIDNAME_BOOMERANG"
+msgstr "CA-12 Boomerang"
+
+msgid "PLANE_MIDNAME_BRISTOL-TYPE-105"
+msgstr "Bulldog"
+
+msgid "PLANE_MIDNAME_BRISTOL-TYPE-133"
+msgstr "Bristol 133"
+
+msgid "PLANE_MIDNAME_BRISTOL-TYPE-146"
+msgstr "Bristol 146"
+
+msgid "PLANE_MIDNAME_BSH-1"
+msgstr "BSh-1"
+
+msgid "PLANE_MIDNAME_BSH-2"
+msgstr "BSh-2"
+
+msgid "PLANE_MIDNAME_BV-P203"
+msgstr "BV P.203"
+
+msgid "PLANE_MIDNAME_BV-P210"
+msgstr "BV P.210"
+
+msgid "PLANE_MIDNAME_BV-P212-03"
+msgstr "BV P.212.03"
+
+msgid "PLANE_MIDNAME_BV-P215-02"
+msgstr "BV P.215.02"
+
+msgid "PLANE_MIDNAME_CR714"
+msgstr "Caudron C.714"
+
+msgid "PLANE_MIDNAME_D-H-103"
+msgstr "DH.103 Hornet"
+
+msgid "PLANE_MIDNAME_D-H-98"
+msgstr "DH.98 Mosquito"
+
+msgid "PLANE_MIDNAME_DEMON"
+msgstr "Demon"
+
+msgid "PLANE_MIDNAME_DI-6"
+msgstr "Di-6i"
+
+msgid "PLANE_MIDNAME_DO-17Z"
+msgstr "Do 17 Z-7 Kauz"
+
+msgid "PLANE_MIDNAME_DO-17Z-2"
+msgstr "Do 17 Z"
+
+msgid "PLANE_MIDNAME_DO-217M"
+msgstr "Do 217 M"
+
+msgid "PLANE_MIDNAME_DO-335A1"
+msgstr "Dornier Do 335 A-1"
+
+msgid "PLANE_MIDNAME_EF-131"
+msgstr "EF 131"
+
+msgid "PLANE_MIDNAME_F-15C"
+msgstr "XF15C"
+
+msgid "PLANE_MIDNAME_F-84B"
+msgstr "F-84B Thunderjet"
+
+msgid "PLANE_MIDNAME_F-84F"
+msgstr "F-84F Thunderstreak"
+
+msgid "PLANE_MIDNAME_F-86A"
+msgstr "F-86A Sabre"
+
+msgid "PLANE_MIDNAME_F11C"
+msgstr "F11C-2"
+
+msgid "PLANE_MIDNAME_F2A"
+msgstr "F2A Buffalo"
+
+msgid "PLANE_MIDNAME_F2A-1"
+msgstr "F2A-1 Buffalo"
+
+msgid "PLANE_MIDNAME_F2F"
+msgstr "F2F"
+
+msgid "PLANE_MIDNAME_F2G"
+msgstr "F2G Super Corsair"
+
+msgid "PLANE_MIDNAME_F2H"
+msgstr "F2H Banshee"
+
+msgid "PLANE_MIDNAME_F3F"
+msgstr "F3F"
+
+msgid "PLANE_MIDNAME_F4F"
+msgstr "F4F Wildcat"
+
+msgid "PLANE_MIDNAME_F4U"
+msgstr "F4U-1 Corsair"
+
+msgid "PLANE_MIDNAME_F4U-4"
+msgstr "F4U-4 Corsair"
+
+msgid "PLANE_MIDNAME_F5U"
+msgstr "XF5U Pancake"
+
+msgid "PLANE_MIDNAME_F6U"
+msgstr "F6U Pirate"
+
+msgid "PLANE_MIDNAME_F7F"
+msgstr "F7F Tigercat"
+
+msgid "PLANE_MIDNAME_F7U"
+msgstr "F7U Cutlass"
+
+msgid "PLANE_MIDNAME_F90"
+msgstr "XF-90"
+
+msgid "PLANE_MIDNAME_F94"
+msgstr "F-94D Starfire"
+
+msgid "PLANE_MIDNAME_FANTOME"
+msgstr "Fantome"
+
+msgid "PLANE_MIDNAME_FI-98"
+msgstr "Fi 98"
+
+msgid "PLANE_MIDNAME_FJ-1"
+msgstr "FJ-1 Fury"
+
+msgid "PLANE_MIDNAME_FL-1"
+msgstr "XFL-1 Airabonita"
+
+msgid "PLANE_MIDNAME_FW-159"
+msgstr "Fw 159"
+
+msgid "PLANE_MIDNAME_FW-189C"
+msgstr "Fw 189 C Eule"
+
+msgid "PLANE_MIDNAME_FW-190A1"
+msgstr "Fw 190 A-1"
+
+msgid "PLANE_MIDNAME_FW-190A5"
+msgstr "Fw 190 A-5"
+
+msgid "PLANE_MIDNAME_FW-190A8"
+msgstr "Fw 190 A-8/R2"
+
+msgid "PLANE_MIDNAME_FW-190D"
+msgstr "Fw 190 D"
+
+msgid "PLANE_MIDNAME_FW-252"
+msgstr "Fw 252"
+
+msgid "PLANE_MIDNAME_FW-56"
+msgstr "Fw 56 Stosser"
+
+msgid "PLANE_MIDNAME_FW-57"
+msgstr "Fw 57"
+
+msgid "PLANE_MIDNAME_GLOSTER-JAVELIN"
+msgstr "Gloster Javelin"
+
+msgid "PLANE_MIDNAME_GLOSTER-P-228"
+msgstr "Gloster P.228"
+
+msgid "PLANE_MIDNAME_GOLDFINCH"
+msgstr "Goldfinch"
+
+msgid "PLANE_MIDNAME_HA-137"
+msgstr "Ha 137"
+
+msgid "PLANE_MIDNAME_HA-137V1"
+msgstr "Ha 137 V1"
+
+msgid "PLANE_MIDNAME_HAWK-2"
+msgstr "Hawk II"
+
+msgid "PLANE_MIDNAME_HAWK-3"
+msgstr "Hawk III"
+
+msgid "PLANE_MIDNAME_HAWK-75"
+msgstr "Hawk 75M"
+
+msgid "PLANE_MIDNAME_HE-100"
+msgstr "He 100 D-1"
+
+msgid "PLANE_MIDNAME_HE-111H-2"
+msgstr "He 111 H-2"
+
+msgid "PLANE_MIDNAME_HE-112"
+msgstr "He 112"
+
+msgid "PLANE_MIDNAME_HE-51"
+msgstr "He 51"
+
+msgid "PLANE_MIDNAME_HO-229"
+msgstr "Ho 229"
+
+msgid "PLANE_MIDNAME_HS-123"
+msgstr "Hs 123"
+
+msgid "PLANE_MIDNAME_HS-129"
+msgstr "Hs 129 B"
+
+msgid "PLANE_MIDNAME_HS-129A"
+msgstr "Hs 129 А"
+
+msgid "PLANE_MIDNAME_HUNTER"
+msgstr "Hunter"
+
+msgid "PLANE_MIDNAME_HURRICANE-I"
+msgstr "Hurricane Mk I"
+
+msgid "PLANE_MIDNAME_HURRICANE-IA"
+msgstr "Hurricane Mk. Ia"
+
+msgid "PLANE_MIDNAME_HURRICANE-II"
+msgstr "Hurricane Mk II"
+
+msgid "PLANE_MIDNAME_HURRICANE-IID"
+msgstr "Hurricane IID"
+
+msgid "PLANE_MIDNAME_I-15"
+msgstr "I-15"
+
+msgid "PLANE_MIDNAME_I-153-DM-4"
+msgstr "I-153 DM-4"
+
+msgid "PLANE_MIDNAME_I-15BIS-DM2"
+msgstr "I-15bis DM-2"
+
+msgid "PLANE_MIDNAME_I-16-24"
+msgstr "I-16 (late mod.)"
+
+msgid "PLANE_MIDNAME_I-16-29"
+msgstr "I-16 Type 29"
+
+msgid "PLANE_MIDNAME_I-16-5"
+msgstr "I-16 (early mod.)"
+
+msgid "PLANE_MIDNAME_I-17"
+msgstr "I-17"
+
+msgid "PLANE_MIDNAME_I-180"
+msgstr "I-180-3"
+
+msgid "PLANE_MIDNAME_I-207-4"
+msgstr "I-207/4"
+
+msgid "PLANE_MIDNAME_I-21"
+msgstr "I-21 (TsKB-32)"
+
+msgid "PLANE_MIDNAME_I-210"
+msgstr "I-210"
+
+msgid "PLANE_MIDNAME_I-211"
+msgstr "I-211"
+
+msgid "PLANE_MIDNAME_I-215"
+msgstr "I-215"
+
+msgid "PLANE_MIDNAME_I-220"
+msgstr "I-220"
+
+msgid "PLANE_MIDNAME_I-250"
+msgstr "I-250"
+
+msgid "PLANE_MIDNAME_I-260"
+msgstr "I-260"
+
+msgid "PLANE_MIDNAME_I-302P"
+msgstr "302"
+
+msgid "PLANE_MIDNAME_I-5"
+msgstr "I-5"
+
+msgid "PLANE_MIDNAME_I-5SHKAS"
+msgstr "I-5 ShKAS"
+
+msgid "PLANE_MIDNAME_I-7"
+msgstr "I-7"
+
+msgid "PLANE_MIDNAME_IL-1"
+msgstr "IL-1"
+
+msgid "PLANE_MIDNAME_IL-10"
+msgstr "IL-10"
+
+msgid "PLANE_MIDNAME_IL-10M"
+msgstr "IL-10M"
+
+msgid "PLANE_MIDNAME_IL-2-1"
+msgstr "IL-2"
+
+msgid "PLANE_MIDNAME_IL-2-2"
+msgstr "IL-2 two-seat"
+
+msgid "PLANE_MIDNAME_IL-20"
+msgstr "IL-20"
+
+msgid "PLANE_MIDNAME_IL-2MOD"
+msgstr "IL-2 (mod.)"
+
+msgid "PLANE_MIDNAME_IL-40"
+msgstr "IL-40"
+
+msgid "PLANE_MIDNAME_IL-40P"
+msgstr "IL-40P"
+
+msgid "PLANE_MIDNAME_IL-8"
+msgstr "IL-8"
+
+msgid "PLANE_MIDNAME_J4M"
+msgstr "J4M Senden"
+
+msgid "PLANE_MIDNAME_J7W1"
+msgstr "J7W1 Shinden"
+
+msgid "PLANE_MIDNAME_J7W2"
+msgstr "J7W2 Shinden-Kai"
+
+msgid "PLANE_MIDNAME_J7W3"
+msgstr "J7W3"
+
+msgid "PLANE_MIDNAME_J8M"
+msgstr "J8M Shusui"
+
+msgid "PLANE_MIDNAME_JL-1"
+msgstr "JL-1A-37"
+
+msgid "PLANE_MIDNAME_JU-287"
+msgstr "Ju 287"
+
+msgid "PLANE_MIDNAME_JU-288A"
+msgstr "Ju 288 A"
+
+msgid "PLANE_MIDNAME_JU-288C"
+msgstr "Ju 288 C"
+
+msgid "PLANE_MIDNAME_JU-52"
+msgstr "Ju 52"
+
+msgid "PLANE_MIDNAME_JU-86E"
+msgstr "Ju 86 E"
+
+msgid "PLANE_MIDNAME_JU-87G"
+msgstr "Ju 87 G Stuka"
+
+msgid "PLANE_MIDNAME_JU-88A"
+msgstr "Ju 88 A"
+
+msgid "PLANE_MIDNAME_JU-88P"
+msgstr "Ju 88 P"
+
+msgid "PLANE_MIDNAME_KI-10"
+msgstr "Ki-10"
+
+msgid "PLANE_MIDNAME_KI-102"
+msgstr "Ki-102"
+
+msgid "PLANE_MIDNAME_KI-162"
+msgstr "Ki-162-I"
+
+msgid "PLANE_MIDNAME_KI-162-3"
+msgstr "Ki-162-III"
+
+msgid "PLANE_MIDNAME_KI-18"
+msgstr "Ki-18"
+
+msgid "PLANE_MIDNAME_KI-27"
+msgstr "Ki-27"
+
+msgid "PLANE_MIDNAME_KI-33"
+msgstr "Ki-33"
+
+msgid "PLANE_MIDNAME_KI-43-I"
+msgstr "Ki-43-I Hayabusa"
+
+msgid "PLANE_MIDNAME_KI-43-IC"
+msgstr "Ki-43-Ic"
+
+msgid "PLANE_MIDNAME_KI-43-II"
+msgstr "Ki-43-II Hayabusa"
+
+msgid "PLANE_MIDNAME_KI-45"
+msgstr "Ki-45 Toryu"
+
+msgid "PLANE_MIDNAME_KI-5"
+msgstr "Ki-5"
+
+msgid "PLANE_MIDNAME_KI-61"
+msgstr "Ki-61 Hien"
+
+msgid "PLANE_MIDNAME_KI-8"
+msgstr "Ki-8"
+
+msgid "PLANE_MIDNAME_KI-84"
+msgstr "Ki-84 Hayate"
+
+msgid "PLANE_MIDNAME_KI-88"
+msgstr "Ki-88"
+
+msgid "PLANE_MIDNAME_KI-93"
+msgstr "Ki-93"
+
+msgid "PLANE_MIDNAME_KI-94-I"
+msgstr "Ki-94-I"
+
+msgid "PLANE_MIDNAME_KI-94-II"
+msgstr "Ki-94-II"
+
+msgid "PLANE_MIDNAME_LA-11"
+msgstr "La-11"
+
+msgid "PLANE_MIDNAME_LA-15"
+msgstr "La-15"
+
+msgid "PLANE_MIDNAME_LA-150"
+msgstr "La-150"
+
+msgid "PLANE_MIDNAME_LA-160"
+msgstr "La-160"
+
+msgid "PLANE_MIDNAME_LA-5"
+msgstr "La-5"
+
+msgid "PLANE_MIDNAME_LA-7"
+msgstr "La-7"
+
+msgid "PLANE_MIDNAME_LA-9"
+msgstr "La-9"
+
+msgid "PLANE_MIDNAME_LA-9RD"
+msgstr "La-9RD"
+
+msgid "PLANE_MIDNAME_LAGG-3"
+msgstr "LaGG-3"
+
+msgid "PLANE_MIDNAME_LAGG-3-34"
+msgstr "LaGG-3 series 34"
+
+msgid "PLANE_MIDNAME_LAGG-3-4"
+msgstr "LaGG-3 series 4"
+
+msgid "PLANE_MIDNAME_LBSH"
+msgstr "LBSh"
+
+msgid "PLANE_MIDNAME_LBSHD"
+msgstr "LShBD"
+
+msgid "PLANE_MIDNAME_LBSH_PR"
+msgstr "LBSh"
+
+msgid "PLANE_MIDNAME_M-20"
+msgstr "M.20"
+
+msgid "PLANE_MIDNAME_M81A-1"
+msgstr "Model 81A-1"
+
+msgid "PLANE_MIDNAME_ME-210"
+msgstr "Me 210"
+
+msgid "PLANE_MIDNAME_ME-262"
+msgstr "Me 262 Schwalbe"
+
+msgid "PLANE_MIDNAME_ME-262-HG2"
+msgstr "Me 262 HG II"
+
+msgid "PLANE_MIDNAME_ME-262-HG3"
+msgstr "Me 262 HG III"
+
+msgid "PLANE_MIDNAME_ME-265"
+msgstr "Me 265"
+
+msgid "PLANE_MIDNAME_ME-329"
+msgstr "Me 329"
+
+msgid "PLANE_MIDNAME_ME-410"
+msgstr "Me 410 Hornisse"
+
+msgid "PLANE_MIDNAME_ME-609"
+msgstr "Me 609"
+
+msgid "PLANE_MIDNAME_ME-P1092"
+msgstr "Me P.1092"
+
+msgid "PLANE_MIDNAME_ME-P1099B"
+msgstr "Me P.1099 B-2"
+
+msgid "PLANE_MIDNAME_ME-P1101"
+msgstr "Me P.1101"
+
+msgid "PLANE_MIDNAME_ME-P1102"
+msgstr "Me P.1102"
+
+msgid "PLANE_MIDNAME_ME-P1102B"
+msgstr "Me P.1102 B"
+
+msgid "PLANE_MIDNAME_METEOR"
+msgstr "Meteor F. I"
+
+msgid "PLANE_MIDNAME_MIG-15BIS"
+msgstr "MiG-15bis"
+
+msgid "PLANE_MIDNAME_MIG-3"
+msgstr "MiG-3"
+
+msgid "PLANE_MIDNAME_MIG-9"
+msgstr "MiG-9"
+
+msgid "PLANE_MIDNAME_MOSQUITO-MK26"
+msgstr "Mosquito FB 26"
+
+msgid "PLANE_MIDNAME_MUSTANG-I"
+msgstr "Mustang Mk.I"
+
+msgid "PLANE_MIDNAME_MUSTANG-IA"
+msgstr "Mustang IA"
+
+msgid "PLANE_MIDNAME_NC1070"
+msgstr "NC 1070"
+
+msgid "PLANE_MIDNAME_P-12"
+msgstr "P-12"
+
+msgid "PLANE_MIDNAME_P-23"
+msgstr "P-23"
+
+msgid "PLANE_MIDNAME_P-26"
+msgstr "P-26 Peashooter"
+
+msgid "PLANE_MIDNAME_P-35"
+msgstr "P-35"
+
+msgid "PLANE_MIDNAME_P-36"
+msgstr "P-36 Hawk"
+
+msgid "PLANE_MIDNAME_P-36C"
+msgstr "P-36C Hawk"
+
+msgid "PLANE_MIDNAME_P-38F"
+msgstr "P-38F Lightning"
+
+msgid "PLANE_MIDNAME_P-38J"
+msgstr "P-38J Lightning"
+
+msgid "PLANE_MIDNAME_P-39N-1"
+msgstr "P-39N-1 Airacobra"
+
+msgid "PLANE_MIDNAME_P-39Q"
+msgstr "P-39Q-15 Airacobra"
+
+msgid "PLANE_MIDNAME_P-40"
+msgstr "P-40 Warhawk"
+
+msgid "PLANE_MIDNAME_P-40-M-105"
+msgstr "P-40 M-105"
+
+msgid "PLANE_MIDNAME_P-43"
+msgstr "P-43 Lancer"
+
+msgid "PLANE_MIDNAME_P-44"
+msgstr "XP-44 Rocket"
+
+msgid "PLANE_MIDNAME_P-47B"
+msgstr "P-47B Thunderbolt"
+
+msgid "PLANE_MIDNAME_P-47N"
+msgstr "P-47N Thunderbolt"
+
+msgid "PLANE_MIDNAME_P-51"
+msgstr "P-51D Mustang"
+
+msgid "PLANE_MIDNAME_P-51A"
+msgstr "P-51A Mustang"
+
+msgid "PLANE_MIDNAME_P-51H"
+msgstr "P-51H Mustang"
+
+msgid "PLANE_MIDNAME_P-51JP"
+msgstr "P-51 Jet Mustang"
+
+msgid "PLANE_MIDNAME_P-51K"
+msgstr "P-51K Mustang"
+
+msgid "PLANE_MIDNAME_P-72"
+msgstr "XP-72"
+
+msgid "PLANE_MIDNAME_P-77"
+msgstr "XP-77"
+
+msgid "PLANE_MIDNAME_P-80A"
+msgstr "P-80A Shooting Star"
+
+msgid "PLANE_MIDNAME_P-82B"
+msgstr "P-82B Twin Mustang"
+
+msgid "PLANE_MIDNAME_PE-2"
+msgstr "Pe-2"
+
+msgid "PLANE_MIDNAME_PE-2-M-82"
+msgstr "Pe-2 M-82"
+
+msgid "PLANE_MIDNAME_PEGAS"
+msgstr "Pegasus"
+
+msgid "PLANE_MIDNAME_PV-3"
+msgstr "P.V.3"
+
+msgid "PLANE_MIDNAME_PZL-P-38_WILK"
+msgstr "P.38 Wilk"
+
+msgid "PLANE_MIDNAME_RB-17"
+msgstr "RB-17"
+
+msgid "PLANE_MIDNAME_S-199"
+msgstr "S-199 Sakeen"
+
+msgid "PLANE_MIDNAME_SAAB_J-21RB"
+msgstr "J 21RB"
+
+msgid "PLANE_MIDNAME_SAUCER"
+msgstr "Sleipnir I"
+
+msgid "PLANE_MIDNAME_SB"
+msgstr "SB"
+
+msgid "PLANE_MIDNAME_SE100"
+msgstr "SE 100"
+
+msgid "PLANE_MIDNAME_SEAFANG"
+msgstr "Seafang F.32"
+
+msgid "PLANE_MIDNAME_SEAHAWK"
+msgstr "Sea Hawk"
+
+msgid "PLANE_MIDNAME_SKUA"
+msgstr "Skua"
+
+msgid "PLANE_MIDNAME_SLEIPNIR"
+msgstr "Flying Saucer"
+
+msgid "PLANE_MIDNAME_SPAD510"
+msgstr "SPAD S.510"
+
+msgid "PLANE_MIDNAME_SPITFIRE-I"
+msgstr "Spitfire I"
+
+msgid "PLANE_MIDNAME_SPITFIRE-IA"
+msgstr "Spitfire Mk Ia"
+
+msgid "PLANE_MIDNAME_SPITFIRE-IX"
+msgstr "Spitfire IX"
+
+msgid "PLANE_MIDNAME_SPITFIRE-V"
+msgstr "Spitfire V"
+
+msgid "PLANE_MIDNAME_SPITFIRE-V-DB-605"
+msgstr "Spitfire V DB 605"
+
+msgid "PLANE_MIDNAME_SPITFIRE-VB-IM"
+msgstr "Spitfire Vb IM"
+
+msgid "PLANE_MIDNAME_SPITFIRE-XIV"
+msgstr "Spitfire XIV"
+
+msgid "PLANE_MIDNAME_SU-10"
+msgstr "Su-10"
+
+msgid "PLANE_MIDNAME_SU-9"
+msgstr "Su-9"
+
+msgid "PLANE_MIDNAME_SUPERMARINE-T-224"
+msgstr "Supermarine Type 224"
+
+msgid "PLANE_MIDNAME_SWIFT"
+msgstr "Supermarine Swift"
+
+msgid "PLANE_MIDNAME_TA-152"
+msgstr "Ta 152"
+
+msgid "PLANE_MIDNAME_TA-183"
+msgstr "Ta 183 Huckebein"
+
+msgid "PLANE_MIDNAME_TANDEM"
+msgstr "Sh-Tandem"
+
+msgid "PLANE_MIDNAME_TEMPEST"
+msgstr "Tempest"
+
+msgid "PLANE_MIDNAME_TOMAHAWK-IIB"
+msgstr "Tomahawk IIb"
+
+msgid "PLANE_MIDNAME_TORNADO"
+msgstr "Tornado"
+
+msgid "PLANE_MIDNAME_TSH-1"
+msgstr "TSh-2"
+
+msgid "PLANE_MIDNAME_TSH-3"
+msgstr "TSh-3"
+
+msgid "PLANE_MIDNAME_TSKB-12"
+msgstr "TsKB-12bis"
+
+msgid "PLANE_MIDNAME_TU-1"
+msgstr "Tu-1"
+
+msgid "PLANE_MIDNAME_TU-10"
+msgstr "Tu-10"
+
+msgid "PLANE_MIDNAME_TU-12"
+msgstr "Tu-12"
+
+msgid "PLANE_MIDNAME_TU-2"
+msgstr "Tu-2"
+
+msgid "PLANE_MIDNAME_TYPE-91"
+msgstr "Type-91"
+
+msgid "PLANE_MIDNAME_TYPHOON"
+msgstr "Typhoon"
+
+msgid "PLANE_MIDNAME_VAMPIRE-F1"
+msgstr "DH.100 Vampire F.1"
+
+msgid "PLANE_MIDNAME_VB10"
+msgstr "VB 10"
+
+msgid "PLANE_MIDNAME_VENOM"
+msgstr "Venom"
+
+msgid "PLANE_MIDNAME_WESTLAND-P-1056"
+msgstr "Westland P.1056"
+
+msgid "PLANE_MIDNAME_WIRRAWAY"
+msgstr "CA-1 Wirraway"
+
+msgid "PLANE_MIDNAME_XF-85"
+msgstr "XF-85 Goblin"
+
+msgid "PLANE_MIDNAME_XF4F-3"
+msgstr "XF4F-3"
+
+msgid "PLANE_MIDNAME_XF4U-1"
+msgstr "XF4U-1"
+
+msgid "PLANE_MIDNAME_XP-31"
+msgstr "XP-31"
+
+msgid "PLANE_MIDNAME_XP-36F"
+msgstr "XP-36F Hawk"
+
+msgid "PLANE_MIDNAME_XP-50"
+msgstr "XP-50"
+
+msgid "PLANE_MIDNAME_XP-55"
+msgstr "XP-55 Ascender"
+
+msgid "PLANE_MIDNAME_XP-58"
+msgstr "XP-58 Chain Lightning"
+
+msgid "PLANE_MIDNAME_XP-75"
+msgstr "XP-75 Eagle"
+
+msgid "PLANE_MIDNAME_YAK-1"
+msgstr "Yak-1"
+
+msgid "PLANE_MIDNAME_YAK-15"
+msgstr "Yak-15"
+
+msgid "PLANE_MIDNAME_YAK-19"
+msgstr "Yak-19"
+
+msgid "PLANE_MIDNAME_YAK-1M"
+msgstr "Yak-1M"
+
+msgid "PLANE_MIDNAME_YAK-3"
+msgstr "Yak-3"
+
+msgid "PLANE_MIDNAME_YAK-30"
+msgstr "Yak-30"
+
+msgid "PLANE_MIDNAME_YAK-3RD"
+msgstr "Yak-3RD"
+
+msgid "PLANE_MIDNAME_YAK-3T"
+msgstr "Yak-3T"
+
+msgid "PLANE_MIDNAME_YAK-7"
+msgstr "Yak-7"
+
+msgid "PLANE_MIDNAME_YAK-7-M-82"
+msgstr "Yak-7 M-82"
+
+msgid "PLANE_MIDNAME_YAK-9"
+msgstr "Yak-9"
+
+msgid "PLANE_MIDNAME_YAK-9U"
+msgstr "Yak-9U"
+
+msgid "PLANE_MIDNAME_YP-29"
+msgstr "YP-29"
+
+msgid "PLANE_NAME_2PA"
+msgstr "2PA"
+
+msgid "PLANE_NAME_2PA-L"
+msgstr "2PA-L"
+
+msgid "PLANE_NAME_A-26B"
+msgstr "A-26B"
+
+msgid "PLANE_NAME_A4N"
+msgstr "A4N"
+
+msgid "PLANE_NAME_A5M"
+msgstr "A5M"
+
+msgid "PLANE_NAME_A6M1"
+msgstr "A6M1"
+
+msgid "PLANE_NAME_A6M2"
+msgstr "A6M2"
+
+msgid "PLANE_NAME_A6M3-30"
+msgstr "A6M3 (exp.)"
+
+msgid "PLANE_NAME_A6M5"
+msgstr "A6M5"
+
+msgid "PLANE_NAME_A7M"
+msgstr "A7M"
+
+msgid "PLANE_NAME_AD10"
+msgstr "AD 10C2"
+
+msgid "PLANE_NAME_AO-192"
+msgstr "Ao 192"
+
+msgid "PLANE_NAME_AR-197"
+msgstr "Ar 197"
+
+msgid "PLANE_NAME_AR-2"
+msgstr "Ar-2"
+
+msgid "PLANE_NAME_AR-65"
+msgstr "Ar 65"
+
+msgid "PLANE_NAME_AR-67"
+msgstr "Ar 67"
+
+msgid "PLANE_NAME_AR-68"
+msgstr "Ar 68"
+
+msgid "PLANE_NAME_AR-80"
+msgstr "Ar 80"
+
+msgid "PLANE_NAME_ATTACKER"
+msgstr "Attacker"
+
+msgid "PLANE_NAME_AVIA_B-534"
+msgstr "B-534"
+
+msgid "PLANE_NAME_AVIA_BK-534"
+msgstr "Bk-534"
+
+msgid "PLANE_NAME_B-17D"
+msgstr "B-17D"
+
+msgid "PLANE_NAME_B-17G"
+msgstr "B-17G"
+
+msgid "PLANE_NAME_B-32"
+msgstr "B-32"
+
+msgid "PLANE_NAME_BA-27"
+msgstr "Ba.27M"
+
+msgid "PLANE_NAME_BEAUFIGHTER-F"
+msgstr "Beaufighter"
+
+msgid "PLANE_NAME_BEAUFIGHTER-V-IM"
+msgstr "Beaufighter V IM"
+
+msgid "PLANE_NAME_BF-109B"
+msgstr "Bf 109 B"
+
+msgid "PLANE_NAME_BF-109C"
+msgstr "Bf 109 C"
+
+msgid "PLANE_NAME_BF-109E"
+msgstr "Bf 109 E"
+
+msgid "PLANE_NAME_BF-109E-3"
+msgstr "Bf 109 E-3"
+
+msgid "PLANE_NAME_BF-109F"
+msgstr "Bf 109 F"
+
+msgid "PLANE_NAME_BF-109G"
+msgstr "Bf 109 G"
+
+msgid "PLANE_NAME_BF-109TL"
+msgstr "Me 109 TL"
+
+msgid "PLANE_NAME_BF-109Z"
+msgstr "Bf 109 Z"
+
+msgid "PLANE_NAME_BF-110B"
+msgstr "Bf 110 B"
+
+msgid "PLANE_NAME_BF-110C-6"
+msgstr "Bf 110 C-6"
+
+msgid "PLANE_NAME_BF-110E"
+msgstr "Bf 110 E"
+
+msgid "PLANE_NAME_BF-209A1"
+msgstr "Me 209 A"
+
+msgid "PLANE_NAME_BF-209V"
+msgstr "Me 209 V4"
+
+msgid "PLANE_NAME_BLENHEIM-F"
+msgstr "Blenheim F"
+
+msgid "PLANE_NAME_BLENHEIM-IV"
+msgstr "Blenheim IV (e.)"
+
+msgid "PLANE_NAME_BOMBER_B-17D"
+msgstr "B-17D"
+
+msgid "PLANE_NAME_BOMBER_B-17G"
+msgstr "B-17G"
+
+msgid "PLANE_NAME_BOMBER_FW-200"
+msgstr "Fw 200"
+
+msgid "PLANE_NAME_BOMBER_FW-200-2"
+msgstr "Fw 200"
+
+msgid "PLANE_NAME_BOMBER_HP-52"
+msgstr "HP 52"
+
+msgid "PLANE_NAME_BOMBER_HP-52-2"
+msgstr "HP 52"
+
+msgid "PLANE_NAME_BOMBER_JU-52"
+msgstr "Ju 52"
+
+msgid "PLANE_NAME_BOMBER_JU-52-2"
+msgstr "Ju 52"
+
+msgid "PLANE_NAME_BOOMERANG"
+msgstr "Boomerang"
+
+msgid "PLANE_NAME_BRISTOL-TYPE-105"
+msgstr "Bulldog"
+
+msgid "PLANE_NAME_BRISTOL-TYPE-133"
+msgstr "Bristol 133"
+
+msgid "PLANE_NAME_BRISTOL-TYPE-146"
+msgstr "Bristol 146"
+
+msgid "PLANE_NAME_BSH-1"
+msgstr "BSh-1"
+
+msgid "PLANE_NAME_BSH-2"
+msgstr "BSh-2"
+
+msgid "PLANE_NAME_BV-P203"
+msgstr "BV P.203"
+
+msgid "PLANE_NAME_BV-P210"
+msgstr "BV P.210"
+
+msgid "PLANE_NAME_BV-P212-03"
+msgstr "BV P.212.03"
+
+msgid "PLANE_NAME_BV-P215-02"
+msgstr "BV P.215.02"
+
+msgid "PLANE_NAME_CR714"
+msgstr "C.714"
+
+msgid "PLANE_NAME_D-H-103"
+msgstr "Hornet"
+
+msgid "PLANE_NAME_D-H-98"
+msgstr "Mosquito"
+
+msgid "PLANE_NAME_DEFENDER_A6M2"
+msgstr "A6M2"
+
+msgid "PLANE_NAME_DEFENDER_AO-192"
+msgstr "Ao 192"
+
+msgid "PLANE_NAME_DEFENDER_AO-192-2"
+msgstr "Ao 192"
+
+msgid "PLANE_NAME_DEFENDER_BEAUFIGHTER"
+msgstr "Beaufighter"
+
+msgid "PLANE_NAME_DEFENDER_BEAUFIGHTER-2"
+msgstr "Beaufighter"
+
+msgid "PLANE_NAME_DEFENDER_BF109G"
+msgstr "Bf 109 G"
+
+msgid "PLANE_NAME_DEFENDER_BOOMERANG"
+msgstr "Boomerang"
+
+msgid "PLANE_NAME_DEFENDER_BOOMERANG-2"
+msgstr "Boomerang"
+
+msgid "PLANE_NAME_DEFENDER_D-H-103"
+msgstr "Hornet"
+
+msgid "PLANE_NAME_DEFENDER_DI-6"
+msgstr "Di-6i"
+
+msgid "PLANE_NAME_DEFENDER_DI-6-2"
+msgstr "Di-6i"
+
+msgid "PLANE_NAME_DEFENDER_HE-51"
+msgstr "He 51"
+
+msgid "PLANE_NAME_DEFENDER_HE-51-2"
+msgstr "He 51"
+
+msgid "PLANE_NAME_DEFENDER_I-5"
+msgstr "I-5"
+
+msgid "PLANE_NAME_DEFENDER_I-5-2"
+msgstr "I-5"
+
+msgid "PLANE_NAME_DEFENDER_J4M"
+msgstr "J4M"
+
+msgid "PLANE_NAME_DEFENDER_ME-410"
+msgstr "Me 410"
+
+msgid "PLANE_NAME_DEFENDER_P-38F"
+msgstr "P-38F"
+
+msgid "PLANE_NAME_DEFENDER_P-40"
+msgstr "P-40"
+
+msgid "PLANE_NAME_DEFENDER_SPITFIRE-IX"
+msgstr "Spitfire IX"
+
+msgid "PLANE_NAME_DEMON"
+msgstr "Demon"
+
+msgid "PLANE_NAME_DI-6"
+msgstr "Di-6i"
+
+msgid "PLANE_NAME_DO-17Z"
+msgstr "Do 17 Z-7"
+
+msgid "PLANE_NAME_DO-17Z-2"
+msgstr "Do 17 Z"
+
+msgid "PLANE_NAME_DO-217M"
+msgstr "Do 217 M"
+
+msgid "PLANE_NAME_DO-335A1"
+msgstr "Do 335 A-1"
+
+msgid "PLANE_NAME_EF-131"
+msgstr "EF 131"
+
+msgid "PLANE_NAME_F-15C"
+msgstr "XF15C"
+
+msgid "PLANE_NAME_F-84B"
+msgstr "F-84B"
+
+msgid "PLANE_NAME_F-84F"
+msgstr "F-84F"
+
+msgid "PLANE_NAME_F-86A"
+msgstr "F-86A"
+
+msgid "PLANE_NAME_F11C"
+msgstr "F11C-2"
+
+msgid "PLANE_NAME_F2A"
+msgstr "F2A"
+
+msgid "PLANE_NAME_F2A-1"
+msgstr "F2A-1"
+
+msgid "PLANE_NAME_F2F"
+msgstr "F2F"
+
+msgid "PLANE_NAME_F2G"
+msgstr "F2G"
+
+msgid "PLANE_NAME_F2H"
+msgstr "F2H"
+
+msgid "PLANE_NAME_F3F"
+msgstr "F3F"
+
+msgid "PLANE_NAME_F4F"
+msgstr "F4F"
+
+msgid "PLANE_NAME_F4U"
+msgstr "F4U-1"
+
+msgid "PLANE_NAME_F4U-4"
+msgstr "F4U-4"
+
+msgid "PLANE_NAME_F5U"
+msgstr "XF5U"
+
+msgid "PLANE_NAME_F6U"
+msgstr "F6U"
+
+msgid "PLANE_NAME_F7F"
+msgstr "F7F"
+
+msgid "PLANE_NAME_F7U"
+msgstr "F7U"
+
+msgid "PLANE_NAME_F90"
+msgstr "XF-90"
+
+msgid "PLANE_NAME_F94"
+msgstr "F-94D"
+
+msgid "PLANE_NAME_FANTOME"
+msgstr "Fantome"
+
+msgid "PLANE_NAME_FI-98"
+msgstr "Fi 98"
+
+msgid "PLANE_NAME_FJ-1"
+msgstr "FJ-1"
+
+msgid "PLANE_NAME_FL-1"
+msgstr "XFL-1"
+
+msgid "PLANE_NAME_FW-159"
+msgstr "Fw 159"
+
+msgid "PLANE_NAME_FW-189C"
+msgstr "Fw 189 C"
+
+msgid "PLANE_NAME_FW-190A1"
+msgstr "Fw 190 A-1"
+
+msgid "PLANE_NAME_FW-190A5"
+msgstr "Fw 190 A-5"
+
+msgid "PLANE_NAME_FW-190A8"
+msgstr "Fw 190 A-8"
+
+msgid "PLANE_NAME_FW-190D"
+msgstr "Fw 190 D"
+
+msgid "PLANE_NAME_FW-252"
+msgstr "Fw 252"
+
+msgid "PLANE_NAME_FW-56"
+msgstr "Fw 56"
+
+msgid "PLANE_NAME_FW-57"
+msgstr "Fw 57"
+
+msgid "PLANE_NAME_GLOSTER-JAVELIN"
+msgstr "Javelin"
+
+msgid "PLANE_NAME_GLOSTER-P-228"
+msgstr "P.228"
+
+msgid "PLANE_NAME_GOLDFINCH"
+msgstr "Goldfinch"
+
+msgid "PLANE_NAME_HA-137"
+msgstr "Ha 137"
+
+msgid "PLANE_NAME_HA-137V1"
+msgstr "Ha 137 V1"
+
+msgid "PLANE_NAME_HAWK-2"
+msgstr "Hawk II"
+
+msgid "PLANE_NAME_HAWK-3"
+msgstr "Hawk III"
+
+msgid "PLANE_NAME_HAWK-75"
+msgstr "Hawk 75M"
+
+msgid "PLANE_NAME_HE-100"
+msgstr "He 100 D-1"
+
+msgid "PLANE_NAME_HE-111H-2"
+msgstr "He 111 H-2"
+
+msgid "PLANE_NAME_HE-112"
+msgstr "He 112"
+
+msgid "PLANE_NAME_HE-51"
+msgstr "He 51"
+
+msgid "PLANE_NAME_HO-229"
+msgstr "Ho 229"
+
+msgid "PLANE_NAME_HS-123"
+msgstr "Hs 123"
+
+msgid "PLANE_NAME_HS-129"
+msgstr "Hs 129 B"
+
+msgid "PLANE_NAME_HS-129A"
+msgstr "Hs 129 А"
+
+msgid "PLANE_NAME_HUNTER"
+msgstr "Hunter"
+
+msgid "PLANE_NAME_HURRICANE-I"
+msgstr "Hurricane I"
+
+msgid "PLANE_NAME_HURRICANE-IA"
+msgstr "Hurricane Ia"
+
+msgid "PLANE_NAME_HURRICANE-II"
+msgstr "Hurricane II"
+
+msgid "PLANE_NAME_HURRICANE-IID"
+msgstr "Hurricane IID"
+
+msgid "PLANE_NAME_I-15"
+msgstr "I-15"
+
+msgid "PLANE_NAME_I-153-DM-4"
+msgstr "I-153 DM-4"
+
+msgid "PLANE_NAME_I-15BIS-DM2"
+msgstr "I-15bis DM"
+
+msgid "PLANE_NAME_I-16-24"
+msgstr "I-16 (l.)"
+
+msgid "PLANE_NAME_I-16-29"
+msgstr "I-16-29"
+
+msgid "PLANE_NAME_I-16-5"
+msgstr "I-16 (e.)"
+
+msgid "PLANE_NAME_I-17"
+msgstr "I-17"
+
+msgid "PLANE_NAME_I-180"
+msgstr "I-180-3"
+
+msgid "PLANE_NAME_I-207-4"
+msgstr "I-207/4"
+
+msgid "PLANE_NAME_I-21"
+msgstr "I-21"
+
+msgid "PLANE_NAME_I-210"
+msgstr "I-210"
+
+msgid "PLANE_NAME_I-211"
+msgstr "I-211"
+
+msgid "PLANE_NAME_I-215"
+msgstr "I-215"
+
+msgid "PLANE_NAME_I-220"
+msgstr "I-220"
+
+msgid "PLANE_NAME_I-250"
+msgstr "I-250"
+
+msgid "PLANE_NAME_I-260"
+msgstr "I-260"
+
+msgid "PLANE_NAME_I-302P"
+msgstr "302"
+
+msgid "PLANE_NAME_I-5"
+msgstr "I-5"
+
+msgid "PLANE_NAME_I-5SHKAS"
+msgstr "I-5 ShKAS"
+
+msgid "PLANE_NAME_I-7"
+msgstr "I-7"
+
+msgid "PLANE_NAME_IL-1"
+msgstr "IL-1"
+
+msgid "PLANE_NAME_IL-10"
+msgstr "IL-10"
+
+msgid "PLANE_NAME_IL-10M"
+msgstr "IL-10M"
+
+msgid "PLANE_NAME_IL-2-1"
+msgstr "IL-2"
+
+msgid "PLANE_NAME_IL-2-2"
+msgstr "IL-2 (t)"
+
+msgid "PLANE_NAME_IL-20"
+msgstr "IL-20"
+
+msgid "PLANE_NAME_IL-2MOD"
+msgstr "IL-2 (mod.)"
+
+msgid "PLANE_NAME_IL-40"
+msgstr "IL-40"
+
+msgid "PLANE_NAME_IL-40P"
+msgstr "IL-40P"
+
+msgid "PLANE_NAME_IL-8"
+msgstr "IL-8"
+
+msgid "PLANE_NAME_J4M"
+msgstr "J4M"
+
+msgid "PLANE_NAME_J7W1"
+msgstr "J7W1"
+
+msgid "PLANE_NAME_J7W2"
+msgstr "J7W2"
+
+msgid "PLANE_NAME_J7W3"
+msgstr "J7W3"
+
+msgid "PLANE_NAME_J8M"
+msgstr "J8M"
+
+msgid "PLANE_NAME_JL-1"
+msgstr "JL-1A-37"
+
+msgid "PLANE_NAME_JU-287"
+msgstr "Ju 287"
+
+msgid "PLANE_NAME_JU-288A"
+msgstr "Ju 288 A"
+
+msgid "PLANE_NAME_JU-288C"
+msgstr "Ju 288 C"
+
+msgid "PLANE_NAME_JU-52"
+msgstr "Ju 52"
+
+msgid "PLANE_NAME_JU-86E"
+msgstr "Ju 86 E"
+
+msgid "PLANE_NAME_JU-87G"
+msgstr "Ju 87 G"
+
+msgid "PLANE_NAME_JU-88A"
+msgstr "Ju 88 A"
+
+msgid "PLANE_NAME_JU-88P"
+msgstr "Ju 88 P"
+
+msgid "PLANE_NAME_KI-10"
+msgstr "Ki-10"
+
+msgid "PLANE_NAME_KI-102"
+msgstr "Ki-102"
+
+msgid "PLANE_NAME_KI-162"
+msgstr "Ki-162-I"
+
+msgid "PLANE_NAME_KI-162-3"
+msgstr "Ki-162-III"
+
+msgid "PLANE_NAME_KI-18"
+msgstr "Ki-18"
+
+msgid "PLANE_NAME_KI-27"
+msgstr "Ki-27"
+
+msgid "PLANE_NAME_KI-33"
+msgstr "Ki-33"
+
+msgid "PLANE_NAME_KI-43-I"
+msgstr "Ki-43-I"
+
+msgid "PLANE_NAME_KI-43-IC"
+msgstr "Ki-43-Ic"
+
+msgid "PLANE_NAME_KI-43-II"
+msgstr "Ki-43-II"
+
+msgid "PLANE_NAME_KI-45"
+msgstr "Ki-45"
+
+msgid "PLANE_NAME_KI-5"
+msgstr "Ki-5"
+
+msgid "PLANE_NAME_KI-61"
+msgstr "Ki-61"
+
+msgid "PLANE_NAME_KI-8"
+msgstr "Ki-8"
+
+msgid "PLANE_NAME_KI-84"
+msgstr "Ki-84"
+
+msgid "PLANE_NAME_KI-88"
+msgstr "Ki-88"
+
+msgid "PLANE_NAME_KI-93"
+msgstr "Ki-93"
+
+msgid "PLANE_NAME_KI-94-I"
+msgstr "Ki-94-I"
+
+msgid "PLANE_NAME_KI-94-II"
+msgstr "Ki-94-II"
+
+msgid "PLANE_NAME_LA-11"
+msgstr "La-11"
+
+msgid "PLANE_NAME_LA-15"
+msgstr "La-15"
+
+msgid "PLANE_NAME_LA-150"
+msgstr "La-150"
+
+msgid "PLANE_NAME_LA-160"
+msgstr "La-160"
+
+msgid "PLANE_NAME_LA-5"
+msgstr "La-5"
+
+msgid "PLANE_NAME_LA-7"
+msgstr "La-7"
+
+msgid "PLANE_NAME_LA-9"
+msgstr "La-9"
+
+msgid "PLANE_NAME_LA-9RD"
+msgstr "La-9RD"
+
+msgid "PLANE_NAME_LAGG-3"
+msgstr "LaGG-3"
+
+msgid "PLANE_NAME_LAGG-3-34"
+msgstr "LaGG-3 (34)"
+
+msgid "PLANE_NAME_LAGG-3-4"
+msgstr "LaGG-3 (4)"
+
+msgid "PLANE_NAME_LBSH"
+msgstr "LBSh"
+
+msgid "PLANE_NAME_LBSHD"
+msgstr "LShBD"
+
+msgid "PLANE_NAME_LBSH_PR"
+msgstr "LBSh"
+
+msgid "PLANE_NAME_M-20"
+msgstr "M.20"
+
+msgid "PLANE_NAME_M81A-1"
+msgstr "Model 81A-1"
+
+msgid "PLANE_NAME_ME-210"
+msgstr "Me 210"
+
+msgid "PLANE_NAME_ME-262"
+msgstr "Me 262"
+
+msgid "PLANE_NAME_ME-262-HG2"
+msgstr "Me 262 HG II"
+
+msgid "PLANE_NAME_ME-262-HG3"
+msgstr "Me 262 HG III"
+
+msgid "PLANE_NAME_ME-265"
+msgstr "Me 265"
+
+msgid "PLANE_NAME_ME-329"
+msgstr "Me 329"
+
+msgid "PLANE_NAME_ME-410"
+msgstr "Me 410"
+
+msgid "PLANE_NAME_ME-609"
+msgstr "Me 609"
+
+msgid "PLANE_NAME_ME-P1092"
+msgstr "Me P.1092"
+
+msgid "PLANE_NAME_ME-P1099B"
+msgstr "Me 1099 B-2"
+
+msgid "PLANE_NAME_ME-P1101"
+msgstr "Me P.1101"
+
+msgid "PLANE_NAME_ME-P1102"
+msgstr "Me P.1102"
+
+msgid "PLANE_NAME_ME-P1102B"
+msgstr "Me P.1102 B"
+
+msgid "PLANE_NAME_METEOR"
+msgstr "Meteor I"
+
+msgid "PLANE_NAME_MIG-15BIS"
+msgstr "MiG-15bis"
+
+msgid "PLANE_NAME_MIG-3"
+msgstr "MiG-3"
+
+msgid "PLANE_NAME_MIG-9"
+msgstr "MiG-9"
+
+msgid "PLANE_NAME_MOSQUITO-MK26"
+msgstr "Mosquito 26"
+
+msgid "PLANE_NAME_MUSTANG-I"
+msgstr "Mustang I"
+
+msgid "PLANE_NAME_MUSTANG-IA"
+msgstr "Mustang IA"
+
+msgid "PLANE_NAME_NC1070"
+msgstr "NC 1070"
+
+msgid "PLANE_NAME_P-12"
+msgstr "P-12"
+
+msgid "PLANE_NAME_P-23"
+msgstr "P-23"
+
+msgid "PLANE_NAME_P-26"
+msgstr "P-26"
+
+msgid "PLANE_NAME_P-35"
+msgstr "P-35"
+
+msgid "PLANE_NAME_P-36"
+msgstr "P-36"
+
+msgid "PLANE_NAME_P-36C"
+msgstr "P-36C"
+
+msgid "PLANE_NAME_P-38F"
+msgstr "P-38F"
+
+msgid "PLANE_NAME_P-38J"
+msgstr "P-38J"
+
+msgid "PLANE_NAME_P-39N-1"
+msgstr "P-39N-1"
+
+msgid "PLANE_NAME_P-39Q"
+msgstr "P-39Q-15"
+
+msgid "PLANE_NAME_P-40"
+msgstr "P-40"
+
+msgid "PLANE_NAME_P-40-M-105"
+msgstr "P-40 M-105"
+
+msgid "PLANE_NAME_P-43"
+msgstr "P-43"
+
+msgid "PLANE_NAME_P-44"
+msgstr "XP-44"
+
+msgid "PLANE_NAME_P-47B"
+msgstr "P-47B"
+
+msgid "PLANE_NAME_P-47N"
+msgstr "P-47N"
+
+msgid "PLANE_NAME_P-51"
+msgstr "P-51D"
+
+msgid "PLANE_NAME_P-51A"
+msgstr "P-51A"
+
+msgid "PLANE_NAME_P-51H"
+msgstr "P-51H"
+
+msgid "PLANE_NAME_P-51JP"
+msgstr "P-51JP"
+
+msgid "PLANE_NAME_P-51K"
+msgstr "P-51K"
+
+msgid "PLANE_NAME_P-72"
+msgstr "XP-72"
+
+msgid "PLANE_NAME_P-77"
+msgstr "XP-77"
+
+msgid "PLANE_NAME_P-80A"
+msgstr "P-80A"
+
+msgid "PLANE_NAME_P-82B"
+msgstr "P-82B"
+
+msgid "PLANE_NAME_PE-2"
+msgstr "Pe-2"
+
+msgid "PLANE_NAME_PE-2-M-82"
+msgstr "Pe-2 M-82"
+
+msgid "PLANE_NAME_PEGAS"
+msgstr "Pegasus"
+
+msgid "PLANE_NAME_PV-3"
+msgstr "P.V.3"
+
+msgid "PLANE_NAME_PZL-P-38_WILK"
+msgstr "P.38"
+
+msgid "PLANE_NAME_RB-17"
+msgstr "RB-17"
+
+msgid "PLANE_NAME_S-199"
+msgstr "S-199"
+
+msgid "PLANE_NAME_SAAB_J-21RB"
+msgstr "J 21RB"
+
+msgid "PLANE_NAME_SAUCER"
+msgstr "Sleipnir"
+
+msgid "PLANE_NAME_SB"
+msgstr "SB"
+
+msgid "PLANE_NAME_SE100"
+msgstr "SE 100"
+
+msgid "PLANE_NAME_SEAFANG"
+msgstr "Seafang"
+
+msgid "PLANE_NAME_SEAHAWK"
+msgstr "Sea Hawk"
+
+msgid "PLANE_NAME_SKUA"
+msgstr "Skua"
+
+msgid "PLANE_NAME_SLEIPNIR"
+msgstr "Odin 42M"
+
+msgid "PLANE_NAME_SPAD510"
+msgstr "S.510"
+
+msgid "PLANE_NAME_SPITFIRE-I"
+msgstr "Spitfire I"
+
+msgid "PLANE_NAME_SPITFIRE-IA"
+msgstr "Spitfire Ia"
+
+msgid "PLANE_NAME_SPITFIRE-IX"
+msgstr "Spitfire IX"
+
+msgid "PLANE_NAME_SPITFIRE-V"
+msgstr "Spitfire V"
+
+msgid "PLANE_NAME_SPITFIRE-V-DB-605"
+msgstr "Spit.V DB605"
+
+msgid "PLANE_NAME_SPITFIRE-VB-IM"
+msgstr "Spitfire Vb IM"
+
+msgid "PLANE_NAME_SPITFIRE-XIV"
+msgstr "Spitfire XIV"
+
+msgid "PLANE_NAME_SU-10"
+msgstr "Su-10"
+
+msgid "PLANE_NAME_SU-9"
+msgstr "Su-9"
+
+msgid "PLANE_NAME_SUPERMARINE-T-224"
+msgstr "Type 224"
+
+msgid "PLANE_NAME_SWIFT"
+msgstr "Swift"
+
+msgid "PLANE_NAME_TA-152"
+msgstr "Ta 152"
+
+msgid "PLANE_NAME_TA-183"
+msgstr "Ta 183"
+
+msgid "PLANE_NAME_TANDEM"
+msgstr "Sh-Tandem"
+
+msgid "PLANE_NAME_TEMPEST"
+msgstr "Tempest"
+
+msgid "PLANE_NAME_TOMAHAWK-IIB"
+msgstr "Tomahawk IIb"
+
+msgid "PLANE_NAME_TORNADO"
+msgstr "Tornado"
+
+msgid "PLANE_NAME_TSH-1"
+msgstr "TSh-2"
+
+msgid "PLANE_NAME_TSH-3"
+msgstr "TSh-3"
+
+msgid "PLANE_NAME_TSKB-12"
+msgstr "TsKB-12bis"
+
+msgid "PLANE_NAME_TU-1"
+msgstr "Tu-1"
+
+msgid "PLANE_NAME_TU-10"
+msgstr "Tu-10"
+
+msgid "PLANE_NAME_TU-12"
+msgstr "Tu-12"
+
+msgid "PLANE_NAME_TU-2"
+msgstr "Tu-2"
+
+msgid "PLANE_NAME_TYPE-91"
+msgstr "Type-91"
+
+msgid "PLANE_NAME_TYPHOON"
+msgstr "Typhoon"
+
+msgid "PLANE_NAME_VAMPIRE-F1"
+msgstr "Vampire F.1"
+
+msgid "PLANE_NAME_VB10"
+msgstr "VB 10"
+
+msgid "PLANE_NAME_VENOM"
+msgstr "Venom"
+
+msgid "PLANE_NAME_WESTLAND-P-1056"
+msgstr "P.1056"
+
+msgid "PLANE_NAME_WIRRAWAY"
+msgstr "Wirraway"
+
+msgid "PLANE_NAME_XF-85"
+msgstr "XF-85"
+
+msgid "PLANE_NAME_XF4F-3"
+msgstr "XF4F-3"
+
+msgid "PLANE_NAME_XF4U-1"
+msgstr "XF4U-1"
+
+msgid "PLANE_NAME_XP-31"
+msgstr "XP-31"
+
+msgid "PLANE_NAME_XP-36F"
+msgstr "XP-36F"
+
+msgid "PLANE_NAME_XP-50"
+msgstr "XP-50"
+
+msgid "PLANE_NAME_XP-55"
+msgstr "XP-55"
+
+msgid "PLANE_NAME_XP-58"
+msgstr "XP-58"
+
+msgid "PLANE_NAME_XP-75"
+msgstr "XP-75"
+
+msgid "PLANE_NAME_YAK-1"
+msgstr "Yak-1"
+
+msgid "PLANE_NAME_YAK-15"
+msgstr "Yak-15"
+
+msgid "PLANE_NAME_YAK-19"
+msgstr "Yak-19"
+
+msgid "PLANE_NAME_YAK-1M"
+msgstr "Yak-1M"
+
+msgid "PLANE_NAME_YAK-3"
+msgstr "Yak-3"
+
+msgid "PLANE_NAME_YAK-30"
+msgstr "Yak-30"
+
+msgid "PLANE_NAME_YAK-3RD"
+msgstr "Yak-3RD"
+
+msgid "PLANE_NAME_YAK-3T"
+msgstr "Yak-3T"
+
+msgid "PLANE_NAME_YAK-7"
+msgstr "Yak-7"
+
+msgid "PLANE_NAME_YAK-7-M-82"
+msgstr "Yak-7 M-82"
+
+msgid "PLANE_NAME_YAK-9"
+msgstr "Yak-9"
+
+msgid "PLANE_NAME_YAK-9U"
+msgstr "Yak-9U"
+
+msgid "PLANE_NAME_YP-29"
+msgstr "YP-29"

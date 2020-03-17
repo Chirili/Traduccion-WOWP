@@ -1,0 +1,3830 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"PO-Revision-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: WoT Translator <noreply@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "NAMES/GER1"
+msgstr "Aachen"
+
+msgid "NAMES/GER10"
+msgstr "Albrecht"
+
+msgid "NAMES/GER100"
+msgstr "Borchert"
+
+msgid "NAMES/GER101"
+msgstr "Borovitz"
+
+msgid "NAMES/GER102"
+msgstr "Both"
+
+msgid "NAMES/GER103"
+msgstr "Botsch"
+
+msgid "NAMES/GER104"
+msgstr "Böttger"
+
+msgid "NAMES/GER105"
+msgstr "Brachtel"
+
+msgid "NAMES/GER106"
+msgstr "Brandenberger"
+
+msgid "NAMES/GER107"
+msgstr "Brandner"
+
+msgid "NAMES/GER108"
+msgstr "Brandt"
+
+msgid "NAMES/GER109"
+msgstr "Braß"
+
+msgid "NAMES/GER11"
+msgstr "Aldinger"
+
+msgid "NAMES/GER110"
+msgstr "Brauer"
+
+msgid "NAMES/GER111"
+msgstr "Bräuer"
+
+msgid "NAMES/GER112"
+msgstr "Braun"
+
+msgid "NAMES/GER113"
+msgstr "Breit"
+
+msgid "NAMES/GER114"
+msgstr "Breithaupt"
+
+msgid "NAMES/GER115"
+msgstr "Breitwieser"
+
+msgid "NAMES/GER116"
+msgstr "Brenneis"
+
+msgid "NAMES/GER117"
+msgstr "Bruhne"
+
+msgid "NAMES/GER118"
+msgstr "Bruer"
+
+msgid "NAMES/GER119"
+msgstr "Buchheim"
+
+msgid "NAMES/GER12"
+msgstr "Allmendinger"
+
+msgid "NAMES/GER120"
+msgstr "Buhle"
+
+msgid "NAMES/GER121"
+msgstr "Buhtz"
+
+msgid "NAMES/GER122"
+msgstr "Büngeler"
+
+msgid "NAMES/GER123"
+msgstr "Bünnau"
+
+msgid "NAMES/GER124"
+msgstr "Burgdorf"
+
+msgid "NAMES/GER125"
+msgstr "Bürger"
+
+msgid "NAMES/GER126"
+msgstr "Busch"
+
+msgid "NAMES/GER127"
+msgstr "Bussche"
+
+msgid "NAMES/GER128"
+msgstr "Busse"
+
+msgid "NAMES/GER129"
+msgstr "Braune"
+
+msgid "NAMES/GER13"
+msgstr "Altfuldisch"
+
+msgid "NAMES/GER130"
+msgstr "Brauns"
+
+msgid "NAMES/GER131"
+msgstr "Carius"
+
+msgid "NAMES/GER132"
+msgstr "Christern"
+
+msgid "NAMES/GER133"
+msgstr "Bur"
+
+msgid "NAMES/GER134"
+msgstr "Claussen"
+
+msgid "NAMES/GER135"
+msgstr "Conrath"
+
+msgid "NAMES/GER136"
+msgstr "Cramer"
+
+msgid "NAMES/GER137"
+msgstr "Cremer"
+
+msgid "NAMES/GER138"
+msgstr "Croneiß"
+
+msgid "NAMES/GER139"
+msgstr "Crüwell"
+
+msgid "NAMES/GER14"
+msgstr "Alvensleben"
+
+msgid "NAMES/GER140"
+msgstr "Behnke"
+
+msgid "NAMES/GER141"
+msgstr "Dahl"
+
+msgid "NAMES/GER142"
+msgstr "Dahm"
+
+msgid "NAMES/GER143"
+msgstr "Damrau"
+
+msgid "NAMES/GER144"
+msgstr "Deberietz"
+
+msgid "NAMES/GER145"
+msgstr "Decken"
+
+msgid "NAMES/GER146"
+msgstr "Degelow"
+
+msgid "NAMES/GER147"
+msgstr "Degenkolb"
+
+msgid "NAMES/GER148"
+msgstr "Dittmer"
+
+msgid "NAMES/GER149"
+msgstr "Dehner"
+
+msgid "NAMES/GER15"
+msgstr "Ameln"
+
+msgid "NAMES/GER150"
+msgstr "Deichmann"
+
+msgid "NAMES/GER151"
+msgstr "Demelhuber"
+
+msgid "NAMES/GER152"
+msgstr "Dennhardt"
+
+msgid "NAMES/GER153"
+msgstr "Derichsweiler"
+
+msgid "NAMES/GER154"
+msgstr "Dermietzel"
+
+msgid "NAMES/GER155"
+msgstr "Deßloch"
+
+msgid "NAMES/GER156"
+msgstr "Dethleffsen"
+
+msgid "NAMES/GER157"
+msgstr "Detmers"
+
+msgid "NAMES/GER158"
+msgstr "Dewitz"
+
+msgid "NAMES/GER159"
+msgstr "Diederich"
+
+msgid "NAMES/GER16"
+msgstr "Amsel"
+
+msgid "NAMES/GER160"
+msgstr "Diehm"
+
+msgid "NAMES/GER161"
+msgstr "Diekmann"
+
+msgid "NAMES/GER162"
+msgstr "Dienstbach"
+
+msgid "NAMES/GER163"
+msgstr "Diesenreiter"
+
+msgid "NAMES/GER164"
+msgstr "Dietl"
+
+msgid "NAMES/GER165"
+msgstr "Dilley"
+
+msgid "NAMES/GER166"
+msgstr "Dinort"
+
+msgid "NAMES/GER167"
+msgstr "Dittmar"
+
+msgid "NAMES/GER168"
+msgstr "Dolezalek"
+
+msgid "NAMES/GER169"
+msgstr "Dollmann"
+
+msgid "NAMES/GER17"
+msgstr "Andersen"
+
+msgid "NAMES/GER170"
+msgstr "Dornberger"
+
+msgid "NAMES/GER171"
+msgstr "Dörr"
+
+msgid "NAMES/GER172"
+msgstr "Dostler"
+
+msgid "NAMES/GER173"
+msgstr "Dötzer"
+
+msgid "NAMES/GER174"
+msgstr "Drechsel"
+
+msgid "NAMES/GER175"
+msgstr "Drechsler"
+
+msgid "NAMES/GER176"
+msgstr "Drescher"
+
+msgid "NAMES/GER177"
+msgstr "Dresdner"
+
+msgid "NAMES/GER178"
+msgstr "Drossel"
+
+msgid "NAMES/GER179"
+msgstr "Druschel"
+
+msgid "NAMES/GER18"
+msgstr "Angern"
+
+msgid "NAMES/GER180"
+msgstr "Duensing"
+
+msgid "NAMES/GER181"
+msgstr "Dürr"
+
+msgid "NAMES/GER182"
+msgstr "Becke"
+
+msgid "NAMES/GER183"
+msgstr "Ebeling"
+
+msgid "NAMES/GER184"
+msgstr "Eberhardt"
+
+msgid "NAMES/GER185"
+msgstr "Ebersbach"
+
+msgid "NAMES/GER186"
+msgstr "Eberstein"
+
+msgid "NAMES/GER187"
+msgstr "Edelsheim"
+
+msgid "NAMES/GER188"
+msgstr "Egger"
+
+msgid "NAMES/GER189"
+msgstr "Ehrler"
+
+msgid "NAMES/GER19"
+msgstr "Beier"
+
+msgid "NAMES/GER190"
+msgstr "Ehrlichmann"
+
+msgid "NAMES/GER191"
+msgstr "Eibl"
+
+msgid "NAMES/GER192"
+msgstr "Eichel"
+
+msgid "NAMES/GER193"
+msgstr "Eichelberger"
+
+msgid "NAMES/GER194"
+msgstr "Eichmann"
+
+msgid "NAMES/GER195"
+msgstr "Eiffel"
+
+msgid "NAMES/GER196"
+msgstr "Einsiedel"
+
+msgid "NAMES/GER197"
+msgstr "Eisenberg"
+
+msgid "NAMES/GER198"
+msgstr "Eisenhauer"
+
+msgid "NAMES/GER199"
+msgstr "Ellenbeck"
+
+msgid "NAMES/GER2"
+msgstr "Abend"
+
+msgid "NAMES/GER20"
+msgstr "Arndt"
+
+msgid "NAMES/GER200"
+msgstr "Elster"
+
+msgid "NAMES/GER201"
+msgstr "Elversveldt"
+
+msgid "NAMES/GER202"
+msgstr "Emmermann"
+
+msgid "NAMES/GER203"
+msgstr "Endrass"
+
+msgid "NAMES/GER204"
+msgstr "Endres"
+
+msgid "NAMES/GER205"
+msgstr "Endruweit"
+
+msgid "NAMES/GER206"
+msgstr "Engel"
+
+msgid "NAMES/GER207"
+msgstr "Engelhardt"
+
+msgid "NAMES/GER208"
+msgstr "Engelhorn"
+
+msgid "NAMES/GER209"
+msgstr "Erdmann"
+
+msgid "NAMES/GER21"
+msgstr "Arnim"
+
+msgid "NAMES/GER210"
+msgstr "Esebeck"
+
+msgid "NAMES/GER211"
+msgstr "Euringer"
+
+msgid "NAMES/GER212"
+msgstr "Faber"
+
+msgid "NAMES/GER213"
+msgstr "Färber"
+
+msgid "NAMES/GER214"
+msgstr "Dittrichs"
+
+msgid "NAMES/GER215"
+msgstr "Falkenhausen"
+
+msgid "NAMES/GER216"
+msgstr "Falkenhorst"
+
+msgid "NAMES/GER217"
+msgstr "Falkenstein"
+
+msgid "NAMES/GER218"
+msgstr "Falley"
+
+msgid "NAMES/GER219"
+msgstr "Fanger"
+
+msgid "NAMES/GER22"
+msgstr "Arps"
+
+msgid "NAMES/GER220"
+msgstr "Fassbinder"
+
+msgid "NAMES/GER221"
+msgstr "Faust"
+
+msgid "NAMES/GER222"
+msgstr "Fegelein"
+
+msgid "NAMES/GER223"
+msgstr "Fehn"
+
+msgid "NAMES/GER224"
+msgstr "Feierabend"
+
+msgid "NAMES/GER225"
+msgstr "Felber"
+
+msgid "NAMES/GER226"
+msgstr "Feldbausch"
+
+msgid "NAMES/GER227"
+msgstr "Feldmann"
+
+msgid "NAMES/GER228"
+msgstr "Feldt"
+
+msgid "NAMES/GER229"
+msgstr "Felgenhauer"
+
+msgid "NAMES/GER23"
+msgstr "Assmann"
+
+msgid "NAMES/GER230"
+msgstr "Fellgiebel"
+
+msgid "NAMES/GER231"
+msgstr "Felmy"
+
+msgid "NAMES/GER232"
+msgstr "Felzman"
+
+msgid "NAMES/GER233"
+msgstr "Fenstermacher"
+
+msgid "NAMES/GER234"
+msgstr "Ferber"
+
+msgid "NAMES/GER235"
+msgstr "Fernau"
+
+msgid "NAMES/GER236"
+msgstr "Fernbrugg"
+
+msgid "NAMES/GER237"
+msgstr "Feuchtinger"
+
+msgid "NAMES/GER238"
+msgstr "Feuerstein"
+
+msgid "NAMES/GER239"
+msgstr "Feyerabend"
+
+msgid "NAMES/GER24"
+msgstr "Aulock"
+
+msgid "NAMES/GER240"
+msgstr "Fichtner"
+
+msgid "NAMES/GER241"
+msgstr "Fiebig"
+
+msgid "NAMES/GER242"
+msgstr "Fiedler"
+
+msgid "NAMES/GER243"
+msgstr "Fikentscher"
+
+msgid "NAMES/GER244"
+msgstr "Filbig"
+
+msgid "NAMES/GER245"
+msgstr "Filbinger"
+
+msgid "NAMES/GER246"
+msgstr "Finckh"
+
+msgid "NAMES/GER247"
+msgstr "Fink"
+
+msgid "NAMES/GER248"
+msgstr "Fircks"
+
+msgid "NAMES/GER249"
+msgstr "Fischböck"
+
+msgid "NAMES/GER25"
+msgstr "Austerlitz"
+
+msgid "NAMES/GER250"
+msgstr "Fischel"
+
+msgid "NAMES/GER251"
+msgstr "Fischer"
+
+msgid "NAMES/GER252"
+msgstr "Fitzthum"
+
+msgid "NAMES/GER253"
+msgstr "Fleischer"
+
+msgid "NAMES/GER254"
+msgstr "Fleischhacker"
+
+msgid "NAMES/GER255"
+msgstr "Fischler"
+
+msgid "NAMES/GER256"
+msgstr "Foerster"
+
+msgid "NAMES/GER257"
+msgstr "Förtsch"
+
+msgid "NAMES/GER258"
+msgstr "Foltmann"
+
+msgid "NAMES/GER259"
+msgstr "Förschner"
+
+msgid "NAMES/GER26"
+msgstr "Babor"
+
+msgid "NAMES/GER260"
+msgstr "Förster"
+
+msgid "NAMES/GER261"
+msgstr "Frankfurter"
+
+msgid "NAMES/GER262"
+msgstr "Frauendorfer"
+
+msgid "NAMES/GER263"
+msgstr "Frey"
+
+msgid "NAMES/GER264"
+msgstr "Freitag"
+
+msgid "NAMES/GER265"
+msgstr "Frelich"
+
+msgid "NAMES/GER266"
+msgstr "Freud"
+
+msgid "NAMES/GER267"
+msgstr "Friderici"
+
+msgid "NAMES/GER268"
+msgstr "Friebel"
+
+msgid "NAMES/GER269"
+msgstr "Fried"
+
+msgid "NAMES/GER27"
+msgstr "Bach"
+
+msgid "NAMES/GER270"
+msgstr "Friedmann"
+
+msgid "NAMES/GER271"
+msgstr "Fries"
+
+msgid "NAMES/GER272"
+msgstr "Frießner"
+
+msgid "NAMES/GER273"
+msgstr "Fritsch"
+
+msgid "NAMES/GER274"
+msgstr "Früh"
+
+msgid "NAMES/GER275"
+msgstr "Frühauf"
+
+msgid "NAMES/GER276"
+msgstr "Fuchsner"
+
+msgid "NAMES/GER277"
+msgstr "Fuchs"
+
+msgid "NAMES/GER278"
+msgstr "Fürst"
+
+msgid "NAMES/GER279"
+msgstr "Führmann"
+
+msgid "NAMES/GER28"
+msgstr "Bachmeier"
+
+msgid "NAMES/GER280"
+msgstr "Fuhrmann"
+
+msgid "NAMES/GER281"
+msgstr "Funk"
+
+msgid "NAMES/GER282"
+msgstr "Fürstner"
+
+msgid "NAMES/GER283"
+msgstr "Fussenegger"
+
+msgid "NAMES/GER284"
+msgstr "Gabler"
+
+msgid "NAMES/GER285"
+msgstr "Gärtner"
+
+msgid "NAMES/GER286"
+msgstr "Galland"
+
+msgid "NAMES/GER287"
+msgstr "Gansen"
+
+msgid "NAMES/GER288"
+msgstr "Gehrts"
+
+msgid "NAMES/GER289"
+msgstr "Gemp"
+
+msgid "NAMES/GER29"
+msgstr "Backenköhler"
+
+msgid "NAMES/GER290"
+msgstr "Gentzen"
+
+msgid "NAMES/GER291"
+msgstr "Gerber"
+
+msgid "NAMES/GER292"
+msgstr "Gericke"
+
+msgid "NAMES/GER293"
+msgstr "Gerlach"
+
+msgid "NAMES/GER294"
+msgstr "Gerlich"
+
+msgid "NAMES/GER295"
+msgstr "Gersdorff"
+
+msgid "NAMES/GER296"
+msgstr "Gerste"
+
+msgid "NAMES/GER297"
+msgstr "Gesche"
+
+msgid "NAMES/GER298"
+msgstr "Geier"
+
+msgid "NAMES/GER299"
+msgstr "Gildisch"
+
+msgid "NAMES/GER3"
+msgstr "Abesser"
+
+msgid "NAMES/GER30"
+msgstr "Bader"
+
+msgid "NAMES/GER300"
+msgstr "Gille"
+
+msgid "NAMES/GER301"
+msgstr "Gilsa"
+
+msgid "NAMES/GER302"
+msgstr "Girgensohn"
+
+msgid "NAMES/GER303"
+msgstr "Giskes"
+
+msgid "NAMES/GER304"
+msgstr "Gläser"
+
+msgid "NAMES/GER305"
+msgstr "Friedrich"
+
+msgid "NAMES/GER306"
+msgstr "Gley"
+
+msgid "NAMES/GER307"
+msgstr "Glöckler"
+
+msgid "NAMES/GER308"
+msgstr "Glümer"
+
+msgid "NAMES/GER309"
+msgstr "Göcke"
+
+msgid "NAMES/GER31"
+msgstr "Baecker"
+
+msgid "NAMES/GER310"
+msgstr "Goëss"
+
+msgid "NAMES/GER311"
+msgstr "Goldschmidt"
+
+msgid "NAMES/GER312"
+msgstr "Gollnick"
+
+msgid "NAMES/GER313"
+msgstr "Gollnow"
+
+msgid "NAMES/GER314"
+msgstr "Goßler"
+
+msgid "NAMES/GER315"
+msgstr "Gossner"
+
+msgid "NAMES/GER316"
+msgstr "Gottberg"
+
+msgid "NAMES/GER317"
+msgstr "Gottlieb"
+
+msgid "NAMES/GER318"
+msgstr "Gottschalk"
+
+msgid "NAMES/GER319"
+msgstr "Grafen"
+
+msgid "NAMES/GER32"
+msgstr "Baer"
+
+msgid "NAMES/GER320"
+msgstr "Gransee"
+
+msgid "NAMES/GER321"
+msgstr "Gräntz"
+
+msgid "NAMES/GER322"
+msgstr "Grass"
+
+msgid "NAMES/GER323"
+msgstr "Grasser"
+
+msgid "NAMES/GER324"
+msgstr "Grattenauer"
+
+msgid "NAMES/GER325"
+msgstr "Gratz"
+
+msgid "NAMES/GER326"
+msgstr "Grauert"
+
+msgid "NAMES/GER327"
+msgstr "Gravenreuth"
+
+msgid "NAMES/GER328"
+msgstr "Greim"
+
+msgid "NAMES/GER329"
+msgstr "Gretsch"
+
+msgid "NAMES/GER33"
+msgstr "Baier"
+
+msgid "NAMES/GER330"
+msgstr "Greul"
+
+msgid "NAMES/GER331"
+msgstr "Grezer"
+
+msgid "NAMES/GER332"
+msgstr "Griesbach"
+
+msgid "NAMES/GER333"
+msgstr "Grolling"
+
+msgid "NAMES/GER334"
+msgstr "Grolman"
+
+msgid "NAMES/GER335"
+msgstr "Groscurth"
+
+msgid "NAMES/GER336"
+msgstr "Groth"
+
+msgid "NAMES/GER337"
+msgstr "Grünewald"
+
+msgid "NAMES/GER338"
+msgstr "Grumbkow"
+
+msgid "NAMES/GER339"
+msgstr "Grünwald"
+
+msgid "NAMES/GER34"
+msgstr "Bäke"
+
+msgid "NAMES/GER340"
+msgstr "Gudelius"
+
+msgid "NAMES/GER341"
+msgstr "Guggenberger"
+
+msgid "NAMES/GER342"
+msgstr "Günsche"
+
+msgid "NAMES/GER343"
+msgstr "Gutknecht"
+
+msgid "NAMES/GER344"
+msgstr "Gütt"
+
+msgid "NAMES/GER345"
+msgstr "Haake"
+
+msgid "NAMES/GER346"
+msgstr "Haarde"
+
+msgid "NAMES/GER347"
+msgstr "Haase"
+
+msgid "NAMES/GER348"
+msgstr "Haeften"
+
+msgid "NAMES/GER349"
+msgstr "Haevernick"
+
+msgid "NAMES/GER35"
+msgstr "Balck"
+
+msgid "NAMES/GER350"
+msgstr "Hafner"
+
+msgid "NAMES/GER351"
+msgstr "Hageman"
+
+msgid "NAMES/GER352"
+msgstr "Hagen"
+
+msgid "NAMES/GER353"
+msgstr "Hähle"
+
+msgid "NAMES/GER354"
+msgstr "Hahm"
+
+msgid "NAMES/GER355"
+msgstr "Gunthar"
+
+msgid "NAMES/GER356"
+msgstr "Hahnke"
+
+msgid "NAMES/GER357"
+msgstr "Hälker"
+
+msgid "NAMES/GER358"
+msgstr "Halm"
+
+msgid "NAMES/GER359"
+msgstr "Haltermann"
+
+msgid "NAMES/GER36"
+msgstr "Balk"
+
+msgid "NAMES/GER360"
+msgstr "Handloser"
+
+msgid "NAMES/GER361"
+msgstr "Hantl"
+
+msgid "NAMES/GER362"
+msgstr "Harbou"
+
+msgid "NAMES/GER363"
+msgstr "Hardegen"
+
+msgid "NAMES/GER364"
+msgstr "Harlinghausen"
+
+msgid "NAMES/GER365"
+msgstr "Harpe"
+
+msgid "NAMES/GER366"
+msgstr "Hartenstein"
+
+msgid "NAMES/GER367"
+msgstr "Hartjenstein"
+
+msgid "NAMES/GER368"
+msgstr "Hartlieb"
+
+msgid "NAMES/GER369"
+msgstr "Härtling"
+
+msgid "NAMES/GER37"
+msgstr "Ballauff"
+
+msgid "NAMES/GER370"
+msgstr "Hartman"
+
+msgid "NAMES/GER371"
+msgstr "Hartwig"
+
+msgid "NAMES/GER372"
+msgstr "Hase"
+
+msgid "NAMES/GER373"
+msgstr "Hasse"
+
+msgid "NAMES/GER374"
+msgstr "Hauenschild"
+
+msgid "NAMES/GER375"
+msgstr "Hammerschmidt"
+
+msgid "NAMES/GER376"
+msgstr "Hauser"
+
+msgid "NAMES/GER377"
+msgstr "Hax"
+
+msgid "NAMES/GER378"
+msgstr "Hayessen"
+
+msgid "NAMES/GER379"
+msgstr "Heer"
+
+msgid "NAMES/GER38"
+msgstr "Balthasar"
+
+msgid "NAMES/GER380"
+msgstr "Heibges"
+
+msgid "NAMES/GER381"
+msgstr "Heidkemper"
+
+msgid "NAMES/GER382"
+msgstr "Heigl"
+
+msgid "NAMES/GER383"
+msgstr "Heilmann"
+
+msgid "NAMES/GER384"
+msgstr "Heim"
+
+msgid "NAMES/GER385"
+msgstr "Heimburg"
+
+msgid "NAMES/GER386"
+msgstr "Heinrichs"
+
+msgid "NAMES/GER387"
+msgstr "Heinrici"
+
+msgid "NAMES/GER388"
+msgstr "Heinriecke"
+
+msgid "NAMES/GER389"
+msgstr "Heise"
+
+msgid "NAMES/GER39"
+msgstr "Baltzer"
+
+msgid "NAMES/GER390"
+msgstr "Heisel"
+
+msgid "NAMES/GER391"
+msgstr "Heiß"
+
+msgid "NAMES/GER392"
+msgstr "Heitz"
+
+msgid "NAMES/GER393"
+msgstr "Henner"
+
+msgid "NAMES/GER394"
+msgstr "Hellinger"
+
+msgid "NAMES/GER395"
+msgstr "Hellriegel"
+
+msgid "NAMES/GER396"
+msgstr "Hengl"
+
+msgid "NAMES/GER397"
+msgstr "Henke"
+
+msgid "NAMES/GER398"
+msgstr "Henkel"
+
+msgid "NAMES/GER399"
+msgstr "Hentsch"
+
+msgid "NAMES/GER4"
+msgstr "Abt"
+
+msgid "NAMES/GER40"
+msgstr "Bamler"
+
+msgid "NAMES/GER400"
+msgstr "Hepp"
+
+msgid "NAMES/GER401"
+msgstr "Herff"
+
+msgid "NAMES/GER402"
+msgstr "Herfurth"
+
+msgid "NAMES/GER403"
+msgstr "Herr"
+
+msgid "NAMES/GER404"
+msgstr "Herrlein"
+
+msgid "NAMES/GER405"
+msgstr "Herrmann"
+
+msgid "NAMES/GER406"
+msgstr "Hersmann"
+
+msgid "NAMES/GER407"
+msgstr "Hertz"
+
+msgid "NAMES/GER408"
+msgstr "Hertzog"
+
+msgid "NAMES/GER409"
+msgstr "Herwarth"
+
+msgid "NAMES/GER41"
+msgstr "Bär"
+
+msgid "NAMES/GER410"
+msgstr "Herzog"
+
+msgid "NAMES/GER411"
+msgstr "Hesse"
+
+msgid "NAMES/GER412"
+msgstr "Hetz"
+
+msgid "NAMES/GER413"
+msgstr "Hetzenauer"
+
+msgid "NAMES/GER414"
+msgstr "Heubeck"
+
+msgid "NAMES/GER415"
+msgstr "Heusinger"
+
+msgid "NAMES/GER416"
+msgstr "Heuss"
+
+msgid "NAMES/GER417"
+msgstr "Heye"
+
+msgid "NAMES/GER418"
+msgstr "Harro"
+
+msgid "NAMES/GER419"
+msgstr "Hillert"
+
+msgid "NAMES/GER42"
+msgstr "Barczay"
+
+msgid "NAMES/GER420"
+msgstr "Hilpert"
+
+msgid "NAMES/GER421"
+msgstr "Himmelreich"
+
+msgid "NAMES/GER422"
+msgstr "Hinrichs"
+
+msgid "NAMES/GER423"
+msgstr "Hinze"
+
+msgid "NAMES/GER424"
+msgstr "Hippler"
+
+msgid "NAMES/GER425"
+msgstr "Hirsch"
+
+msgid "NAMES/GER426"
+msgstr "Hirschfeld"
+
+msgid "NAMES/GER427"
+msgstr "Hitschhold"
+
+msgid "NAMES/GER428"
+msgstr "Hoch"
+
+msgid "NAMES/GER429"
+msgstr "Hock"
+
+msgid "NAMES/GER43"
+msgstr "Barkhorn"
+
+msgid "NAMES/GER430"
+msgstr "Hofacker"
+
+msgid "NAMES/GER431"
+msgstr "Hoffman"
+
+msgid "NAMES/GER432"
+msgstr "Hoffmann"
+
+msgid "NAMES/GER433"
+msgstr "Hoffmeister"
+
+msgid "NAMES/GER434"
+msgstr "Hofstätter"
+
+msgid "NAMES/GER435"
+msgstr "Hogrebe"
+
+msgid "NAMES/GER436"
+msgstr "Hohmann"
+
+msgid "NAMES/GER437"
+msgstr "Holle"
+
+msgid "NAMES/GER438"
+msgstr "Holste"
+
+msgid "NAMES/GER439"
+msgstr "Holtitz"
+
+msgid "NAMES/GER44"
+msgstr "Barkmann"
+
+msgid "NAMES/GER440"
+msgstr "Holtzmann"
+
+msgid "NAMES/GER441"
+msgstr "Hönscheid"
+
+msgid "NAMES/GER442"
+msgstr "Hossbach"
+
+msgid "NAMES/GER443"
+msgstr "Hößlin"
+
+msgid "NAMES/GER444"
+msgstr "Hoth"
+
+msgid "NAMES/GER445"
+msgstr "Hott"
+
+msgid "NAMES/GER446"
+msgstr "Howaldt"
+
+msgid "NAMES/GER447"
+msgstr "Hozzel"
+
+msgid "NAMES/GER448"
+msgstr "Hofmeister"
+
+msgid "NAMES/GER449"
+msgstr "Hübe"
+
+msgid "NAMES/GER45"
+msgstr "Barth"
+
+msgid "NAMES/GER450"
+msgstr "Hueber"
+
+msgid "NAMES/GER451"
+msgstr "Huber"
+
+msgid "NAMES/GER452"
+msgstr "Hofbauer"
+
+msgid "NAMES/GER453"
+msgstr "Hübner"
+
+msgid "NAMES/GER454"
+msgstr "Hülsen"
+
+msgid "NAMES/GER455"
+msgstr "Hüner"
+
+msgid "NAMES/GER456"
+msgstr "Hünersdorf"
+
+msgid "NAMES/GER457"
+msgstr "Huth"
+
+msgid "NAMES/GER458"
+msgstr "Huffman"
+
+msgid "NAMES/GER459"
+msgstr "Ihlefeld"
+
+msgid "NAMES/GER46"
+msgstr "Baschleben"
+
+msgid "NAMES/GER460"
+msgstr "Ites"
+
+msgid "NAMES/GER461"
+msgstr "Jäckel"
+
+msgid "NAMES/GER462"
+msgstr "Jacobs"
+
+msgid "NAMES/GER463"
+msgstr "Jäger"
+
+msgid "NAMES/GER464"
+msgstr "Jänecke"
+
+msgid "NAMES/GER465"
+msgstr "Jauch"
+
+msgid "NAMES/GER466"
+msgstr "Jeschonnek"
+
+msgid "NAMES/GER467"
+msgstr "Joedicke"
+
+msgid "NAMES/GER468"
+msgstr "Johannesson"
+
+msgid "NAMES/GER469"
+msgstr "Jope"
+
+msgid "NAMES/GER47"
+msgstr "Battel"
+
+msgid "NAMES/GER470"
+msgstr "Jung"
+
+msgid "NAMES/GER471"
+msgstr "Jungren"
+
+msgid "NAMES/GER472"
+msgstr "Junker"
+
+msgid "NAMES/GER473"
+msgstr "Kabisch"
+
+msgid "NAMES/GER474"
+msgstr "Kästner"
+
+msgid "NAMES/GER475"
+msgstr "Kageneck"
+
+msgid "NAMES/GER476"
+msgstr "Kähler"
+
+msgid "NAMES/GER477"
+msgstr "Kaiser"
+
+msgid "NAMES/GER478"
+msgstr "Kalb"
+
+msgid "NAMES/GER479"
+msgstr "Kammhuber"
+
+msgid "NAMES/GER48"
+msgstr "Batz"
+
+msgid "NAMES/GER480"
+msgstr "Kappel"
+
+msgid "NAMES/GER481"
+msgstr "Kasten"
+
+msgid "NAMES/GER482"
+msgstr "Kaufmann"
+
+msgid "NAMES/GER483"
+msgstr "Kell"
+
+msgid "NAMES/GER484"
+msgstr "Keller"
+
+msgid "NAMES/GER485"
+msgstr "Kellner"
+
+msgid "NAMES/GER486"
+msgstr "Kempf"
+
+msgid "NAMES/GER487"
+msgstr "Kentrat"
+
+msgid "NAMES/GER488"
+msgstr "Kessel"
+
+msgid "NAMES/GER489"
+msgstr "Kielmansegg"
+
+msgid "NAMES/GER49"
+msgstr "Bauer"
+
+msgid "NAMES/GER490"
+msgstr "Kiesewetter"
+
+msgid "NAMES/GER491"
+msgstr "Kinzel"
+
+msgid "NAMES/GER492"
+msgstr "Kirchbach"
+
+msgid "NAMES/GER493"
+msgstr "Kirchner"
+
+msgid "NAMES/GER494"
+msgstr "Kirsch"
+
+msgid "NAMES/GER495"
+msgstr "Kiesling"
+
+msgid "NAMES/GER496"
+msgstr "Kittel"
+
+msgid "NAMES/GER497"
+msgstr "Kitzinger"
+
+msgid "NAMES/GER498"
+msgstr "Klammt"
+
+msgid "NAMES/GER499"
+msgstr "Klamroth"
+
+msgid "NAMES/GER5"
+msgstr "Ackerman"
+
+msgid "NAMES/GER50"
+msgstr "Baum"
+
+msgid "NAMES/GER500"
+msgstr "Klatt"
+
+msgid "NAMES/GER501"
+msgstr "Kleeman"
+
+msgid "NAMES/GER502"
+msgstr "Klein"
+
+msgid "NAMES/GER503"
+msgstr "Kleist"
+
+msgid "NAMES/GER504"
+msgstr "Klessner"
+
+msgid "NAMES/GER505"
+msgstr "Klose"
+
+msgid "NAMES/GER506"
+msgstr "Klüber"
+
+msgid "NAMES/GER507"
+msgstr "Klug"
+
+msgid "NAMES/GER508"
+msgstr "Knaak"
+
+msgid "NAMES/GER509"
+msgstr "Knabbe"
+
+msgid "NAMES/GER51"
+msgstr "Baumbach"
+
+msgid "NAMES/GER510"
+msgstr "Knauss"
+
+msgid "NAMES/GER511"
+msgstr "Knebel"
+
+msgid "NAMES/GER512"
+msgstr "Knieß"
+
+msgid "NAMES/GER513"
+msgstr "Knispel"
+
+msgid "NAMES/GER514"
+msgstr "Knobelsdorf"
+
+msgid "NAMES/GER515"
+msgstr "Knobelsdorff"
+
+msgid "NAMES/GER516"
+msgstr "Knoke"
+
+msgid "NAMES/GER517"
+msgstr "Hoffrichter"
+
+msgid "NAMES/GER518"
+msgstr "Koch"
+
+msgid "NAMES/GER519"
+msgstr "Köchling"
+
+msgid "NAMES/GER52"
+msgstr "Baumgärtner"
+
+msgid "NAMES/GER520"
+msgstr "Kleinke"
+
+msgid "NAMES/GER521"
+msgstr "König"
+
+msgid "NAMES/GER522"
+msgstr "Kleiner"
+
+msgid "NAMES/GER523"
+msgstr "Kohl"
+
+msgid "NAMES/GER524"
+msgstr "Köhler"
+
+msgid "NAMES/GER525"
+msgstr "Koll"
+
+msgid "NAMES/GER526"
+msgstr "Kleinwächter"
+
+msgid "NAMES/GER527"
+msgstr "Korn"
+
+msgid "NAMES/GER528"
+msgstr "Korten"
+
+msgid "NAMES/GER529"
+msgstr "Kortzfleisch"
+
+msgid "NAMES/GER53"
+msgstr "Bayer"
+
+msgid "NAMES/GER530"
+msgstr "Köstring"
+
+msgid "NAMES/GER531"
+msgstr "Kraiss"
+
+msgid "NAMES/GER532"
+msgstr "Krammer"
+
+msgid "NAMES/GER533"
+msgstr "Kranzbühler"
+
+msgid "NAMES/GER534"
+msgstr "Kraseman"
+
+msgid "NAMES/GER535"
+msgstr "Krauss"
+
+msgid "NAMES/GER536"
+msgstr "Krause"
+
+msgid "NAMES/GER537"
+msgstr "Kreber"
+
+msgid "NAMES/GER538"
+msgstr "Krebs"
+
+msgid "NAMES/GER539"
+msgstr "Kreipe"
+
+msgid "NAMES/GER54"
+msgstr "Beyerlein"
+
+msgid "NAMES/GER540"
+msgstr "Kretschmar"
+
+msgid "NAMES/GER541"
+msgstr "Kriebel"
+
+msgid "NAMES/GER542"
+msgstr "Kriegsheim"
+
+msgid "NAMES/GER543"
+msgstr "Kroh"
+
+msgid "NAMES/GER544"
+msgstr "Krüger"
+
+msgid "NAMES/GER545"
+msgstr "Küffner"
+
+msgid "NAMES/GER546"
+msgstr "Küster"
+
+msgid "NAMES/GER547"
+msgstr "Kühlenthal"
+
+msgid "NAMES/GER548"
+msgstr "Kuhlmey"
+
+msgid "NAMES/GER549"
+msgstr "Kühme"
+
+msgid "NAMES/GER55"
+msgstr "Beckenbauer"
+
+msgid "NAMES/GER550"
+msgstr "Kühn"
+
+msgid "NAMES/GER551"
+msgstr "Kuhn"
+
+msgid "NAMES/GER552"
+msgstr "Kullmer"
+
+msgid "NAMES/GER553"
+msgstr "Kümmert"
+
+msgid "NAMES/GER554"
+msgstr "Künn"
+
+msgid "NAMES/GER555"
+msgstr "Kuntner"
+
+msgid "NAMES/GER556"
+msgstr "Kuntzen"
+
+msgid "NAMES/GER557"
+msgstr "Kupfer"
+
+msgid "NAMES/GER558"
+msgstr "Kuppisch"
+
+msgid "NAMES/GER559"
+msgstr "Lambert"
+
+msgid "NAMES/GER56"
+msgstr "Behn"
+
+msgid "NAMES/GER560"
+msgstr "Lancken"
+
+msgid "NAMES/GER561"
+msgstr "Landgraf"
+
+msgid "NAMES/GER562"
+msgstr "Lang"
+
+msgid "NAMES/GER563"
+msgstr "Langemann"
+
+msgid "NAMES/GER564"
+msgstr "Langerman"
+
+msgid "NAMES/GER565"
+msgstr "Langsdorff"
+
+msgid "NAMES/GER566"
+msgstr "Lanz"
+
+msgid "NAMES/GER567"
+msgstr "Lasch"
+
+msgid "NAMES/GER568"
+msgstr "Lattman"
+
+msgid "NAMES/GER569"
+msgstr "Lattmann"
+
+msgid "NAMES/GER57"
+msgstr "Behr"
+
+msgid "NAMES/GER570"
+msgstr "Lauchert"
+
+msgid "NAMES/GER571"
+msgstr "Laue"
+
+msgid "NAMES/GER572"
+msgstr "Ledebur"
+
+msgid "NAMES/GER573"
+msgstr "Lehmann"
+
+msgid "NAMES/GER574"
+msgstr "Lehrer"
+
+msgid "NAMES/GER575"
+msgstr "Lehman"
+
+msgid "NAMES/GER576"
+msgstr "Leibbrandt"
+
+msgid "NAMES/GER577"
+msgstr "Leinweber"
+
+msgid "NAMES/GER578"
+msgstr "Langen"
+
+msgid "NAMES/GER579"
+msgstr "Lemp"
+
+msgid "NAMES/GER58"
+msgstr "Behrendt"
+
+msgid "NAMES/GER580"
+msgstr "Lenk"
+
+msgid "NAMES/GER581"
+msgstr "Lent"
+
+msgid "NAMES/GER582"
+msgstr "Langner"
+
+msgid "NAMES/GER583"
+msgstr "Leper"
+
+msgid "NAMES/GER584"
+msgstr "Lepperdinger"
+
+msgid "NAMES/GER585"
+msgstr "Lewinski"
+
+msgid "NAMES/GER586"
+msgstr "Leyser"
+
+msgid "NAMES/GER587"
+msgstr "Licht"
+
+msgid "NAMES/GER588"
+msgstr "Liebenstein"
+
+msgid "NAMES/GER589"
+msgstr "Liebmann"
+
+msgid "NAMES/GER59"
+msgstr "Beich"
+
+msgid "NAMES/GER590"
+msgstr "Liedig"
+
+msgid "NAMES/GER591"
+msgstr "Liedtke"
+
+msgid "NAMES/GER592"
+msgstr "Liese"
+
+msgid "NAMES/GER593"
+msgstr "Linneweber"
+
+msgid "NAMES/GER594"
+msgstr "Lilienthal"
+
+msgid "NAMES/GER595"
+msgstr "Limberg"
+
+msgid "NAMES/GER596"
+msgstr "Lindau"
+
+msgid "NAMES/GER597"
+msgstr "Linnartz"
+
+msgid "NAMES/GER598"
+msgstr "Lipfert"
+
+msgid "NAMES/GER599"
+msgstr "Lippert"
+
+msgid "NAMES/GER6"
+msgstr "Ademeit"
+
+msgid "NAMES/GER60"
+msgstr "Bennecke"
+
+msgid "NAMES/GER600"
+msgstr "Loerzer"
+
+msgid "NAMES/GER601"
+msgstr "Löwe"
+
+msgid "NAMES/GER602"
+msgstr "Löhr"
+
+msgid "NAMES/GER603"
+msgstr "Lohse"
+
+msgid "NAMES/GER604"
+msgstr "Lorleberg"
+
+msgid "NAMES/GER605"
+msgstr "Lübbe"
+
+msgid "NAMES/GER606"
+msgstr "Luckner"
+
+msgid "NAMES/GER607"
+msgstr "Ludin"
+
+msgid "NAMES/GER608"
+msgstr "Luft"
+
+msgid "NAMES/GER609"
+msgstr "Luherschausen"
+
+msgid "NAMES/GER61"
+msgstr "Berg"
+
+msgid "NAMES/GER610"
+msgstr "Lüninck"
+
+msgid "NAMES/GER611"
+msgstr "Lüters"
+
+msgid "NAMES/GER612"
+msgstr "Lütgendorf"
+
+msgid "NAMES/GER613"
+msgstr "Lütjens"
+
+msgid "NAMES/GER614"
+msgstr "Krugman"
+
+msgid "NAMES/GER615"
+msgstr "Mäder"
+
+msgid "NAMES/GER616"
+msgstr "Mahler"
+
+msgid "NAMES/GER617"
+msgstr "Maier"
+
+msgid "NAMES/GER618"
+msgstr "Maisel"
+
+msgid "NAMES/GER619"
+msgstr "Kruse"
+
+msgid "NAMES/GER62"
+msgstr "Bergmann"
+
+msgid "NAMES/GER620"
+msgstr "Makensen"
+
+msgid "NAMES/GER621"
+msgstr "Marchtaler"
+
+msgid "NAMES/GER622"
+msgstr "Martieneck"
+
+msgid "NAMES/GER623"
+msgstr "Martin"
+
+msgid "NAMES/GER624"
+msgstr "Marwitz"
+
+msgid "NAMES/GER625"
+msgstr "Matterstock"
+
+msgid "NAMES/GER626"
+msgstr "Mauer"
+
+msgid "NAMES/GER627"
+msgstr "Maurer"
+
+msgid "NAMES/GER628"
+msgstr "Mauss"
+
+msgid "NAMES/GER629"
+msgstr "Meder"
+
+msgid "NAMES/GER63"
+msgstr "Berndt"
+
+msgid "NAMES/GER630"
+msgstr "Meixner"
+
+msgid "NAMES/GER631"
+msgstr "Meier"
+
+msgid "NAMES/GER632"
+msgstr "Meindl"
+
+msgid "NAMES/GER633"
+msgstr "Meister"
+
+msgid "NAMES/GER634"
+msgstr "Meller"
+
+msgid "NAMES/GER635"
+msgstr "Menche"
+
+msgid "NAMES/GER636"
+msgstr "Mende"
+
+msgid "NAMES/GER637"
+msgstr "Mengelbier"
+
+msgid "NAMES/GER638"
+msgstr "Möllers"
+
+msgid "NAMES/GER639"
+msgstr "Mensching"
+
+msgid "NAMES/GER64"
+msgstr "Bernuth"
+
+msgid "NAMES/GER640"
+msgstr "Metz"
+
+msgid "NAMES/GER641"
+msgstr "Metzger"
+
+msgid "NAMES/GER642"
+msgstr "Michels"
+
+msgid "NAMES/GER643"
+msgstr "Mikel"
+
+msgid "NAMES/GER644"
+msgstr "Milch"
+
+msgid "NAMES/GER645"
+msgstr "Mirow"
+
+msgid "NAMES/GER646"
+msgstr "Mönch"
+
+msgid "NAMES/GER647"
+msgstr "Mohr"
+
+msgid "NAMES/GER648"
+msgstr "Mölders"
+
+msgid "NAMES/GER649"
+msgstr "Morzik"
+
+msgid "NAMES/GER65"
+msgstr "Bertram"
+
+msgid "NAMES/GER650"
+msgstr "Mudra"
+
+msgid "NAMES/GER651"
+msgstr "Müller"
+
+msgid "NAMES/GER652"
+msgstr "Mummert"
+
+msgid "NAMES/GER653"
+msgstr "Müncheberg"
+
+msgid "NAMES/GER654"
+msgstr "Müntzel"
+
+msgid "NAMES/GER655"
+msgstr "Nacht"
+
+msgid "NAMES/GER656"
+msgstr "Nadel"
+
+msgid "NAMES/GER657"
+msgstr "Nagel"
+
+msgid "NAMES/GER658"
+msgstr "Naumann"
+
+msgid "NAMES/GER659"
+msgstr "Nehring"
+
+msgid "NAMES/GER66"
+msgstr "Bessler"
+
+msgid "NAMES/GER660"
+msgstr "Nethe"
+
+msgid "NAMES/GER661"
+msgstr "Neudorf"
+
+msgid "NAMES/GER662"
+msgstr "Möllmann"
+
+msgid "NAMES/GER663"
+msgstr "Neukirchen"
+
+msgid "NAMES/GER664"
+msgstr "Niedermayer"
+
+msgid "NAMES/GER665"
+msgstr "Niehoff"
+
+msgid "NAMES/GER666"
+msgstr "Nippold"
+
+msgid "NAMES/GER667"
+msgstr "Neumann"
+
+msgid "NAMES/GER668"
+msgstr "Nöldeke"
+
+msgid "NAMES/GER669"
+msgstr "Nordmann"
+
+msgid "NAMES/GER67"
+msgstr "Betke"
+
+msgid "NAMES/GER670"
+msgstr "Nowotny"
+
+msgid "NAMES/GER671"
+msgstr "Nussbaum"
+
+msgid "NAMES/GER672"
+msgstr "Obernitz"
+
+msgid "NAMES/GER673"
+msgstr "Obstfelder"
+
+msgid "NAMES/GER674"
+msgstr "Oehrn"
+
+msgid "NAMES/GER675"
+msgstr "Oertzen"
+
+msgid "NAMES/GER676"
+msgstr "Oesau"
+
+msgid "NAMES/GER677"
+msgstr "Oesten"
+
+msgid "NAMES/GER678"
+msgstr "Olbricht"
+
+msgid "NAMES/GER679"
+msgstr "Müllner"
+
+msgid "NAMES/GER68"
+msgstr "Bergner"
+
+msgid "NAMES/GER680"
+msgstr "Oppeln"
+
+msgid "NAMES/GER681"
+msgstr "Oppenländer"
+
+msgid "NAMES/GER682"
+msgstr "Oppermann"
+
+msgid "NAMES/GER683"
+msgstr "Osenberg"
+
+msgid "NAMES/GER684"
+msgstr "Oster"
+
+msgid "NAMES/GER685"
+msgstr "Osterhagen"
+
+msgid "NAMES/GER686"
+msgstr "Osterkamp"
+
+msgid "NAMES/GER687"
+msgstr "Ostermann"
+
+msgid "NAMES/GER688"
+msgstr "Österreicher"
+
+msgid "NAMES/GER689"
+msgstr "Papst"
+
+msgid "NAMES/GER69"
+msgstr "Betzel"
+
+msgid "NAMES/GER690"
+msgstr "Möller"
+
+msgid "NAMES/GER691"
+msgstr "Pannwitz"
+
+msgid "NAMES/GER692"
+msgstr "Patzig"
+
+msgid "NAMES/GER693"
+msgstr "Pauer"
+
+msgid "NAMES/GER694"
+msgstr "Paust"
+
+msgid "NAMES/GER695"
+msgstr "Pellengahr"
+
+msgid "NAMES/GER696"
+msgstr "Pemsel"
+
+msgid "NAMES/GER697"
+msgstr "Petersen"
+
+msgid "NAMES/GER698"
+msgstr "Petershagen"
+
+msgid "NAMES/GER699"
+msgstr "Pfaff"
+
+msgid "NAMES/GER7"
+msgstr "Delbert"
+
+msgid "NAMES/GER70"
+msgstr "Beumelburg"
+
+msgid "NAMES/GER700"
+msgstr "Pfeffer"
+
+msgid "NAMES/GER701"
+msgstr "Paur"
+
+msgid "NAMES/GER702"
+msgstr "Pfeiffer"
+
+msgid "NAMES/GER703"
+msgstr "Pfuel"
+
+msgid "NAMES/GER704"
+msgstr "Piekenbrock"
+
+msgid "NAMES/GER705"
+msgstr "Piening"
+
+msgid "NAMES/GER706"
+msgstr "Plagge"
+
+msgid "NAMES/GER707"
+msgstr "Plenzat"
+
+msgid "NAMES/GER708"
+msgstr "Ploetz"
+
+msgid "NAMES/GER709"
+msgstr "Pohl"
+
+msgid "NAMES/GER71"
+msgstr "Beutel"
+
+msgid "NAMES/GER710"
+msgstr "Pöschl"
+
+msgid "NAMES/GER711"
+msgstr "Pössinger"
+
+msgid "NAMES/GER712"
+msgstr "Praun"
+
+msgid "NAMES/GER713"
+msgstr "Prentl"
+
+msgid "NAMES/GER714"
+msgstr "Prentzel"
+
+msgid "NAMES/GER715"
+msgstr "Preßler"
+
+msgid "NAMES/GER716"
+msgstr "Preußen"
+
+msgid "NAMES/GER717"
+msgstr "Prien"
+
+msgid "NAMES/GER718"
+msgstr "Priller"
+
+msgid "NAMES/GER719"
+msgstr "Prittwietz"
+
+msgid "NAMES/GER72"
+msgstr "Beyer"
+
+msgid "NAMES/GER720"
+msgstr "Probst"
+
+msgid "NAMES/GER721"
+msgstr "Proschlitz"
+
+msgid "NAMES/GER722"
+msgstr "Püchler"
+
+msgid "NAMES/GER723"
+msgstr "Puttkamer"
+
+msgid "NAMES/GER724"
+msgstr "Raecke"
+
+msgid "NAMES/GER725"
+msgstr "Peters"
+
+msgid "NAMES/GER726"
+msgstr "Rall"
+
+msgid "NAMES/GER727"
+msgstr "Ramien"
+
+msgid "NAMES/GER728"
+msgstr "Ramke"
+
+msgid "NAMES/GER729"
+msgstr "Randow"
+
+msgid "NAMES/GER73"
+msgstr "Bieber"
+
+msgid "NAMES/GER730"
+msgstr "Rantzau"
+
+msgid "NAMES/GER731"
+msgstr "Rattenhuber"
+
+msgid "NAMES/GER732"
+msgstr "Raus"
+
+msgid "NAMES/GER733"
+msgstr "Ravenstein"
+
+msgid "NAMES/GER734"
+msgstr "Rebentisch"
+
+msgid "NAMES/GER735"
+msgstr "Recknagel"
+
+msgid "NAMES/GER736"
+msgstr "Reese"
+
+msgid "NAMES/GER737"
+msgstr "Reichenau"
+
+msgid "NAMES/GER738"
+msgstr "Reinhardt"
+
+msgid "NAMES/GER739"
+msgstr "Mühlmann"
+
+msgid "NAMES/GER74"
+msgstr "Bieler"
+
+msgid "NAMES/GER740"
+msgstr "Reiniger"
+
+msgid "NAMES/GER741"
+msgstr "Reitsch"
+
+msgid "NAMES/GER742"
+msgstr "Remold"
+
+msgid "NAMES/GER743"
+msgstr "Krog"
+
+msgid "NAMES/GER744"
+msgstr "Reschke"
+
+msgid "NAMES/GER745"
+msgstr "Rettemeier"
+
+msgid "NAMES/GER746"
+msgstr "Richter"
+
+msgid "NAMES/GER747"
+msgstr "Schafer"
+
+msgid "NAMES/GER748"
+msgstr "Ringel"
+
+msgid "NAMES/GER749"
+msgstr "Rintelen"
+
+msgid "NAMES/GER75"
+msgstr "Biermann"
+
+msgid "NAMES/GER750"
+msgstr "Ritter"
+
+msgid "NAMES/GER751"
+msgstr "Rochow"
+
+msgid "NAMES/GER752"
+msgstr "Rodenburg"
+
+msgid "NAMES/GER753"
+msgstr "Rodt"
+
+msgid "NAMES/GER754"
+msgstr "Schäfers"
+
+msgid "NAMES/GER755"
+msgstr "Rogge"
+
+msgid "NAMES/GER756"
+msgstr "Rohr"
+
+msgid "NAMES/GER757"
+msgstr "Rollmann"
+
+msgid "NAMES/GER758"
+msgstr "Roon"
+
+msgid "NAMES/GER759"
+msgstr "Rösing"
+
+msgid "NAMES/GER76"
+msgstr "Biersack"
+
+msgid "NAMES/GER760"
+msgstr "Rot"
+
+msgid "NAMES/GER761"
+msgstr "Roth"
+
+msgid "NAMES/GER762"
+msgstr "Rothschild"
+
+msgid "NAMES/GER763"
+msgstr "Rothstein"
+
+msgid "NAMES/GER764"
+msgstr "Röttiger"
+
+msgid "NAMES/GER765"
+msgstr "Rowehl"
+
+msgid "NAMES/GER766"
+msgstr "Ruckteschell"
+
+msgid "NAMES/GER767"
+msgstr "Rudorffer"
+
+msgid "NAMES/GER768"
+msgstr "Ruhfus"
+
+msgid "NAMES/GER769"
+msgstr "Rümann"
+
+msgid "NAMES/GER77"
+msgstr "Bissing"
+
+msgid "NAMES/GER770"
+msgstr "Ruoff"
+
+msgid "NAMES/GER771"
+msgstr "Saalwächter"
+
+msgid "NAMES/GER772"
+msgstr "Sänger"
+
+msgid "NAMES/GER773"
+msgstr "Salminger"
+
+msgid "NAMES/GER774"
+msgstr "Salmuth"
+
+msgid "NAMES/GER775"
+msgstr "Schmidl"
+
+msgid "NAMES/GER776"
+msgstr "Sanne"
+
+msgid "NAMES/GER777"
+msgstr "Saucken"
+
+msgid "NAMES/GER778"
+msgstr "Sauken"
+
+msgid "NAMES/GER779"
+msgstr "Schaal"
+
+msgid "NAMES/GER78"
+msgstr "Blasig"
+
+msgid "NAMES/GER780"
+msgstr "Schacht"
+
+msgid "NAMES/GER781"
+msgstr "Schack"
+
+msgid "NAMES/GER782"
+msgstr "Schadeberg"
+
+msgid "NAMES/GER783"
+msgstr "Schäfer"
+
+msgid "NAMES/GER784"
+msgstr "Schell"
+
+msgid "NAMES/GER785"
+msgstr "Scheller"
+
+msgid "NAMES/GER786"
+msgstr "Schmitz"
+
+msgid "NAMES/GER787"
+msgstr "Schepke"
+
+msgid "NAMES/GER788"
+msgstr "Scherer"
+
+msgid "NAMES/GER789"
+msgstr "Scheringer"
+
+msgid "NAMES/GER79"
+msgstr "Blaskowitz"
+
+msgid "NAMES/GER790"
+msgstr "Scherner"
+
+msgid "NAMES/GER791"
+msgstr "Scheungraber"
+
+msgid "NAMES/GER792"
+msgstr "Schiffer"
+
+msgid "NAMES/GER793"
+msgstr "Schilling"
+
+msgid "NAMES/GER794"
+msgstr "Schirlitz"
+
+msgid "NAMES/GER795"
+msgstr "Schirmer"
+
+msgid "NAMES/GER796"
+msgstr "Schlabrendorff"
+
+msgid "NAMES/GER797"
+msgstr "Schlemer"
+
+msgid "NAMES/GER798"
+msgstr "Schlemm"
+
+msgid "NAMES/GER799"
+msgstr "Schlieben"
+
+msgid "NAMES/GER8"
+msgstr "Ahlemann"
+
+msgid "NAMES/GER80"
+msgstr "Blau"
+
+msgid "NAMES/GER800"
+msgstr "Schlippenbach"
+
+msgid "NAMES/GER801"
+msgstr "Schlüter"
+
+msgid "NAMES/GER802"
+msgstr "Schmidhuber"
+
+msgid "NAMES/GER803"
+msgstr "Schmitt"
+
+msgid "NAMES/GER804"
+msgstr "Schmidthüber"
+
+msgid "NAMES/GER805"
+msgstr "Schmundt"
+
+msgid "NAMES/GER806"
+msgstr "Schnee"
+
+msgid "NAMES/GER807"
+msgstr "Schneider"
+
+msgid "NAMES/GER808"
+msgstr "Schmidtke"
+
+msgid "NAMES/GER809"
+msgstr "Schnell"
+
+msgid "NAMES/GER81"
+msgstr "Bloch"
+
+msgid "NAMES/GER810"
+msgstr "Schneyder"
+
+msgid "NAMES/GER811"
+msgstr "Schobert"
+
+msgid "NAMES/GER812"
+msgstr "Scholz"
+
+msgid "NAMES/GER813"
+msgstr "Schönbrunner"
+
+msgid "NAMES/GER814"
+msgstr "Schöne"
+
+msgid "NAMES/GER815"
+msgstr "Sperling"
+
+msgid "NAMES/GER816"
+msgstr "Schräder"
+
+msgid "NAMES/GER817"
+msgstr "Schramm"
+
+msgid "NAMES/GER818"
+msgstr "Schreiber"
+
+msgid "NAMES/GER819"
+msgstr "Schreiner"
+
+msgid "NAMES/GER82"
+msgstr "Bloedorn"
+
+msgid "NAMES/GER820"
+msgstr "Schrems"
+
+msgid "NAMES/GER821"
+msgstr "Schretter"
+
+msgid "NAMES/GER822"
+msgstr "Schröder"
+
+msgid "NAMES/GER823"
+msgstr "Schrader"
+
+msgid "NAMES/GER824"
+msgstr "Schroder"
+
+msgid "NAMES/GER825"
+msgstr "Schroeder"
+
+msgid "NAMES/GER826"
+msgstr "Schroth"
+
+msgid "NAMES/GER827"
+msgstr "Schrödter"
+
+msgid "NAMES/GER828"
+msgstr "Schröter"
+
+msgid "NAMES/GER829"
+msgstr "Schubert"
+
+msgid "NAMES/GER83"
+msgstr "Bloem"
+
+msgid "NAMES/GER830"
+msgstr "Schuberth"
+
+msgid "NAMES/GER831"
+msgstr "Schuck"
+
+msgid "NAMES/GER832"
+msgstr "Schuhart"
+
+msgid "NAMES/GER833"
+msgstr "Schuhmacher"
+
+msgid "NAMES/GER834"
+msgstr "Schultheiss"
+
+msgid "NAMES/GER835"
+msgstr "Schulz"
+
+msgid "NAMES/GER836"
+msgstr "Schumann"
+
+msgid "NAMES/GER837"
+msgstr "Schüneman"
+
+msgid "NAMES/GER838"
+msgstr "Schuster"
+
+msgid "NAMES/GER839"
+msgstr "Schultze"
+
+msgid "NAMES/GER84"
+msgstr "Blümm"
+
+msgid "NAMES/GER840"
+msgstr "Schütze"
+
+msgid "NAMES/GER841"
+msgstr "Schulzke"
+
+msgid "NAMES/GER842"
+msgstr "Schwab"
+
+msgid "NAMES/GER843"
+msgstr "Schwartz"
+
+msgid "NAMES/GER844"
+msgstr "Schwarzmann"
+
+msgid "NAMES/GER845"
+msgstr "Schwedler"
+
+msgid "NAMES/GER846"
+msgstr "Schweitzer"
+
+msgid "NAMES/GER847"
+msgstr "Schweppenburg"
+
+msgid "NAMES/GER848"
+msgstr "Seebach"
+
+msgid "NAMES/GER849"
+msgstr "Seiler"
+
+msgid "NAMES/GER85"
+msgstr "Bockemühl"
+
+msgid "NAMES/GER850"
+msgstr "Selle"
+
+msgid "NAMES/GER851"
+msgstr "Sennholz"
+
+msgid "NAMES/GER852"
+msgstr "Severloch"
+
+msgid "NAMES/GER853"
+msgstr "Streich"
+
+msgid "NAMES/GER854"
+msgstr "Sieber"
+
+msgid "NAMES/GER855"
+msgstr "Silex"
+
+msgid "NAMES/GER856"
+msgstr "Schwarzer"
+
+msgid "NAMES/GER857"
+msgstr "Simon"
+
+msgid "NAMES/GER858"
+msgstr "Sodenstern"
+
+msgid "NAMES/GER859"
+msgstr "Solbrig"
+
+msgid "NAMES/GER86"
+msgstr "Bodenhausen"
+
+msgid "NAMES/GER860"
+msgstr "Sommer"
+
+msgid "NAMES/GER861"
+msgstr "Souchon"
+
+msgid "NAMES/GER862"
+msgstr "Specht"
+
+msgid "NAMES/GER863"
+msgstr "Speer"
+
+msgid "NAMES/GER864"
+msgstr "Sponeck"
+
+msgid "NAMES/GER865"
+msgstr "Sporleder"
+
+msgid "NAMES/GER866"
+msgstr "Staack"
+
+msgid "NAMES/GER867"
+msgstr "Staehle"
+
+msgid "NAMES/GER868"
+msgstr "Stäglich"
+
+msgid "NAMES/GER869"
+msgstr "Stahlberg"
+
+msgid "NAMES/GER87"
+msgstr "Bodenschatz"
+
+msgid "NAMES/GER870"
+msgstr "Stahlschmidt"
+
+msgid "NAMES/GER871"
+msgstr "Stahr"
+
+msgid "NAMES/GER872"
+msgstr "Stapf"
+
+msgid "NAMES/GER873"
+msgstr "Stehmann"
+
+msgid "NAMES/GER874"
+msgstr "Steinbatz"
+
+msgid "NAMES/GER875"
+msgstr "Steinhaus"
+
+msgid "NAMES/GER876"
+msgstr "Steinhoff"
+
+msgid "NAMES/GER877"
+msgstr "Stemann"
+
+msgid "NAMES/GER878"
+msgstr "Stingl"
+
+msgid "NAMES/GER879"
+msgstr "Stockhausen"
+
+msgid "NAMES/GER88"
+msgstr "Bodmann"
+
+msgid "NAMES/GER880"
+msgstr "Stohwasser"
+
+msgid "NAMES/GER881"
+msgstr "Strauss"
+
+msgid "NAMES/GER882"
+msgstr "Streib"
+
+msgid "NAMES/GER883"
+msgstr "Streitwolf"
+
+msgid "NAMES/GER884"
+msgstr "Stülpnagel"
+
+msgid "NAMES/GER885"
+msgstr "Stumme"
+
+msgid "NAMES/GER886"
+msgstr "Stumpff"
+
+msgid "NAMES/GER887"
+msgstr "Stutterheim"
+
+msgid "NAMES/GER888"
+msgstr "Suhren"
+
+msgid "NAMES/GER889"
+msgstr "Tettau"
+
+msgid "NAMES/GER89"
+msgstr "Boege"
+
+msgid "NAMES/GER890"
+msgstr "Thalberg"
+
+msgid "NAMES/GER891"
+msgstr "Theissen"
+
+msgid "NAMES/GER892"
+msgstr "Thiele"
+
+msgid "NAMES/GER893"
+msgstr "Topp"
+
+msgid "NAMES/GER894"
+msgstr "Traugott"
+
+msgid "NAMES/GER895"
+msgstr "Traupel"
+
+msgid "NAMES/GER896"
+msgstr "Trautloft"
+
+msgid "NAMES/GER897"
+msgstr "Trebes"
+
+msgid "NAMES/GER898"
+msgstr "Treger"
+
+msgid "NAMES/GER899"
+msgstr "Treihaupt"
+
+msgid "NAMES/GER9"
+msgstr "Backer"
+
+msgid "NAMES/GER90"
+msgstr "Böhm"
+
+msgid "NAMES/GER900"
+msgstr "Trettner"
+
+msgid "NAMES/GER901"
+msgstr "Trommler"
+
+msgid "NAMES/GER902"
+msgstr "Tunert"
+
+msgid "NAMES/GER903"
+msgstr "Tüngen"
+
+msgid "NAMES/GER904"
+msgstr "Übelhack"
+
+msgid "NAMES/GER905"
+msgstr "Udet"
+
+msgid "NAMES/GER906"
+msgstr "Ulex"
+
+msgid "NAMES/GER907"
+msgstr "Unger"
+
+msgid "NAMES/GER908"
+msgstr "Unrein"
+
+msgid "NAMES/GER909"
+msgstr "Unverhau"
+
+msgid "NAMES/GER91"
+msgstr "Boehmer"
+
+msgid "NAMES/GER910"
+msgstr "Urner"
+
+msgid "NAMES/GER911"
+msgstr "Vaerst"
+
+msgid "NAMES/GER912"
+msgstr "Vahl"
+
+msgid "NAMES/GER913"
+msgstr "Valentiner"
+
+msgid "NAMES/GER914"
+msgstr "Veiel"
+
+msgid "NAMES/GER915"
+msgstr "Veit"
+
+msgid "NAMES/GER916"
+msgstr "Veltjens"
+
+msgid "NAMES/GER917"
+msgstr "Versock"
+
+msgid "NAMES/GER918"
+msgstr "Vierow"
+
+msgid "NAMES/GER919"
+msgstr "Vittinghoff"
+
+msgid "NAMES/GER92"
+msgstr "Boerst"
+
+msgid "NAMES/GER920"
+msgstr "Voell"
+
+msgid "NAMES/GER921"
+msgstr "Voerst"
+
+msgid "NAMES/GER922"
+msgstr "Vogel"
+
+msgid "NAMES/GER923"
+msgstr "Vogelsang"
+
+msgid "NAMES/GER924"
+msgstr "Vogler"
+
+msgid "NAMES/GER925"
+msgstr "Vogt"
+
+msgid "NAMES/GER926"
+msgstr "Vorman"
+
+msgid "NAMES/GER927"
+msgstr "Voß"
+
+msgid "NAMES/GER928"
+msgstr "Wachsmuth"
+
+msgid "NAMES/GER929"
+msgstr "Wächter"
+
+msgid "NAMES/GER93"
+msgstr "Boetel"
+
+msgid "NAMES/GER930"
+msgstr "Wagner"
+
+msgid "NAMES/GER931"
+msgstr "Walden"
+
+msgid "NAMES/GER932"
+msgstr "Waldenburg"
+
+msgid "NAMES/GER933"
+msgstr "Waldenvels"
+
+msgid "NAMES/GER934"
+msgstr "Walz"
+
+msgid "NAMES/GER935"
+msgstr "Wandmaker"
+
+msgid "NAMES/GER936"
+msgstr "Wannagat"
+
+msgid "NAMES/GER937"
+msgstr "Wannemaker"
+
+msgid "NAMES/GER938"
+msgstr "Wappenhans"
+
+msgid "NAMES/GER939"
+msgstr "Waßner"
+
+msgid "NAMES/GER94"
+msgstr "Böhme"
+
+msgid "NAMES/GER940"
+msgstr "Waffenschmidt"
+
+msgid "NAMES/GER941"
+msgstr "Weber"
+
+msgid "NAMES/GER942"
+msgstr "Wechmar"
+
+msgid "NAMES/GER943"
+msgstr "Wechsler"
+
+msgid "NAMES/GER944"
+msgstr "Wegner"
+
+msgid "NAMES/GER945"
+msgstr "Wehmeyer"
+
+msgid "NAMES/GER946"
+msgstr "Weichs"
+
+msgid "NAMES/GER947"
+msgstr "Weidling"
+
+msgid "NAMES/GER948"
+msgstr "Weiss"
+
+msgid "NAMES/GER949"
+msgstr "Weissenberger"
+
+msgid "NAMES/GER95"
+msgstr "Bohnenkamp"
+
+msgid "NAMES/GER950"
+msgstr "Wellman"
+
+msgid "NAMES/GER951"
+msgstr "Welter"
+
+msgid "NAMES/GER952"
+msgstr "Wenck"
+
+msgid "NAMES/GER953"
+msgstr "Wenk"
+
+msgid "NAMES/GER954"
+msgstr "Wenneker"
+
+msgid "NAMES/GER955"
+msgstr "Wenzelburger"
+
+msgid "NAMES/GER956"
+msgstr "Werner"
+
+msgid "NAMES/GER957"
+msgstr "Werra"
+
+msgid "NAMES/GER958"
+msgstr "Westfal"
+
+msgid "NAMES/GER959"
+msgstr "Westhoffen"
+
+msgid "NAMES/GER96"
+msgstr "Bollbrinker"
+
+msgid "NAMES/GER960"
+msgstr "Wetjen"
+
+msgid "NAMES/GER961"
+msgstr "Wever"
+
+msgid "NAMES/GER962"
+msgstr "Wicht"
+
+msgid "NAMES/GER963"
+msgstr "Wick"
+
+msgid "NAMES/GER964"
+msgstr "Wilberg"
+
+msgid "NAMES/GER965"
+msgstr "Windisch"
+
+msgid "NAMES/GER966"
+msgstr "Wingelbauer"
+
+msgid "NAMES/GER967"
+msgstr "Wittersheim"
+
+msgid "NAMES/GER968"
+msgstr "Witzig"
+
+msgid "NAMES/GER969"
+msgstr "Wöhler"
+
+msgid "NAMES/GER97"
+msgstr "Boltenstern"
+
+msgid "NAMES/GER970"
+msgstr "Wohlgemuth"
+
+msgid "NAMES/GER971"
+msgstr "Wolfram"
+
+msgid "NAMES/GER972"
+msgstr "Wolfrum"
+
+msgid "NAMES/GER973"
+msgstr "Wolpert"
+
+msgid "NAMES/GER974"
+msgstr "Wolz"
+
+msgid "NAMES/GER975"
+msgstr "Wünning"
+
+msgid "NAMES/GER976"
+msgstr "Wurmbach"
+
+msgid "NAMES/GER977"
+msgstr "Wuthmann"
+
+msgid "NAMES/GER978"
+msgstr "Zahn"
+
+msgid "NAMES/GER979"
+msgstr "Zeitler"
+
+msgid "NAMES/GER98"
+msgstr "Bolzen"
+
+msgid "NAMES/GER980"
+msgstr "Zejdlik"
+
+msgid "NAMES/GER981"
+msgstr "Zerbel"
+
+msgid "NAMES/GER982"
+msgstr "Wulff"
+
+msgid "NAMES/GER983"
+msgstr "Zippermayr"
+
+msgid "NAMES/GER984"
+msgstr "Zollenkopf"
+
+msgid "NAMES/GER985"
+msgstr "Zorn"
+
+msgid "NAMES/GER986"
+msgstr "Zorner"
+
+msgid "NAMES/GER987"
+msgstr "Gofman"
+
+msgid "NAMES/GER988"
+msgstr "Gritsfeldt"
+
+msgid "NAMES/GER989"
+msgstr "Fornvald"
+
+msgid "NAMES/GER99"
+msgstr "Bonin"
+
+msgid "NAMES/GERN1"
+msgstr "Abbo"
+
+msgid "NAMES/GERN10"
+msgstr "Albrecht"
+
+msgid "NAMES/GERN100"
+msgstr "Gottfried"
+
+msgid "NAMES/GERN101"
+msgstr "Gotthold"
+
+msgid "NAMES/GERN102"
+msgstr "Gottlieb"
+
+msgid "NAMES/GERN103"
+msgstr "Gregor"
+
+msgid "NAMES/GERN104"
+msgstr "Günther"
+
+msgid "NAMES/GERN105"
+msgstr "Gustaf"
+
+msgid "NAMES/GERN106"
+msgstr "Gunnar"
+
+msgid "NAMES/GERN107"
+msgstr "Hahn"
+
+msgid "NAMES/GERN108"
+msgstr "Hans"
+
+msgid "NAMES/GERN109"
+msgstr "Harald"
+
+msgid "NAMES/GERN11"
+msgstr "Adelbert"
+
+msgid "NAMES/GERN110"
+msgstr "Hartmut"
+
+msgid "NAMES/GERN111"
+msgstr "Hartwig"
+
+msgid "NAMES/GERN112"
+msgstr "Hannes"
+
+msgid "NAMES/GERN113"
+msgstr "Heiner"
+
+msgid "NAMES/GERN114"
+msgstr "Heinrich"
+
+msgid "NAMES/GERN115"
+msgstr "Heinz"
+
+msgid "NAMES/GERN116"
+msgstr "Helge"
+
+msgid "NAMES/GERN117"
+msgstr "Heller"
+
+msgid "NAMES/GERN118"
+msgstr "Helmut"
+
+msgid "NAMES/GERN119"
+msgstr "Helmuth"
+
+msgid "NAMES/GERN12"
+msgstr "Albert"
+
+msgid "NAMES/GERN120"
+msgstr "Hanno"
+
+msgid "NAMES/GERN121"
+msgstr "Hasso"
+
+msgid "NAMES/GERN122"
+msgstr "Herbert"
+
+msgid "NAMES/GERN123"
+msgstr "Hermann"
+
+msgid "NAMES/GERN124"
+msgstr "Hildebrand"
+
+msgid "NAMES/GERN125"
+msgstr "Holger"
+
+msgid "NAMES/GERN126"
+msgstr "Horst"
+
+msgid "NAMES/GERN127"
+msgstr "Hugbert"
+
+msgid "NAMES/GERN128"
+msgstr "Hugo"
+
+msgid "NAMES/GERN129"
+msgstr "Ignatius"
+
+msgid "NAMES/GERN13"
+msgstr "Alexander"
+
+msgid "NAMES/GERN130"
+msgstr "Imre"
+
+msgid "NAMES/GERN131"
+msgstr "Ingemar"
+
+msgid "NAMES/GERN132"
+msgstr "Heribert"
+
+msgid "NAMES/GERN133"
+msgstr "Jan"
+
+msgid "NAMES/GERN134"
+msgstr "Bert"
+
+msgid "NAMES/GERN135"
+msgstr "Jens"
+
+msgid "NAMES/GERN136"
+msgstr "Hauke"
+
+msgid "NAMES/GERN137"
+msgstr "Joachim"
+
+msgid "NAMES/GERN138"
+msgstr "Johan"
+
+msgid "NAMES/GERN139"
+msgstr "Johann"
+
+msgid "NAMES/GERN14"
+msgstr "Alois"
+
+msgid "NAMES/GERN140"
+msgstr "Johannes"
+
+msgid "NAMES/GERN141"
+msgstr "Jonas"
+
+msgid "NAMES/GERN142"
+msgstr "Jörg"
+
+msgid "NAMES/GERN143"
+msgstr "Jürgen"
+
+msgid "NAMES/GERN144"
+msgstr "Karl"
+
+msgid "NAMES/GERN145"
+msgstr "Karlheinz"
+
+msgid "NAMES/GERN146"
+msgstr "Karsten"
+
+msgid "NAMES/GERN147"
+msgstr "Kaspar"
+
+msgid "NAMES/GERN148"
+msgstr "Ignatz"
+
+msgid "NAMES/GERN149"
+msgstr "Jannis"
+
+msgid "NAMES/GERN15"
+msgstr "Alfons"
+
+msgid "NAMES/GERN150"
+msgstr "Klaus"
+
+msgid "NAMES/GERN151"
+msgstr "Knut"
+
+msgid "NAMES/GERN152"
+msgstr "Konrad"
+
+msgid "NAMES/GERN153"
+msgstr "Kristian"
+
+msgid "NAMES/GERN154"
+msgstr "Kristof"
+
+msgid "NAMES/GERN155"
+msgstr "Hennes"
+
+msgid "NAMES/GERN156"
+msgstr "Knud"
+
+msgid "NAMES/GERN157"
+msgstr "Caspar"
+
+msgid "NAMES/GERN158"
+msgstr "Lars"
+
+msgid "NAMES/GERN159"
+msgstr "Laurenz"
+
+msgid "NAMES/GERN16"
+msgstr "Alwin"
+
+msgid "NAMES/GERN160"
+msgstr "Lenz"
+
+msgid "NAMES/GERN161"
+msgstr "Leo"
+
+msgid "NAMES/GERN162"
+msgstr "Harti"
+
+msgid "NAMES/GERN163"
+msgstr "Leonhard"
+
+msgid "NAMES/GERN164"
+msgstr "Leopold"
+
+msgid "NAMES/GERN165"
+msgstr "Lennert"
+
+msgid "NAMES/GERN166"
+msgstr "Lothar"
+
+msgid "NAMES/GERN167"
+msgstr "Louis"
+
+msgid "NAMES/GERN168"
+msgstr "Ludwig"
+
+msgid "NAMES/GERN169"
+msgstr "Lukas"
+
+msgid "NAMES/GERN17"
+msgstr "Ebelbert"
+
+msgid "NAMES/GERN170"
+msgstr "Luitpold"
+
+msgid "NAMES/GERN171"
+msgstr "Lutz"
+
+msgid "NAMES/GERN172"
+msgstr "Manfred"
+
+msgid "NAMES/GERN173"
+msgstr "Marcel"
+
+msgid "NAMES/GERN174"
+msgstr "Lucas"
+
+msgid "NAMES/GERN175"
+msgstr "Mario"
+
+msgid "NAMES/GERN176"
+msgstr "Marius"
+
+msgid "NAMES/GERN177"
+msgstr "Markus"
+
+msgid "NAMES/GERN178"
+msgstr "Martin"
+
+msgid "NAMES/GERN179"
+msgstr "Matthias"
+
+msgid "NAMES/GERN18"
+msgstr "Albin"
+
+msgid "NAMES/GERN180"
+msgstr "Matthäus"
+
+msgid "NAMES/GERN181"
+msgstr "Max"
+
+msgid "NAMES/GERN182"
+msgstr "Maximilian"
+
+msgid "NAMES/GERN183"
+msgstr "Luis"
+
+msgid "NAMES/GERN184"
+msgstr "Manfried"
+
+msgid "NAMES/GERN185"
+msgstr "Michael"
+
+msgid "NAMES/GERN186"
+msgstr "Mattias"
+
+msgid "NAMES/GERN187"
+msgstr "Ottfried"
+
+msgid "NAMES/GERN188"
+msgstr "Nikolaus"
+
+msgid "NAMES/GERN189"
+msgstr "Nils"
+
+msgid "NAMES/GERN19"
+msgstr "Andreas"
+
+msgid "NAMES/GERN190"
+msgstr "Norbert"
+
+msgid "NAMES/GERN191"
+msgstr "Ottmar"
+
+msgid "NAMES/GERN192"
+msgstr "Olaf"
+
+msgid "NAMES/GERN193"
+msgstr "Otto"
+
+msgid "NAMES/GERN194"
+msgstr "Oskar"
+
+msgid "NAMES/GERN195"
+msgstr "Oswald"
+
+msgid "NAMES/GERN196"
+msgstr "Oswin"
+
+msgid "NAMES/GERN197"
+msgstr "Otis"
+
+msgid "NAMES/GERN198"
+msgstr "Reiner"
+
+msgid "NAMES/GERN199"
+msgstr "Ralph"
+
+msgid "NAMES/GERN2"
+msgstr "Achim"
+
+msgid "NAMES/GERN20"
+msgstr "Anselm"
+
+msgid "NAMES/GERN200"
+msgstr "Philipp"
+
+msgid "NAMES/GERN201"
+msgstr "Poldi"
+
+msgid "NAMES/GERN202"
+msgstr "Raimund"
+
+msgid "NAMES/GERN203"
+msgstr "Rainer"
+
+msgid "NAMES/GERN204"
+msgstr "Ralf"
+
+msgid "NAMES/GERN205"
+msgstr "Randolf"
+
+msgid "NAMES/GERN206"
+msgstr "Philip"
+
+msgid "NAMES/GERN207"
+msgstr "Reinhard"
+
+msgid "NAMES/GERN208"
+msgstr "Reinhold"
+
+msgid "NAMES/GERN209"
+msgstr "René"
+
+msgid "NAMES/GERN21"
+msgstr "Anton"
+
+msgid "NAMES/GERN210"
+msgstr "Richard"
+
+msgid "NAMES/GERN211"
+msgstr "Rudger"
+
+msgid "NAMES/GERN212"
+msgstr "Roderich"
+
+msgid "NAMES/GERN213"
+msgstr "Roger"
+
+msgid "NAMES/GERN214"
+msgstr "Roland"
+
+msgid "NAMES/GERN215"
+msgstr "Rolf"
+
+msgid "NAMES/GERN216"
+msgstr "Robert"
+
+msgid "NAMES/GERN217"
+msgstr "Stephan"
+
+msgid "NAMES/GERN218"
+msgstr "Tomas"
+
+msgid "NAMES/GERN219"
+msgstr "Rüdiger"
+
+msgid "NAMES/GERN22"
+msgstr "Armin"
+
+msgid "NAMES/GERN220"
+msgstr "Rudolf"
+
+msgid "NAMES/GERN221"
+msgstr "Rupert"
+
+msgid "NAMES/GERN222"
+msgstr "Heinolf"
+
+msgid "NAMES/GERN223"
+msgstr "Schorsch"
+
+msgid "NAMES/GERN224"
+msgstr "Sebastian"
+
+msgid "NAMES/GERN225"
+msgstr "Matias"
+
+msgid "NAMES/GERN226"
+msgstr "Siegfried"
+
+msgid "NAMES/GERN227"
+msgstr "Simon"
+
+msgid "NAMES/GERN228"
+msgstr "Stefan"
+
+msgid "NAMES/GERN229"
+msgstr "Steffen"
+
+msgid "NAMES/GERN23"
+msgstr "Arnd"
+
+msgid "NAMES/GERN230"
+msgstr "Tillman"
+
+msgid "NAMES/GERN231"
+msgstr "Tillmann"
+
+msgid "NAMES/GERN232"
+msgstr "Sven"
+
+msgid "NAMES/GERN233"
+msgstr "Thorsten"
+
+msgid "NAMES/GERN234"
+msgstr "Theobald"
+
+msgid "NAMES/GERN235"
+msgstr "Theodor"
+
+msgid "NAMES/GERN236"
+msgstr "Thomas"
+
+msgid "NAMES/GERN237"
+msgstr "Till"
+
+msgid "NAMES/GERN238"
+msgstr "Vitus"
+
+msgid "NAMES/GERN239"
+msgstr "Timo"
+
+msgid "NAMES/GERN24"
+msgstr "Arno"
+
+msgid "NAMES/GERN240"
+msgstr "Tobias"
+
+msgid "NAMES/GERN241"
+msgstr "Torsten"
+
+msgid "NAMES/GERN242"
+msgstr "Udo"
+
+msgid "NAMES/GERN243"
+msgstr "Ulbrecht"
+
+msgid "NAMES/GERN244"
+msgstr "Ulf"
+
+msgid "NAMES/GERN245"
+msgstr "Ulrich"
+
+msgid "NAMES/GERN246"
+msgstr "Urban"
+
+msgid "NAMES/GERN247"
+msgstr "Urs"
+
+msgid "NAMES/GERN248"
+msgstr "Uwe"
+
+msgid "NAMES/GERN249"
+msgstr "Varick"
+
+msgid "NAMES/GERN25"
+msgstr "Arnold"
+
+msgid "NAMES/GERN250"
+msgstr "Veit"
+
+msgid "NAMES/GERN251"
+msgstr "Veith"
+
+msgid "NAMES/GERN252"
+msgstr "Viktor"
+
+msgid "NAMES/GERN253"
+msgstr "Wingolf"
+
+msgid "NAMES/GERN254"
+msgstr "Vinzenz"
+
+msgid "NAMES/GERN255"
+msgstr "Volkard"
+
+msgid "NAMES/GERN256"
+msgstr "Volker"
+
+msgid "NAMES/GERN257"
+msgstr "Waldemar"
+
+msgid "NAMES/GERN258"
+msgstr "Walter"
+
+msgid "NAMES/GERN259"
+msgstr "Walther"
+
+msgid "NAMES/GERN26"
+msgstr "Arnulf"
+
+msgid "NAMES/GERN260"
+msgstr "Wendelin"
+
+msgid "NAMES/GERN261"
+msgstr "Wendell"
+
+msgid "NAMES/GERN262"
+msgstr "Wenzel"
+
+msgid "NAMES/GERN263"
+msgstr "Werner"
+
+msgid "NAMES/GERN264"
+msgstr "Xaver"
+
+msgid "NAMES/GERN265"
+msgstr "Wilfried"
+
+msgid "NAMES/GERN266"
+msgstr "Wilhelm"
+
+msgid "NAMES/GERN267"
+msgstr "Wolfgang"
+
+msgid "NAMES/GERN268"
+msgstr "Wolfram"
+
+msgid "NAMES/GERN269"
+msgstr "Beni"
+
+msgid "NAMES/GERN27"
+msgstr "August"
+
+msgid "NAMES/GERN270"
+msgstr "Zacharia"
+
+msgid "NAMES/GERN28"
+msgstr "Axel"
+
+msgid "NAMES/GERN29"
+msgstr "Augustin"
+
+msgid "NAMES/GERN3"
+msgstr "Adelfried"
+
+msgid "NAMES/GERN30"
+msgstr "Arnbert"
+
+msgid "NAMES/GERN31"
+msgstr "Arnolf"
+
+msgid "NAMES/GERN32"
+msgstr "Benjamin"
+
+msgid "NAMES/GERN33"
+msgstr "Arnt"
+
+msgid "NAMES/GERN34"
+msgstr "Arne"
+
+msgid "NAMES/GERN35"
+msgstr "Bernard"
+
+msgid "NAMES/GERN36"
+msgstr "Bernd"
+
+msgid "NAMES/GERN37"
+msgstr "Bernhard"
+
+msgid "NAMES/GERN38"
+msgstr "Bernold"
+
+msgid "NAMES/GERN39"
+msgstr "Berthold"
+
+msgid "NAMES/GERN4"
+msgstr "Adelino"
+
+msgid "NAMES/GERN40"
+msgstr "Bertram"
+
+msgid "NAMES/GERN41"
+msgstr "Bodo"
+
+msgid "NAMES/GERN42"
+msgstr "Bruno"
+
+msgid "NAMES/GERN43"
+msgstr "Berndt"
+
+msgid "NAMES/GERN44"
+msgstr "Beppo"
+
+msgid "NAMES/GERN45"
+msgstr "Carl"
+
+msgid "NAMES/GERN46"
+msgstr "Carsten"
+
+msgid "NAMES/GERN47"
+msgstr "Wernhard"
+
+msgid "NAMES/GERN48"
+msgstr "Christian"
+
+msgid "NAMES/GERN49"
+msgstr "Christof"
+
+msgid "NAMES/GERN5"
+msgstr "Adler"
+
+msgid "NAMES/GERN50"
+msgstr "Claus"
+
+msgid "NAMES/GERN51"
+msgstr "Clemens"
+
+msgid "NAMES/GERN52"
+msgstr "Conrad"
+
+msgid "NAMES/GERN53"
+msgstr "Curd"
+
+msgid "NAMES/GERN54"
+msgstr "Dagobert"
+
+msgid "NAMES/GERN55"
+msgstr "Derick"
+
+msgid "NAMES/GERN56"
+msgstr "Detlef"
+
+msgid "NAMES/GERN57"
+msgstr "Dirk"
+
+msgid "NAMES/GERN58"
+msgstr "Dieter"
+
+msgid "NAMES/GERN59"
+msgstr "Dietrich"
+
+msgid "NAMES/GERN6"
+msgstr "Adalrich"
+
+msgid "NAMES/GERN60"
+msgstr "Dolf"
+
+msgid "NAMES/GERN61"
+msgstr "Dominik"
+
+msgid "NAMES/GERN62"
+msgstr "Eberhard"
+
+msgid "NAMES/GERN63"
+msgstr "Edwin"
+
+msgid "NAMES/GERN64"
+msgstr "Egbert"
+
+msgid "NAMES/GERN65"
+msgstr "Egon"
+
+msgid "NAMES/GERN66"
+msgstr "Detlev"
+
+msgid "NAMES/GERN67"
+msgstr "Elias"
+
+msgid "NAMES/GERN68"
+msgstr "Diether"
+
+msgid "NAMES/GERN69"
+msgstr "Elmar"
+
+msgid "NAMES/GERN7"
+msgstr "Adelmann"
+
+msgid "NAMES/GERN70"
+msgstr "Diedrich"
+
+msgid "NAMES/GERN71"
+msgstr "Emil"
+
+msgid "NAMES/GERN72"
+msgstr "Emmerich"
+
+msgid "NAMES/GERN73"
+msgstr "Eckbert"
+
+msgid "NAMES/GERN74"
+msgstr "Engelbert"
+
+msgid "NAMES/GERN75"
+msgstr "Erhard"
+
+msgid "NAMES/GERN76"
+msgstr "Erich"
+
+msgid "NAMES/GERN77"
+msgstr "Domenic"
+
+msgid "NAMES/GERN78"
+msgstr "Ernst"
+
+msgid "NAMES/GERN79"
+msgstr "Erwin"
+
+msgid "NAMES/GERN8"
+msgstr "Adrian"
+
+msgid "NAMES/GERN80"
+msgstr "Eugen"
+
+msgid "NAMES/GERN81"
+msgstr "Ewald"
+
+msgid "NAMES/GERN82"
+msgstr "Fabian"
+
+msgid "NAMES/GERN83"
+msgstr "Falko"
+
+msgid "NAMES/GERN84"
+msgstr "Felix"
+
+msgid "NAMES/GERN85"
+msgstr "Ferdinand"
+
+msgid "NAMES/GERN86"
+msgstr "Florian"
+
+msgid "NAMES/GERN87"
+msgstr "Franz"
+
+msgid "NAMES/GERN88"
+msgstr "Frederick"
+
+msgid "NAMES/GERN89"
+msgstr "Friedhelm"
+
+msgid "NAMES/GERN9"
+msgstr "Alarich"
+
+msgid "NAMES/GERN90"
+msgstr "Friedrich"
+
+msgid "NAMES/GERN91"
+msgstr "Fritz"
+
+msgid "NAMES/GERN92"
+msgstr "Erik"
+
+msgid "NAMES/GERN93"
+msgstr "Gebhard"
+
+msgid "NAMES/GERN94"
+msgstr "Gert"
+
+msgid "NAMES/GERN95"
+msgstr "Georg"
+
+msgid "NAMES/GERN96"
+msgstr "Girgl"
+
+msgid "NAMES/GERN97"
+msgstr "Gerhard"
+
+msgid "NAMES/GERN98"
+msgstr "Gernot"
+
+msgid "NAMES/GERN99"
+msgstr "Golo"
+
+msgid "NAMES/GERU1"
+msgstr "von Staufen"
+
+msgid "NAMES/GERU2"
+msgstr "Weber"
+
+msgid "NAMES/GERUN1"
+msgstr "Charlotte"
+
+msgid "NAMES/GERUN2"
+msgstr "Hans"
+
+msgid "RANKSGER/1"
+msgstr "Oberst"
+
+msgid "RANKSGER/10"
+msgstr "Unterfeldwebel"
+
+msgid "RANKSGER/2"
+msgstr "Oberstleutnant"
+
+msgid "RANKSGER/3"
+msgstr "Major"
+
+msgid "RANKSGER/4"
+msgstr "Hauptmann"
+
+msgid "RANKSGER/5"
+msgstr "Oberleutnant"
+
+msgid "RANKSGER/6"
+msgstr "Leutnant"
+
+msgid "RANKSGER/7"
+msgstr "Stabsfeldwebel"
+
+msgid "RANKSGER/8"
+msgstr "Oberfeldwebel"
+
+msgid "RANKSGER/9"
+msgstr "Feldwebel"

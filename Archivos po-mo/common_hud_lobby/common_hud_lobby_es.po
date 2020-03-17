@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "TOOLTIPS_HUD_LOBBY_BEST_SCORE_CLASS_NAME"
+msgstr "Mejor resultado:"
+
+msgid ""
+"TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_ATTACK_GROUND_OBJECTS_FOR_ASSAULT-"
+"BOMBERS"
+msgstr "Consigue puntos de captura por destruir objetivos terrestres enemigos"
+
+msgid ""
+"TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_ATTACK_SECTORS_FOR_H-FIGHTERS-NAVY"
+msgstr ""
+"Consigue puntos de captura por destruir aviones de defensa aérea y objetivos "
+"terrestres al atacar sectores"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_BATTLE_FOR_SECTORS_HFIGHTERS"
+msgstr ""
+"Consigue puntos de captura destruyendo los aviones de defensa, aviones enemigos, y "
+"los objetivos de tierra cuando estas atacando y defendiendo sectores"
+
+msgid ""
+"TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_CAPTURE_SECTORS_FOR_H-FIGHTERS-"
+"NAVY-ASSAULT-BOMBERS"
+msgstr "Participar en la captura de sectores"
+
+msgid ""
+"TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_DEFENCE_SECTOR_FOR_FIGHTERS-H-"
+"FIGHTERS-NAVY"
+msgstr "Destruye aviones enemigos cuando defiendes sectores"
+
+msgid ""
+"TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_DESTROY_OBJECT_PARTS_FOR_ASSAULT-"
+"BOMBERS"
+msgstr "Destruye secciones de objetivos terrestres enemigos"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_DOGFIGHT_FOR_SECTORS_FOR_FIGHTERS"
+msgstr ""
+"Consigue puntos de captura al destruir aviones de defensa aérea y aviones "
+"enemigos cuando atacas sectores"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_ENEMY_PLANES_FOR_FIGHTERS"
+msgstr ""
+"Destruye objetivos aéreos (aviones enemigos, aviones de defensa aérea y "
+"bombarderos de la escuadrilla de ataque)"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_HOW_THIS_WORK"
+msgstr "Cómo se asignan los grados del tipo de avión"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_HOW_THIS_WORK_DESCRIPTION_1"
+msgstr ""
+"<font color='#3e8cb3'>Los segmentos azules</font> indican el progreso de "
+"completar la misión en una escala del <font color='#3e8cb3'>1</font> al "
+"<font color='#3e8cb3'>5</font>. El número total de todos los segmentos "
+"corresponde a un cierto grado de tipo de avión."
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_HOW_THIS_WORK_DESCRIPTION_2"
+msgstr ""
+"<font color='#267c99'>Los segmentos azules</font> indican el progreso de "
+"completar la misión en una escala del <font color='#267c99'>1</font> al "
+"<font color='#267c99'>5</font>. El número total de todos los segmentos "
+"corresponde a un cierto grado de tipo de avión."
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_INTERCEPTION_STRIKE_AIRCRAFTS_FOR_HFIGHTERS"
+msgstr "Destruye los aviones y bombarderos de ataque enemigos"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_CONDITION_N1"
+msgstr "Aviones enemigos destruidos"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_CONDITION_N2"
+msgstr "Amenazas al grupo de bombarderos destruidas"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_CONDITION_N3"
+msgstr "Amenazas a los aviones de ataque destruidas"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_CONDITION_N4"
+msgstr "Cañones AA destruidos"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_CONDITION_N5"
+msgstr "Bombarderos estratégicos destruidos"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_DESCRIPTION_N1"
+msgstr "Destruye los aviones del grupo de combate enemigo"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_DESCRIPTION_N2"
+msgstr ""
+"Defiende a los grupo de bombarderos destruyendo a los aviones que los atacan"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_DESCRIPTION_N3"
+msgstr ""
+"Defiende a los aviones de ataque aliados destruyendo a los aviones que los "
+"atacan"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_DESCRIPTION_N4"
+msgstr "Destruye cañones AA enemigos"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_DESCRIPTION_N5"
+msgstr "Destruye bombarderos estratégicos enemigos"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_NAME_N1"
+msgstr "Destruir avión enemigo"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_NAME_N2"
+msgstr "Escolta bombarderos"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_NAME_N3"
+msgstr "Escolta a los aviones de ataque"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_NAME_N4"
+msgstr "Elimina las defensas AA"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_NAME_N5"
+msgstr "Intercepta"
+
+msgid ""
+"TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_ATTACK_GROUND_OBJECTS_FOR_ASSAULT-BOMBERS"
+msgstr "Destruir objetivos terrestres"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_ATTACK_SECTORS_FOR_H-FIGHTERS-NAVY"
+msgstr "Atacar sectores"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_BATTLE_FOR_SECTORS_HFIGHTERS"
+msgstr "Batalla por los sectores"
+
+msgid ""
+"TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_CAPTURE_SECTORS_FOR_H-FIGHTERS-NAVY-"
+"ASSAULT-BOMBERS"
+msgstr "Captura sectores"
+
+msgid ""
+"TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_DEFENCE_SECTOR_FOR_FIGHTERS-H-FIGHTERS-"
+"NAVY"
+msgstr "Defiende sectores"
+
+msgid ""
+"TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_DESTROY_OBJECT_PARTS_FOR_ASSAULT-BOMBERS"
+msgstr "Destruir infraestructura"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_DOGFIGHT_FOR_SECTORS_FOR_FIGHTERS"
+msgstr "Batalla aérea por los sectores"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_ENEMY_PLANES_FOR_FIGHTERS"
+msgstr "Destruir objetivos aéreos"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_INTERCEPTION_STRIKE_AIRCRAFTS_FOR_HFIGHTERS"
+msgstr "Interceptación de aviones tierra-aire "

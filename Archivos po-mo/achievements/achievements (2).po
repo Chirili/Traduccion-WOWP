@@ -1,0 +1,4563 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ACHIEVEMENTS_"
+msgstr "Hit Ratio"
+
+msgid "ACHIEVEMENTS_AIRCRAFTS"
+msgstr "Aircraft"
+
+msgid "ACHIEVEMENTS_AIRCRAFTS_DESTROED_IN_DEF_SECTOR"
+msgstr "Enemy aircraft destroyed when defending sectors"
+
+msgid "ACHIEVEMENTS_AIRCRAFTS_DESTROYED"
+msgstr "Aircraft Destroyed"
+
+msgid "ACHIEVEMENTS_AIRCRAFTS_DESTROYED_2-0"
+msgstr "Enemy aircraft destroyed"
+
+msgid "ACHIEVEMENTS_AIRCRAFTS_DESTROYED_AVERAGE_PER_BATTLE"
+msgstr "Average number of enemy aircraft destroyed per battle"
+
+msgid "ACHIEVEMENTS_AIR_TARGETS_DESTROYED_AVERAGE_PER_FLIGHT"
+msgstr "Average number of aircraft destroyed per sortie"
+
+msgid "ACHIEVEMENTS_ALL_DURATION_ON_PLANES"
+msgstr "Total flying hours in the aircraft"
+
+msgid "ACHIEVEMENTS_ARCHIVE"
+msgstr "Archive"
+
+msgid "ACHIEVEMENTS_AVERAGE_BATTLE_POINTS_PER_BATTLE"
+msgstr "Average personal points earned per battle"
+
+msgid "ACHIEVEMENTS_AVERAGE_BATTLE_POINTS_PER_FLIGHT"
+msgstr "Average personal points earned per sortie"
+
+msgid "ACHIEVEMENTS_AVERAGE_DURATION_FLIGHT"
+msgstr "Average sortie duration"
+
+msgid "ACHIEVEMENTS_AVERAGE_EXP_PER_FLIGHT"
+msgstr "Average experience per sortie"
+
+msgid "ACHIEVEMENTS_AVG_PER_BATTLE"
+msgstr "Avg. per Battle"
+
+msgid "ACHIEVEMENTS_AVG_XP_PER_BATTLE"
+msgstr "Average experience earned per battle"
+
+msgid "ACHIEVEMENTS_BATTLE"
+msgstr "Battles"
+
+msgid "ACHIEVEMENTS_BETTLE_EFFICIENCY"
+msgstr "Battle Performance"
+
+msgid "ACHIEVEMENTS_CHECKBOX_DONT_SHOW_AIRCRAFTS_UNDER_50_FLIGHTS_TAKEN"
+msgstr "Hide aircraft that participated in less than 50 battles"
+
+msgid "ACHIEVEMENTS_CLASS_EFFICIENCY"
+msgstr "Aircraft Type Efficiency"
+
+msgid "ACHIEVEMENTS_CLASS_EFFICIENCY_ASSAULT"
+msgstr "Aircraft type efficiency: attack aircraft"
+
+msgid "ACHIEVEMENTS_CLASS_EFFICIENCY_BOMBER"
+msgstr "Aircraft type efficiency: bombers"
+
+msgid "ACHIEVEMENTS_CLASS_EFFICIENCY_FIGHTER"
+msgstr "Aircraft type efficiency: fighters"
+
+msgid "ACHIEVEMENTS_CLASS_EFFICIENCY_HFIGHTER"
+msgstr "Aircraft type efficiency: heavy fighters"
+
+msgid "ACHIEVEMENTS_CLASS_EFFICIENCY_NAVY"
+msgstr "Aircraft type efficiency: multirole fighters"
+
+msgid "ACHIEVEMENTS_COMMON_RESULTS"
+msgstr "Statistics"
+
+msgid "ACHIEVEMENTS_CONTEXT_AWARDS_NUMBER"
+msgstr "{number} more medals"
+
+msgid "ACHIEVEMENTS_CONTEXT_CURRENT_AWARD_GRADE"
+msgstr "Current class of award:"
+
+msgid "ACHIEVEMENTS_CONTEXT_CURRENT_SERIES_NUMBER"
+msgstr "Current series: {number}"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_1_LONG"
+msgstr "Class I:"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_1_NUMBER"
+msgstr "I"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_2_LONG"
+msgstr "Class II:"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_2_NUMBER"
+msgstr "II"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_3_LONG"
+msgstr "Class III:"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_3_NUMBER"
+msgstr "III"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_4_LONG"
+msgstr "Class IV:"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_4_NUMBER"
+msgstr "IV"
+
+msgid "ACHIEVEMENTS_CONTEXT_HISTORICAL_REFERENCE"
+msgstr "Historical note:"
+
+msgid "ACHIEVEMENTS_CONTEXT_LEFT_TILL_GRADE"
+msgstr "Required to reach {grade} class:"
+
+msgid "ACHIEVEMENTS_CONTEXT_MAX_SERIES_NUMBER"
+msgstr "Maximum series: {number}"
+
+msgid "ACHIEVEMENTS_CONTEXT_MEDALS_OF_TYPES_SHOWN"
+msgstr ""
+"The following achievement categories are displayed for the selected aircraft:"
+"<br>{medal_type_list}."
+
+msgid "ACHIEVEMENTS_CONTEXT_NOT_RECEIVED"
+msgstr "Achievement not received yet"
+
+msgid "ACHIEVEMENTS_CONTEXT_OR"
+msgstr "or"
+
+msgid "ACHIEVEMENTS_CONTEXT_PLANES_NUMBER"
+msgstr "{number} more aircraft"
+
+msgid "ACHIEVEMENTS_CONTEXT_PLANE_HAS_NO_MEDALS"
+msgstr "No achievements received in the selected aircraft yet."
+
+msgid "ACHIEVEMENTS_CONTEXT_POINTS_NUMBER"
+msgstr "{number} more points"
+
+msgid "ACHIEVEMENTS_CONTEXT_RECEIVED_AWARDS_NUMBER"
+msgstr "Total awards received: {number}"
+
+msgid "ACHIEVEMENTS_CONTEXT_RECEIVE_ON_PLANE"
+msgstr "Award received in:"
+
+msgid "ACHIEVEMENTS_DAMAGE_TO_AIRCRAFTS"
+msgstr "Damage Caused to Aircraft"
+
+msgid "ACHIEVEMENTS_DAMAGE_TO_GROUND_TARGETS"
+msgstr "Damage Caused to Ground Targets"
+
+msgid "ACHIEVEMENTS_DEFEATS"
+msgstr "Defeats"
+
+msgid "ACHIEVEMENTS_DEFENDER-BOMBER_DESTROYED"
+msgstr "Air defense aircraft and bombers from Attack Flight destroyed"
+
+msgid "ACHIEVEMENTS_DEFENDER-BOMBER_DESTROYED_ASSISTS"
+msgstr ""
+"Assistance in destroying air defense aircraft and bombers from Attack Flight"
+
+msgid "ACHIEVEMENTS_DEFENDER-BOMBER_DESTROYED_AVERAGE_PER_BATTLE"
+msgstr ""
+"Average number of air defense aircraft and bombers from Attack Flight "
+"destroyed per battle"
+
+msgid "ACHIEVEMENTS_DISCOVERED_TOTAL"
+msgstr "Enemy Aircraft and Ground Targets Detected"
+
+msgid "ACHIEVEMENTS_DRAWS"
+msgstr "Draws"
+
+msgid "ACHIEVEMENTS_GROUND_OBJECTS_DESTROYED"
+msgstr "Ground targets destroyed"
+
+msgid "ACHIEVEMENTS_GROUND_OBJECTS_DESTROYED_ASSIST"
+msgstr "Assistance in destroying ground targets"
+
+msgid "ACHIEVEMENTS_GROUND_OBJECTS_DESTROYED_AVERAGE_PER_BATTLE"
+msgstr "Average number of ground targets destroyed per battle"
+
+msgid "ACHIEVEMENTS_GROUND_OBJECTS_DESTROYED_AVERAGE_PER_FLIGHT"
+msgstr "Average number of ground targets destroyed per sortie"
+
+msgid "ACHIEVEMENTS_GROUND_TARGETS_DESTROYED"
+msgstr "Ground Targets Destroyed"
+
+msgid "ACHIEVEMENTS_HEADER_ACHIEVEMENTS"
+msgstr "Achievements"
+
+msgid "ACHIEVEMENTS_HEADER_DATA_BY_DATE"
+msgstr "Data as of"
+
+msgid "ACHIEVEMENTS_HEADER_GAME_EVENTS"
+msgstr "Memorabilia"
+
+msgid "ACHIEVEMENTS_HEADER_NATION_AND_LEVEL"
+msgstr "Aircraft Tier and Nation"
+
+msgid "ACHIEVEMENTS_HEADER_WINS"
+msgstr "Victories"
+
+msgid "ACHIEVEMENTS_HEROIC_DEEDS"
+msgstr "Records"
+
+msgid "ACHIEVEMENTS_HITS"
+msgstr "Hits"
+
+msgid "ACHIEVEMENTS_INSUFFICIENT_DATA"
+msgstr "Error receiving player details."
+
+msgid "ACHIEVEMENTS_LAST_SEEN_IN_BATTLE"
+msgstr "Last Battle:"
+
+msgid "ACHIEVEMENTS_LAST_SEEN_IN_GAME"
+msgstr "Last Login"
+
+msgid "ACHIEVEMENTS_LOAD_STATISTICS"
+msgstr "Updating statistics…"
+
+msgid "ACHIEVEMENTS_MAX_AIRCRAFTS_DESTROED_PER_BATTLE"
+msgstr "Most enemy aircraft destroyed in a single battle"
+
+msgid "ACHIEVEMENTS_MAX_AIRCRAFT_DESTROED_IN_DEF_SECTOR"
+msgstr "Most enemy aircraft destroyed when defending sectors"
+
+msgid "ACHIEVEMENTS_MAX_BATTLE_POINTS_PER_BATTLE"
+msgstr "Most personal points earned in a single battle"
+
+msgid "ACHIEVEMENTS_MAX_DAMAGE_AIRCRAFT_PER_BATTLE"
+msgstr "Most damage caused to enemy aircraft in a single battle"
+
+msgid "ACHIEVEMENTS_MAX_DAMAGE_AIR_TARGETS_PER_BATTLE"
+msgstr "Most damage caused to aircraft in a single battle"
+
+msgid "ACHIEVEMENTS_MAX_DAMAGE_DEFENDER-BOMBER_PER_BATTLE"
+msgstr ""
+"Most damage caused to air defense aircraft and bombers from Attack Flight in "
+"a single battle"
+
+msgid "ACHIEVEMENTS_MAX_DAMAGE_GROUND_OBJECT_PER_BATTLE"
+msgstr "Most damage caused to ground targets in a single battle"
+
+msgid "ACHIEVEMENTS_MAX_DEFENDER-BOMBER_DESTROED_PER_BATTLE"
+msgstr ""
+"Most air defense aircraft and bombers from Attack Flight destroyed in a "
+"single battle"
+
+msgid "ACHIEVEMENTS_MAX_DESTROYED_PER_BATTLE"
+msgstr "Maximum Number of Aircraft Destroyed in One Battle"
+
+msgid "ACHIEVEMENTS_MAX_GROUND_OBJECT_DESTROED_PER_BATTLE"
+msgstr "Most ground targets destroyed in a single battle"
+
+msgid "ACHIEVEMENTS_MAX_PER_BATTLE"
+msgstr "Max. per Battle"
+
+msgid "ACHIEVEMENTS_MAX_XP_FOR_BATTLE"
+msgstr "Most experience earned in a single battle"
+
+msgid "ACHIEVEMENTS_NO_MEDALS"
+msgstr "No achievements yet."
+
+msgid "ACHIEVEMENTS_OBJECTS_DMG"
+msgstr "Damage Caused to Ground Targets"
+
+msgid "ACHIEVEMENTS_PARTICIPATION_IN_CAP_SECTOR"
+msgstr "Participations in capturing sectors"
+
+msgid "ACHIEVEMENTS_PER_BATTLE"
+msgstr "Per Battle"
+
+msgid "ACHIEVEMENTS_PLANES_DMG"
+msgstr "Damage Caused to Aircraft"
+
+msgid "ACHIEVEMENTS_QUEST_PROGRESS_INFO"
+msgstr ""
+"In Battle Against Bots, battle results are not shown in statistics."
+"<br>Complete this mission to unlock another battle type<br>featuring "
+"extended statistics."
+
+msgid "ACHIEVEMENTS_RANDOM_MODE_ONLY"
+msgstr "Statistics are affected by results of Standard battles only."
+
+msgid "ACHIEVEMENTS_REFRESHING_DATA"
+msgstr "Updating data..."
+
+msgid "ACHIEVEMENTS_REGISTRATION_DATE"
+msgstr "Registered:"
+
+msgid "ACHIEVEMENTS_STAT_IN_NEW_MODE_CONQUEST"
+msgstr "Total flying hours for game mode \"Conquest\""
+
+msgid "ACHIEVEMENTS_SUMMARY_BATTLE_POINTS"
+msgstr "Total personal points"
+
+msgid "ACHIEVEMENTS_SUMMARY_BATTLE_POINTS_ON_PLANES"
+msgstr "Total personal points earned in the aircraft"
+
+msgid "ACHIEVEMENTS_SUMMARY_EXP_ON_PLANES"
+msgstr "Total experience earned in the aircraft"
+
+msgid "ACHIEVEMENTS_SUMMARY_STATS"
+msgstr "Total Results"
+
+msgid "ACHIEVEMENTS_SUMMARY_XP"
+msgstr "Total Experience"
+
+msgid "ACHIEVEMENTS_SUPERIORITY_POINTS_AVG_PER_BATTLE"
+msgstr "Average Superiority Points per Battle"
+
+msgid "ACHIEVEMENTS_SUPERIORITY_POINTS_TOTAL"
+msgstr "Total Superiority Points"
+
+msgid "ACHIEVEMENTS_SURVIVED_BATTLES"
+msgstr "Battles Survived"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS"
+msgstr "Achievements"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_BURNING_SHORES"
+msgstr "Flaming Shores"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_DISTINCTION"
+msgstr "Insignias"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_EPIC"
+msgstr "Epic Achievements"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_GROUP"
+msgstr "Group Achievements"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_HERO"
+msgstr "Service Awards"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_HOLIDAY"
+msgstr "Holiday Achievements"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_HONOR"
+msgstr "Honorary Ranks"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_LEGENDARY"
+msgstr "Legendary achievements"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_MEMORIAL"
+msgstr "Distinguished Badges"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_NEW_YEAR"
+msgstr "Season's Awards"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_OLD"
+msgstr "Past Achievements"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_PERSONAL_QUESTS"
+msgstr "Personal Missions and Operation Orders"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_RATING"
+msgstr "Rating Achievements"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_RECENT"
+msgstr "Recently Received"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_REDCOMET"
+msgstr "Red Comet"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_SERIAL"
+msgstr "Series Achievements"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_STAGE"
+msgstr "Tiered Decorations"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_SUMMER_STORM"
+msgstr "Summer Storm"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_VENGEANCE_SWORD"
+msgstr "Blade of Vengeance"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_WESTWALL"
+msgstr "Operation Westwall"
+
+msgid "ACHIEVEMENTS_TAB_STATISTICS"
+msgstr "Statistics"
+
+msgid "ACHIEVEMENTS_TOTAL"
+msgstr "Total"
+
+msgid "ACHIEVEMENTS_TOTAL_BATTLES"
+msgstr "Battles participated"
+
+msgid "ACHIEVEMENTS_TOTAL_FLIGHT"
+msgstr "Sorties"
+
+msgid "ACHIEVEMENTS_TOTAL_RECIEVED"
+msgstr "Total received:"
+
+msgid "ACHIEVEMENTS_WINS"
+msgstr "Victories"
+
+msgid "ACHIEVEMENTS_WINS_IN_GROUP"
+msgstr "Assist Points"
+
+msgid "ACHIEVEMENTS_WINS_IN_GROUP_2-0"
+msgstr "Assistance in destroying enemy aircraft"
+
+msgid "ACHIEVEMENTS_WIN_MARKS"
+msgstr "Victory Marks"
+
+msgid "ACHIEVEMENTS_WIN_MARKS_DESC"
+msgstr "Awarded for destroying enemy targets."
+
+msgid "ACHIEVEMENTS_XP"
+msgstr "Experience"
+
+msgid "ACHIEVEMENTS_XP_AND_BATTLESCORE"
+msgstr "Experience and Personal Points"
+
+msgid "MEDAL_DESCRIPTION_1ST_CLASS"
+msgstr ""
+"Awarded for winning a battle and earning the most experience of any player "
+"in the team.<br><br>Available one time in Standard Battle only."
+
+msgid "MEDAL_DESCRIPTION_2ND_CLASS"
+msgstr ""
+"Awarded for winning a battle and entering the team's top 5 by experience "
+"received.<br><br>Available one time in Standard Battle only."
+
+msgid "MEDAL_DESCRIPTION_ABSOLUTE_CHAMPION"
+msgstr ""
+"Was awarded for surviving, winning, and <font color='#f2f2f2'>ranking top by "
+"all criteria in the battle results window</font>.<br><font size='6'><br></"
+"font>Was available once in Battle Against Bots before the release of version "
+"1.9.0."
+
+msgid "MEDAL_DESCRIPTION_ACE"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aerial targets</"
+"font> in a single battle."
+
+msgid "MEDAL_DESCRIPTION_AIR_DEFENCE_PILOT"
+msgstr ""
+"Awarded for destroying an enemy aircraft that attacks the allied "
+"headquarters. The player must destroy the enemy aircraft before the "
+"headquarters is destroyed.<br><br>Available in Standard Battle only, one "
+"time for each aircraft in Hangar."
+
+msgid "MEDAL_DESCRIPTION_AKAMATSU"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font> "
+"for destroying aerial targets with a fighter in a single sortie."
+
+msgid "MEDAL_DESCRIPTION_ALBION_LION-I"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>21 "
+"confrontations</font> on the Allied side during the Skies of Albion event."
+
+msgid "MEDAL_DESCRIPTION_ALBION_LION-II"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>10 "
+"confrontations</font> on the Allied side during the Skies of Albion event."
+
+msgid "MEDAL_DESCRIPTION_ALBION_LION-III"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>1 "
+"confrontation</font> on the Allied side during the Skies of Albion event."
+
+msgid "MEDAL_DESCRIPTION_ALL_YEAR_2016_VETERAN"
+msgstr ""
+"Awarded for participating in four seasonal events available in 2015–2016."
+
+msgid "MEDAL_DESCRIPTION_ALTITUDE_HUNTER"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} bombers</font> "
+"from the enemy combat group in a single battle and winning the battle."
+"<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_ANIMAL_KING"
+msgstr ""
+"Awarded for getting 4 animal sculptures for the Hangar during the <font "
+"color='#f2f2f2'>Operation Holiday Maneuvers</font> event."
+
+msgid "MEDAL_DESCRIPTION_AROUND_THE_WORLD"
+msgstr "Awarded for participating in battles on at least 2 different maps."
+
+msgid "MEDAL_DESCRIPTION_AS"
+msgstr ""
+"Awarded for destroying at least 5 enemy aircraft in one battle."
+"<br><br>Available in Standard Battle only."
+
+msgid "MEDAL_DESCRIPTION_ASSAULT_TEST"
+msgstr ""
+"Was awarded for receiving at least <font color='#f2f2f2'>20 points</font> "
+"for destroying enemy ground targets with an attack aircraft in a single "
+"battle.<br><font size='6'><br></font>Was available once in Battle Against "
+"Bots before the release of version 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_ASSISTANT"
+msgstr ""
+"Was awarded for assisting the allies in destroying at least <font "
+"color='#f2f2f2'>3 enemy aircraft</font> in a single battle.<br><font "
+"size='6'><br></font>Was available once in Battle Against Bots before the "
+"release of version 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_ASSISTMASTER"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#f2f2f2'>\"Teamwork\"</font>."
+
+msgid "MEDAL_DESCRIPTION_ATTACKER"
+msgstr ""
+"Awarded for earning <font color='#f2f2f2'>aircraft type grade II</font> "
+"during stage 1 <font color='#f2f2f2'>\"Fog of War\"</font> of the Flaming "
+"Shores event."
+
+msgid "MEDAL_DESCRIPTION_ATTACK_HERO"
+msgstr ""
+"Awarded for earning <font color='#{1}'>aircraft type grade II</font> during "
+"<font color='#{1}'>the Offensive stage</font> of the Summer Storm event."
+
+msgid "MEDAL_DESCRIPTION_ATTACK_ON_ALLIES_POSITION"
+msgstr "Awarded for completing the mission \"Offensive\"."
+
+msgid "MEDAL_DESCRIPTION_AUTUMN_VETERAN"
+msgstr "Awarded for participating in the 2016 event \"Three Years Airborne\"."
+
+msgid "MEDAL_DESCRIPTION_AVALANCHE"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} enemy ground "
+"targets</font> in the first sortie.<br><font size='6'><br></font>The count "
+"is reset if the player's aircraft destroys fewer than {0} enemy ground "
+"targets before being destroyed."
+
+msgid "MEDAL_DESCRIPTION_BANSHEE"
+msgstr ""
+"Was awarded for destroying at least <font color='#f2f2f2'>1 enemy ground "
+"target</font>. The count was reset if the player’s aircraft was destroyed."
+"<br><font size='6'><br></font>Was available in Battle Against Bots before "
+"the release of version 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_BATTERED_BUT_NOT_BROKEN"
+msgstr ""
+"Awarded for receiving at least 3 critical hits and surviving the battle."
+"<br><br>Available in Standard Battle only, one time for each aircraft in "
+"Hangar."
+
+msgid "MEDAL_DESCRIPTION_BATTLE_VULTURE"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} multirole "
+"fighters</font> from the enemy combat group in a single battle and winning "
+"the battle.<br><font size='6'><br></font>Available once for each aircraft in "
+"the Hangar."
+
+msgid "MEDAL_DESCRIPTION_BEGELDINOV1"
+msgstr ""
+"Was awarded for receiving <font color='#f2f2f2'>150,000</font> points for "
+"destroying enemy ground targets.<br><font size='6'><br></font>Was available "
+"in Standard Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_BEGELDINOV2"
+msgstr ""
+"Was awarded for receiving <font color='#f2f2f2'>15,000</font> points for "
+"destroying enemy ground targets.<br><font size='6'><br></font>Was available "
+"in Standard Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_BEGELDINOV3"
+msgstr ""
+"Was awarded for receiving <font color='#f2f2f2'>1,500</font> points for "
+"destroying enemy ground targets.<br><font size='6'><br></font>Was available "
+"in Standard Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_BEGELDINOV4"
+msgstr ""
+"Was awarded for receiving <font color='#f2f2f2'>150</font> points for "
+"destroying enemy ground targets.<br><font size='6'><br></font>Was available "
+"in Standard Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_BEWARE_OF_BOMBS"
+msgstr ""
+"Awarded for damaging an enemy aircraft with a bomb.<br><br>Available one "
+"time only."
+
+msgid "MEDAL_DESCRIPTION_BIRD_OF_PREY"
+msgstr ""
+"Awarded for destroying at least 2 enemy heavy fighters in one battle. The "
+"player must win the battle and survive.<br><br>Available in Standard Battle "
+"only, one time for each aircraft in Hangar."
+
+msgid "MEDAL_DESCRIPTION_BLITZ"
+msgstr ""
+"Awarded for destroying 2 enemy aircraft in a row in one battle, without any "
+"other enemy aircraft being destroyed by allies in between.<br><br>Available "
+"in Standard Battle only."
+
+msgid "MEDAL_DESCRIPTION_BOMBARDIER"
+msgstr ""
+"Awarded for destroying an <font color='#f2f2f2'>aerial target with a bomb "
+"explosion</font>.<br><br>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_BOMBARDIER_1"
+msgstr ""
+"Awarded for destroying <font color='#f2f2f2'>an enemy aircraft with a bomb "
+"explosion</font>.<br><font size='6'><br></font>Available once for each "
+"aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_BOMBING"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>destroying {0} ground targets</font> "
+"using bombs."
+
+msgid "MEDAL_DESCRIPTION_BOMBING_1"
+msgstr ""
+"Awarded for damaging a ground target by dropping a bomb.<br><br>Available "
+"once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_BONG1"
+msgstr ""
+"Was awarded for earning <font color='#f2f2f2'>300 Destroyer medals</font> in "
+"heavy fighters.<br><font size='6'><br></font>Was available in Standard "
+"Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_BONG2"
+msgstr ""
+"Was awarded for earning <font color='#f2f2f2'>30 Destroyer medals</font> in "
+"heavy fighters.<br><font size='6'><br></font>Was available in Standard "
+"Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_BONG3"
+msgstr ""
+"Was awarded for earning <font color='#f2f2f2'>3 Destroyer medals</font> in "
+"heavy fighters.<br><font size='6'><br></font>Was available in Standard "
+"Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_BOYINGTON1"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font>."
+
+msgid "MEDAL_DESCRIPTION_BOYINGTON2"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font>."
+
+msgid "MEDAL_DESCRIPTION_BOYINGTON3"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font>."
+
+msgid "MEDAL_DESCRIPTION_BOYINGTON4"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font>."
+
+msgid "MEDAL_DESCRIPTION_BREAKTHROUGH"
+msgstr ""
+"Awarded for destroying at least 3 enemy AA guns or 3 ground targets equipped "
+"with AA guns.<br><br>Available in Standard Battle only, one time for each "
+"aircraft in Hangar."
+
+msgid "MEDAL_DESCRIPTION_BRONZE_PLAYERS"
+msgstr ""
+"Awarded for getting into the bronze division based on personal rating score."
+
+msgid "MEDAL_DESCRIPTION_BURNING"
+msgstr ""
+"Awarded for surviving at least <font color='#f2f2f2'>2 fires</font> in a "
+"single sortie.<br><font size='6'><br></font>The count is reset if the "
+"player's aircraft is destroyed."
+
+msgid "MEDAL_DESCRIPTION_BURNING_SHORES"
+msgstr ""
+"Awarded for earning <font color='#f2f2f2'>{0}</font> personal points during "
+"the Flaming Shores event."
+
+msgid "MEDAL_DESCRIPTION_CADET"
+msgstr "Awarded for completing one training mission."
+
+msgid "MEDAL_DESCRIPTION_CADET_1"
+msgstr ""
+"First-rank award for completing a mission from \"Flight Training\" sequence "
+"of missions"
+
+msgid "MEDAL_DESCRIPTION_CADET_2"
+msgstr ""
+"Second-rank award for completing a mission from \"Flight Training\" sequence "
+"of missions"
+
+msgid "MEDAL_DESCRIPTION_CADET_3"
+msgstr ""
+"Third-rank award for completing a mission from \"Flight Training\" sequence "
+"of missions"
+
+msgid "MEDAL_DESCRIPTION_CADET_4"
+msgstr ""
+"Fourth-rank award for completing a mission from \"Flight Training\" sequence "
+"of missions"
+
+msgid "MEDAL_DESCRIPTION_CADET_5"
+msgstr ""
+"Fifth-rank award for completing a mission from \"Flight Training\" sequence "
+"of missions"
+
+msgid "MEDAL_DESCRIPTION_CANDY_RAID"
+msgstr ""
+"Awarded for receiving the first piece of candy during the <font "
+"color='#f2f2f2'>Operation Holiday Maneuvers</font> event."
+
+msgid "MEDAL_DESCRIPTION_CAREFUL"
+msgstr ""
+"Awarded for destroying 3 enemy aircraft in one battle while avoiding engine "
+"and weapons overheat throughout the battle.<br><br>Available in Standard "
+"Battle only, one time for each aircraft in Hangar."
+
+msgid "MEDAL_DESCRIPTION_CATCHER"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font> "
+"for destroying enemy aircraft flying over a sector under the control of the "
+"player's combat group in a single battle."
+
+msgid "MEDAL_DESCRIPTION_CAUTION_BOMB"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>damaging an aerial target using a "
+"bomb</font>."
+
+msgid "MEDAL_DESCRIPTION_CHAMPION_DESTROYER"
+msgstr ""
+"Was awarded for destroying <font color='#f2f2f2'>the most enemy ground "
+"targets</font>, surviving, and winning the battle.<br><font size='6'><br></"
+"font>Was available once in Battle Against Bots before the release of version "
+"1.9.0."
+
+msgid "MEDAL_DESCRIPTION_CLEANER"
+msgstr ""
+"Was awarded to all members of a Flight that destroyed at least <font "
+"color='#f2f2f2'>5 enemy aircraft</font> and received at least <font "
+"color='#f2f2f2'>75 points</font> for destroying enemy ground targets before "
+"one of the Flight members was destroyed.<br><font size='6'><br></font>Was "
+"available in Standard Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_CLEANUP"
+msgstr ""
+"Awarded for destroying the last enemy aircraft and surviving the battle."
+"<br><br>Available one time in Battle Against Bots only."
+
+msgid "MEDAL_DESCRIPTION_CLEAR_SKY"
+msgstr ""
+"Was awarded for destroying <font color='#f2f2f2'>3 enemy fighters or "
+"multirole fighters</font> in a single or several battles and surviving these "
+"battles until 3 fighters were destroyed.<br><font size='6'><br></font>Was "
+"available once in Battle Against Bots before the release of version 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_CLIPPING_THE_WINGS"
+msgstr ""
+"Awarded for destroying an enemy aircraft by causing critical damage to its "
+"wing.<br><br>Available one time only."
+
+msgid "MEDAL_DESCRIPTION_CLOSTERMAN"
+msgstr ""
+"Was awarded for destroying at least <font color='#f2f2f2'>7 enemy aircraft</"
+"font> and receiving at least <font color='#f2f2f2'>15 points</font> for "
+"destroying enemy ground targets in a single battle.<br><font size='6'><br></"
+"font>Was available in Standard Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_COLLECTOR"
+msgstr ""
+"Awarded for participating in battles in aircraft of at least 2 different "
+"tiers."
+
+msgid "MEDAL_DESCRIPTION_COMMAND_DES"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{200} capture points</"
+"font> for destroying enemy ground targets and causing at least <font "
+"color='#f2f2f2'>{2000} HP of damage to aerial targets</font> with turret "
+"fire in a single sortie."
+
+msgid "MEDAL_DESCRIPTION_COMPETITIVE_PLAYERS"
+msgstr "Awarded for getting on the rating list."
+
+msgid "MEDAL_DESCRIPTION_CONQUEROR"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font> "
+"in a single battle."
+
+msgid "MEDAL_DESCRIPTION_CONTROLLER"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#f2f2f2'>\"Sector Capture\"</font>."
+
+msgid "MEDAL_DESCRIPTION_CROSSFIRE"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>assisting in destroying {0} aerial "
+"targets</font>."
+
+msgid "MEDAL_DESCRIPTION_CROSSFIRE_1"
+msgstr ""
+"Awarded for damaging an enemy aircraft later destroyed by an allied aircraft."
+"<br><br>Available once only."
+
+msgid "MEDAL_DESCRIPTION_CRUCIALCONTRIBUTION"
+msgstr ""
+"Was awarded to all members of a Flight that destroyed at least <font "
+"color='#f2f2f2'>12 enemy aircraft</font> before one of the Flight members "
+"was destroyed.<br><font size='6'><br></font>Was available in Standard Battle "
+"in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_DANGEROUS_TARGET"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aerial targets</"
+"font> in the first sortie.<br><font size='6'><br></font>The count is reset "
+"if the player's aircraft destroys fewer than {0} aerial targets before being "
+"destroyed."
+
+msgid "MEDAL_DESCRIPTION_DANGER_TAIL"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aerial target</"
+"font> with turret fire in a single sortie.<br><font size='6'><br></font>The "
+"count is reset if the player's aircraft is destroyed."
+
+msgid "MEDAL_DESCRIPTION_DARING_SWOOP"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>participating in capturing a sector</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_DEAD_ZONE"
+msgstr ""
+"Awarded for destroying an enemy aircraft equipped with a defensive turret "
+"without receiving damage from this aircraft.<br><br>Available in Standard "
+"Battle only."
+
+msgid "MEDAL_DESCRIPTION_DEFENDER_PROGRESS1"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>21 "
+"confrontations</font> on the Axis side during the Battle for Thor's Hammer "
+"event."
+
+msgid "MEDAL_DESCRIPTION_DEFENDER_PROGRESS2"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>10 "
+"confrontations</font> on the Axis side during the Battle for Thor's Hammer "
+"event."
+
+msgid "MEDAL_DESCRIPTION_DEFENDER_PROGRESS3"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>1 "
+"confrontation</font> on the Axis side during the Battle for Thor's Hammer "
+"event."
+
+msgid "MEDAL_DESCRIPTION_DESTROYER"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#f2f2f2'>\"Destruction of Infrastructure\"</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_DESTROYER_OLD"
+msgstr ""
+"Was awarded for destroying at least <font color='#f2f2f2'>4 enemy aircraft</"
+"font> and receiving at least <font color='#f2f2f2'>15 points</font> for "
+"enemy ground targets destroyed in a single battle.<br><font size='6'><br></"
+"font>Was available in Standard Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_DEVASTATOR"
+msgstr ""
+"Awarded for destroying 2 enemy ground targets with a single bomb."
+"<br><br>Available in Standard Battle only, one time for each aircraft in "
+"Hangar."
+
+msgid "MEDAL_DESCRIPTION_DILLEI1"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aircraft from the "
+"enemy combat group</font>."
+
+msgid "MEDAL_DESCRIPTION_DILLEI2"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aircraft from the "
+"enemy combat group</font>."
+
+msgid "MEDAL_DESCRIPTION_DILLEI3"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aircraft from the "
+"enemy combat group</font>."
+
+msgid "MEDAL_DESCRIPTION_DILLEI4"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aircraft from the "
+"enemy combat group</font>."
+
+msgid "MEDAL_DESCRIPTION_DOMINATOR"
+msgstr ""
+"Awarded for destroying at least 1 enemy <font color='#f2f2f2'>fighter</"
+"font>, 1 enemy <font color='#f2f2f2'>heavy fighter</font>, and 1 enemy <font "
+"color='#f2f2f2'>attack aircraft</font> in a single battle, and winning the "
+"battle.<br><font size='6'><br></font>Available once for each aircraft in the "
+"Hangar."
+
+msgid "MEDAL_DESCRIPTION_DOMINATOR_1"
+msgstr ""
+"Awarded for destroying at least 1 enemy fighter, 1 heavy fighter, and 1 "
+"attack aircraft in a single battle, and winning the battle.<br><br>Available "
+"once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_DULITTLA"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font> "
+"for destroying enemy ground targets with a bomber in a single sortie."
+
+msgid "MEDAL_DESCRIPTION_EFFECTIVE"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} personal points</"
+"font> in each of at least 2 battles played in a row.<br><font size='6'><br></"
+"font>The count is reset if the player earns fewer than {0} personal points "
+"in a single battle."
+
+msgid "MEDAL_DESCRIPTION_ELITE_PLANE"
+msgstr ""
+"Awarded for acquiring <font color='#f2f2f2'>Elite status</font> for any "
+"aircraft.<br><font size='6'><br></font>Available once for each aircraft that "
+"acquires <font color='#f2f2f2'>Elite status</font>."
+
+msgid "MEDAL_DESCRIPTION_END_OF_SPEAR"
+msgstr ""
+"Awarded to members of a Flight that earned at least <font "
+"color='#f2f2f2'>{0} personal points</font>.<br><font size='6'><br></font>The "
+"count is reset if one of the Flight members is destroyed."
+
+msgid "MEDAL_DESCRIPTION_ESCORT_SKY_AVENGER"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#{1}'>\"Destroy enemy aircraft\"</font>."
+
+msgid "MEDAL_DESCRIPTION_ESCORT_SKY_DEFENDER"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#{1}'>\"Escort attack aircraft\"</font>."
+
+msgid "MEDAL_DESCRIPTION_ESCORT_SKY_DESTROYER"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#{1}'>\"Suppress AA defenses\"</font>."
+
+msgid "MEDAL_DESCRIPTION_ESCORT_SKY_HUNTER"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#{1}'>\"Intercept\"</font>."
+
+msgid "MEDAL_DESCRIPTION_ESCORT_SKY_KEEPER"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#{1}'>\"Escort bombers\"</font>."
+
+msgid "MEDAL_DESCRIPTION_EXPERIENCED"
+msgstr ""
+"Awarded for winning a battle and <font color='#f2f2f2'>achieving one of the "
+"top 3 ranks</font> in the combat group.<br><font size='6'><br></"
+"font>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_EXPERIENCED_ALT"
+msgstr ""
+"Awarded for <font color='#f2f2f2'>achieving one of the top 3 ranks</font> in "
+"the combat group in <font color='#f2f2f2'>2</font> victorious battles in a "
+"row. The count is reset if the player does not achieve one of the top 3 "
+"ranks in the combat group."
+
+msgid "MEDAL_DESCRIPTION_EXPERIENCED_HUNTER"
+msgstr "Awarded for completing \"Expert Hunter\" mission."
+
+msgid "MEDAL_DESCRIPTION_EXTERMINATOR"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#f2f2f2'>\"Destruction of Ground Targets\"</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_FALCON"
+msgstr ""
+"Awarded for destroying an enemy aircraft in a diving attack."
+"<br><br>Available one time only."
+
+msgid "MEDAL_DESCRIPTION_FALCONRY"
+msgstr ""
+"Awarded for destroying at least 2 enemy fighters or multirole fighters in "
+"one battle. The player must win the battle and survive.<br><br>Available in "
+"Standard Battle only, one time for each aircraft in Hangar."
+
+msgid "MEDAL_DESCRIPTION_FALCON_HUNTING"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} fighters</font> "
+"from the enemy combat group in a single battle and winning the battle."
+"<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_FIGHTER_DEFENDER"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#f2f2f2'>\"Sector Defense\"</font>."
+
+msgid "MEDAL_DESCRIPTION_FIGHTER_DOMINATOR"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#f2f2f2'>\"Air Battle for Sectors\"</font>."
+
+msgid "MEDAL_DESCRIPTION_FIGHTER_INTERCEPTOR"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#f2f2f2'>\"Destruction of Aerial Targets\"</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_FIGHTER_OF_ALL_LIFE"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#f2f2f2'>\"Sector Attack\"</font>."
+
+msgid "MEDAL_DESCRIPTION_FIGHTER_TEST"
+msgstr ""
+"Was awarded for destroying at least <font color='#f2f2f2'>2 enemy aircraft</"
+"font> with a fighter or a multirole fighter in a single battle.<br><font "
+"size='6'><br></font>Was available once in Battle Against Bots before the "
+"release of version 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_FIREBUG"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>destroying a ground target by setting "
+"it on fire</font>."
+
+msgid "MEDAL_DESCRIPTION_FIRESPITTING"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>2 ground targets</"
+"font> in a single battle by <font color='#f2f2f2'>setting them on fire</"
+"font>.<br><font size='6'><br></font>Available once for each aircraft in the "
+"Hangar."
+
+msgid "MEDAL_DESCRIPTION_FIRESTARTER"
+msgstr ""
+"Awarded for damaging an enemy ground target by setting it on fire using "
+"ammunition with incendiary properties.<br><br>Available one time only."
+
+msgid "MEDAL_DESCRIPTION_FIRE_BILLOW"
+msgstr ""
+"Was awarded for receiving at least <font color='#f2f2f2'>50 points</font> "
+"for enemy ground targets destroyed in a single or several battles.<br><font "
+"size='6'><br></font>The count was reset if the player’s aircraft was "
+"destroyed.<br><font size='6'><br></font>Was available in Standard Battle in "
+"Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_FIRE_BREATH"
+msgstr ""
+"Awarded for destroying at least 2 enemy ground targets by setting them on "
+"fire in one battle.<br><br>Available in Standard Battle only, one time for "
+"each aircraft in Hangar."
+
+msgid "MEDAL_DESCRIPTION_FIRST_BLOOD"
+msgstr ""
+"Was awarded for becoming the first to destroy an enemy <font "
+"color='#f2f2f2'>aircraft</font> in battle. The count was reset if another "
+"human player or a bot destroyed an enemy aircraft first.<br><font "
+"size='6'><br></font>Was available once in Battle Against Bots before the "
+"release of version 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_FIRST_FIGHTER"
+msgstr ""
+"Awarded for earning <font color='#{1}'>aircraft type grade II</font> during "
+"<font color='#{1}'>the Reconnaissance stage</font> of the Summer Storm event."
+
+msgid "MEDAL_DESCRIPTION_FIRST_IN_TEAM"
+msgstr ""
+"Was awarded for <font color='#f2f2f2'>destroying the most enemy aircraft</"
+"font> of all players on the team, surviving and winning the battle. If "
+"several players destroyed the same number of enemy aircraft, each of them "
+"was awarded.<br><font size='6'><br></font>Was available once in Battle "
+"Against Bots before the release of version 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_FLAME_OF_HEAVEN"
+msgstr ""
+"Awarded for <font color='#f2f2f2'>destroying an aerial target aircraft by "
+"setting it on fire</font>.<br><font size='6'><br></font>Available once for "
+"each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_FLAMING"
+msgstr ""
+"Awarded for destroying an enemy aircraft while own aircraft is on fire."
+"<br><br>Available in Standard Battle only, one time for each aircraft in "
+"Hangar."
+
+msgid "MEDAL_DESCRIPTION_FLGHT_LEADER_1"
+msgstr ""
+"First-rank award for completing a mission from \"Air Brotherhood\" sequence "
+"of missions"
+
+msgid "MEDAL_DESCRIPTION_FLGHT_LEADER_2"
+msgstr ""
+"Second-rank award for completing a mission from \"Air Brotherhood\" sequence "
+"of missions"
+
+msgid "MEDAL_DESCRIPTION_FLGHT_LEADER_3"
+msgstr ""
+"Third-rank award for completing a mission from \"Air Brotherhood\" sequence "
+"of missions"
+
+msgid "MEDAL_DESCRIPTION_FLGHT_LEADER_4"
+msgstr ""
+"Fourth-rank award for completing a mission from \"Air Brotherhood\" sequence "
+"of missions"
+
+msgid "MEDAL_DESCRIPTION_FLGHT_LEADER_5"
+msgstr ""
+"Fifth-rank award for completing a mission from \"Air Brotherhood\" sequence "
+"of missions"
+
+msgid "MEDAL_DESCRIPTION_FLIGHT_DRESSING"
+msgstr ""
+"Awarded for healing an injured pilot with a First Aid Kit or a First Aid "
+"Dressing Package.<br><br>Available one time only."
+
+msgid "MEDAL_DESCRIPTION_FLIGHT_REPAIRS"
+msgstr ""
+"Awarded for restarting a failed engine.<br><br>Available one time only."
+
+msgid "MEDAL_DESCRIPTION_FLOWN"
+msgstr ""
+"Awarded for <font color='#f2f2f2'>assisting the allies at least {0} times in "
+"destroying aerial targets</font> in a single battle and winning the battle."
+"<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_FLYING_EAGLE"
+msgstr ""
+"Awarded for earning <font color='#f2f2f2'>aircraft type grade II</font> "
+"during stage 2 <font color='#f2f2f2'>\"Eagle's Shadow\"</font> of the "
+"Flaming Shores event."
+
+msgid "MEDAL_DESCRIPTION_FLY_SAUCER"
+msgstr ""
+"Was awarded for flying the Sleipnir vehicle in at least one battle.<br><font "
+"size='6'><br></font>Was available during the 2014 April Fool's Day event."
+
+msgid "MEDAL_DESCRIPTION_FRONTLINE_1"
+msgstr ""
+"First-rank award for completing a mission from \"Deadly Skies\" sequence of "
+"missions"
+
+msgid "MEDAL_DESCRIPTION_FRONTLINE_2"
+msgstr ""
+"Second-rank award for completing a mission from \"Deadly Skies\" sequence of "
+"missions"
+
+msgid "MEDAL_DESCRIPTION_FRONTLINE_3"
+msgstr ""
+"Third-rank award for completing a mission from \"Deadly Skies\" sequence of "
+"missions"
+
+msgid "MEDAL_DESCRIPTION_FRONTLINE_4"
+msgstr ""
+"Fourth-rank award for completing a mission from \"Deadly Skies\" sequence of "
+"missions"
+
+msgid "MEDAL_DESCRIPTION_FRONTLINE_5"
+msgstr ""
+"Fifth-rank award for completing a mission from \"Deadly Skies\" sequence of "
+"missions"
+
+msgid "MEDAL_DESCRIPTION_FULMINANT"
+msgstr ""
+"Awarded for destroying <font color='#f2f2f2'>2 aerial targets</font> in a "
+"row in a single battle, without any other aerial target being destroyed by "
+"allies in between."
+
+msgid "MEDAL_DESCRIPTION_FUTURE_ACE"
+msgstr ""
+"Awarded for destroying at least 3 enemy aircraft in a single battle. The "
+"player must survive the battle.<br><br>Available one time in Battle Against "
+"Bots only."
+
+msgid "MEDAL_DESCRIPTION_GALLAND1"
+msgstr ""
+"Was awarded for earning <font color='#f2f2f2'>300 Ace medals</font> in "
+"fighters or multirole fighters.<br><font size='6'><br></font>Was available "
+"in Standard Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_GALLAND2"
+msgstr ""
+"Was awarded for earning <font color='#f2f2f2'>30 Ace medals</font> in "
+"fighters or multirole fighters.<br><font size='6'><br></font>Was available "
+"in Standard Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_GALLAND3"
+msgstr ""
+"Was awarded for earning <font color='#f2f2f2'>3 Ace medals</font> in "
+"fighters or multirole fighters.<br><font size='6'><br></font>Was available "
+"in Standard Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_GOLD_PLAYERS"
+msgstr ""
+"Awarded for getting into the golden division based on personal rating score."
+
+msgid "MEDAL_DESCRIPTION_GOLIAPHS_NEMESIS"
+msgstr ""
+"Was awarded for destroying <font color='#f2f2f2'>3 enemy heavy fighters</"
+"font> in a single or several battles and surviving these battles.<br><font "
+"size='6'><br></font>Was available once in Battle Against Bots before the "
+"release of version 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_GOLUBEV"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aerial targets</"
+"font> using rockets in a single sortie and winning the battle."
+
+msgid "MEDAL_DESCRIPTION_GOROVETS"
+msgstr ""
+"Was awarded for destroying at least <font color='#f2f2f2'>9 enemy aircraft</"
+"font> in a single battle.<br><font size='6'><br></font>Was available in "
+"Standard Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_GOTCHA"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>damaging an aerial target with "
+"forward-firing weapons</font>."
+
+msgid "MEDAL_DESCRIPTION_GOTCHA_1"
+msgstr ""
+"Awarded for damaging an enemy aircraft with forward-firing weapons."
+"<br><br>Available once only."
+
+msgid "MEDAL_DESCRIPTION_GOT_TEN"
+msgstr ""
+"Awarded for receiving a second victory mark for destroying enemy aircraft."
+"<br><br>Available in Standard Battle only, one time for each aircraft in "
+"Hangar."
+
+msgid "MEDAL_DESCRIPTION_GRAF1"
+msgstr ""
+"Was awarded for destroying <font color='#f2f2f2'>10,000 enemy aircraft</"
+"font>.<br><font size='6'><br></font>Was available in Standard Battle in "
+"Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_GRAF2"
+msgstr ""
+"Was awarded for destroying <font color='#f2f2f2'>1,000 enemy aircraft</font>."
+"<br><font size='6'><br></font>Was available in Standard Battle in "
+"Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_GRAF3"
+msgstr ""
+"Was awarded for destroying <font color='#f2f2f2'>100 enemy aircraft</font>."
+"<br><font size='6'><br></font>Was available in Standard Battle in "
+"Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_GRAF4"
+msgstr ""
+"Was awarded for destroying <font color='#f2f2f2'>10 enemy aircraft</font>."
+"<br><font size='6'><br></font>Was available in Standard Battle in "
+"Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_GRIP"
+msgstr ""
+"Awarded for earning <font color='#{1}'>aircraft type grade II</font> during "
+"<font color='#{1}'>the Maintaining of Positions stage</font> of the Summer "
+"Storm event."
+
+msgid "MEDAL_DESCRIPTION_GROUND_AND_IN_THE_SKY"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aerial targets</"
+"font> and <font color='#f2f2f2'>{1} ground targets</font> in each of at "
+"least 2 battles played in a row.<br><font size='6'><br></font>The count is "
+"reset if the player does not meet this condition."
+
+msgid "MEDAL_DESCRIPTION_GROUND_DEFENDER"
+msgstr ""
+"Was awarded for destroying <font color='#f2f2f2'>3 enemy attack aircraft</"
+"font> in a single or several battles and surviving all battles until 3 "
+"attack aircraft were destroyed.<br><font size='6'><br></font>Was available "
+"once in Battle Against Bots before the release of version 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_GROUND_POUNDER"
+msgstr ""
+"Awarded for causing a total damage of 10,000 HP to enemy ground targets in "
+"one or several battles.<br><br>Available one time only."
+
+msgid "MEDAL_DESCRIPTION_GUARD"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>destroying an enemy ground target</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_GUNNER"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>damaging an aerial target with turret "
+"fire</font>."
+
+msgid "MEDAL_DESCRIPTION_HABREZKI"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aerial targets</"
+"font> and <font color='#f2f2f2'>{1} enemy ground targets</font> in a single "
+"sortie, and winning the battle."
+
+msgid "MEDAL_DESCRIPTION_HAMMER_PROGRESS1"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>21 "
+"confrontations</font> on the Allied side during the Battle for Thor's Hammer "
+"event."
+
+msgid "MEDAL_DESCRIPTION_HAMMER_PROGRESS2"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>10 "
+"confrontations</font> on the Allied side during the Battle for Thor's Hammer "
+"event."
+
+msgid "MEDAL_DESCRIPTION_HAMMER_PROGRESS3"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>1 "
+"confrontation</font> on the Allied side during the Battle for Thor's Hammer "
+"event."
+
+msgid "MEDAL_DESCRIPTION_HAWK_LA_MANCHE-I"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>21 "
+"confrontations</font> on the Axis side during the Skies of Albion event."
+
+msgid "MEDAL_DESCRIPTION_HAWK_LA_MANCHE-II"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>10 "
+"confrontations</font> on the Axis side during the Skies of Albion event."
+
+msgid "MEDAL_DESCRIPTION_HAWK_LA_MANCHE-III"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>1 "
+"confrontation</font> on the Axis side during the Skies of Albion event."
+
+msgid "MEDAL_DESCRIPTION_HEAVYWEIGHT"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>destroying {0} heavy fighters</font> "
+"from the enemy combat group."
+
+msgid "MEDAL_DESCRIPTION_HEAVYWEIGHT_1"
+msgstr ""
+"Awarded for destroying an enemy heavy fighter.<br><br>Available one time "
+"only."
+
+msgid "MEDAL_DESCRIPTION_HEAVY_FIGHTER_1"
+msgstr ""
+"Awarded for becoming one of the top players based on the results achieved in "
+"a heavy fighter during in-game events."
+
+msgid "MEDAL_DESCRIPTION_HEAVY_HITTER"
+msgstr ""
+"Awarded for causing a total damage of 1,000 HP to enemy aircraft in one or "
+"several battles.<br><br>Available one time only."
+
+msgid "MEDAL_DESCRIPTION_HEAVY_TEST"
+msgstr ""
+"Was awarded for destroying at least <font color='#f2f2f2'>1 enemy aircraft</"
+"font> and receiving at least <font color='#f2f2f2'>10 points</font> for "
+"enemy ground targets destroyed by a heavy fighter in a single battle."
+"<br><font size='6'><br></font>Was available once in Battle Against Bots "
+"before the release of version 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_HIDE_N_SEEK"
+msgstr ""
+"Awarded for using the terrain as cover to hide from the enemy after being "
+"spotted.<br><br>Available one time only."
+
+msgid "MEDAL_DESCRIPTION_HIGH_START"
+msgstr ""
+"Awarded for participating in at least 50 battles during the month following "
+"the first login."
+
+msgid "MEDAL_DESCRIPTION_HOSTILE_SKIES"
+msgstr ""
+"Awarded for surviving anti-aircraft damage and escaping the range of enemy "
+"AA gunfire.<br><br>Available one time only."
+
+msgid "MEDAL_DESCRIPTION_HOT_ENGINES"
+msgstr ""
+"Awarded for completely cooling down the engine overheated by long boosting."
+"<br><br>Available one time only."
+
+msgid "MEDAL_DESCRIPTION_HUNGRY_FLOCK"
+msgstr ""
+"Awarded to members of a Flight for destroying at least <font "
+"color='#f2f2f2'>{0} aerial targets</font>, earning at least <font "
+"color='#f2f2f2'>{1} capture points</font> for destroying enemy ground "
+"targets in a single battle, and winning the battle."
+
+msgid "MEDAL_DESCRIPTION_HUNTER"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} air defense "
+"aircraft</font> in each of at least 2 battles played in a row.<br><font "
+"size='6'><br></font>The count is reset if the player destroys fewer than {0} "
+"air defense aircraft in a single battle."
+
+msgid "MEDAL_DESCRIPTION_IMPACT_FROM_THE_SKY"
+msgstr ""
+"Awarded once for destroying an <font color='#f2f2f2'>aircraft from an Attack "
+"Flight</font>."
+
+msgid "MEDAL_DESCRIPTION_INDEPENDENT"
+msgstr ""
+"Awarded to members of a Flight for destroying at least <font "
+"color='#f2f2f2'>{0} aircraft from the enemy combat group</font> in a single "
+"battle after the arrival of the <font color='#f2f2f2'>squall line</font> and "
+"winning the battle."
+
+msgid "MEDAL_DESCRIPTION_INTERCEPTOR"
+msgstr ""
+"Awarded for destroying at least 2 enemy attack aircraft in one battle. The "
+"player must win the battle and survive.<br><br>Available in Standard Battle "
+"only, one time for each aircraft in Hangar."
+
+msgid "MEDAL_DESCRIPTION_INTERCEPTORHEAVYWEIGHT_FIGHTER"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} attack aircraft</"
+"font> from the enemy combat group in a single battle and winning the battle."
+"<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_INTERCEPTOR_1"
+msgstr "Awarded for destroying at least 12 enemy aircraft in a single battle."
+
+msgid "MEDAL_DESCRIPTION_INVADER"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font> "
+"in each of at least 2 battles played in a row.<br><font size='6'><br></"
+"font>The count is reset if the player earns fewer than {0} capture points in "
+"a single battle."
+
+msgid "MEDAL_DESCRIPTION_INVASION"
+msgstr ""
+"Awarded for winning at least 10 battles in the <font "
+"color='#f2f2f2'>Invasion</font> mode during the Operation Westwall event."
+
+msgid "MEDAL_DESCRIPTION_INVULNERABLE"
+msgstr ""
+"Awarded for destroying at least 2 enemy aircraft and receiving no damage. "
+"The player must win the battle and survive.<br><br>Available in Standard "
+"Battle only."
+
+msgid "MEDAL_DESCRIPTION_INVULNERABLE_1"
+msgstr ""
+"Awarded for surviving throughout at least 2 battles. The count is reset if "
+"the player's aircraft is destroyed."
+
+msgid "MEDAL_DESCRIPTION_IRREPLACEABLE"
+msgstr ""
+"Awarded for receiving the Dominator achievement in 3 different aircraft."
+
+msgid "MEDAL_DESCRIPTION_JACK_OF_ALL_TRADES"
+msgstr ""
+"Awarded for participating in battles in aircraft of at least 2 different "
+"types."
+
+msgid "MEDAL_DESCRIPTION_JAPAN_TEST"
+msgstr ""
+"Awarded to all participants of World of Warplanes Open Beta test in Japan."
+
+msgid "MEDAL_DESCRIPTION_JA_ALLY_PROGRESS1"
+msgstr ""
+"Was awarded for receiving at least <font color='#f2f2f2'>5,000 superiority "
+"points</font> in battles fought on the Allied side during the Japanese "
+"Threat event."
+
+msgid "MEDAL_DESCRIPTION_JA_ALLY_PROGRESS2"
+msgstr ""
+"Was awarded for receiving at least <font color='#f2f2f2'>1,500 superiority "
+"points</font> in battles fought on the Allied side during the Japanese "
+"Threat event."
+
+msgid "MEDAL_DESCRIPTION_JA_ALLY_PROGRESS3"
+msgstr ""
+"Was awarded for receiving at least <font color='#f2f2f2'>100 superiority "
+"points</font> in battles fought on the Allied side during the Japanese "
+"Threat event."
+
+msgid "MEDAL_DESCRIPTION_JA_AXIS_PROGRESS1"
+msgstr ""
+"Was awarded for receiving at least <font color='#f2f2f2'>5,000 superiority "
+"points</font> in battles fought on the Axis side during the Japanese Threat "
+"event."
+
+msgid "MEDAL_DESCRIPTION_JA_AXIS_PROGRESS2"
+msgstr ""
+"Was awarded for receiving at least <font color='#f2f2f2'>1,500 superiority "
+"points</font> in battles fought on the Axis side during the Japanese Threat "
+"event."
+
+msgid "MEDAL_DESCRIPTION_JA_AXIS_PROGRESS3"
+msgstr ""
+"Was awarded for receiving at least <font color='#f2f2f2'>100 superiority "
+"points</font> in battles fought on the Axis side during the Japanese Threat "
+"event."
+
+msgid "MEDAL_DESCRIPTION_JA_BANZAY"
+msgstr ""
+"Was awarded to a player on the Axis forces who destroyed an enemy aircraft "
+"by ramming during the Japanese Threat event.<br><font size='6'><br></"
+"font>Was available one time only."
+
+msgid "MEDAL_DESCRIPTION_JA_HUNTER"
+msgstr ""
+"Was awarded to a player on the Allied forces who destroyed an enemy aircraft "
+"by setting it on fire during the Japanese Threat event.<br><font "
+"size='6'><br></font>Was available one time only."
+
+msgid "MEDAL_DESCRIPTION_JA_PACIFIC1"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>21 "
+"confrontations</font> on the Allied side during the Japanese Threat event."
+
+msgid "MEDAL_DESCRIPTION_JA_PACIFIC2"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>10 "
+"confrontations</font> on the Allied side during the Japanese Threat event."
+
+msgid "MEDAL_DESCRIPTION_JA_PACIFIC3"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>1 "
+"confrontation</font> on the Allied side during the Japanese Threat event."
+
+msgid "MEDAL_DESCRIPTION_JA_TORATORA1"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>21 "
+"confrontations</font> on the Axis side during the Japanese Threat event."
+
+msgid "MEDAL_DESCRIPTION_JA_TORATORA2"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>10 "
+"confrontations</font> on the Axis side during the Japanese Threat event."
+
+msgid "MEDAL_DESCRIPTION_JA_TORATORA3"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>1 "
+"confrontation</font> on the Axis side during the Japanese Threat event."
+
+msgid "MEDAL_DESCRIPTION_JOHNSON1"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} enemy ground "
+"targets</font>."
+
+msgid "MEDAL_DESCRIPTION_JOHNSON2"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} enemy ground "
+"targets</font>."
+
+msgid "MEDAL_DESCRIPTION_JOHNSON3"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} enemy ground "
+"targets</font>."
+
+msgid "MEDAL_DESCRIPTION_JOHNSON4"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} enemy ground "
+"targets</font>."
+
+msgid "MEDAL_DESCRIPTION_KEEP_CLEAR"
+msgstr ""
+"Awarded for destroying an enemy aircraft and a ground target with a single "
+"bomb explosion.<br><br>Available in Standard Battle only, one time for each "
+"aircraft in Hangar."
+
+msgid "MEDAL_DESCRIPTION_KILL_SAUCER"
+msgstr ""
+"Was awarded for destroying an enemy Sleipnir vehicle.<br><font "
+"size='6'><br></font>Was available during the 2014 April Fool's Day event."
+
+msgid "MEDAL_DESCRIPTION_KNIGHT"
+msgstr ""
+"Awarded once for destroying an <font color='#f2f2f2'>air defense aircraft</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_KOJEDUBA"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aircraft from the "
+"enemy combat group</font> after the arrival of the <font "
+"color='#f2f2f2'>squall line</font> and for surviving until the end of the "
+"battle."
+
+msgid "MEDAL_DESCRIPTION_LAMBERTA"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font> "
+"in a single sortie with a multirole fighter."
+
+msgid "MEDAL_DESCRIPTION_LANG"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} enemy ground "
+"targets</font> in a single sortie and winning the battle."
+
+msgid "MEDAL_DESCRIPTION_LAST_BREATH"
+msgstr ""
+"Awarded for flying an aircraft with 90% or more damage and destroying at "
+"least 1 enemy aircraft. The player must win the battle and survive."
+"<br><br>Available in Standard Battle only."
+
+msgid "MEDAL_DESCRIPTION_LAST_BULLET"
+msgstr ""
+"Awarded for destroying an enemy aircraft with weapons overheated during fire."
+"<br><br>Available one time only."
+
+msgid "MEDAL_DESCRIPTION_LAST_HERO"
+msgstr ""
+"Awarded for being the only survivor in a battle and destroying at least 3 "
+"enemy aircraft. The player's team must win the battle.<br><br>Available in "
+"Standard Battle only."
+
+msgid "MEDAL_DESCRIPTION_LAST_HOPE_ALLIES"
+msgstr "Awarded for completing the mission \"Allies' Last Hope\"."
+
+msgid "MEDAL_DESCRIPTION_LAST_MAN_FLYING"
+msgstr ""
+"Awarded for being the only survivor in a battle and destroying at least 1 "
+"enemy aircraft. The player's team must win the battle.<br><br>Available in "
+"Standard Battle only."
+
+msgid "MEDAL_DESCRIPTION_LEADER"
+msgstr ""
+"Was awarded for destroying the <font color='#f2f2f2'>most enemy aircraft</"
+"font> of all players on the team, surviving, and winning the battle."
+"<br><font size='6'><br></font>Was available once in Battle Against Bots "
+"before the release of version 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_ACE"
+msgstr "Awarded for achieving remarkable results in an aircraft of any type."
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_ASSAULT"
+msgstr "Awarded for earning 1,000 Thunder medals in attack aircraft."
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_ASSAULT_1"
+msgstr ""
+"Awarded for becoming one of the top players based on the results achieved in "
+"an attack aircraft during in-game events."
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_BOMBER_1"
+msgstr ""
+"Awarded for becoming one of the top players based on the results achieved in "
+"a bomber during in-game events."
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_FIGHTER"
+msgstr "Awarded for earning 1,000 Ace medals in fighters."
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_FIGHTER_1"
+msgstr ""
+"Awarded for becoming one of the top players based on the results achieved in "
+"a fighter during in-game events."
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_HEAVY"
+msgstr "Awarded for earning 1,000 Destroyer medals in heavy fighters."
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_NAVY"
+msgstr "Awarded for earning 1,000 Destroyer medals in multirole fighters."
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_NAVY_1"
+msgstr ""
+"Awarded for becoming one of the top players based on the results achieved in "
+"a multirole fighter during in-game events."
+
+msgid "MEDAL_DESCRIPTION_LIGHTWEIGHT"
+msgstr ""
+"Awarded for destroying an enemy fighter or multirole fighter."
+"<br><br>Available one time only."
+
+msgid "MEDAL_DESCRIPTION_LIGHT_WEIGHT"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>destroying {0} fighters</font> from "
+"the enemy combat group."
+
+msgid "MEDAL_DESCRIPTION_LINDBERGH"
+msgstr "Awarded for participating in the Supertest for 9 months."
+
+msgid "MEDAL_DESCRIPTION_MACCAMPBELL"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aerial targets</"
+"font> in a single sortie and winning the battle.<br><font size='6'><br></"
+"font>The destroyed targets must include aircraft of <font "
+"color='#f2f2f2'>all 5 types</font>."
+
+msgid "MEDAL_DESCRIPTION_MARATHON"
+msgstr ""
+"Awarded for winning at least 5 battles during the combat phase of the "
+"Operation Westwall event."
+
+msgid "MEDAL_DESCRIPTION_MARATHON_DO335A-1"
+msgstr ""
+"Awarded for completing all compound missions for receiving the <font "
+"color='#ffd57e'>Dornier Do 335 A-1 Pfeil</font> during the Operation "
+"Westwall event."
+
+msgid "MEDAL_DESCRIPTION_MARATHON_XF15C"
+msgstr ""
+"Awarded for completing all compound missions for receiving the <font "
+"color='#ffd57e'>Curtiss XF15C</font> during the Operation Westwall event."
+
+msgid "MEDAL_DESCRIPTION_MARCEL"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aerial targets</"
+"font> in a single sortie and winning the battle."
+
+msgid "MEDAL_DESCRIPTION_MASTERS_OF_SKY"
+msgstr ""
+"Awarded to members of a Flight that destroyed at least <font "
+"color='#f2f2f2'>{0} aerial targets</font>.<br><font size='6'><br></font>The "
+"count is reset if one of the Flight members is destroyed."
+
+msgid "MEDAL_DESCRIPTION_MCGUIRE"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font> "
+"in a single sortie with a heavy fighter."
+
+msgid "MEDAL_DESCRIPTION_MEANINGFUL_CONTRIBUTION"
+msgstr ""
+"Was awarded to all members of a Flight that destroyed at least <font "
+"color='#f2f2f2'>6 enemy aircraft</font> before one of the Flight members was "
+"destroyed.<br><font size='6'><br></font>Was available in Standard Battle in "
+"Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_MEYER1"
+msgstr ""
+"Was awarded for earning <font color='#f2f2f2'>300 Thunder medals</font> in "
+"attack aircraft.<br><font size='6'><br></font>Was available in Standard "
+"Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_MEYER2"
+msgstr ""
+"Was awarded for earning <font color='#f2f2f2'>30 Thunder medals</font> in "
+"attack aircraft.<br><font size='6'><br></font>Was available in Standard "
+"Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_MEYER3"
+msgstr ""
+"Was awarded for earning <font color='#f2f2f2'>3 Thunder medals</font> in "
+"attack aircraft.<br><font size='6'><br></font>Was available in Standard "
+"Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_MIHALENKOV1"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} personal points</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_MIHALENKOV2"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} personal points</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_MIHALENKOV4"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} personal points</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_MIHALENKOV_3"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} personal points</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_MISSILE_STRIKE"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>destroying {0} ground targets</font> "
+"using rockets."
+
+msgid "MEDAL_DESCRIPTION_MISSION_ACCOMPLISHED"
+msgstr "Awarded for completing the mission \"Mission Complete\"."
+
+msgid "MEDAL_DESCRIPTION_NIMBLE"
+msgstr ""
+"Awarded for performing maneuvers that caused an enemy aircraft to crash."
+"<br><br>Available in Standard Battle only."
+
+msgid "MEDAL_DESCRIPTION_NOOB_PLANE"
+msgstr ""
+"Awarded for receiving an aircraft in Stock configuration.<br><font "
+"size='6'><br></font>Available once for each aircraft that reaches Stock "
+"configuration."
+
+msgid "MEDAL_DESCRIPTION_NORMALWEIGHT"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>destroying {0} multirole fighters</"
+"font> from the enemy combat group."
+
+msgid "MEDAL_DESCRIPTION_NO_CAMP_ALLY_PROGRESS1"
+msgstr ""
+"Awarded for receiving at least 5,000 superiority points in battles fought on "
+"the Allied side during the Battle for Thor's Hammer event."
+
+msgid "MEDAL_DESCRIPTION_NO_CAMP_ALLY_PROGRESS2"
+msgstr ""
+"Awarded for receiving at least 1,500 superiority points in battles fought on "
+"the Allied side during the Battle for Thor's Hammer event."
+
+msgid "MEDAL_DESCRIPTION_NO_CAMP_ALLY_PROGRESS3"
+msgstr ""
+"Awarded for receiving at least 100 superiority points in battles fought on "
+"the Allied side during the Battle for Thor's Hammer event."
+
+msgid "MEDAL_DESCRIPTION_NO_CAMP_AXIS_PROGRESS1"
+msgstr ""
+"Awarded for receiving at least 5,000 superiority points in battles fought on "
+"the Axis side during the Battle for Thor's Hammer event."
+
+msgid "MEDAL_DESCRIPTION_NO_CAMP_AXIS_PROGRESS2"
+msgstr ""
+"Awarded for receiving at least 1,500 superiority points in battles fought on "
+"the Axis side during the Battle for Thor's Hammer event."
+
+msgid "MEDAL_DESCRIPTION_NO_CAMP_AXIS_PROGRESS3"
+msgstr ""
+"Awarded for receiving at least 100 superiority points in battles fought on "
+"the Axis side during the Battle for Thor's Hammer event."
+
+msgid "MEDAL_DESCRIPTION_NO_STONE_UNTURNED"
+msgstr ""
+"Awarded for destroying the last enemy ground target in a battle."
+"<br><br>Available one time in Battle Against Bots only."
+
+msgid "MEDAL_DESCRIPTION_NY_FROST"
+msgstr ""
+"Awarded for winning at least 5 battles on winter maps during the 2014–2015 "
+"holiday season."
+
+msgid "MEDAL_DESCRIPTION_NY_LUCK"
+msgstr ""
+"Awarded for completing 5 holiday non-daily missions during the 2014–2015 "
+"holiday season."
+
+msgid "MEDAL_DESCRIPTION_NY_MARKSMAN"
+msgstr ""
+"Awarded for hitting 50 different enemy flying saucers with snowballs in "
+"several battles during the 2014–2015 holiday season."
+
+msgid "MEDAL_DESCRIPTION_NY_SET"
+msgstr ""
+"Awarded for completing 10 holiday daily missions during the 2014–2015 "
+"holiday season."
+
+msgid "MEDAL_DESCRIPTION_NY_SHOOTER"
+msgstr ""
+"Awarded for hitting 10 different enemy flying saucers with snowballs in one "
+"or several battles during the 2014–2015 holiday season."
+
+msgid "MEDAL_DESCRIPTION_NY_SNOWBALL"
+msgstr ""
+"Awarded for hitting an enemy flying saucer with a snowball during the 2014–"
+"2015 holiday season."
+
+msgid "MEDAL_DESCRIPTION_NY_WATCH"
+msgstr ""
+"Awarded for winning at least one battle each day for 10 festive days during "
+"the 2014–2015 holiday season."
+
+msgid "MEDAL_DESCRIPTION_PATROL"
+msgstr ""
+"Awarded once for destroying <font color='#f2f2f2'>2 aerial targets</font> "
+"and <font color='#f2f2f2'>2 enemy ground targets</font> in a single battle."
+
+msgid "MEDAL_DESCRIPTION_PERSISTENT"
+msgstr ""
+"Was awarded for destroying at least <font color='#f2f2f2'>1 enemy aircraft</"
+"font> in each battle. The count was reset if the player destroyed no enemy "
+"aircraft or failed to survive.<br><font size='6'><br></font>Was available in "
+"Standard Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_PLANE_TESTER"
+msgstr ""
+"Awarded for participating in battles in aircraft of at least 2 different "
+"nations."
+
+msgid "MEDAL_DESCRIPTION_POKRYSHKIN1"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} air defense "
+"aircraft</font>."
+
+msgid "MEDAL_DESCRIPTION_POKRYSHKIN2"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} air defense "
+"aircraft</font>."
+
+msgid "MEDAL_DESCRIPTION_POKRYSHKIN3"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} air defense "
+"aircraft</font>."
+
+msgid "MEDAL_DESCRIPTION_POKRYSHKIN4"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} air defense "
+"aircraft</font>."
+
+msgid "MEDAL_DESCRIPTION_PREDATOR"
+msgstr ""
+"Awarded for assisting in destroying at least <font color='#f2f2f2'>{0} "
+"aerial targets</font> in a single battle."
+
+msgid "MEDAL_DESCRIPTION_PREDATORY_BIRD"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} heavy fighters</"
+"font> from the enemy combat group in a single battle and winning the battle."
+"<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_PREDATORY_DUET"
+msgstr ""
+"Awarded to members of a Flight that destroyed <font color='#f2f2f2'>{0} "
+"aerial targets</font> and earned at least <font color='#f2f2f2'>{1} capture "
+"points</font>.<br><font size='6'><br></font>The count is reset if one of the "
+"Flight members is destroyed."
+
+msgid "MEDAL_DESCRIPTION_PULL"
+msgstr ""
+"Awarded for safely pulling the aircraft out of a steep dive."
+"<br><br>Available one time only."
+
+msgid "MEDAL_DESCRIPTION_PUNISHER"
+msgstr ""
+"Awarded for destroying 2 enemy aircraft with a single bomb.<br><br>Available "
+"in Standard Battle only, one time for each aircraft in Hangar."
+
+msgid "MEDAL_DESCRIPTION_PYROMANIAC"
+msgstr ""
+"Awarded for receiving the Wings Ablaze achievement in 3 different aircraft."
+
+msgid "MEDAL_DESCRIPTION_QUARTERMASTER_1"
+msgstr ""
+"First-rank award for completing a mission from \"Full Set\" sequence of "
+"missions"
+
+msgid "MEDAL_DESCRIPTION_QUARTERMASTER_2"
+msgstr ""
+"Second-rank award for completing a mission from \"Full Set\" sequence of "
+"missions"
+
+msgid "MEDAL_DESCRIPTION_QUARTERMASTER_3"
+msgstr ""
+"Third-rank award for completing a mission from \"Full Set\" sequence of "
+"missions"
+
+msgid "MEDAL_DESCRIPTION_QUARTERMASTER_4"
+msgstr ""
+"Fourth-rank award for completing a mission from \"Full Set\" sequence of "
+"missions"
+
+msgid "MEDAL_DESCRIPTION_QUARTERMASTER_5"
+msgstr ""
+"Fifth-rank award for completing a mission from \"Full Set\" sequence of "
+"missions"
+
+msgid "MEDAL_DESCRIPTION_RAIDER"
+msgstr ""
+"Awarded for destroying the enemy headquarters and surviving the battle."
+"<br><br>Available in Standard Battle only, one time for each aircraft in "
+"Hangar."
+
+msgid "MEDAL_DESCRIPTION_REAPER"
+msgstr ""
+"Awarded for receiving the Kiss of Death achievement in 3 different aircraft."
+
+msgid "MEDAL_DESCRIPTION_REAR_GUARD"
+msgstr ""
+"Awarded for destroying an enemy aircraft with turret fire.<br><br>Available "
+"in Standard Battle only."
+
+msgid "MEDAL_DESCRIPTION_REAR_GUNNER"
+msgstr ""
+"Awarded for damaging an enemy aircraft with turret fire.<br><br>Available "
+"one time only."
+
+msgid "MEDAL_DESCRIPTION_REDCOMET1"
+msgstr ""
+"Awarded for earning {header_Open}aircraft type grade II{header_Close} during "
+"Stage I: {header_Open}Steel Defense{header_Close} of the {header_Open}Red "
+"Comet{header_Close} event."
+
+msgid "MEDAL_DESCRIPTION_REDCOMET2"
+msgstr ""
+"Awarded for earning {header_Open}aircraft type grade II{header_Close} during "
+"Stage II: {header_Open}Comet Strike{header_Close} of the {header_Open}Red "
+"Comet{header_Close} event."
+
+msgid "MEDAL_DESCRIPTION_REDCOMET3"
+msgstr ""
+"Awarded for earning {header_Open}aircraft type grade II{header_Close} during "
+"Stage III: {header_Open}Broken Sword{header_Close} of the {header_Open}Red "
+"Comet{header_Close} event."
+
+msgid "MEDAL_DESCRIPTION_REDCOMET4"
+msgstr ""
+"Awarded for earning {header_Open}aircraft type grade II{header_Close} during "
+"Stage IV: {header_Open}Air Domination{header_Close} of the {header_Open}Red "
+"Comet{header_Close} event."
+
+msgid "MEDAL_DESCRIPTION_REDCOMET_LEADER"
+msgstr ""
+"Awarded for earning {header_Open}1,500,000{header_Close} personal points "
+"during the {header_Open}Red Comet{header_Close} event."
+
+msgid "MEDAL_DESCRIPTION_RELEASER"
+msgstr ""
+"Awarded for earning <font color='#f2f2f2'>aircraft type grade II</font> "
+"during stage 4 <font color='#f2f2f2'>\"Counterattack\"</font> of the Flaming "
+"Shores event."
+
+msgid "MEDAL_DESCRIPTION_RELIABLE_PROTECTION"
+msgstr ""
+"Awarded for <font color='#f2f2f2'>assisting the allies at least {0} times in "
+"destroying aerial targets</font> in a single battle and winning the battle."
+"<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_RELIABLE_REAR"
+msgstr ""
+"Awarded for destroying <font color='#f2f2f2'>an aerial target with turret "
+"fire</font>."
+
+msgid "MEDAL_DESCRIPTION_RESILIENT"
+msgstr ""
+"Awarded for taking damage from at least 5 enemy aircraft and surviving."
+"<br><br>Available in Standard Battle only."
+
+msgid "MEDAL_DESCRIPTION_REVENGE"
+msgstr ""
+"Awarded for destroying an <font color='#f2f2f2'>aircraft from the enemy "
+"combat group that destroyed the player's aircraft earlier in the same "
+"battle</font>."
+
+msgid "MEDAL_DESCRIPTION_RIDDLE"
+msgstr ""
+"Awarded for <font color='#f2f2f2'>assisting the allies at least {0} times in "
+"destroying ground targets</font> in a single battle and winning the battle."
+"<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_RIDDLED"
+msgstr ""
+"Awarded for assisting the allies 3 times in destroying enemy ground targets "
+"in one battle. The player must win the battle and survive.<br><br>Available "
+"in Standard Battle only, one time for each aircraft in Hangar."
+
+msgid "MEDAL_DESCRIPTION_ROAD_TO_THE_SKY"
+msgstr "Awarded for completing Ground Target Assault lesson."
+
+msgid "MEDAL_DESCRIPTION_ROCKETEER"
+msgstr ""
+"Awarded for destroying an <font color='#f2f2f2'>aerial target using a "
+"rocket</font>."
+
+msgid "MEDAL_DESCRIPTION_ROCKET_SHOOTER"
+msgstr ""
+"Awarded for destroying an enemy aircraft with a rocket.<br><br>Available in "
+"Standard Battle only."
+
+msgid "MEDAL_DESCRIPTION_ROCKET_STRIKE"
+msgstr ""
+"Awarded for damaging an enemy ground target with a rocket.<br><br>Available "
+"one time only."
+
+msgid "MEDAL_DESCRIPTION_RUDOLPH_PILOTDEER"
+msgstr ""
+"Awarded for earning <font color='#f2f2f2'>10,000</font> personal points "
+"while flying the <font color='#ffd57e'>Hawker P.V.3.</font> with Rudolph "
+"Hawker as a pilot."
+
+msgid "MEDAL_DESCRIPTION_RUDORFFER"
+msgstr ""
+"Was awarded for destroying at least <font color='#f2f2f2'>13 enemy aircraft</"
+"font> in a single battle.<br><font size='6'><br></font>Was available in "
+"Standard Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_RUTHLESS"
+msgstr ""
+"Awarded for destroying at least 15 air defense aircraft and bombers from an "
+"Attack Flight in a single battle."
+
+msgid "MEDAL_DESCRIPTION_SCAN_THE_SKIES"
+msgstr ""
+"Awarded for detecting an enemy aircraft.<br><br>Available one time only."
+
+msgid "MEDAL_DESCRIPTION_SCORCHED_EARTH"
+msgstr ""
+"Was awarded for receiving at least <font color='#f2f2f2'>25 points</font> "
+"for enemy ground targets destroyed in a single battle and surviving the "
+"battle.<br><font size='6'><br></font>Was available once in Battle Against "
+"Bots before the release of version 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_SCYTHE_OF_DEATH"
+msgstr ""
+"Was awarded for destroying at least <font color='#f2f2f2'>2 enemy aircraft</"
+"font> in a row, without any other enemy aircraft being destroyed by allies "
+"in between. The count was reset if the player's aircraft was destroyed."
+"<br><font size='6'><br></font>Was available in Battle Against Bots before "
+"the release of version 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_SECRET_SANTA"
+msgstr ""
+"Awarded to all players who participated in the 2015–2016 Secret Santa event."
+
+msgid "MEDAL_DESCRIPTION_SECRET_SANTA_1"
+msgstr ""
+"Send at least one gift to a random player as part of the 2015–2016 Secret "
+"Santa event."
+
+msgid "MEDAL_DESCRIPTION_SECRET_SANTA_2017"
+msgstr "Awarded for participating in the 2016–2017 event \"Santa's Bag\"."
+
+msgid "MEDAL_DESCRIPTION_SECRET_SANTA_2017_1"
+msgstr "Participate in the 2016–2017 holiday event."
+
+msgid "MEDAL_DESCRIPTION_SECRET_SANTA_2018"
+msgstr ""
+"Awarded for participating in the special event during the 2017–2018 holiday "
+"season."
+
+msgid "MEDAL_DESCRIPTION_SECRET_SANTA_2019"
+msgstr "Awarded for participating in the 2018–2019 event \"Santa's Bag\"."
+
+msgid "MEDAL_DESCRIPTION_SECRET_TRIAL_HORTEN"
+msgstr ""
+"Awarded for completing the entire chain of missions and receiving the "
+"{gold_Open}Horten Ho 229{gold_Close} as a reward"
+
+msgid "MEDAL_DESCRIPTION_SECRET_TRIAL_TU1"
+msgstr ""
+"Awarded for completing the entire chain of missions and receiving the "
+"{gold_Open}Tupolev Tu-1{gold_Close} as a reward"
+
+msgid "MEDAL_DESCRIPTION_SEVERSKY1"
+msgstr ""
+"Was awarded to a player who was the first on the server to <font "
+"color='#f2f2f2'>research and purchase a Tier X aircraft</font> of at least "
+"one tech branch during the special offer on the highest tier aircraft "
+"research."
+
+msgid "MEDAL_DESCRIPTION_SEVERSKY2"
+msgstr ""
+"Was awarded to a player who <font color='#f2f2f2'>researched and purchased</"
+"font> a Tier X aircraft of at least one tech branch no more than 2 hours "
+"after the first player on the server who earned the Seversky Order Class I."
+
+msgid "MEDAL_DESCRIPTION_SEVERSKY3"
+msgstr ""
+"Was awarded to a player who <font color='#f2f2f2'>researched and purchased a "
+"Tier X aircraft</font> of at least one tech branch during the special offer "
+"on the highest tier aircraft research."
+
+msgid "MEDAL_DESCRIPTION_SHIELD"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#f2f2f2'>Air-to-ground Aircraft Interception</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_SIKORSKY1"
+msgstr ""
+"Was awarded for participating in World of Warplanes <font "
+"color='#f2f2f2'>initial Alpha testing phase</font>."
+
+msgid "MEDAL_DESCRIPTION_SIKORSKY2"
+msgstr ""
+"Was awarded for participating in World of Warplanes <font "
+"color='#f2f2f2'>Global Alpha testing</font>."
+
+msgid "MEDAL_DESCRIPTION_SIKORSKY3"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>100 battles</"
+"font> during World of Warplanes Closed Beta testing."
+
+msgid "MEDAL_DESCRIPTION_SIKORSKY4"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>100 battles</"
+"font> during World of Warplanes Open Beta testing."
+
+msgid "MEDAL_DESCRIPTION_SILVER_PLAYERS"
+msgstr ""
+"Awarded for getting into the silver division based on personal rating score."
+
+msgid "MEDAL_DESCRIPTION_SKILLED_PILOT"
+msgstr ""
+"Awarded for regaining control of the aircraft and leveling off."
+"<br><br>Available one time only."
+
+msgid "MEDAL_DESCRIPTION_SKY_FIRE"
+msgstr ""
+"Awarded for destroying an enemy aircraft by setting it on fire."
+"<br><br>Available in Standard Battle only, one time for each aircraft in "
+"Hangar."
+
+msgid "MEDAL_DESCRIPTION_SKY_N_GROUND"
+msgstr ""
+"Was awarded for destroying at least <font color='#f2f2f2'>3 enemy aircraft</"
+"font> and receiving at least <font color='#f2f2f2'>25 points</font> for "
+"enemy ground targets destroyed in a single battle and surviving the battle."
+"<br><font size='6'><br></font>Was available once in Battle Against Bots "
+"before the release of version 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_SKY_SCOURGE"
+msgstr ""
+"Was awarded for destroying at least <font color='#f2f2f2'>3 enemy aircraft</"
+"font> in one or several battles.<br><font size='6'><br></font>The count was "
+"reset if the player's aircraft was destroyed.<br><font size='6'><br></"
+"font>Was available in Standard Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_SKY_WOLVES"
+msgstr ""
+"Awarded to members of a Flight for destroying at least <font "
+"color='#f2f2f2'>{0} aerial targets</font>, earning at least <font "
+"color='#f2f2f2'>{1} capture points</font> for destroying enemy ground "
+"targets in a single battle, and winning the battle."
+
+msgid "MEDAL_DESCRIPTION_SMOKING_BARRELS"
+msgstr ""
+"Awarded for completely cooling down weapons which overheated during battle."
+"<br><br>Available one time only."
+
+msgid "MEDAL_DESCRIPTION_SNAKE_HIPS"
+msgstr ""
+"Awarded for participating in capturing at least <font color='#f2f2f2'>{3} "
+"sectors </font> and earning at least <font color='#f2f2f2'>{200} capture "
+"points</font> in a single sortie."
+
+msgid "MEDAL_DESCRIPTION_SPECIALIST_PLANE"
+msgstr ""
+"Awarded for receiving an aircraft in the <font color='#f2f2f2'>\"Specialist"
+"\" configuration</font>.<br><font size='6'><br></font>Available once for "
+"each aircraft that reaches the <font color='#f2f2f2'>\"Specialist\" "
+"configuration</font>."
+
+msgid "MEDAL_DESCRIPTION_SPECIAL_AWARD"
+msgstr ""
+"Awarded to players distinguished by organizers in official World of "
+"Warplanes tournaments."
+
+msgid "MEDAL_DESCRIPTION_SPRING_VETERAN"
+msgstr "Awarded for participating in the 2016 Spring Offensive event."
+
+msgid "MEDAL_DESCRIPTION_SQUALL_OF_STEEL"
+msgstr ""
+"Awarded for assisting the allies 5 times in destroying ground targets. The "
+"player must win the battle.<br><br>Available in Standard Battle only, one "
+"time for each aircraft in Hangar."
+
+msgid "MEDAL_DESCRIPTION_STABLE_RESULT"
+msgstr ""
+"Awarded for destroying at least 3 enemy aircraft in one battle. The count is "
+"reset if the player’s aircraft is destroyed.<br><font size='6'><br></"
+"font>Available in Battle Against Bots only."
+
+msgid "MEDAL_DESCRIPTION_STAIRS_TO_THE_SKY"
+msgstr "Awarded for completing Team Air Combat lesson."
+
+msgid "MEDAL_DESCRIPTION_STAIRWAY_TO_THE_SKY"
+msgstr "Awarded for completing Dogfight Training lesson."
+
+msgid "MEDAL_DESCRIPTION_STAR_CATCHER"
+msgstr ""
+"Awarded for participating in the 2016–2017 event \"Wish Upon a Shooting Star"
+"\"."
+
+msgid "MEDAL_DESCRIPTION_STEEL_FLURRY"
+msgstr ""
+"Awarded for <font color='#f2f2f2'>assisting the allies at least {0} times in "
+"destroying ground targets</font> in a single battle and winning the battle."
+"<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_STEP_TO_THE_SKY"
+msgstr "Awarded for completing Gunnery Practice lesson."
+
+msgid "MEDAL_DESCRIPTION_STORMBRINGER"
+msgstr ""
+"Awarded for receiving the Quick Shot achievement in 3 different aircraft."
+
+msgid "MEDAL_DESCRIPTION_STRATEGIST"
+msgstr ""
+"Awarded for earning <font color='#f2f2f2'>aircraft type grade II</font> "
+"during stage 3 <font color='#f2f2f2'>\"Broken Wing\"</font> of the Flaming "
+"Shores event."
+
+msgid "MEDAL_DESCRIPTION_STRIKE_TEAM"
+msgstr ""
+"Was awarded to all members of a Flight that destroyed at least <font "
+"color='#f2f2f2'>4 enemy aircraft</font> and received at least <font "
+"color='#f2f2f2'>60 points</font> for enemy ground targets destroyed, before "
+"one of the Flight members was destroyed.<br><font size='6'><br></font>Was "
+"available in Standard Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_STRONG_TEAM"
+msgstr ""
+"Was awarded to all members of a Flight that destroyed at least <font "
+"color='#f2f2f2'>3 enemy aircraft</font> and received at least <font "
+"color='#f2f2f2'>40 points</font> for enemy ground targets destroyed, before "
+"one of the Flight members was destroyed.<br><font size='6'><br></font>Was "
+"available in Standard Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_SUCCESSFUL_RAID"
+msgstr ""
+"Awarded for receiving a second victory mark for enemy ground targets "
+"destroyed.<br><br>Available in Standard Battle only, one time for each "
+"aircraft in Hangar."
+
+msgid "MEDAL_DESCRIPTION_SUDDEN_DEATH"
+msgstr ""
+"Awarded for destroying a 100% HP enemy aircraft with forward-firing weapons "
+"in 3 seconds.<br><br>Available in Standard Battle only."
+
+msgid "MEDAL_DESCRIPTION_SUMMER_STORM"
+msgstr ""
+"Awarded for earning <font color='#f2f2f2'>10,000 personal points</font> "
+"during the <font color='#f2f2f2'>Summer Storm</font> event."
+
+msgid "MEDAL_DESCRIPTION_SUMMER_VETERAN"
+msgstr "Awarded for participating in the 2015 Chained Lightning event."
+
+msgid "MEDAL_DESCRIPTION_SUPERHEAVY"
+msgstr ""
+"Awarded for destroying an enemy attack aircraft.<br><br>Available one time "
+"only."
+
+msgid "MEDAL_DESCRIPTION_SUPERHEAVYWEIGHT"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>destroying {0} attack aircraft</font> "
+"from the enemy combat group."
+
+msgid "MEDAL_DESCRIPTION_SUPERTEST_VETERAN"
+msgstr "Awarded for participating in the Supertest for 9 months."
+
+msgid "MEDAL_DESCRIPTION_SURE_COVER"
+msgstr ""
+"Awarded for assisting the allies 5 times in destroying enemy aircraft in one "
+"battle. The player must win the battle and survive.<br><br>Available in "
+"Standard Battle only, one time for each aircraft in Hangar."
+
+msgid "MEDAL_DESCRIPTION_SURVIVOR"
+msgstr ""
+"Was awarded for <font color='#f2f2f2'>winning at least 2 battles in a row</"
+"font>. The count was reset if the player's aircraft was destroyed.<br><font "
+"size='6'><br></font>Was available in Standard Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_TAIL_BUSTER"
+msgstr ""
+"Awarded for destroying an enemy aircraft by causing critical damage to its "
+"tail.<br><br>Available one time only."
+
+msgid "MEDAL_DESCRIPTION_TEAMWORK_GURU"
+msgstr ""
+"Awarded for earning <font color='#f2f2f2'>the highest aircraft type grade</"
+"font> in battle."
+
+msgid "MEDAL_DESCRIPTION_TESTER_1"
+msgstr ""
+"Awarded for active participation in <font color='#f2f2f2'>10</font> Public "
+"Tests of any update of the game."
+
+msgid "MEDAL_DESCRIPTION_TESTER_10"
+msgstr ""
+"Awarded for active participation in <font color='#f2f2f2'>1</font> Public "
+"Test of any update of the game."
+
+msgid "MEDAL_DESCRIPTION_TESTER_2"
+msgstr ""
+"Awarded for active participation in <font color='#f2f2f2'>9</font> Public "
+"Tests of any update of the game."
+
+msgid "MEDAL_DESCRIPTION_TESTER_3"
+msgstr ""
+"Awarded for active participation in <font color='#f2f2f2'>8</font> Public "
+"Tests of any update of the game."
+
+msgid "MEDAL_DESCRIPTION_TESTER_4"
+msgstr ""
+"Awarded for active participation in <font color='#f2f2f2'>7</font> Public "
+"Tests of any update of the game."
+
+msgid "MEDAL_DESCRIPTION_TESTER_5"
+msgstr ""
+"Awarded for active participation in <font color='#f2f2f2'>6</font> Public "
+"Tests of any update of the game."
+
+msgid "MEDAL_DESCRIPTION_TESTER_6"
+msgstr ""
+"Awarded for active participation in <font color='#f2f2f2'>5</font> Public "
+"Tests of any update of the game."
+
+msgid "MEDAL_DESCRIPTION_TESTER_7"
+msgstr ""
+"Awarded for active participation in <font color='#f2f2f2'>4</font> Public "
+"Tests of any update of the game."
+
+msgid "MEDAL_DESCRIPTION_TESTER_8"
+msgstr ""
+"Awarded for active participation in <font color='#f2f2f2'>3</font> Public "
+"Tests of any update of the game."
+
+msgid "MEDAL_DESCRIPTION_TESTER_9"
+msgstr ""
+"Awarded for active participation in <font color='#f2f2f2'>2</font> Public "
+"Tests of any update of the game."
+
+msgid "MEDAL_DESCRIPTION_THRIFTY_BOMBARDIER"
+msgstr ""
+"Awarded for damaging 2 enemy ground targets with a single bomb."
+"<br><br>Available one time only."
+
+msgid "MEDAL_DESCRIPTION_THRIFTY_ROCKETEER"
+msgstr ""
+"Awarded for damaging 2 enemy ground targets with a single rocket."
+"<br><br>Available one time only."
+
+msgid "MEDAL_DESCRIPTION_THUNDER"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font> "
+"for destroying enemy ground targets in a single battle."
+
+msgid "MEDAL_DESCRIPTION_TOP_DOWN_DIVER"
+msgstr ""
+"Awarded for accelerating the aircraft up to the maximum dive speed."
+"<br><br>Available one time only."
+
+msgid "MEDAL_DESCRIPTION_TOP_PLAYERS"
+msgstr ""
+"Awarded for getting into the top division based on personal rating score."
+
+msgid "MEDAL_DESCRIPTION_TOURNAMENT_1_PLACE"
+msgstr ""
+"Awarded to players ranked first in official World of Warplanes tournaments."
+
+msgid "MEDAL_DESCRIPTION_TOURNAMENT_2_PLACE"
+msgstr ""
+"Was awarded to players <font color='#f2f2f2'>ranked second</font> in "
+"official World of Warplanes tournaments."
+
+msgid "MEDAL_DESCRIPTION_TOURNAMENT_3_PLACE"
+msgstr ""
+"Was awarded to players <font color='#f2f2f2'>ranked third</font> in official "
+"World of Warplanes tournaments."
+
+msgid "MEDAL_DESCRIPTION_TOURNAMENT_PLAYER"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>one battle</"
+"font> in official World of Warplanes tournaments."
+
+msgid "MEDAL_DESCRIPTION_TRIAL"
+msgstr ""
+"Awarded for completing the entire chain of missions and receiving the <font "
+"color='#ffd57e'>Blohm und Voss BV P.203</font> as a reward."
+
+msgid "MEDAL_DESCRIPTION_UNLIMITED_WEIGHT"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>destroying {0} bombers</font> from "
+"the enemy combat group."
+
+msgid "MEDAL_DESCRIPTION_UNSTOPPABLE"
+msgstr ""
+"Was awarded for <font color='#f2f2f2'>winning at least 3 battles in a row</"
+"font>.<br><font size='6'><br></font>Was available in Standard Battle in "
+"Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_UNTOUCHABLE"
+msgstr ""
+"Awarded for destroying at least 1 enemy aircraft and receiving no damage in "
+"one or several battles. The count is reset if the player's aircraft is "
+"damaged.<br><br>Available in Battle Against Bots only."
+
+msgid "MEDAL_DESCRIPTION_VALUABLE_CONTRIBUTION"
+msgstr ""
+"Awarded for earning at least a third of the team's superiority points in a "
+"battle won by achieving superiority.<br><br>Available in Standard Battle "
+"only."
+
+msgid "MEDAL_DESCRIPTION_VAMPIREF1"
+msgstr ""
+"Awarded for completing the chain of personal missions and receiving the "
+"<font color='#ffd57e'>Vampire F.1</font> as a reward."
+
+msgid "MEDAL_DESCRIPTION_VENGEANCE1"
+msgstr ""
+"Awarded for earning {header_Open}aircraft type grade II{header_Close} during "
+"Stage I: {header_Open}Growing Strength{header_Close} of the {header_Open}"
+"Blade of Vengeance{header_Close} event."
+
+msgid "MEDAL_DESCRIPTION_VENGEANCE2"
+msgstr ""
+"Awarded for earning {header_Open}aircraft type grade II{header_Close} during "
+"Stage II: {header_Open}Sudden Strike{header_Close} of the {header_Open}Blade "
+"of Vengeance{header_Close} event."
+
+msgid "MEDAL_DESCRIPTION_VENGEANCE3"
+msgstr ""
+"Awarded for earning {header_Open}aircraft type grade II{header_Close} during "
+"Stage III: {header_Open}Divide and Rule{header_Close} of the {header_Open}"
+"Blade of Vengeance{header_Close} event."
+
+msgid "MEDAL_DESCRIPTION_VENGEANCE4"
+msgstr ""
+"Awarded for earning {header_Open}aircraft type grade II{header_Close} during "
+"Stage IV: {header_Open}A Worthy Opponent{header_Close} of the {header_Open}"
+"Blade of Vengeance{header_Close} event."
+
+msgid "MEDAL_DESCRIPTION_VENGEANCE_LEADER"
+msgstr ""
+"Awarded for earning {header_Open}{0}{header_Close} Personal points during "
+"the {header_Open}Blade of Vengeance{header_Close} event."
+
+msgid "MEDAL_DESCRIPTION_VETERAN"
+msgstr ""
+"Awarded for winning a battle and <font color='#f2f2f2'>achieving the top "
+"rank</font> in the combat group.<br><font size='6'><br></font>Available once "
+"for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_VETERAN_ALT"
+msgstr ""
+"Awarded for <font color='#f2f2f2'>achieving the top rank</font> in the "
+"combat group in <font color='#f2f2f2'>2</font> victorious battles in a row. "
+"The count is reset if the player does not achieve the top rank in the combat "
+"group."
+
+msgid "MEDAL_DESCRIPTION_VOLUNTEER"
+msgstr ""
+"Was awarded to chat and forum moderators who actively contribute to the "
+"project.<br><font size='6'><br></font>Was available one time only."
+
+msgid "MEDAL_DESCRIPTION_WARRIOR"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#f2f2f2'>Battle for Sectors</font>."
+
+msgid "MEDAL_DESCRIPTION_WAR_OF_ATTRITION"
+msgstr ""
+"Awarded for winning at least 10 battles in the <font "
+"color='#f2f2f2'>Attrition</font> mode during the Operation Westwall event."
+
+msgid "MEDAL_DESCRIPTION_WEIGHTY_CONTRIBUTION"
+msgstr ""
+"Was awarded to all members of a Flight that destroyed at least <font "
+"color='#f2f2f2'>9 enemy aircraft</font> before one of the Flight members was "
+"destroyed.<br><font size='6'><br></font>Was available in Standard Battle in "
+"Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_WG_FEST_2016"
+msgstr ""
+"Награждается игрок, посетивший фестиваль <font color='#f2f2f2'>WG Fest 2016</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_WG_FEST_2017"
+msgstr ""
+"Выдавалась за посещение мероприятия <font color='#f2f2f2'>WG Fest 2017</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_WG_FEST_2017_1"
+msgstr ""
+"Выдавалась всем игрокам при получении пригласительного на <font "
+"color='#{colorID}'>WG Fest 2017</font>."
+
+msgid "MEDAL_DESCRIPTION_WG_FEST_2017_2"
+msgstr "Выдавалась только одна награда за любое количество пригласительных."
+
+msgid "MEDAL_DESCRIPTION_WG_FEST_2018"
+msgstr "Awarded for visiting <font color='#f2f2f2'>WG Fest 2018</font> event."
+
+msgid "MEDAL_DESCRIPTION_WINGED_FLAME"
+msgstr ""
+"Awarded for setting at least 3 enemy aircraft on fire in one battle."
+"<br><br>Available in Standard Battle only, one time for each aircraft in "
+"Hangar."
+
+msgid "MEDAL_DESCRIPTION_WINGMAN"
+msgstr ""
+"Awarded for assisting the allies 3 times in destroying enemy aircraft. The "
+"player must win the battle and survive.<br><br>Available in Standard Battle "
+"only, one time for each aircraft in Hangar."
+
+msgid "MEDAL_DESCRIPTION_WING_LEGEND"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} personal points</"
+"font> in a single battle."
+
+msgid "MEDAL_DESCRIPTION_WINTER_VETERAN"
+msgstr "Awarded for participating in the 2015–2016 Winter Campaign event."
+
+msgid "MEDAL_DESCRIPTION_XP-55"
+msgstr ""
+"Awarded for completing the chain of personal missions and receiving the "
+"<font color='#ffd57e'>XP-55</font> as a reward."
+
+msgid "MEDAL_DESCRIPTION_YEFIMOV"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font> "
+"for destroying enemy ground targets with an attack aircraft in a single "
+"sortie."
+
+msgid "MEDAL_DESCRIPTION_ZVONAREV"
+msgstr ""
+"Was awarded for destroying <font color='#f2f2f2'>3 enemy aircraft</font> "
+"with rockets in a single battle.<br><font size='6'><br></font>Was available "
+"in Standard Battle in Superiority mode."
+
+msgid "MEDAL_EVENT_DESCRIPTION_1ST_CLASS"
+msgstr "Top experience earner on the team"
+
+msgid "MEDAL_EVENT_DESCRIPTION_2ND_CLASS"
+msgstr "Entered team's top 5 by experience"
+
+msgid "MEDAL_EVENT_DESCRIPTION_ABSOLUTE_CHAMPION"
+msgstr "Best at Everything"
+
+msgid "MEDAL_EVENT_DESCRIPTION_AIR_DEFENCE_PILOT"
+msgstr "Destroyed an aircraft attacking the headquarters"
+
+msgid "MEDAL_EVENT_DESCRIPTION_AKAMATSU"
+msgstr "3 destroyed aircraft in fighter"
+
+msgid "MEDAL_EVENT_DESCRIPTION_AROUND_THE_WORLD"
+msgstr "Participated in battles on several maps"
+
+msgid "MEDAL_EVENT_DESCRIPTION_AS"
+msgstr "Destroyed 5 enemy aircraft in one battle"
+
+msgid "MEDAL_EVENT_DESCRIPTION_ASSAULT_TEST"
+msgstr "20 points for enemy ground targets"
+
+msgid "MEDAL_EVENT_DESCRIPTION_ASSISTANT"
+msgstr "Assisted 3 times in one battle"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BANSHEE"
+msgstr "Set record for enemy ground targets destroyed"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BATTERED_BUT_NOT_BROKEN"
+msgstr "Survived with 3 critical hits"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BEGELDINOV1"
+msgstr "150,000 points for enemy ground targets"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BEGELDINOV2"
+msgstr "15,000 points for enemy ground targets"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BEGELDINOV3"
+msgstr "1,500 points for enemy ground targets"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BEGELDINOV4"
+msgstr "150 points for enemy ground targets"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BEWARE_OF_BOMBS"
+msgstr "Damaged an enemy aircraft with a bomb"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BIRD_OF_PREY"
+msgstr "Destroyed 2 heavy fighters"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BLITZ"
+msgstr "Destroyed 2 enemies in a row"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BOMBARDIER"
+msgstr "Destroyed an enemy aircraft with a bomb"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BOMBING"
+msgstr "Damaged a ground target with a bomb"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BONG1"
+msgstr "300 Destroyer medals in heavy fighters"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BONG2"
+msgstr "30 Destroyer medals in heavy fighters"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BONG3"
+msgstr "3 Destroyer medals in heavy fighters"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BREAKTHROUGH"
+msgstr "Destroyed 3 AA guns"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CADET_1"
+msgstr "Flight Training, rank 1"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CADET_2"
+msgstr "Flight Training, rank 2"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CADET_3"
+msgstr "Flight Training, rank 3"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CADET_4"
+msgstr "Flight Training, rank 4"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CADET_5"
+msgstr "Flight Training, rank 5"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CAREFUL"
+msgstr "Destroyed 3 enemies without overheating"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CHAMPION_DESTROYER"
+msgstr "Destroyed the most ground targets"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CLEANER"
+msgstr "Member of Flight which destroyed 5 aircraft, received 75 points"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CLEANUP"
+msgstr "Destroyed the last enemy"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CLEAR_SKY"
+msgstr "Destroyed 3 fighters"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CLIPPING_THE_WINGS"
+msgstr "Destroyed an aircraft from critical wing damage"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CLOSTERMAN"
+msgstr "Destroyed 7 aircraft, received 15 points for targets"
+
+msgid "MEDAL_EVENT_DESCRIPTION_COLLECTOR"
+msgstr "Piloted aircraft of several tiers"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CROSSFIRE"
+msgstr "Assisted in destroying an enemy"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CRUCIALCONTRIBUTION"
+msgstr "Member of Flight which destroyed 12 aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_DEAD_ZONE"
+msgstr "Evaded turret fire"
+
+msgid "MEDAL_EVENT_DESCRIPTION_DESTROYER"
+msgstr "Destroyed 4 aircraft, received 15 points for targets"
+
+msgid "MEDAL_EVENT_DESCRIPTION_DEVASTATOR"
+msgstr "Destroyed 2 ground targets with one bomb"
+
+msgid "MEDAL_EVENT_DESCRIPTION_DOMINATOR"
+msgstr "Destroyed aircraft of all types"
+
+msgid "MEDAL_EVENT_DESCRIPTION_EXPERIENCED_HUNTER"
+msgstr "Accomplished \"Expert Hunter\" mission"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FALCON"
+msgstr "Destroyed enemy in diving attack"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FALCONRY"
+msgstr "Destroyed 2 fighters"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FIGHTER_TEST"
+msgstr "Destroyed 2 enemy aircraft in a fighter"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FIRESTARTER"
+msgstr "Set a ground target on fire"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FIRE_BILLOW"
+msgstr "Series of 50 points for ground targets"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FIRE_BREATH"
+msgstr "Destroyed 2 ground targets by fire"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FIRST_BLOOD"
+msgstr "Opened the scoring"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FIRST_IN_TEAM"
+msgstr "Destroyed the most aircraft, survived and won"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLAMING"
+msgstr "While on fire, destroyed an enemy"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLGHT_LEADER_1"
+msgstr "Air Brotherhood, rank 1"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLGHT_LEADER_2"
+msgstr "Air Brotherhood, rank 2"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLGHT_LEADER_3"
+msgstr "Air Brotherhood, rank 3"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLGHT_LEADER_4"
+msgstr "Air Brotherhood, rank 4"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLGHT_LEADER_5"
+msgstr "Air Brotherhood, rank 5"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLIGHT_DRESSING"
+msgstr "Continued combat with an injured pilot"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLIGHT_REPAIRS"
+msgstr "Restarted a failed engine"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FRONTLINE_1"
+msgstr "Deadly Skies, rank 1"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FRONTLINE_2"
+msgstr "Deadly Skies, rank 2"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FRONTLINE_3"
+msgstr "Deadly Skies, rank 3"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FRONTLINE_4"
+msgstr "Deadly Skies, rank 4"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FRONTLINE_5"
+msgstr "Deadly Skies, rank 5"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FUTURE_ACE"
+msgstr "Destroyed 3 enemy aircraft and survived"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GALLAND1"
+msgstr "300 Ace medals in fighters"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GALLAND2"
+msgstr "30 Ace medals in fighters"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GALLAND3"
+msgstr "3 Ace medals in fighters"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GOLIAPHS_NEMESIS"
+msgstr "Destroyed 3 heavy fighters"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GOLUBEV_MEDAL"
+msgstr "Destroyed 3 enemies two tiers higher than the player's aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GOROVETS"
+msgstr "Destroyed 9 enemies"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GOTCHA"
+msgstr "Hit an enemy aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GOT_TEN"
+msgstr "Two marks for destroyed aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GRAF1"
+msgstr "For 10,000 destroyed aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GRAF2"
+msgstr "For 1,000 destroyed aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GRAF3"
+msgstr "For 100 destroyed aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GRAF4"
+msgstr "For 10 destroyed aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GROUND_DEFENDER"
+msgstr "Destroyed 3 attack aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GROUND_POUNDER"
+msgstr "Caused total damage of 10,000 HP to ground targets"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HABREZKI"
+msgstr "Destroyed 9 aircraft, received 15 points for targets"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HEAVYWEIGHT"
+msgstr "Destroyed an enemy heavy fighter"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HEAVY_HITTER"
+msgstr "Caused total damage of 1,000 HP to aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HEAVY_TEST"
+msgstr "Destroyed 1 aircraft, received 10 points for targets"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HIDE_N_SEEK"
+msgstr "Used terrain to hide from the enemy"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HOSTILE_SKIES"
+msgstr "Survived through anti-aircraft fire"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HOT_ENGINES"
+msgstr "Cooled down an overheated engine"
+
+msgid "MEDAL_EVENT_DESCRIPTION_INTERCEPTOR"
+msgstr "Destroyed 2 attack aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_INVULNERABLE"
+msgstr "Destroyed 2 aircraft without taking any damage"
+
+msgid "MEDAL_EVENT_DESCRIPTION_IRREPLACEABLE"
+msgstr "Received Dominator several times"
+
+msgid "MEDAL_EVENT_DESCRIPTION_JACK_OF_ALL_TRADES"
+msgstr "Flew aircraft of several types"
+
+msgid "MEDAL_EVENT_DESCRIPTION_KEEP_CLEAR"
+msgstr "Destroyed an aircraft and a ground target with one bomb"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LAST_BREATH"
+msgstr "Destroyed an enemy while having 10% HP and won"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LAST_BULLET"
+msgstr "Destroyed an enemy with overheated weapons"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LAST_HERO"
+msgstr "The only player to survive and destroy 3 aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LAST_MAN_FLYING"
+msgstr "The only player to survive"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LEADER"
+msgstr "Top player by destroyed aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LEGENDARY_ASSAULT"
+msgstr "1,000 Thunder medals in attack aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LEGENDARY_FIGHTER"
+msgstr "1,000 Ace medals in fighters"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LEGENDARY_HEAVY"
+msgstr "1,000 Destroyer medals in heavy fighters"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LIGHTWEIGHT"
+msgstr "Destroyed an enemy fighter"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LUCKY_HUNT"
+msgstr "Accomplished \"Good Hunt\" mission"
+
+msgid "MEDAL_EVENT_DESCRIPTION_MASTER_HUNT"
+msgstr "Accomplished \"Skillful Hunt\" mission"
+
+msgid "MEDAL_EVENT_DESCRIPTION_MCGUIRE"
+msgstr "3 destroyed aircraft in heavy fighter"
+
+msgid "MEDAL_EVENT_DESCRIPTION_MEANINGFUL_CONTRIBUTION"
+msgstr "Member of Flight which destroyed 6 aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_MEYER1"
+msgstr "300 Thunder medals in attack aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_MEYER2"
+msgstr "30 Thunder medals in attack aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_MEYER3"
+msgstr "3 Thunder medals in attack aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NIMBLE"
+msgstr "Caused an enemy to crash"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NO_STONE_UNTURNED"
+msgstr "Destroyed the last ground target"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_FROST"
+msgstr "Won 5 battles on winter maps"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_LUCK"
+msgstr "Completed 5 holiday missions"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_MARKSMAN"
+msgstr "Hit 50 flying saucers"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_SET"
+msgstr "Completed 10 daily missions"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_SHOOTER"
+msgstr "Hit 10 flying saucers"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_SNOWBALL"
+msgstr "Hit a flying saucer with a snowball"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_WATCH"
+msgstr "Won battles for 10 days"
+
+msgid "MEDAL_EVENT_DESCRIPTION_PERSISTENT"
+msgstr "Destroyed an enemy in each battle"
+
+msgid "MEDAL_EVENT_DESCRIPTION_PLANE_TESTER"
+msgstr "Tested aircraft of several nations"
+
+msgid "MEDAL_EVENT_DESCRIPTION_PULL"
+msgstr "Pulled the aircraft out of a steep dive"
+
+msgid "MEDAL_EVENT_DESCRIPTION_PUNISHER"
+msgstr "Destroyed 2 aircraft with one bomb"
+
+msgid "MEDAL_EVENT_DESCRIPTION_PYROMANIAC"
+msgstr "Received Wings Ablaze several times"
+
+msgid "MEDAL_EVENT_DESCRIPTION_RAIDER"
+msgstr ""
+"Awarded for earning <font color='#{1}'>aircraft type grade II</font> during "
+"<font color='#{1}'>the Replenishment of Supplies stage</font> of the Summer "
+"Storm event."
+
+msgid "MEDAL_EVENT_DESCRIPTION_REAPER"
+msgstr "Received Kiss of Death several times"
+
+msgid "MEDAL_EVENT_DESCRIPTION_REAR_GUARD"
+msgstr "Destroyed an enemy by a gunner"
+
+msgid "MEDAL_EVENT_DESCRIPTION_REAR_GUNNER"
+msgstr "Damaged an enemy aircraft by a gunner"
+
+msgid "MEDAL_EVENT_DESCRIPTION_RESILIENT"
+msgstr "Survived fire from 5 enemies"
+
+msgid "MEDAL_EVENT_DESCRIPTION_RIDDLED"
+msgstr "Assisted in ground attack 3 times"
+
+msgid "MEDAL_EVENT_DESCRIPTION_ROCKET_SHOOTER"
+msgstr "Destroyed an enemy with a rocket"
+
+msgid "MEDAL_EVENT_DESCRIPTION_ROCKET_STRIKE"
+msgstr "Damaged a ground target with a rocket"
+
+msgid "MEDAL_EVENT_DESCRIPTION_RUDORFFER"
+msgstr "Destroyed 13 enemies"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SCAN_THE_SKIES"
+msgstr "Detected enemy aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SCORCHED_EARTH"
+msgstr "25 points for enemy ground targets"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SCYTHE_OF_DEATH"
+msgstr "Destroyed 2 enemies in a row"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SKILLED_PILOT"
+msgstr "Regained control of the aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SKY_FIRE"
+msgstr "Destroyed aircraft by setting it on fire"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SKY_N_GROUND"
+msgstr "Destroyed 3 aircraft, received 25 points for targets"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SKY_SCOURGE"
+msgstr "Series of at least 3 destroyed aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SMOKING_BARRELS"
+msgstr "Cooled down overheated weapons"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SQUALL_OF_STEEL"
+msgstr "Assisted in ground attacks 5 times"
+
+msgid "MEDAL_EVENT_DESCRIPTION_STABLE_RESULT"
+msgstr "Destroyed 3 enemy aircraft and survived"
+
+msgid "MEDAL_EVENT_DESCRIPTION_STORMBRINGER"
+msgstr "Received Quick Shot several times"
+
+msgid "MEDAL_EVENT_DESCRIPTION_STRIKE_TEAM"
+msgstr "Member of Flight which destroyed 4 aircraft, received 60 points"
+
+msgid "MEDAL_EVENT_DESCRIPTION_STRONG_TEAM"
+msgstr "Member of Flight which destroyed 3 aircraft, received 40 points"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SUCCESSFUL_RAID"
+msgstr "Two marks for ground targets"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SUDDEN_DEATH"
+msgstr "Quickly destroyed a 100% HP enemy"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SUPERHEAVY"
+msgstr "Destroyed an attack aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SURE_COVER"
+msgstr "Assisted the allies 5 times"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SURVIVOR"
+msgstr "Won and survived 2 battles in a row"
+
+msgid "MEDAL_EVENT_DESCRIPTION_TAIL_BUSTER"
+msgstr "Destroyed an aircraft from critical tail damage"
+
+msgid "MEDAL_EVENT_DESCRIPTION_THRIFTY_BOMBARDIER"
+msgstr "Damaged 2 ground targets with one bomb"
+
+msgid "MEDAL_EVENT_DESCRIPTION_THRIFTY_ROCKETEER"
+msgstr "Damaged 2 ground targets with one rocket"
+
+msgid "MEDAL_EVENT_DESCRIPTION_THUNDER"
+msgstr "75 points for enemy ground targets"
+
+msgid "MEDAL_EVENT_DESCRIPTION_TOP_DOWN_DIVER"
+msgstr "Attained the maximum dive speed"
+
+msgid "MEDAL_EVENT_DESCRIPTION_UNSTOPPABLE"
+msgstr "Won 3 battles in a row"
+
+msgid "MEDAL_EVENT_DESCRIPTION_UNTOUCHABLE"
+msgstr "Destroyed an enemy and remained undamaged"
+
+msgid "MEDAL_EVENT_DESCRIPTION_VALUABLE_CONTRIBUTION"
+msgstr "Earned a third of the team's superiority points"
+
+msgid "MEDAL_EVENT_DESCRIPTION_WEIGHTY_CONTRIBUTION"
+msgstr "Member of Flight which destroyed 9 aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_WINGED_FLAME"
+msgstr "Set fire to 3 aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_WINGMAN"
+msgstr "Assisted the allies 3 times"
+
+msgid "MEDAL_EVENT_DESCRIPTION_YEFIMOV"
+msgstr "3 destroyed aircraft in attack aircraft"
+
+msgid "MEDAL_EVENT_DESCRIPTION_ZVONAREV"
+msgstr "Destroyed 3 aircraft with rockets"
+
+msgid "MEDAL_HISTORY_AKAMATSU"
+msgstr ""
+"<font color='#f2f2f2'>Sadaaki Akamatsu</font> was a Japanese ace. He "
+"destroyed 27 enemy aircraft during the Second Sino-Japanese War and World "
+"War II. During combat in 1945, he faced more technically advanced American "
+"fighters, shooting down more than 10 of them."
+
+msgid "MEDAL_HISTORY_BEGELDINOV"
+msgstr ""
+"<font color='#f2f2f2'>Talgat Begeldinov</font> was a Soviet attack aircraft "
+"pilot who served during World War II. In 1943–1945, he flew 305 combat "
+"missions, destroyed a significant number of ground targets, and shot down 7 "
+"enemy aircraft."
+
+msgid "MEDAL_HISTORY_BONG"
+msgstr ""
+"<font color='#f2f2f2'>Richard Ira Bong</font> was the U.S. Army Air Force's "
+"highest-scoring ace during World War II. Flying the Lockheed P-38 Lightning, "
+"he shot down at least 40 Japanese aircraft while serving in the South "
+"Pacific. He died on August 6, 1945 during a test flight in the P-80 Shooting "
+"Star."
+
+msgid "MEDAL_HISTORY_BOYINGTON"
+msgstr ""
+"<font color='#f2f2f2'>Gregory \"Pappy\" Boyington</font> was an American "
+"fighter ace. He served with the 1st American Volunteer Group known as the "
+"Flying Tigers in 1941–1942 and in the Marine Corps VMF-214 \"Black Sheep\" "
+"in 1943–1944. He shot down 28 Japanese aircraft in his Р-40 Warhawk and F4U "
+"Corsair."
+
+msgid "MEDAL_HISTORY_CLOSTERMAN"
+msgstr ""
+"<font color='#f2f2f2'>Pierre Clostermann</font> was the top French fighter "
+"ace. After the defeat of France, he joined the Royal Air Force. Clostermann "
+"was credited with a total of 33 victories and destroyed a significant number "
+"of enemy ground targets."
+
+msgid "MEDAL_HISTORY_DILLEI"
+msgstr ""
+"<font color='#f2f2f2'>Bruno Dilley</font> was a German pilot. In 1939–1943, "
+"he flew 700 combat missions in the Ju 87 dive bomber. He is considered to be "
+"a pilot who conducted the first bombing raid of World War II on September 1, "
+"1939."
+
+msgid "MEDAL_HISTORY_DULITTLA"
+msgstr ""
+"<font color='#f2f2f2'>James Harold Doolittle</font> was an American bomber "
+"pilot. On April 18 of 1942, 16 land-based B-25 Mitchell bombers under his "
+"command took off from the Hornet aircraft carrier and conducted a morally "
+"and politically important raid on the capital of the Japanese Empire, Tokyo."
+
+msgid "MEDAL_HISTORY_GALLAND"
+msgstr ""
+"<font color='#f2f2f2'>Adolf Galland</font> was a German fighter ace, who "
+"served as a Luftwaffe Lieutenant-General during World War II. He flew 705 "
+"combat missions and was credited with 104 aerial victories. He was appointed "
+"Commander of the Germany's Fighter Force in November 1941 and stayed in this "
+"position until January 1945."
+
+msgid "MEDAL_HISTORY_GOLUBEV"
+msgstr ""
+"<font color='#f2f2f2'>Vasiliy Golubev</font> was a Soviet fighter pilot who "
+"served during World War II. In 1941–1945, he flew 589 combat missions in the "
+"I-16, La-5, and La-7. He was credited with 39 individual and 12 shared "
+"aerial victories."
+
+msgid "MEDAL_HISTORY_GOROVETS"
+msgstr ""
+"<font color='#f2f2f2'>Alexander Gorovets</font> was a Soviet fighter ace. On "
+"July 6, 1943 he single-handedly attacked a large formation of German "
+"aircraft and managed to destroy 9 of them. Returning to the base with no "
+"ammunition for defense and low on fuel, Gorovets was shot down and killed."
+
+msgid "MEDAL_HISTORY_GRAF"
+msgstr ""
+"<font color='#f2f2f2'>Hermann Graf</font> was a German ace, who served "
+"during World War II. He flew 800 combat missions and was credited with 212 "
+"aerial victories on the Eastern and Western fronts. He was the world's first "
+"pilot to score 200 aerial victories."
+
+msgid "MEDAL_HISTORY_HABREZKI"
+msgstr ""
+"<font color='#f2f2f2'>Francis \"Gabby\" Gabreski</font> was an American "
+"fighter ace. During World War II he destroyed 28 enemy aircraft in the P-47 "
+"Thunderbolt, and 6 more aircraft during the Korean War."
+
+msgid "MEDAL_HISTORY_JOHNSON"
+msgstr ""
+"<font color='#f2f2f2'>James Edgar Johnson</font> was a British fighter pilot "
+"and the highest scoring British ace who served in World War II. In 1940–"
+"1944, he flew 515 combat missions in the Spitfire and scored 34 individual "
+"and 7 shared aerial victories."
+
+msgid "MEDAL_HISTORY_KOJEDUBA"
+msgstr ""
+"<font color='#f2f2f2'>Ivan Kozhedub</font> was a Soviet ace who was the "
+"highest-scoring Allied pilot. In 1943–1945, he shot down a total of 62 enemy "
+"aircraft, including the jet-powered Me 262, flying the La-5 and La-7."
+
+msgid "MEDAL_HISTORY_LAMBERTA"
+msgstr ""
+"<font color='#f2f2f2'>August Lambert</font> was a German ace who flew the "
+"Fw 190 with the ground attack unit of the Luftwaffe. He destroyed a "
+"significant number of ground targets and claimed to have destroyed 116 enemy "
+"aircraft."
+
+msgid "MEDAL_HISTORY_LANG"
+msgstr ""
+"<font color='#f2f2f2'>Friedrich Lang</font> was a German ace. He flew 1,008 "
+"combat missions in the Ju 87 and Fw 190, from the very first until the very "
+"last day of World War II, and was never shot down."
+
+msgid "MEDAL_HISTORY_LINDBERGH"
+msgstr ""
+"<font color='#f2f2f2'>Charles Lindbergh</font> was an American aviator who "
+"was the first to cross the Atlantic, flying from New York to Paris. He "
+"served as a consultant to the U.S. Army and Navy during World War II. "
+"Although Lindbergh was a civilian, he nevertheless flew about 50 combat "
+"missions."
+
+msgid "MEDAL_HISTORY_MACCAMPBELL"
+msgstr ""
+"<font color='#f2f2f2'>David McCampbell</font> was an American fighter pilot "
+"and the top scoring ace in the U.S. Navy during World War II. In 1944–1945, "
+"he shot down 34 Japanese aircraft, including 9 in a single mission, in his "
+"F6F Hellcat."
+
+msgid "MEDAL_HISTORY_MARCEL"
+msgstr ""
+"<font color='#f2f2f2'>Hans-Joachim Marseille</font> was a German fighter "
+"ace. In 1940–1942, he flew 388 combat missions and scored 158 aerial "
+"victories in the Bf 109. He is considered the Luftwaffe's highest scoring "
+"pilot in battles against the Western Allies."
+
+msgid "MEDAL_HISTORY_MCGUIRE"
+msgstr ""
+"<font color='#f2f2f2'>Thomas McGuire</font> was an American ace, who served "
+"during World War II. Flying the P-38 Lightning heavy fighter, he shot down "
+"38 Japanese aircraft. He died during air combat on January 7, 1945."
+
+msgid "MEDAL_HISTORY_MEYER"
+msgstr ""
+"<font color='#f2f2f2'>Bruno Meyer</font> was a German attack ace who served "
+"during World War II. He participated in battles in Poland, France, North "
+"Africa, and the Eastern Front. Flying more than 1,000 combat missions, he "
+"destroyed a significant number of ground vehicles, including 183 tanks. He "
+"mainly flew the Hs 129 attack aircraft."
+
+msgid "MEDAL_HISTORY_MIHALENKOV"
+msgstr ""
+"<font color='#f2f2f2'>Efim Mikhalenkov</font> was a Soviet attack aircraft "
+"pilot who served in World War II. He flew 275 combat missions in the IL-2, "
+"destroyed a significant number of ground targets and 12 enemy aircraft "
+"personally and together with other pilots."
+
+msgid "MEDAL_HISTORY_POKRYSHKIN"
+msgstr ""
+"<font color='#f2f2f2'>Alexander Pokryshkin</font> was a Soviet fighter ace. "
+"In 1941–1945, he flew 650 combat missions in the MiG-3, Yak-1, and P-39 "
+"Airacobra. He shot down 59 enemy aircraft personally and 6 together with "
+"other pilots."
+
+msgid "MEDAL_HISTORY_RUDORFFER"
+msgstr ""
+"<font color='#f2f2f2'>Erich Rudorffer</font> was a German fighter ace, who "
+"served throughout all of World War II. Flying more than 1,000 combat "
+"missions, he engaged in aerial combat 302 times. Rudorffer claimed a total "
+"of 222 aerial victories, including 60 victories on the Western Front, 26 in "
+"North Africa, and 136 on the Eastern Front."
+
+msgid "MEDAL_HISTORY_SEVERSKY"
+msgstr ""
+"<font color='#f2f2f2'>Alexander de Seversky</font> was a Russian–American "
+"aviator, inventor, and aircraft designer. In February 1931 he founded the "
+"Seversky Aircraft Corporation (later reorganized and renamed as Republic "
+"Aviation Corporation), where he served as President, aircraft designer, and "
+"test pilot. He designed the SEV-3, P-35, 2PA, and the P-47 Thunderbolt, one "
+"of the most widely produced fighters of World War II."
+
+msgid "MEDAL_HISTORY_SIKORSKY"
+msgstr ""
+"Igor Sikorsky was a Russian–American aviation pioneer. He designed and flew "
+"the world's first multi-engine fixed-wing aircraft, the Russky Vityaz, and "
+"the first four-engine airliner and heavy bomber, the Ilya Muromets. He also "
+"designed flying boats, transatlantic seaplanes, and the Vought-Sikorsky "
+"VS-300, a single-engine helicopter with a three-blade rotor."
+
+msgid "MEDAL_HISTORY_YEFIMOV"
+msgstr ""
+"<font color='#f2f2f2'>Alexander Efimov</font> was a Soviet attack aircraft "
+"pilot, who served during World War II. In 1942–1945, he flew 288 combat "
+"missions in the IL-2 attack aircraft. He destroyed a significant number of "
+"ground targets and shot down 8 enemy aircraft in air combat and 85 aircraft "
+"on the ground."
+
+msgid "MEDAL_HISTORY_ZVONAREV"
+msgstr ""
+"<font color='#f2f2f2'>Nikolay Zvonarev</font> was a Soviet test pilot. On "
+"August 20, 1939, during the Soviet–Japanese border conflict, the formation "
+"of the I-16 fighters under Zvonarev’s command first successfully used "
+"rockets in aerial combat over the Khalkhyn Gol river, destroying several "
+"enemy fighters."
+
+msgid "MEDAL_LEVEL_LIMIT"
+msgstr "Can be received in aircraft of Tier IV or higher."
+
+msgid "MEDAL_LOW_LEVEL_LIMIT"
+msgstr "Can be received in aircraft of Tier III or lower."
+
+msgid "MEDAL_NAME_1ST_CLASS"
+msgstr "Veteran"
+
+msgid "MEDAL_NAME_2ND_CLASS"
+msgstr "Expert"
+
+msgid "MEDAL_NAME_ABSOLUTE_CHAMPION"
+msgstr "Undisputed Champion"
+
+msgid "MEDAL_NAME_ACE"
+msgstr "Ace"
+
+msgid "MEDAL_NAME_AIR_DEFENCE_PILOT"
+msgstr "Air Defense Pilot"
+
+msgid "MEDAL_NAME_AKAMATSU"
+msgstr "Akamatsu Medal"
+
+msgid "MEDAL_NAME_ALBION_LION-I"
+msgstr "Albion's Lion Badge Class I"
+
+msgid "MEDAL_NAME_ALBION_LION-II"
+msgstr "Albion's Lion Badge Class II"
+
+msgid "MEDAL_NAME_ALBION_LION-III"
+msgstr "Albion's Lion Badge Class III"
+
+msgid "MEDAL_NAME_ALL_YEAR_2016_VETERAN"
+msgstr "All-Season Hunter"
+
+msgid "MEDAL_NAME_ALTITUDE_HUNTER"
+msgstr "Hunt for Vulture"
+
+msgid "MEDAL_NAME_ANIMAL_KING"
+msgstr "King of the Animals"
+
+msgid "MEDAL_NAME_AROUND_THE_WORLD"
+msgstr "World Traveler"
+
+msgid "MEDAL_NAME_AS"
+msgstr "Ace"
+
+msgid "MEDAL_NAME_ASSAULT_TEST"
+msgstr "Certified Attack Aircraft Pilot"
+
+msgid "MEDAL_NAME_ASSISTANT"
+msgstr "Sidekick"
+
+msgid "MEDAL_NAME_ASSISTMASTER"
+msgstr "Team Player Badge"
+
+msgid "MEDAL_NAME_ATTACKER"
+msgstr "Ravager"
+
+msgid "MEDAL_NAME_ATTACK_HERO"
+msgstr "Offensive Hero"
+
+msgid "MEDAL_NAME_ATTACK_ON_ALLIES_POSITION"
+msgstr "Offensive"
+
+msgid "MEDAL_NAME_AUTUMN_VETERAN"
+msgstr "Fall Event Veteran"
+
+msgid "MEDAL_NAME_AVALANCHE"
+msgstr "Avalanche"
+
+msgid "MEDAL_NAME_BANSHEE"
+msgstr "Aerial Raider"
+
+msgid "MEDAL_NAME_BATTERED_BUT_NOT_BROKEN"
+msgstr "Cheated Death"
+
+msgid "MEDAL_NAME_BATTLE_VULTURE"
+msgstr "Hunt for Falcon"
+
+msgid "MEDAL_NAME_BEGELDINOV1"
+msgstr "Begeldinov Medal Class I"
+
+msgid "MEDAL_NAME_BEGELDINOV2"
+msgstr "Begeldinov Medal Class II"
+
+msgid "MEDAL_NAME_BEGELDINOV3"
+msgstr "Begeldinov Medal Class III"
+
+msgid "MEDAL_NAME_BEGELDINOV4"
+msgstr "Begeldinov Medal Class IV"
+
+msgid "MEDAL_NAME_BEWARE_OF_BOMBS"
+msgstr "Beware of Bombs"
+
+msgid "MEDAL_NAME_BIRD_OF_PREY"
+msgstr "Bird of Prey"
+
+msgid "MEDAL_NAME_BLITZ"
+msgstr "Quick Shot"
+
+msgid "MEDAL_NAME_BOMBARDIER"
+msgstr "Bombardier"
+
+msgid "MEDAL_NAME_BOMBARDIER_1"
+msgstr "Bombardier"
+
+msgid "MEDAL_NAME_BOMBING"
+msgstr "Ace Bombardier"
+
+msgid "MEDAL_NAME_BOMBING_1"
+msgstr "Bombs Away"
+
+msgid "MEDAL_NAME_BONG1"
+msgstr "Bong Medal Class I"
+
+msgid "MEDAL_NAME_BONG2"
+msgstr "Bong Medal Class II"
+
+msgid "MEDAL_NAME_BONG3"
+msgstr "Bong Medal Class III"
+
+msgid "MEDAL_NAME_BOYINGTON1"
+msgstr "Boyington Medal Class I"
+
+msgid "MEDAL_NAME_BOYINGTON2"
+msgstr "Boyington Medal Class II"
+
+msgid "MEDAL_NAME_BOYINGTON3"
+msgstr "Boyington Medal Class III"
+
+msgid "MEDAL_NAME_BOYINGTON4"
+msgstr "Boyington Medal Class IV"
+
+msgid "MEDAL_NAME_BREAKTHROUGH"
+msgstr "Breakthrough"
+
+msgid "MEDAL_NAME_BRONZE_PLAYERS"
+msgstr "Bronze Cup Badge"
+
+msgid "MEDAL_NAME_BURNING"
+msgstr "Unburnt"
+
+msgid "MEDAL_NAME_BURNING_SHORES"
+msgstr "Flaming Shores"
+
+msgid "MEDAL_NAME_CADET"
+msgstr "Cadet"
+
+msgid "MEDAL_NAME_CADET_1"
+msgstr "Cadet Rank 1"
+
+msgid "MEDAL_NAME_CADET_2"
+msgstr "Cadet Rank 2"
+
+msgid "MEDAL_NAME_CADET_3"
+msgstr "Cadet Rank 3"
+
+msgid "MEDAL_NAME_CADET_4"
+msgstr "Cadet Rank 4"
+
+msgid "MEDAL_NAME_CADET_5"
+msgstr "Cadet Rank 5"
+
+msgid "MEDAL_NAME_CANDY_RAID"
+msgstr "Candy Raid"
+
+msgid "MEDAL_NAME_CAREFUL"
+msgstr "Trigger Discipline"
+
+msgid "MEDAL_NAME_CATCHER"
+msgstr "Guardian"
+
+msgid "MEDAL_NAME_CAUTION_BOMB"
+msgstr "Surprise from the Sky"
+
+msgid "MEDAL_NAME_CHAMPION_DESTROYER"
+msgstr "Champion of Destruction"
+
+msgid "MEDAL_NAME_CLEANER"
+msgstr "Elite Wing"
+
+msgid "MEDAL_NAME_CLEANUP"
+msgstr "Iron Hand"
+
+msgid "MEDAL_NAME_CLEAR_SKY"
+msgstr "Clear Sky"
+
+msgid "MEDAL_NAME_CLIPPING_THE_WINGS"
+msgstr "Clip the Wings"
+
+msgid "MEDAL_NAME_CLOSTERMAN"
+msgstr "Clostermann Medal"
+
+msgid "MEDAL_NAME_COLLECTOR"
+msgstr "Collector"
+
+msgid "MEDAL_NAME_COMMAND_DES"
+msgstr "Hansell Medal"
+
+msgid "MEDAL_NAME_COMPETITIVE_PLAYERS"
+msgstr "Competitor Badge"
+
+msgid "MEDAL_NAME_CONQUEROR"
+msgstr "Conqueror"
+
+msgid "MEDAL_NAME_CONTROLLER"
+msgstr "Flying Vanguard Badge"
+
+msgid "MEDAL_NAME_CROSSFIRE"
+msgstr "Crossfire"
+
+msgid "MEDAL_NAME_CROSSFIRE_1"
+msgstr "Crossfire"
+
+msgid "MEDAL_NAME_CRUCIALCONTRIBUTION"
+msgstr "Epic Contribution"
+
+msgid "MEDAL_NAME_DANGEROUS_TARGET"
+msgstr "Flying Start"
+
+msgid "MEDAL_NAME_DANGER_TAIL"
+msgstr "Self-Defense Master"
+
+msgid "MEDAL_NAME_DARING_SWOOP"
+msgstr "Conquistador"
+
+msgid "MEDAL_NAME_DEAD_ZONE"
+msgstr "Dead Zone"
+
+msgid "MEDAL_NAME_DEFENDER_PROGRESS1"
+msgstr "Guardian of Asgard Badge Class I"
+
+msgid "MEDAL_NAME_DEFENDER_PROGRESS2"
+msgstr "Guardian of Asgard Badge Class II"
+
+msgid "MEDAL_NAME_DEFENDER_PROGRESS3"
+msgstr "Guardian of Asgard Badge Class III"
+
+msgid "MEDAL_NAME_DESTROYER"
+msgstr "Flying Revenge Badge"
+
+msgid "MEDAL_NAME_DESTROYER_OLD"
+msgstr "Destroyer"
+
+msgid "MEDAL_NAME_DEVASTATOR"
+msgstr "Two for One"
+
+msgid "MEDAL_NAME_DILLEI1"
+msgstr "Dilley Medal Class I"
+
+msgid "MEDAL_NAME_DILLEI2"
+msgstr "Dilley Medal Class II"
+
+msgid "MEDAL_NAME_DILLEI3"
+msgstr "Dilley Medal Class III"
+
+msgid "MEDAL_NAME_DILLEI4"
+msgstr "Dilley Medal Class IV"
+
+msgid "MEDAL_NAME_DOMINATOR"
+msgstr "Hat Trick"
+
+msgid "MEDAL_NAME_DOMINATOR_1"
+msgstr "Hat Trick"
+
+msgid "MEDAL_NAME_DULITTLA"
+msgstr "Doolittle Medal"
+
+msgid "MEDAL_NAME_EFFECTIVE"
+msgstr "Effective Fire"
+
+msgid "MEDAL_NAME_ELITE_PLANE"
+msgstr "Elite Pilot"
+
+msgid "MEDAL_NAME_END_OF_SPEAR"
+msgstr "Tip of the Spear"
+
+msgid "MEDAL_NAME_ESCORT_SKY_AVENGER"
+msgstr "Flying Avenger Badge"
+
+msgid "MEDAL_NAME_ESCORT_SKY_DEFENDER"
+msgstr "Flying Protector Badge"
+
+msgid "MEDAL_NAME_ESCORT_SKY_DESTROYER"
+msgstr "Flying Destroyer Badge"
+
+msgid "MEDAL_NAME_ESCORT_SKY_HUNTER"
+msgstr "Flying Huntmaster Badge"
+
+msgid "MEDAL_NAME_ESCORT_SKY_KEEPER"
+msgstr "Flying Keeper Badge"
+
+msgid "MEDAL_NAME_EXPERIENCED"
+msgstr "Expert Pilot"
+
+msgid "MEDAL_NAME_EXPERIENCED_HUNTER"
+msgstr "Expert Hunter"
+
+msgid "MEDAL_NAME_EXTERMINATOR"
+msgstr "Flying Exterminator Badge"
+
+msgid "MEDAL_NAME_FALCON"
+msgstr "Raptor"
+
+msgid "MEDAL_NAME_FALCONRY"
+msgstr "Falconry"
+
+msgid "MEDAL_NAME_FALCON_HUNTING"
+msgstr "Hunt for Hawk"
+
+msgid "MEDAL_NAME_FIGHTER_DEFENDER"
+msgstr "Flying Guardian Badge"
+
+msgid "MEDAL_NAME_FIGHTER_DOMINATOR"
+msgstr "Flying Warrior Badge"
+
+msgid "MEDAL_NAME_FIGHTER_INTERCEPTOR"
+msgstr "Flying Paladin Badge"
+
+msgid "MEDAL_NAME_FIGHTER_OF_ALL_LIFE"
+msgstr "Flying Raider Badge"
+
+msgid "MEDAL_NAME_FIGHTER_TEST"
+msgstr "Certified Fighter Pilot"
+
+msgid "MEDAL_NAME_FIREBUG"
+msgstr "Inferno"
+
+msgid "MEDAL_NAME_FIRESPITTING"
+msgstr "Fire Breathing"
+
+msgid "MEDAL_NAME_FIRESTARTER"
+msgstr "Inferno"
+
+msgid "MEDAL_NAME_FIRE_BILLOW"
+msgstr "Ground Pounder"
+
+msgid "MEDAL_NAME_FIRE_BREATH"
+msgstr "Fire Breathing"
+
+msgid "MEDAL_NAME_FIRST_BLOOD"
+msgstr "First Blood"
+
+msgid "MEDAL_NAME_FIRST_FIGHTER"
+msgstr "First-Line Warrior"
+
+msgid "MEDAL_NAME_FIRST_IN_TEAM"
+msgstr "First Among Equals"
+
+msgid "MEDAL_NAME_FLAME_OF_HEAVEN"
+msgstr "Flames in the Sky"
+
+msgid "MEDAL_NAME_FLAMING"
+msgstr "Aflame"
+
+msgid "MEDAL_NAME_FLGHT_LEADER_1"
+msgstr "Flight Commander Rank 1"
+
+msgid "MEDAL_NAME_FLGHT_LEADER_2"
+msgstr "Flight Commander Rank 2"
+
+msgid "MEDAL_NAME_FLGHT_LEADER_3"
+msgstr "Flight Commander Rank 3"
+
+msgid "MEDAL_NAME_FLGHT_LEADER_4"
+msgstr "Flight Commander Rank 4"
+
+msgid "MEDAL_NAME_FLGHT_LEADER_5"
+msgstr "Flight Commander Rank 5"
+
+msgid "MEDAL_NAME_FLIGHT_DRESSING"
+msgstr "Back in Action"
+
+msgid "MEDAL_NAME_FLIGHT_REPAIRS"
+msgstr "Repairs on the Fly"
+
+msgid "MEDAL_NAME_FLOWN"
+msgstr "Supporting Fire"
+
+msgid "MEDAL_NAME_FLYING_EAGLE"
+msgstr "Soaring Eagle"
+
+msgid "MEDAL_NAME_FLY_SAUCER"
+msgstr "Sleipnir Rider"
+
+msgid "MEDAL_NAME_FRONTLINE_1"
+msgstr "Trooper Rank 1"
+
+msgid "MEDAL_NAME_FRONTLINE_2"
+msgstr "Trooper Rank 2"
+
+msgid "MEDAL_NAME_FRONTLINE_3"
+msgstr "Trooper Rank 3"
+
+msgid "MEDAL_NAME_FRONTLINE_4"
+msgstr "Trooper Rank 4"
+
+msgid "MEDAL_NAME_FRONTLINE_5"
+msgstr "Trooper Rank 5"
+
+msgid "MEDAL_NAME_FULMINANT"
+msgstr "Quick Shot"
+
+msgid "MEDAL_NAME_FUTURE_ACE"
+msgstr "Would-be Ace"
+
+msgid "MEDAL_NAME_GALLAND1"
+msgstr "Galland Medal Class I"
+
+msgid "MEDAL_NAME_GALLAND2"
+msgstr "Galland Medal Class II"
+
+msgid "MEDAL_NAME_GALLAND3"
+msgstr "Galland Medal Class III"
+
+msgid "MEDAL_NAME_GOLD_PLAYERS"
+msgstr "Golden Cup Badge"
+
+msgid "MEDAL_NAME_GOLIAPHS_NEMESIS"
+msgstr "Giant Slayer"
+
+msgid "MEDAL_NAME_GOLUBEV"
+msgstr "Golubev Medal"
+
+msgid "MEDAL_NAME_GOROVETS"
+msgstr "Gorovets Medal"
+
+msgid "MEDAL_NAME_GOTCHA"
+msgstr "Perfect Shot"
+
+msgid "MEDAL_NAME_GOTCHA_1"
+msgstr "Direct Hit"
+
+msgid "MEDAL_NAME_GOT_TEN"
+msgstr "Mark of a Hero"
+
+msgid "MEDAL_NAME_GRAF1"
+msgstr "Graf Medal Class I"
+
+msgid "MEDAL_NAME_GRAF2"
+msgstr "Graf Medal Class II"
+
+msgid "MEDAL_NAME_GRAF3"
+msgstr "Graf Medal Class III"
+
+msgid "MEDAL_NAME_GRAF4"
+msgstr "Graf Medal Class IV"
+
+msgid "MEDAL_NAME_GROUND_AND_IN_THE_SKY"
+msgstr "Air and Ground"
+
+msgid "MEDAL_NAME_GROUND_DEFENDER"
+msgstr "Ground Defender"
+
+msgid "MEDAL_NAME_GROUND_POUNDER"
+msgstr "Eraser"
+
+msgid "MEDAL_NAME_GUARD"
+msgstr "Crusher"
+
+msgid "MEDAL_NAME_GUNNER"
+msgstr "Reliable Cover"
+
+msgid "MEDAL_NAME_HABREZKI"
+msgstr "Gabreski Medal"
+
+msgid "MEDAL_NAME_HAMMER_PROGRESS1"
+msgstr "Thor's Hammer Badge Class I"
+
+msgid "MEDAL_NAME_HAMMER_PROGRESS2"
+msgstr "Thor's Hammer Badge Class II"
+
+msgid "MEDAL_NAME_HAMMER_PROGRESS3"
+msgstr "Thor's Hammer Badge Class III"
+
+msgid "MEDAL_NAME_HAWK_LA_MANCHE-I"
+msgstr "Eagle of the Channel Badge Class I"
+
+msgid "MEDAL_NAME_HAWK_LA_MANCHE-II"
+msgstr "Eagle of the Channel Badge Class II"
+
+msgid "MEDAL_NAME_HAWK_LA_MANCHE-III"
+msgstr "Eagle of the Channel Badge Class III"
+
+msgid "MEDAL_NAME_HEAVYWEIGHT"
+msgstr "Super Middleweight"
+
+msgid "MEDAL_NAME_HEAVYWEIGHT_1"
+msgstr "Heavyweight"
+
+msgid "MEDAL_NAME_HEAVYWEIGHT_FIGHTER"
+msgstr "Hunt for Stormbird"
+
+msgid "MEDAL_NAME_HEAVY_FIGHTER_1"
+msgstr "Legendary Heavy Fighter Pilot"
+
+msgid "MEDAL_NAME_HEAVY_HITTER"
+msgstr "Sharpshooter"
+
+msgid "MEDAL_NAME_HEAVY_TEST"
+msgstr "Certified Heavy Fighter Pilot"
+
+msgid "MEDAL_NAME_HIDE_N_SEEK"
+msgstr "Hide-and-Seek"
+
+msgid "MEDAL_NAME_HIGH_START"
+msgstr "Flying Start"
+
+msgid "MEDAL_NAME_HOSTILE_SKIES"
+msgstr "Hostile Skies"
+
+msgid "MEDAL_NAME_HOT_ENGINES"
+msgstr "Running Hot"
+
+msgid "MEDAL_NAME_HUNGRY_FLOCK"
+msgstr "Hungry Pack"
+
+msgid "MEDAL_NAME_HUNTER"
+msgstr "Hunter"
+
+msgid "MEDAL_NAME_IMPACT_FROM_THE_SKY"
+msgstr "Successful Interception"
+
+msgid "MEDAL_NAME_INDEPENDENT"
+msgstr "Unstoppable"
+
+msgid "MEDAL_NAME_INTERCEPTOR"
+msgstr "Interceptor"
+
+msgid "MEDAL_NAME_INTERCEPTOR_1"
+msgstr "Interceptor"
+
+msgid "MEDAL_NAME_INVADER"
+msgstr "Subjugator"
+
+msgid "MEDAL_NAME_INVASION"
+msgstr "Invasion"
+
+msgid "MEDAL_NAME_INVULNERABLE"
+msgstr "Invulnerable"
+
+msgid "MEDAL_NAME_INVULNERABLE_1"
+msgstr "Invulnerable"
+
+msgid "MEDAL_NAME_IRREPLACEABLE"
+msgstr "Irreplaceable"
+
+msgid "MEDAL_NAME_JACK_OF_ALL_TRADES"
+msgstr "Multi-Talented"
+
+msgid "MEDAL_NAME_JAPAN_TEST"
+msgstr "Beta Test Participant"
+
+msgid "MEDAL_NAME_JA_ALLY_PROGRESS1"
+msgstr "Distinguished Service Badge Class I"
+
+msgid "MEDAL_NAME_JA_ALLY_PROGRESS2"
+msgstr "Distinguished Service Badge Class II"
+
+msgid "MEDAL_NAME_JA_ALLY_PROGRESS3"
+msgstr "Distinguished Service Badge Class III"
+
+msgid "MEDAL_NAME_JA_AXIS_PROGRESS1"
+msgstr "Golden Kite Badge Class I"
+
+msgid "MEDAL_NAME_JA_AXIS_PROGRESS2"
+msgstr "Golden Kite Badge Class II"
+
+msgid "MEDAL_NAME_JA_AXIS_PROGRESS3"
+msgstr "Golden Kite Badge Class III"
+
+msgid "MEDAL_NAME_JA_BANZAY"
+msgstr "Banzai!"
+
+msgid "MEDAL_NAME_JA_HUNTER"
+msgstr "Turkey Shooter"
+
+msgid "MEDAL_NAME_JA_PACIFIC1"
+msgstr "Pacific Defense Badge Class I"
+
+msgid "MEDAL_NAME_JA_PACIFIC2"
+msgstr "Pacific Defense Badge Class II"
+
+msgid "MEDAL_NAME_JA_PACIFIC3"
+msgstr "Pacific Defense Badge Class III"
+
+msgid "MEDAL_NAME_JA_TORATORA1"
+msgstr "Tora! Tora! Tora! Badge Class I"
+
+msgid "MEDAL_NAME_JA_TORATORA2"
+msgstr "Tora! Tora! Tora! Badge Class II"
+
+msgid "MEDAL_NAME_JA_TORATORA3"
+msgstr "Tora! Tora! Tora! Badge Class III"
+
+msgid "MEDAL_NAME_JOHNSON1"
+msgstr "Johnson Medal Class I"
+
+msgid "MEDAL_NAME_JOHNSON2"
+msgstr "Johnson Medal Class II"
+
+msgid "MEDAL_NAME_JOHNSON3"
+msgstr "Johnson Medal Class III"
+
+msgid "MEDAL_NAME_JOHNSON4"
+msgstr "Johnson Medal Class IV"
+
+msgid "MEDAL_NAME_KEEP_CLEAR"
+msgstr "Keep Clear"
+
+msgid "MEDAL_NAME_KILL_SAUCER"
+msgstr "Wrath of Odin"
+
+msgid "MEDAL_NAME_KNIGHT"
+msgstr "Sky Knight"
+
+msgid "MEDAL_NAME_KOJEDUBA"
+msgstr "Kozhedub Medal"
+
+msgid "MEDAL_NAME_LAMBERTA"
+msgstr "Lambert Medal"
+
+msgid "MEDAL_NAME_LANG"
+msgstr "Lang Medal"
+
+msgid "MEDAL_NAME_LAST_BREATH"
+msgstr "To the Last Breath"
+
+msgid "MEDAL_NAME_LAST_BULLET"
+msgstr "Last Bullet"
+
+msgid "MEDAL_NAME_LAST_HERO"
+msgstr "Lone Hero"
+
+msgid "MEDAL_NAME_LAST_HOPE_ALLIES"
+msgstr "Allies' Last Hope"
+
+msgid "MEDAL_NAME_LAST_MAN_FLYING"
+msgstr "Last Man Flying"
+
+msgid "MEDAL_NAME_LEADER"
+msgstr "Superior"
+
+msgid "MEDAL_NAME_LEGENDARY_ACE"
+msgstr "Legendary Pilot"
+
+msgid "MEDAL_NAME_LEGENDARY_ASSAULT"
+msgstr "Legendary (Attack Aircraft)"
+
+msgid "MEDAL_NAME_LEGENDARY_ASSAULT_1"
+msgstr "Legendary Attack Aircraft Pilot"
+
+msgid "MEDAL_NAME_LEGENDARY_BOMBER_1"
+msgstr "Legendary bomber"
+
+msgid "MEDAL_NAME_LEGENDARY_FIGHTER"
+msgstr "Legendary (Fighter)"
+
+msgid "MEDAL_NAME_LEGENDARY_FIGHTER_1"
+msgstr "Legendary Fighter Pilot"
+
+msgid "MEDAL_NAME_LEGENDARY_HEAVY"
+msgstr "Legendary (Heavy Fighter)"
+
+msgid "MEDAL_NAME_LEGENDARY_NAVY"
+msgstr "Legendary (Multirole Fighter)"
+
+msgid "MEDAL_NAME_LEGENDARY_NAVY_1"
+msgstr "Legendary Multirole Fighter Pilot"
+
+msgid "MEDAL_NAME_LIGHTWEIGHT"
+msgstr "Lightweight"
+
+msgid "MEDAL_NAME_LIGHT_WEIGHT"
+msgstr "Lightweight"
+
+msgid "MEDAL_NAME_LINDBERGH"
+msgstr "Lindbergh Order"
+
+msgid "MEDAL_NAME_MACCAMPBELL"
+msgstr "McCampbell Medal"
+
+msgid "MEDAL_NAME_MARATHON"
+msgstr "Trial by Fire"
+
+msgid "MEDAL_NAME_MARCEL"
+msgstr "Marseille Medal"
+
+msgid "MEDAL_NAME_MASTERS_OF_SKY"
+msgstr "Lords of the Sky"
+
+msgid "MEDAL_NAME_MCGUIRE"
+msgstr "McGuire Medal"
+
+msgid "MEDAL_NAME_MEANINGFUL_CONTRIBUTION"
+msgstr "Valuable Contribution"
+
+msgid "MEDAL_NAME_MEYER1"
+msgstr "Meyer Medal Class I"
+
+msgid "MEDAL_NAME_MEYER2"
+msgstr "Meyer Medal Class II"
+
+msgid "MEDAL_NAME_MEYER3"
+msgstr "Meyer Medal Class III"
+
+msgid "MEDAL_NAME_MIHALENKOV1"
+msgstr "Mikhalenkov Medal Class I"
+
+msgid "MEDAL_NAME_MIHALENKOV2"
+msgstr "Mikhalenkov Medal Class II"
+
+msgid "MEDAL_NAME_MIHALENKOV3"
+msgstr "Mikhalenkov Medal Class III"
+
+msgid "MEDAL_NAME_MIHALENKOV4"
+msgstr "Mikhalenkov Medal Class IV"
+
+msgid "MEDAL_NAME_MISSILE_STRIKE"
+msgstr "Rocket Strike"
+
+msgid "MEDAL_NAME_MISSION_ACCOMPLISHED"
+msgstr "Mission Complete"
+
+msgid "MEDAL_NAME_NIMBLE"
+msgstr "Aerial Acrobat"
+
+msgid "MEDAL_NAME_NOOB_PLANE"
+msgstr "Test Pilot"
+
+msgid "MEDAL_NAME_NORMALWEIGHT"
+msgstr "Middleweight"
+
+msgid "MEDAL_NAME_NO_CAMP_ALLY_PROGRESS1"
+msgstr "Steel Mountain Badge Class I"
+
+msgid "MEDAL_NAME_NO_CAMP_ALLY_PROGRESS2"
+msgstr "Steel Mountain Badge Class II"
+
+msgid "MEDAL_NAME_NO_CAMP_ALLY_PROGRESS3"
+msgstr "Steel Mountain Badge Class III"
+
+msgid "MEDAL_NAME_NO_CAMP_AXIS_PROGRESS1"
+msgstr "Blooming Edelweiss Badge Class I"
+
+msgid "MEDAL_NAME_NO_CAMP_AXIS_PROGRESS2"
+msgstr "Blooming Edelweiss Badge Class II"
+
+msgid "MEDAL_NAME_NO_CAMP_AXIS_PROGRESS3"
+msgstr "Blooming Edelweiss Badge Class III"
+
+msgid "MEDAL_NAME_NO_STONE_UNTURNED"
+msgstr "No Stone Unturned"
+
+msgid "MEDAL_NAME_NY_FROST"
+msgstr "Operation Frost"
+
+msgid "MEDAL_NAME_NY_LUCK"
+msgstr "Holiday Luck"
+
+msgid "MEDAL_NAME_NY_MARKSMAN"
+msgstr "Snowball Sniper"
+
+msgid "MEDAL_NAME_NY_SET"
+msgstr "Season's Set"
+
+msgid "MEDAL_NAME_NY_SHOOTER"
+msgstr "Snowball Marksman"
+
+msgid "MEDAL_NAME_NY_SNOWBALL"
+msgstr "Holiday Snowball"
+
+msgid "MEDAL_NAME_NY_WATCH"
+msgstr "Winning Streak"
+
+msgid "MEDAL_NAME_PATROL"
+msgstr "All-Round Abilities"
+
+msgid "MEDAL_NAME_PERSISTENT"
+msgstr "Persistent"
+
+msgid "MEDAL_NAME_PLANE_TESTER"
+msgstr "Test Pilot"
+
+msgid "MEDAL_NAME_POKRYSHKIN1"
+msgstr "Pokryshkin Medal Class I"
+
+msgid "MEDAL_NAME_POKRYSHKIN2"
+msgstr "Pokryshkin Medal Class II"
+
+msgid "MEDAL_NAME_POKRYSHKIN3"
+msgstr "Pokryshkin Medal Class III"
+
+msgid "MEDAL_NAME_POKRYSHKIN4"
+msgstr "Pokryshkin Medal Class IV"
+
+msgid "MEDAL_NAME_PREDATOR"
+msgstr "Predator"
+
+msgid "MEDAL_NAME_PREDATORY_BIRD"
+msgstr "Hunt for Condor"
+
+msgid "MEDAL_NAME_PREDATORY_DUET"
+msgstr "Raptor Duo"
+
+msgid "MEDAL_NAME_PULL"
+msgstr "Pull Up"
+
+msgid "MEDAL_NAME_PUNISHER"
+msgstr "Punisher"
+
+msgid "MEDAL_NAME_PYROMANIAC"
+msgstr "Pyromaniac"
+
+msgid "MEDAL_NAME_QUARTERMASTER_1"
+msgstr "Quartermaster Rank 1"
+
+msgid "MEDAL_NAME_QUARTERMASTER_2"
+msgstr "Quartermaster Rank 2"
+
+msgid "MEDAL_NAME_QUARTERMASTER_3"
+msgstr "Quartermaster Rank 3"
+
+msgid "MEDAL_NAME_QUARTERMASTER_4"
+msgstr "Quartermaster Rank 4"
+
+msgid "MEDAL_NAME_QUARTERMASTER_5"
+msgstr "Quartermaster Rank 5"
+
+msgid "MEDAL_NAME_RAIDER"
+msgstr "Raider"
+
+msgid "MEDAL_NAME_REAPER"
+msgstr "Reaper"
+
+msgid "MEDAL_NAME_REAR_GUARD"
+msgstr "Rear Cover"
+
+msgid "MEDAL_NAME_REAR_GUNNER"
+msgstr "Gunner"
+
+msgid "MEDAL_NAME_REDCOMET1"
+msgstr "The Red Comet Badge, Stage I"
+
+msgid "MEDAL_NAME_REDCOMET2"
+msgstr "The Red Comet Badge, Stage II"
+
+msgid "MEDAL_NAME_REDCOMET3"
+msgstr "The Red Comet Badge, Stage III"
+
+msgid "MEDAL_NAME_REDCOMET4"
+msgstr "The Red Comet Badge, Stage IV"
+
+msgid "MEDAL_NAME_REDCOMET_LEADER"
+msgstr "Red Falcon"
+
+msgid "MEDAL_NAME_RELEASER"
+msgstr "Rescuer"
+
+msgid "MEDAL_NAME_RELIABLE_PROTECTION"
+msgstr "Strong Support"
+
+msgid "MEDAL_NAME_RELIABLE_REAR"
+msgstr "Rear Cover"
+
+msgid "MEDAL_NAME_RESILIENT"
+msgstr "Resilient"
+
+msgid "MEDAL_NAME_REVENGE"
+msgstr "Avenger"
+
+msgid "MEDAL_NAME_RIDDLE"
+msgstr "Swooper"
+
+msgid "MEDAL_NAME_RIDDLED"
+msgstr "Riddled"
+
+msgid "MEDAL_NAME_ROAD_TO_THE_SKY"
+msgstr "Highway to the Sky"
+
+msgid "MEDAL_NAME_ROCKETEER"
+msgstr "Rocketeer"
+
+msgid "MEDAL_NAME_ROCKET_SHOOTER"
+msgstr "Rocketeer"
+
+msgid "MEDAL_NAME_ROCKET_STRIKE"
+msgstr "Rocket Strike"
+
+msgid "MEDAL_NAME_RUDOLPH_PILOTDEER"
+msgstr "Rudolph Hawker"
+
+msgid "MEDAL_NAME_RUDORFFER"
+msgstr "Rudorffer Medal"
+
+msgid "MEDAL_NAME_RUTHLESS"
+msgstr "Merciless"
+
+msgid "MEDAL_NAME_SCAN_THE_SKIES"
+msgstr "Vigilant"
+
+msgid "MEDAL_NAME_SCORCHED_EARTH"
+msgstr "Scorched Earth"
+
+msgid "MEDAL_NAME_SCYTHE_OF_DEATH"
+msgstr "Scythe of Death"
+
+msgid "MEDAL_NAME_SECRET_SANTA"
+msgstr "Secret Santa"
+
+msgid "MEDAL_NAME_SECRET_SANTA_2017"
+msgstr "Santa's Bag"
+
+msgid "MEDAL_NAME_SECRET_SANTA_2018"
+msgstr "Holiday Season Event"
+
+msgid "MEDAL_NAME_SECRET_SANTA_2019"
+msgstr "Santa's Bag 2019"
+
+msgid "MEDAL_NAME_SECRET_TRIAL"
+msgstr "Secret Trials"
+
+msgid "MEDAL_NAME_SECRET_TRIAL_HORTEN"
+msgstr "Secret Trials: Horten Ho 229"
+
+msgid "MEDAL_NAME_SECRET_TRIAL_TU1"
+msgstr "Secret Trials: Tupolev Tu-1"
+
+msgid "MEDAL_NAME_SEVERSKY1"
+msgstr "Seversky Order Class I"
+
+msgid "MEDAL_NAME_SEVERSKY2"
+msgstr "Seversky Order Class II"
+
+msgid "MEDAL_NAME_SEVERSKY3"
+msgstr "Seversky Order Class III"
+
+msgid "MEDAL_NAME_SHIELD"
+msgstr "Flying Shield Badge"
+
+msgid "MEDAL_NAME_SIKORSKY1"
+msgstr "Sikorsky Order Class I"
+
+msgid "MEDAL_NAME_SIKORSKY2"
+msgstr "Sikorsky Order Class II"
+
+msgid "MEDAL_NAME_SIKORSKY3"
+msgstr "Sikorsky Order Class III"
+
+msgid "MEDAL_NAME_SIKORSKY4"
+msgstr "Sikorsky Order Class IV"
+
+msgid "MEDAL_NAME_SILVER_PLAYERS"
+msgstr "Silver Cup Badge"
+
+msgid "MEDAL_NAME_SKILLED_PILOT"
+msgstr "Skillful Pilot"
+
+msgid "MEDAL_NAME_SKY_FIRE"
+msgstr "Flames in the Sky"
+
+msgid "MEDAL_NAME_SKY_N_GROUND"
+msgstr "Heaven and Earth"
+
+msgid "MEDAL_NAME_SKY_SCOURGE"
+msgstr "Sky Scourge"
+
+msgid "MEDAL_NAME_SKY_WOLVES"
+msgstr "Air Wolves"
+
+msgid "MEDAL_NAME_SMOKING_BARRELS"
+msgstr "Smoking Barrels"
+
+msgid "MEDAL_NAME_SNAKE_HIPS"
+msgstr "Bätcher Medal"
+
+msgid "MEDAL_NAME_SPECIALIST_PLANE"
+msgstr "Specialist"
+
+msgid "MEDAL_NAME_SPECIAL_AWARD"
+msgstr "Distinguished Award"
+
+msgid "MEDAL_NAME_SPRING_VETERAN"
+msgstr "Spring Event Veteran"
+
+msgid "MEDAL_NAME_SQUALL_OF_STEEL"
+msgstr "Hail of Steel"
+
+msgid "MEDAL_NAME_STABLE_RESULT"
+msgstr "Steady Results"
+
+msgid "MEDAL_NAME_STAIRS_TO_THE_SKY"
+msgstr "Ladder to the Sky"
+
+msgid "MEDAL_NAME_STAIRWAY_TO_THE_SKY"
+msgstr "Stairway to the Sky"
+
+msgid "MEDAL_NAME_STAR_CATCHER"
+msgstr "Reach for the Star"
+
+msgid "MEDAL_NAME_STEEL_FLURRY"
+msgstr "Hail of Steel"
+
+msgid "MEDAL_NAME_STEEL_GRIP"
+msgstr "Iron Grip"
+
+msgid "MEDAL_NAME_STEP_TO_THE_SKY"
+msgstr "First Step to the Sky"
+
+msgid "MEDAL_NAME_STORMBRINGER"
+msgstr "Stormbringer"
+
+msgid "MEDAL_NAME_STRATEGIST"
+msgstr "Strategist"
+
+msgid "MEDAL_NAME_STRIKE_TEAM"
+msgstr "Distinguished Wing"
+
+msgid "MEDAL_NAME_STRONG_TEAM"
+msgstr "Superior Wing"
+
+msgid "MEDAL_NAME_SUCCESSFUL_RAID"
+msgstr "Proven Raider"
+
+msgid "MEDAL_NAME_SUDDEN_DEATH"
+msgstr "Kiss of Death"
+
+msgid "MEDAL_NAME_SUMMER_STORM"
+msgstr "Summer Storm"
+
+msgid "MEDAL_NAME_SUMMER_VETERAN"
+msgstr "Summer Event Veteran"
+
+msgid "MEDAL_NAME_SUPERHEAVY"
+msgstr "Super Heavyweight"
+
+msgid "MEDAL_NAME_SUPERHEAVYWEIGHT"
+msgstr "Heavyweight"
+
+msgid "MEDAL_NAME_SUPERTEST_VETERAN"
+msgstr "Supertest Veteran"
+
+msgid "MEDAL_NAME_SURE_COVER"
+msgstr "Strong Support"
+
+msgid "MEDAL_NAME_SURVIVOR"
+msgstr "Die Hard"
+
+msgid "MEDAL_NAME_TAIL_BUSTER"
+msgstr "Catch by the Tail"
+
+msgid "MEDAL_NAME_TEAMWORK_GURU"
+msgstr "Hero of the Sky Badge"
+
+msgid "MEDAL_NAME_TESTER_1"
+msgstr "Public Test Master Rank 1"
+
+msgid "MEDAL_NAME_TESTER_10"
+msgstr "Public Test Participant Rank 10"
+
+msgid "MEDAL_NAME_TESTER_2"
+msgstr "Public Test Master Rank 2"
+
+msgid "MEDAL_NAME_TESTER_3"
+msgstr "Public Test Master Rank 3"
+
+msgid "MEDAL_NAME_TESTER_4"
+msgstr "Public Test Expert Rank 4"
+
+msgid "MEDAL_NAME_TESTER_5"
+msgstr "Public Test Expert Rank 5"
+
+msgid "MEDAL_NAME_TESTER_6"
+msgstr "Public Test Expert Rank 6"
+
+msgid "MEDAL_NAME_TESTER_7"
+msgstr "Public Test Specialist Rank 7"
+
+msgid "MEDAL_NAME_TESTER_8"
+msgstr "Public Test Specialist Rank 8"
+
+msgid "MEDAL_NAME_TESTER_9"
+msgstr "Public Test Specialist Rank 9"
+
+msgid "MEDAL_NAME_THRIFTY_BOMBARDIER"
+msgstr "Thrifty Bomber"
+
+msgid "MEDAL_NAME_THRIFTY_ROCKETEER"
+msgstr "Thrifty Rocketeer"
+
+msgid "MEDAL_NAME_THUNDER"
+msgstr "Thunder"
+
+msgid "MEDAL_NAME_TOP_DOWN_DIVER"
+msgstr "Breakneck Descent"
+
+msgid "MEDAL_NAME_TOP_PLAYERS"
+msgstr "Top Rated Badge"
+
+msgid "MEDAL_NAME_TOURNAMENT_1_PLACE"
+msgstr "Tournament 1st Place Winner"
+
+msgid "MEDAL_NAME_TOURNAMENT_2_PLACE"
+msgstr "Tournament 2nd Place Winner"
+
+msgid "MEDAL_NAME_TOURNAMENT_3_PLACE"
+msgstr "Tournament 3rd Place Winner"
+
+msgid "MEDAL_NAME_TOURNAMENT_PLAYER"
+msgstr "Tournament Competitor"
+
+msgid "MEDAL_NAME_UNLIMITED_WEIGHT"
+msgstr "Super Heavyweight"
+
+msgid "MEDAL_NAME_UNSTOPPABLE"
+msgstr "Furious"
+
+msgid "MEDAL_NAME_UNTOUCHABLE"
+msgstr "Not a Scratch"
+
+msgid "MEDAL_NAME_VALUABLE_CONTRIBUTION"
+msgstr "Major Contributor"
+
+msgid "MEDAL_NAME_VAMPIREF1"
+msgstr "Fangs of Steel"
+
+msgid "MEDAL_NAME_VENGEANCE1"
+msgstr "The Blade of Vengeance Badge, Stage I"
+
+msgid "MEDAL_NAME_VENGEANCE2"
+msgstr "The Blade of Vengeance Badge, Stage II"
+
+msgid "MEDAL_NAME_VENGEANCE3"
+msgstr "The Blade of Vengeance Badge, Stage III"
+
+msgid "MEDAL_NAME_VENGEANCE4"
+msgstr "The Blade of Vengeance Badge, Stage IV"
+
+msgid "MEDAL_NAME_VENGEANCE_LEADER"
+msgstr "Master of Vengeance"
+
+msgid "MEDAL_NAME_VETERAN"
+msgstr "Top Pilot"
+
+msgid "MEDAL_NAME_VOLUNTEER"
+msgstr "Voluntary Service"
+
+msgid "MEDAL_NAME_WARRIOR"
+msgstr "Flying Fighter Badge"
+
+msgid "MEDAL_NAME_WAR_OF_ATTRITION"
+msgstr "Attrition"
+
+msgid "MEDAL_NAME_WEIGHTY_CONTRIBUTION"
+msgstr "Outstanding Contribution"
+
+msgid "MEDAL_NAME_WG_FEST_2016"
+msgstr "«Участник WG Fest 2016»"
+
+msgid "MEDAL_NAME_WG_FEST_2017"
+msgstr "«Участник WG Fest 2017»"
+
+msgid "MEDAL_NAME_WG_FEST_2018"
+msgstr "WG Fest 2018 Participant"
+
+msgid "MEDAL_NAME_WINGED_FLAME"
+msgstr "Wings Ablaze"
+
+msgid "MEDAL_NAME_WINGMAN"
+msgstr "Supporting Fire"
+
+msgid "MEDAL_NAME_WING_LEGEND"
+msgstr "Winged Legend"
+
+msgid "MEDAL_NAME_WINTER_VETERAN"
+msgstr "Winter Event Veteran"
+
+msgid "MEDAL_NAME_XP-55"
+msgstr "Ascent"
+
+msgid "MEDAL_NAME_YEFIMOV"
+msgstr "Efimov Medal"
+
+msgid "MEDAL_NAME_ZVONAREV"
+msgstr "Zvonarev Medal"
+
+msgid "MEDAL_STAGE_BEGELDINOV"
+msgstr ""
+"Class I: <font color='#f2f2f2'>30,000</font> ground targets<br>Class II: "
+"<font color='#f2f2f2'>3,000</font> ground targets<br>Class III: <font "
+"color='#f2f2f2'>300</font> ground targets<br>Class IV: <font "
+"color='#f2f2f2'>30</font> ground targets"
+
+msgid "MEDAL_STAGE_BONG"
+msgstr ""
+"Class I: <font color='#f2f2f2'>300</font> Destroyer medals<br>Class II: "
+"<font color='#f2f2f2'>30</font> Destroyer medals<br>Class III: <font "
+"color='#f2f2f2'>3</font> Destroyer medals"
+
+msgid "MEDAL_STAGE_BOYINGTON"
+msgstr ""
+"Class I: <font color='#f2f2f2'>{0}</font> capture points<br>Class II: <font "
+"color='#f2f2f2'>{1}</font> capture points<br>Class III: <font "
+"color='#f2f2f2'>{2}</font> capture points<br>Class IV: <font "
+"color='#f2f2f2'>{3}</font> capture points"
+
+msgid "MEDAL_STAGE_DEFENDER_PROGRESS"
+msgstr ""
+"Class I: <font color='#f2f2f2'>21</font> confrontations<br>Class II: <font "
+"color='#f2f2f2'>10</font> confrontations<br>Class III: <font "
+"color='#f2f2f2'>1</font> confrontation"
+
+msgid "MEDAL_STAGE_DILLEI"
+msgstr ""
+"Class I: <font color='#f2f2f2'>{0}</font> enemy aircraft<br>Class II: <font "
+"color='#f2f2f2'>{1}</font> enemy aircraft<br>Class III: <font "
+"color='#f2f2f2'>{2}</font> enemy aircraft<br>Class IV: <font "
+"color='#f2f2f2'>{3}</font> enemy aircraft"
+
+msgid "MEDAL_STAGE_GALLAND"
+msgstr ""
+"Class I: <font color='#f2f2f2'>300</font> Ace medals<br>Class II: <font "
+"color='#f2f2f2'>30</font> Ace medals<br>Class III: <font color='#f2f2f2'>3</"
+"font> Ace medals"
+
+msgid "MEDAL_STAGE_GRAF"
+msgstr ""
+"Class I: <font color='#f2f2f2'>10,000</font> aircraft<br>Class II: <font "
+"color='#f2f2f2'>1,000</font> aircraft<br>Class III: <font "
+"color='#f2f2f2'>100</font> aircraft<br>Class IV: <font color='#f2f2f2'>10</"
+"font> aircraft"
+
+msgid "MEDAL_STAGE_HAMMER_PROGRESS"
+msgstr ""
+"Class I: <font color='#f2f2f2'>21</font> confrontations<br>Class II: <font "
+"color='#f2f2f2'>10</font> confrontations<br>Class III: <font "
+"color='#f2f2f2'>1</font> confrontation"
+
+msgid "MEDAL_STAGE_JA_ALLY_PROGRESS"
+msgstr ""
+"Class I: <font color='#f2f2f2'>5,000</font> superiority points<br>Class II: "
+"<font color='#f2f2f2'>1,500</font> superiority points<br>Class III: <font "
+"color='#f2f2f2'>100</font> superiority points"
+
+msgid "MEDAL_STAGE_JA_AXIS_PROGRESS"
+msgstr ""
+"Class I: <font color='#f2f2f2'>5,000</font> superiority points<br>Class II: "
+"<font color='#f2f2f2'>1,500</font> superiority points<br>Class III: <font "
+"color='#f2f2f2'>100</font> superiority points"
+
+msgid "MEDAL_STAGE_JA_PACIFIC"
+msgstr ""
+"Class I: <font color='#f2f2f2'>21</font> confrontations<br>Class II: <font "
+"color='#f2f2f2'>10</font> confrontations<br>Class III: <font "
+"color='#f2f2f2'>1</font> confrontation"
+
+msgid "MEDAL_STAGE_JA_TORATORA"
+msgstr ""
+"Class I: <font color='#f2f2f2'>21</font> confrontations<br>Class II: <font "
+"color='#f2f2f2'>10</font> confrontations<br>Class III: <font "
+"color='#f2f2f2'>1</font> confrontation"
+
+msgid "MEDAL_STAGE_JOHNSON"
+msgstr ""
+"Class I: <font color='#f2f2f2'>{0}</font> ground targets<br>Class II: <font "
+"color='#f2f2f2'>{1}</font> ground targets<br>Class III: <font "
+"color='#f2f2f2'>{2}</font> ground targets<br>Class IV: <font "
+"color='#f2f2f2'>{3}</font> ground targets"
+
+msgid "MEDAL_STAGE_MEYER"
+msgstr ""
+"Class I: <font color='#f2f2f2'>300</font> Thunder medals<br>Class II: <font "
+"color='#f2f2f2'>30</font> Thunder medals<br>Class III: <font "
+"color='#f2f2f2'>3</font> Thunder medals"
+
+msgid "MEDAL_STAGE_MIHALENKOV"
+msgstr ""
+"Class I: <font color='#f2f2f2'>{0}</font> personal points<br>Class II: <font "
+"color='#f2f2f2'>{1}</font> personal points<br>Class III: <font "
+"color='#f2f2f2'>{2}</font> personal points<br>Class IV: <font "
+"color='#f2f2f2'>{3}</font> personal points"
+
+msgid "MEDAL_STAGE_POKRYSHKIN"
+msgstr ""
+"Class I: <font color='#f2f2f2'>{0}</font> air defense aircraft<br>Class II: "
+"<font color='#f2f2f2'>{1}</font> air defense aircraft<br>Class III: <font "
+"color='#f2f2f2'>{2}</font> air defense aircraft<br>Class IV: <font "
+"color='#f2f2f2'>{3}</font> air defense aircraft"
+
+msgid "TOOLTIP_ACHIEVEMENTS_PAGE_PVE"
+msgstr "Medals and awards earned in battles"

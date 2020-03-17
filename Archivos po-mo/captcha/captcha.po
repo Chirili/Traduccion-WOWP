@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"PO-Revision-Date: 2019-10-10 12:45+0200\n"
+"Last-Translator: WoT Translator <noreply@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgid "ERROR-CODES/CHALLENGE-IS-EMPTY"
+msgstr "Parámetro de desafío incorrecto."
+
+msgid "ERROR-CODES/ENQUEUE-FAILURE"
+msgstr "Introduce las letras que ves en la imagen y repite los pasos recientes."
+
+msgid "ERROR-CODES/IMAGE-INTERNAL-ERROR"
+msgstr ""
+"Error al cargar la imagen CAPTCHA: no es posible unirse a la batalla. Porfavor contacta "
+"con el Servicio de Soporte Técnico y vuelve a intentarlo mas tarde."
+
+msgid "ERROR-CODES/PUBLIC-KEY-EMPTY"
+msgstr "No es posible obtener la clave publica del CAPTCHA."
+
+msgid "ERROR-CODES/RESPONSE-IS-EMPTY"
+msgstr "El valor del campo está vacio."
+
+msgid "GUI/BUTTONS/CLOSE"
+msgstr "Cerrar"
+
+msgid "GUI/BUTTONS/RELOAD"
+msgstr "Actualizar"
+
+msgid "GUI/BUTTONS/SUBMIT"
+msgstr "Enviar"
+
+msgid "GUI/LABELS/RECAPTCHA_INSTRUCTIONS_IMAGE"
+msgstr "Escribe la palabra:"
+
+msgid "NOTIFICATION/REMAINS-TO-ATTEMPT"
+msgstr "Numero de intentos: %d."

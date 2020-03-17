@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"PO-Revision-Date: 2019-10-10 12:23+0200\n"
+"Last-Translator: WoT Translator <noreply@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgid "AOND_1"
+msgstr "Llevas jugando una hora"
+
+msgid "AOND_2"
+msgstr "Llevas jugando dos horasYour AOND has been 2 hours"
+
+msgid "AOND_3"
+msgstr ""
+"LLevas jugando 3 horas. Porfavor considera tomar un descanso y hacer algo de deporte por el bien de "
+"tu salud."
+
+msgid "AOND_MORE_3"
+msgstr ""
+"Has empezado la cuarta hora de juego, las ganancias dentro del juego se reducirán en un 50%. Es mejor "
+"por el bien de tu salud que desconectes y hagas algo de deporte. Por favor organiza tús tus estudios "
+"y una vida adecuada."
+
+msgid "AOND_MORE_5"
+msgstr ""
+"Has entrado en un tiempo de juego que no es saludable, por favor desconectate y toma un descanso. Si "
+"no abandonas el juego, tu salud empeorará y las ganancias dentro del juego se verán reducidas a 0. "
+"Hasta que estes al menos durante 5 horas desconectado, entonces todo se recuperará."
+
+msgid "NOTIFICATION/CLOSE"
+msgstr "Vale"
+
+msgid "NOTIFICATION/TITLE"
+msgstr "Aviso del sistema de Juego en contra de la Adiccion Online"
+
+msgid "RESET"
+msgstr "Has estado desconectado por 5 horas. Todas tús ganancias dentro del juego se han recuperado."

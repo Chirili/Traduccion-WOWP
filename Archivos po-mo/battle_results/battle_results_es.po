@@ -1,0 +1,880 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "AFTERBATTLE_MESSAGE_ALL_PLAYERS_LEFT"
+msgstr "Acabó la batalla: todos los jugadores han dejado la batalla."
+
+msgid "AFTERBATTLE_PROGRESS_DAILY_QUESTS"
+msgstr "«{quest_name}» progreso en la misión diaria {ratio}"
+
+msgid "AFTERBATTLE_PROGRESS_DAILY_QUESTS_COMPLETE"
+msgstr "¡Misión diaria «{quest_name}» completada! {ratio}"
+
+msgid "AFTERBATTLE_STATISTICS_ACHIEVEMENT_GET"
+msgstr "{achievement_name} logro recibido"
+
+msgid "AFTERBATTLE_STATISTICS_ALLIES_REACHED_SUPREMACY"
+msgstr "El equipo aliado logró la supremacía."
+
+msgid "AFTERBATTLE_STATISTICS_ALL_ALLIES_DEAD"
+msgstr "Todos los aviones aliados están destruidos."
+
+msgid "AFTERBATTLE_STATISTICS_ALL_ENEMY_SAUCERS_DEAD"
+msgstr "¡Todos los platillos volantes enemigos están destruidos!"
+
+msgid "AFTERBATTLE_STATISTICS_ALL_FRIENDLY_SAUCERS_DEAD"
+msgstr "¡Todos los platillos volantes amigos están destruidos!"
+
+msgid "AFTERBATTLE_STATISTICS_BOTH_REACHED_SUPREMACY"
+msgstr "Ambos equipos lograron la superioridad."
+
+msgid "AFTERBATTLE_STATISTICS_BUTTON_DETAILED"
+msgstr "Detalles"
+
+msgid "AFTERBATTLE_STATISTICS_BUTTON_REPLAY"
+msgstr "Ir a repeticiones"
+
+msgid "AFTERBATTLE_STATISTICS_BUTTON_WATCH"
+msgstr "Reproducir"
+
+msgid "AFTERBATTLE_STATISTICS_COLUMN_HEADER_ASSISTS"
+msgstr "Puntos de<br>asistencia"
+
+msgid "AFTERBATTLE_STATISTICS_COLUMN_HEADER_GROUND_TARGETS_KILLED"
+msgstr "Puntos<br>recibidos"
+
+msgid "AFTERBATTLE_STATISTICS_COLUMN_HEADER_PLANES_KILLED"
+msgstr "Aviones<br>destruidos"
+
+msgid "AFTERBATTLE_STATISTICS_COLUMN_HEADER_SAUCERS_KILLED"
+msgstr "Platillos volantes<br>destruidos"
+
+msgid "AFTERBATTLE_STATISTICS_CONTEXT_BOT-USERS_PENALTY"
+msgstr "multa por usar bots"
+
+msgid "AFTERBATTLE_STATISTICS_CONTEXT_COMPENSATION_FROM_ALLIES"
+msgstr "Compensación por daño causado por aliados:"
+
+msgid "AFTERBATTLE_STATISTICS_CONTEXT_FOR_MODE_NAME"
+msgstr "(en {mode_name})"
+
+msgid "AFTERBATTLE_STATISTICS_CONTEXT_LOW_ACTIVITY_PENALTY"
+msgstr "multa por falta de actividad"
+
+msgid "AFTERBATTLE_STATISTICS_CONTEXT_PENALTY_FOR_DAMAGE_TO_ALLIES"
+msgstr "multa por dañar a aliados"
+
+msgid "AFTERBATTLE_STATISTICS_CONTEXT_PERCENT_OF_AMOUNT"
+msgstr "{percent} de {amount}"
+
+msgid "AFTERBATTLE_STATISTICS_DRAW_ALL_SAUCERS_DEAD"
+msgstr "¡Todos los platillos volantes están destruidos!"
+
+msgid "AFTERBATTLE_STATISTICS_ENEMIES_REACHED_SUPREMACY"
+msgstr "El equipo enemigo logró la supremacía."
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_ALLIES"
+msgstr "Nuestro equipo"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_BATTLE_RESULTS"
+msgstr "Resultados de batalla"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_BATTLE_XP_EVENTS"
+msgstr "Ofertas de experiencia"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_BONUS_EVENTS"
+msgstr "Ofertas"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_CREW_XP_EVENTS"
+msgstr "Ofertas de XP de la tripulación"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_DETAILED_STATISTICS"
+msgstr "Informe detallado"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_ENEMIES"
+msgstr "Enemigos"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_EVENTS"
+msgstr "Progreso"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_FIRST_WIN_DAILY_EVENT"
+msgstr "Primera victoria del día"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_FREE_XP_EVENTS"
+msgstr "Ofertas de XP libre"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_PERSONAL_PROGRESS"
+msgstr "Progreso personal"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_PERSONAL_RESULT"
+msgstr "Logros personales:"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_STATISTICS"
+msgstr "Estadísticas"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_TEAM_RESULT"
+msgstr "Puntuación del equipo"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_TIME"
+msgstr "Hora"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_ACCURACY"
+msgstr "Precisión"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_AOGAS_PENALTY"
+msgstr "Anti-online game addiction penalty"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_AUTOREEQUIP"
+msgstr "Autoabastecimiento de consumibles"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_AUTOREEQUIP_SHORT"
+msgstr "Reabastecimiento de consumibles"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_AUTOREFILL"
+msgstr "Autoabastecimiento de munición"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_AUTOREFILL_SHORT"
+msgstr "Reabastecer munición"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_AUTOREPAIR"
+msgstr "Autorreparar avión"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_AUTOREPAIR_SHORT"
+msgstr "Autorreparación"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_BATTLES_PER_SESSION"
+msgstr "Total de la sesión actual:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_BATTLE_DURATION"
+msgstr "Duración de la batalla"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_BATTLE_EFFICIENCY"
+msgstr "Rendimiento en batalla"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_BATTLE_START"
+msgstr "Hora de inicio"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_BELTS"
+msgstr "Cintas:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_BEST_RESULT"
+msgstr "(máximo)"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_BEST_RESULT_OBJECTS"
+msgstr "¡Récord de número de objetivos terrestres destruidos!"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_BEST_RESULT_PLANES"
+msgstr "¡Récord de número de aviones destruidos!"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_BEST_RESULT_XP"
+msgstr "¡Récord de experiencia por batalla!"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_BOMBS"
+msgstr "Bombas:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CLEAR_INCOME_FOR_BATTLE"
+msgstr "Recibido tras la batalla"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_COMPENSATION_FROM_ALLIES"
+msgstr "Compensación por daño causado por aliados"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CONSUMABLES_AND_EQUIPMENT"
+msgstr "Equipamiento y consumibles"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREDITS"
+msgstr "Créditos"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREDS"
+msgstr "Créditos"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREDS_AFTER_BATTLE"
+msgstr "Conseguido en batalla:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREDS_AND_GOLD"
+msgstr "Créditos y oro"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREDS_AND_GOLD_FOR_BATTLE"
+msgstr "Créditos y oro"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREDS_AND_GOLD_FOR_BATTLE_TOTAL"
+msgstr "Total de créditos y oro:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREDS_FOR_BATTLE"
+msgstr "Créditos"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREDS_WITH_MODIFIERS"
+msgstr "Incluyendo modificadores:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREW_XP"
+msgstr "Experiencia de la tripulación"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREW_XP_FOR_BATTLE"
+msgstr "Experiencia de la tripulación"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREW_XP_FOR_BATTLE_TOTAL"
+msgstr "Total de experiencia de la tripulación:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREW_XP_RECEIVED_FOR_BATTLE"
+msgstr "Experiencia de la tripulación recibida:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CRITICAL_DAMAGE_DONE"
+msgstr "Daño crítico"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAILY_FIRST_WIN"
+msgstr "Primera victoria del día"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_BY_BOMBS"
+msgstr "Por bombas"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_BY_FIRE"
+msgstr "Por fuego"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_BY_GUNNER"
+msgstr "Por artillero"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_BY_GUNS"
+msgstr "Por armas"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_BY_RAMMING"
+msgstr "Por embestir"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_BY_ROCKETS"
+msgstr "Por cohetes"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_DEALT"
+msgstr "Daño causado:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_DONE"
+msgstr "Daño causado"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_FROM_AA-GUNS"
+msgstr "Por cañones AA"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_FROM_ALLIES"
+msgstr "Por aviones aliados"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_FROM_ENEMIES"
+msgstr "Por aviones enemigos"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_FROM_FIRE"
+msgstr "Daño causado por fuego en el motor"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_FROM_GUNNERS"
+msgstr "Por artilleros enemigos"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_TO_ALLIES"
+msgstr "Daño causado a aliados (destruidos/PV)"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DESTROYED_IN_GROUP"
+msgstr "Puntos de asistencia"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DESTROYED_PERSONALY"
+msgstr "Enemigos destruidos individualmente"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DETAILED_INFO_UNAVAILABLE"
+msgstr "Estadísticas detalladas no disponibles."
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DETECTED"
+msgstr "Detectados"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_EVENT"
+msgstr "Oferta:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_FASTER_CREW_TRAINING"
+msgstr "Entrenamiento acelerado de la tripulación"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_FASTER_TRAINING"
+msgstr "Entrenamiento acelerado"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_FREE_XP_RECEIVED_FOR_BATTLE"
+msgstr "Experiencia libre recibida"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_GROUND_TARGETS"
+msgstr "Objetivos terrestres"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_GROUND_TARGETS_COUNT"
+msgstr "Objetivos terrestres"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_GROUND_TARGETS_KILLED"
+msgstr "Objetivos terrestres destruidos"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_HITS_MADE"
+msgstr "Impactos"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_IGNITIONS_MADE"
+msgstr "incendios"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_INCLUDING_FREE_XP"
+msgstr "(incluyendo experiencia libre)"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_INCOME_FOR_ALL_BONUSES"
+msgstr "Bonificaciones totales"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_INCOME_FOR_BATTLE"
+msgstr "Recibido"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_INCOME_JUST_BONUSES"
+msgstr "Bonificaciones"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_INCOME_MODIFIERS"
+msgstr "Modificadores:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_INCOME_NO_BONUSES"
+msgstr "Recibido sin bonificaciones"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_INCOME_TOTAL"
+msgstr "Total recibido"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_INCOME_TOTAL_CONTEXT"
+msgstr "Total recibido:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_KILLED_BY_BOMB"
+msgstr "destruido por una bomba de {name} ({aircraft})"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_KILLED_BY_COLLISION"
+msgstr "destruido tras colisionar con {name} ({aircraft})"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_KILLED_BY_ENEMY_AA"
+msgstr "destruido por cañones AA enemigos"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_KILLED_BY_GUNNNER"
+msgstr "destruido por el artillero de {name} ({aircraft})"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_KILLED_BY_PLAYER"
+msgstr "destruido por {name} ({aircraft})"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_KILLED_BY_ROCKET"
+msgstr "destruido por un cohete de {name} ({aircraft})"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_KILLED_CRASHED"
+msgstr "avión estrellado"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_KILLED_WITH_FIRE"
+msgstr "destruido por el fuego ({name}, {aircraft})"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_LIFETIME_IN_BATTLE"
+msgstr "Tiempo con vida"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_LOW_ACTIVITY_PENALTY"
+msgstr "Multa por falta de actividad"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_LOW_ACTIVITY_PENALTY_VALUE"
+msgstr "Multa por falta de actividad: -{number} % de {amount}"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_MODULE_READY_FOR_PURCHASE"
+msgstr "Disponible para comprar: {module_name}"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_MODULE_READY_FOR_RESEARCH"
+msgstr "Disponible para desarrollar: {module_name}"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_NO_NEW_EVENTS"
+msgstr "No hay nuevo progreso."
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PARTICULAR_DAMAGE_DONE"
+msgstr "Daño parcial"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PAYMENT_FOR_BATTLE"
+msgstr "Recibido"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PENALTIES"
+msgstr "Multas:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PENALTY_FOR_DAMAGE_TO_ALLIES"
+msgstr "Multa por daño causado a aliados"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PENALTY_TIMER"
+msgstr "Hora antes de eliminarse la multa"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PLANES"
+msgstr "Aviones"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PLANES_COUNT"
+msgstr "Aviones"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PLANES_KILLED"
+msgstr "Aviones destruidos"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PLANE_READY_FOR_PURCHASE"
+msgstr "{plane} disponible para comprar"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PLANE_READY_FOR_RESEARCH"
+msgstr "{plane} disponible para desarrollar"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PLAYER_SURVIVED"
+msgstr "Sobrevivió"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_POSSIBLE_BALANCE_IF_PREMIUM"
+msgstr "Bonificación de cuenta premium<br>(no incluida)"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_POSSIBLY WITH_PREMIUM"
+msgstr "Potencial total con premium"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PREMIUM"
+msgstr "Cuenta premium"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_QUEST"
+msgstr "Misión:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_QUESTS_OUTDATED_REWARD"
+msgstr "¡Misiones caducadas completadas!"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_QUEST_COMPLETION_REWARD"
+msgstr "Logros de la misión:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_QUEST_REWARD_RECEIVED"
+msgstr "Logros totales:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_ROCKETS"
+msgstr "Cohetes:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SAUCERS_KILLED"
+msgstr "Platillos volantes destruidos"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SESSION_BATTLES_LOG"
+msgstr "Historial de batalla"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SHOTS_MADE"
+msgstr "Proyectiles disparados"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SHOTS_PRESISE"
+msgstr "impactos"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SHOTS_TAKEN"
+msgstr "Impactos recibidos"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SPENT"
+msgstr "Gastos"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SPENT_AFTER_BATTLE"
+msgstr "Gastado tras la batalla"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SPENT_AMMO_AUTOREFILL"
+msgstr "Autoabastecimiento de munición"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SPENT_CONSUMABLES_AUTOREFILL"
+msgstr "Autoabastecimiento de consumibles"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SPENT_FOR_GUNNER"
+msgstr "Gastado en el entrenamiento del artillero"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SPENT_FOR_PILOT"
+msgstr "Gastado en el entrenamiento del piloto"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SPENT_FOR_TRAINING"
+msgstr "Gastado en el entrenamiento"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SPENT_TOTAL"
+msgstr "Total gastado"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_TARGETS"
+msgstr "Objetivos"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_TOTALLY"
+msgstr "Total:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_TOTAL_ACCOUNT_BALANCE"
+msgstr "Total añadido a la cuenta"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_TOTAL_ACCOUNT_BALANCE_IF_PREMIUM"
+msgstr "Total potencial con premium"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_TOTAL_CREW_XP"
+msgstr "Total recibido"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_TOTAL_FOR_BATTLE"
+msgstr "Total:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_TOTAL_NO_COLON"
+msgstr "Total"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_WINS_BATTLES"
+msgstr "Victorias/batallas"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_WITHOUT_PREMIUM"
+msgstr "Sin premium"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_WITH_PREMIUM"
+msgstr "Con premium"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_WITH_PREMIUM_CREDS_XP"
+msgstr "Con premium {credits} {xp}"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_XP"
+msgstr "Experiencia"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_XP_FOR_BATTLE"
+msgstr "Experiencia"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_XP_FOR_BATTLE_TOTAL"
+msgstr "Experiencia total:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_XP_INCOME_FOR_BATTLE"
+msgstr "Experiencia conseguida:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_XP_MODIFIERS"
+msgstr "Modificadores de experiencia:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_XP_NO_BONUSES"
+msgstr "Total sin incluir bonificaciones"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_XP_RECEIVED_FOR_BATTLE"
+msgstr "Experiencia recibida:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_YOUR_BATTLE_EFFICIENCY"
+msgstr "Rendimiento en batalla"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_YOUR_KILLS_AND_DAMAGED"
+msgstr "Destruido y dañado"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_ZERO_BATTLE_ACTIVITY"
+msgstr "¡Piloto, entra en acción en la siguiente batalla!"
+
+msgid "AFTERBATTLE_STATISTICS_LAVEL_PLAYER_DEAD"
+msgstr "Destruidos"
+
+msgid "AFTERBATTLE_STATISTICS_MESSAGES_ALL_ENEMIES_DEAD"
+msgstr "Todos los aviones enemigos destruidos."
+
+msgid "AFTERBATTLE_STATISTICS_MESSAGE_BOT-USERS_WARNING"
+msgstr ""
+"La multa por usar bots totaliza el 50 % de la experiencia y los créditos "
+"recibidos."
+
+msgid "AFTERBATTLE_STATISTICS_MESSAGE_DRAW"
+msgstr "Empate"
+
+msgid "AFTERBATTLE_STATISTICS_MESSAGE_LOST"
+msgstr "Derrota"
+
+msgid "AFTERBATTLE_STATISTICS_MESSAGE_WIN"
+msgstr "¡Victoria!"
+
+msgid "AFTERBATTLE_STATISTICS_MORE_ENEMY_SAUCERS_DEAD"
+msgstr "¡El equipo amigo destruyó más platillos volantes!"
+
+msgid "AFTERBATTLE_STATISTICS_MORE_FRIENDLY_SAUCERS_DEAD"
+msgstr "¡El equipo enemigo destruyó más platillos volantes!"
+
+msgid "AFTERBATTLE_STATISTICS_NO_STATS_FOR_PVE_MODE"
+msgstr ""
+"En las batallas contra bots, los resultados de batalla no se muestran en las "
+"estadísticas.<br>Completa esta misión para desbloquear otros tipos de "
+"batalla<br>con estadísticas extendidas."
+
+msgid "AFTERBATTLE_STATISTICS_PREMIUM_BONUS_VALUE"
+msgstr "+50%"
+
+msgid "AFTERBATTLE_STATISTICS_PTS_FOR_GROUND_TARGETS"
+msgstr "por objetivos terrestres destruidos"
+
+msgid "AFTERBATTLE_STATISTICS_PTS_FOR_PLANES"
+msgstr "por aviones destruidos"
+
+msgid "AFTERBATTLE_STATISTICS_PVE_NO_PLAYERS"
+msgstr "¡Todos los aviones de jugadores humanos están destruidos!"
+
+msgid "AFTERBATTLE_STATISTICS_SUPERIORITY_PTS"
+msgstr "Puntos de superioridad"
+
+msgid "AFTERBATTLE_STATISTICS_TOTAL_RESULT_FOR_BATTLE"
+msgstr "Total"
+
+msgid "BATTLERESULT_CREDITS"
+msgstr "<font color='#B9E1FF'>Créditos:</font> {credits}"
+
+msgid "BATTLERESULT_DAMAGED"
+msgstr "Dañado:"
+
+msgid "BATTLERESULT_DEAD"
+msgstr "Destruido"
+
+msgid "BATTLERESULT_DISCONNECTED"
+msgstr "Desconectado"
+
+msgid "BATTLERESULT_EXPERIENCE"
+msgstr "<font color='#B9E1FF'>Experiencia:</font> {xp}"
+
+msgid "BATTLERESULT_FRAGS"
+msgstr "Destruido"
+
+msgid "BATTLERESULT_HEADER"
+msgstr "Resultados de batalla"
+
+msgid "BATTLERESULT_HITS"
+msgstr "impactos"
+
+msgid "BATTLERESULT_HITS_TAKEN"
+msgstr "impactos recibidos"
+
+msgid "BATTLERESULT_KILLED"
+msgstr "Destruidos:"
+
+msgid "BATTLERESULT_KILLED_BY_GROUND"
+msgstr "Destruido tras colisionar con el terreno"
+
+msgid "BATTLERESULT_KILLED_BY_TURRET"
+msgstr "Destruido por cañón AA"
+
+msgid "BATTLERESULT_KILLER_DATA"
+msgstr "<font color='#B9E1FF'>Destruido por:</font> {player} ({vehicle})"
+
+msgid "BATTLERESULT_KILLER_DATA_ENDGAME"
+msgstr "<font color='#B9E1FF'>Destruido:</font> {killerName}"
+
+msgid "BATTLERESULT_KILLER_NAME"
+msgstr "Destruido por:"
+
+msgid "BATTLERESULT_KILLER_TURRET_DATA"
+msgstr "<font color='#B9E1FF'>Destruido:</font> {killerName}"
+
+msgid "BATTLERESULT_NOT_DEAD"
+msgstr "En batalla"
+
+msgid "BATTLERESULT_OWN_DATA"
+msgstr "{player} ({vehicle})"
+
+msgid "BATTLERESULT_PERSONAL"
+msgstr "Puntuación personal"
+
+msgid "BATTLERESULT_PLAYER_NAME"
+msgstr "Jugador"
+
+msgid "BATTLERESULT_PLAYER_STATUS"
+msgstr "Estado"
+
+msgid "BATTLERESULT_PRESS_ESC_TO_EXIT"
+msgstr ""
+"<p><font color='#B2B2B2'>Pulsa</font><b><font color='#FFB400'> Esc </font></"
+"b><font color='#B2B2B2'>para volver al Hangar</font></p>"
+
+msgid "BATTLERESULT_REPAIR"
+msgstr "Reparaciones:"
+
+msgid "BATTLERESULT_SHOTS_NUMBER"
+msgstr "proyectiles disparados"
+
+msgid "BATTLERESULT_SPOTTED"
+msgstr "Detectados:"
+
+msgid "BATTLERESULT_TEAM"
+msgstr "Puntuación del equipo"
+
+msgid "BATTLERESULT_VEHICLE"
+msgstr "Avión"
+
+msgid "BATTLE_RESULTS_RECEIVED_AFTER_BATTLE"
+msgstr "Conseguido en batalla"
+
+msgid "BATTLE_RESULT_ACHIEVEMENTS_RECIEVED_ON_AIRCRAFT"
+msgstr "Logro recibido en el siguiente avion:<br>{aircraft}"
+
+msgid "BATTLE_RESULT_ACHIEVEMENTS_RECIEVED_ON_AIRCRAFT_AND_MORE"
+msgstr "Logro recibido en:<br>{aircraft} y mas {number}."
+
+msgid "BATTLE_RESULT_ALL_PLANES_EXP"
+msgstr "Toda la XP de aviones"
+
+msgid "BATTLE_RESULT_AND_MORE_ACHIEVEMENTS"
+msgstr "y mas logros:"
+
+msgid "BATTLE_RESULT_ASSISTS"
+msgstr "Asistencia al destruir"
+
+msgid "BATTLE_RESULT_AVAILABLE_FIRST_SKILL_POINT"
+msgstr "Primer punto de habilidad disponible"
+
+msgid "BATTLE_RESULT_AVAILABLE_NEW_SKILL_POINT"
+msgstr "Nuevo punto de habilidad disponible"
+
+msgid "BATTLE_RESULT_BATTLE_POINTS"
+msgstr "Puntos personales"
+
+msgid "BATTLE_RESULT_CANDYS_LL_BE_TRANSFERRED_TO_FREE_EXP"
+msgstr "¡Las golosinas reunidas se han convertido en experiencia libre!"
+
+msgid "BATTLE_RESULT_CAP_POINT"
+msgstr "Puntos de captura recibidos"
+
+msgid "BATTLE_RESULT_CAP_POINTS_IN_ATT"
+msgstr "Puntos de captura conseguidos en el ataque"
+
+msgid "BATTLE_RESULT_CAP_POINTS_IN_DEF"
+msgstr "Puntos de captura conseguidos en defensa"
+
+msgid "BATTLE_RESULT_CAP_POINT_RECEIVED"
+msgstr "Puntos de captura recibidos"
+
+msgid "BATTLE_RESULT_CLICK_TO_SHOW_DETAILS"
+msgstr "Haz clic para ver los detalles."
+
+msgid "BATTLE_RESULT_CREDITS"
+msgstr "Créditos"
+
+msgid "BATTLE_RESULT_DAMAGE_DEALT_TO_OBJECT"
+msgstr "Daño a los objetivos terrestres"
+
+msgid "BATTLE_RESULT_DAMAGE_DEALT_TO_PLANES"
+msgstr "Daño a los objetivos aéreos"
+
+msgid "BATTLE_RESULT_DEATH"
+msgstr "Veces que el jugador fue destruido"
+
+msgid "BATTLE_RESULT_EARN_EXP_FOR_SKILL_POINT"
+msgstr ""
+"{member_name} está acumulando experiencia para recibir otro punto de "
+"habilidad"
+msgid "BATTLE_RESULT_EXP"
+msgstr "XP"
+
+msgid "BATTLE_RESULT_FACTORY_NEW_QUEST_DONE"
+msgstr "¡Misión para alcanzar la configuración inicial cumplida!"
+
+msgid "BATTLE_RESULT_FACTORY_NEW_QUEST_PROGRESS"
+msgstr "Progreso de la misión para alcanzar la configuración inicial"
+
+msgid "BATTLE_RESULT_GENERAL_EFFICIENCY"
+msgstr "Rendimiento general"
+
+msgid "BATTLE_RESULT_GENERAL_STATS_FOR_ALL_PLANES_IN_BATTLE"
+msgstr "Informe sobre todos los aviones que<br>participaron en la batalla"
+
+msgid "BATTLE_RESULT_GUNNER_EXP"
+msgstr "Experiencia del artillero:"
+
+msgid "BATTLE_RESULT_HEADER_GENERAL"
+msgstr "Resumen"
+
+msgid "BATTLE_RESULT_HEADER_PLAYERS"
+msgstr "Jugadores"
+
+msgid "BATTLE_RESULT_JA_TR_STAT_TEXT_1"
+msgstr "¡Has obtenido abastecimientos!"
+
+msgid "BATTLE_RESULT_JA_TR_STAT_TEXT_2"
+msgstr "Puntos para la siguiente caja de abastecimiento:"
+
+msgid "BATTLE_RESULT_MAP_CLEANED"
+msgstr "El equipo de salvamento ha limpiado el campo de batalla."
+
+msgid "BATTLE_RESULT_MASTERY_POINTS"
+msgstr "Puntos de maestría"
+
+msgid "BATTLE_RESULT_OBJECTS_DESTROYED"
+msgstr "Objetivos terrestres destruidos"
+
+msgid "BATTLE_RESULT_PARTS_DESTROYED"
+msgstr "Secciones de objetivos terrestres destruidas"
+msgid "BATTLE_RESULT_PENALTY_BECAUSE_OF_LEAVING"
+msgstr "Penalización por abandonar la partida muy pronto"
+
+msgid "BATTLE_RESULT_PENALTY_BECAUSE_OF_LEAVING_SHORT"
+msgstr "Penalización por abandonar la partida pronto"
+
+msgid "BATTLE_RESULT_PILOT_EXP"
+msgstr "Experiencia del piloto:"
+
+msgid "BATTLE_RESULT_PLANES_DESTROYED"
+msgstr "Objetivos aéreos destruidos"
+
+msgid "BATTLE_RESULT_PLANES_DESTROYED_1"
+msgstr "Objetivos aéreos destruidos"
+
+msgid "BATTLE_RESULT_PLANES_DESTROYED_IN_DEFENCE"
+msgstr "Destruidos al defender"
+
+msgid "BATTLE_RESULT_PLANE_EXP"
+msgstr "Experiencia del avión:"
+
+msgid "BATTLE_RESULT_PREMIUM_AIRCRAFT_BONUS"
+msgstr "Avión premium: +20 % a la experiencia de la tripulación"
+
+msgid "BATTLE_RESULT_PROGRESS_BAR_FULL_UP_SPECIALITY"
+msgstr "¡La competencia de {member_name} está entrenada al 100 %!"
+
+msgid "BATTLE_RESULT_PROGRESS_BAR_UP_SPECIALITY"
+msgstr "{member_name} ha mejorado su competencia"
+
+msgid "BATTLE_RESULT_RECEIVED_FIRST_SKILL_POINT"
+msgstr "¡{member_name} ha recibido su primer punto de habilidad!"
+
+msgid "BATTLE_RESULT_RECEIVED_NEXT_SKILL_POINT"
+msgstr "¡{member_name} ha recibido un nuevo punto de habilidad!"
+
+msgid "BATTLE_RESULT_REWARD_FOR_BATTLE_QUESTS"
+msgstr "Recompensa de la misión:"
+
+msgid "BATTLE_RESULT_SECTORS_CAPTURED"
+msgstr "Sectores capturados"
+
+msgid "BATTLE_RESULT_SPECIALIST_QUEST_DONE"
+msgstr "¡Misión para alcanzar la configuración «Especialista» cumplida!"
+
+msgid "BATTLE_RESULT_SPECIALIST_QUEST_PROGRESS"
+msgstr "Progreso de la misión para alcanzar la configuración «Especialista»"
+msgid "BATTLE_RESULT_STRIKE_PLANES_DESTROYED"
+msgstr "Aviones y bombarderos destruidos"
+
+msgid "BATTLE_RESULT_TEST_FLIGHT"
+msgstr "(vuelo de prueba)"
+
+msgid "BATTLE_RESULT_TEXT"
+msgstr "Resultados de batalla"
+
+msgid "BATTLE_RESULT_TIME_IN_BATTLE"
+msgstr "Tiempo empleado en batalla"
+
+msgid "BATTLE_RESULT_VERY_GOOD"
+msgstr "¡Bien hecho!"
+
+msgid "BATTLE_RESULT_WELL_DONE"
+msgstr "¡Buen trabajo!"
+
+msgid "BATTLE_RESULT_YOUR_PLACE_IN_TEAM_SCORE"
+msgstr "Clasificación en el grupo de combate"
+
+msgid "BATTLE_RESULT_YOU_BEST_KEEP_IT"
+msgstr "¡Perfecto! ¡Sigue así!"
+
+msgid "BATTLE_RESULT_YOU_COLLECTED_ENOUGH_GET_THIS_GIFT"
+msgstr "¡Has reunido suficientes golosinas para obtener este regalo!"
+
+msgid "HIT_TABLE_TEXT"
+msgstr "Daño causado:"
+
+msgid "HUD_BATTLE_RESULT_OBJECT_DISCOVERED"
+msgstr "Objetivos detectados:"
+
+msgid "HUD_BATTLE_RESULT_PENALTY_CREDITS"
+msgstr "-{credits} créditos"
+
+msgid "HUD_BATTLE_RESULT_PENALTY_EXP"
+msgstr "{exp} XP"
+
+msgid "HUD_BATTLE_RESULT_TITLE_COMPENSATION"
+msgstr "Compensación por daño causado por aliados:"
+
+msgid "HUD_BATTLE_RESULT_TITLE_PENALTY"
+msgstr "Sanción por dañar a un aliado: "
+
+msgid "KILL_TABLE_TEXT"
+msgstr "Destruidos:"
+
+msgid "RETURN_LOBBY_BUTTON"
+msgstr "al vestíbulo"
+
+msgid "SPOT_TABLE_TEXT"
+msgstr "Detectados:"
+
+msgid "TEAMOBJECT"
+msgstr "Objetivos destruidos:"
+
+msgid "TEAMTURRENT"
+msgstr "Cañones AA destruidos:"

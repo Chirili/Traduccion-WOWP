@@ -1,0 +1,539 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: \n"
+"Language: bin\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgid "DIALOG_QUEUE_AVG_TIME"
+msgstr "(Tiempo promedio en la cola: %(avg)s min)"
+
+msgid "DIALOG_QUEUE_PLACE_MESSAGE"
+msgstr "Su número en la cola: %(number)s of %(total)s"
+
+msgid "DIALOG_QUEUE_TIME"
+msgstr "Tiempo transcurrido: %(time)s"
+
+msgid "DIALOG_SERVER_FULL_BUTTON_LEAVE_QUEUE"
+msgstr "Dejar de buscar partida"
+
+msgid "DIALOG_SERVER_FULL_HEADER"
+msgstr "{name} Servidor ocupado"
+
+msgid "DIALOG_SERVER_FULL_MESSAGE"
+msgstr ""
+"Estas en cola para entrar en partida.<br><font size='6'><br></font>Espera hasta que el cliente te conecte a la "
+"partida automaticamente."
+
+msgid "DIALOG_SERVER_OVERLOADED_HEADER"
+msgstr "Lo sentimos, el servidor está ocupado."
+
+msgid "DIALOG_SERVER_OVERLOADED_MESSAGE"
+msgstr "Conectando al servidor..."
+
+msgid "DIALOG_SERVER_OVERLOADED_MESSAGE_SHORT"
+msgstr "Conectando al servidor."
+
+msgid "DIALOG_SERVER_RECONNECTING_MESSAGE"
+msgstr "Fallo al conectarse con el servidor. Reconectando…"
+
+msgid "DIALOG_SERVER_WAITING_TIME_MESSAGE"
+msgstr "Tiempo de conexion transcurrido con el servidor:"
+
+msgid "DIALOG_TRAINING_WAIT_MESSAGE"
+msgstr "El tutorial empezará automaticamente."
+
+msgid "DISCLAIMER"
+msgstr ""
+"Referecia a una marca particular, modelo, fabricante y/o versión de una aeronave solo por exactitud historica, y "
+"no indican ningun tipo depatrocinio o respaldo de cualquier propietario de la marca registrada. Todos los modelos "
+"de los avionesestán diseñados para tener unas características de vuelo y algunos elementos dediseño artístico que "
+"replican de manera realista a los aviones de la Segunda Guerra Mundial. Todas las marcascomerciales de aviones y "
+"los derechos de las marcas comerciales son propiedad exclusiva de susrespectivos propietarios."
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:STEAM_ACCOUNT_MISMATCH"
+msgstr ""
+"No se puede iniciar sesion. Por favor, desvincula tú cuenta de Wargaming.net de tú cuenta de Steamen el apartado "
+"web de Gestión de cuentas a través del siguiente enlace: https://wargaming.net/personal"
+
+msgid "DISCONNECTED"
+msgstr "La conexión con el servidor de ha perdido."
+
+msgid "ENTER"
+msgstr "Entrar"
+
+msgid "ERROR_MESSAGE_NO_MOUSE_FOUND"
+msgstr "Ratón no detectado."
+
+msgid "INVALID_LOGIN"
+msgstr "Correo electrónico o contraseña incorrectos."
+
+msgid "INVALID_LOGIN_LENGTH"
+msgstr "Dirección de correo electrónico incorrecta."
+
+msgid "INVALID_PASSWORD"
+msgstr "Contraseña incorrecta."
+
+msgid "LOGIN/STATUS/ALREADY_ONLINE_LOCALLY"
+msgstr "El cliente ya está online localmente."
+
+msgid "LOGIN/STATUS/CANCELLED"
+msgstr "Conexión con el servidor interrumpida por el usuario."
+
+msgid "LOGIN/STATUS/CONNECTING"
+msgstr "?empty?"
+
+msgid "LOGIN/STATUS/CONNECTION_FAILED"
+msgstr "No se puede conectar a la red."
+
+msgid "LOGIN/STATUS/DISCONNECTED"
+msgstr "Has sido desconectado del servidor."
+
+msgid "LOGIN/STATUS/DNS_LOOKUP_FAILED"
+msgstr "No se puede localizar la direccion IP del servidor a traves de las DNS."
+
+msgid "LOGIN/STATUS/EMPTY_LOGIN"
+msgstr "Porfavor introduce tu nombre de usuario."
+
+msgid "LOGIN/STATUS/EMPTY_PASSWORD"
+msgstr "Porfavor introduce tu contraseña."
+
+msgid "LOGIN/STATUS/EMPTY_SERVER"
+msgstr "Porfavor selecciona un servidor."
+
+msgid "LOGIN/STATUS/INVALID_LOGIN"
+msgstr "Porfavor utiliza tu correo electrónico para iniciar sesión."
+
+msgid "LOGIN/STATUS/INVALID_LOGIN_LENGTH"
+msgstr "El nombre de usuario tiene que ser de al menos dos carácteres."
+
+msgid "LOGIN/STATUS/INVALID_PASSWORD"
+msgstr "La constraseña debe tener al menos 6 carácteres. Porfavor utiliza caracteres del alfabeto, numericos y '_'."
+
+msgid "LOGIN/STATUS/LOGIN_BAD_PROTOCOL_VERSION"
+msgstr "Porfavor actualiza el cliente."
+
+msgid "LOGIN/STATUS/LOGIN_CUSTOM_DEFINED_ERROR"
+msgstr "Servidor no disponible. Razón: %s"
+
+msgid "LOGIN/STATUS/LOGIN_MALFORMED_REQUEST"
+msgstr ""
+"El paquete de inicio de sesión se ha enviado al servidor malformado. Tú cliente debe estar desactualizado o "
+"corrupto."
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_ACCOUNT_IN_DEL_PROCESS"
+msgstr "eliminación de cuenta solicitada."
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_ACCOUNT_IN_DEL_PROCESS_DESCRIPTION"
+msgstr ""
+"Cuando se está borrando la cuenta, se suspende por 45 dias. Después de esto, todos los datos del jugador en todos "
+"los juegos de Wargaming.net serán completamente borrados del servidor."
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_ACTIVATING"
+msgstr "Iniciando sesión..."
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_ALREADY_LOGGED_IN"
+msgstr "Un jugador con este nombre ya está dentro del juego."
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_AUTHORIZING_ERROR"
+msgstr "Error de autorización. Porfavor introduce tu nombre de usuario y contraseña."
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_BAD_DIGEST"
+msgstr "Por favor actualice su cliente de juego."
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_BAN"
+msgstr "Tu cuanta ha sido bloqueada hasta: %(time)s. Razón: %(reason)s"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_BAN_UNLIMITED"
+msgstr "Tu cuenta ha sido suspendida. Razón: %(reason)s"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_BASEAPPMGR_TIMEOUT"
+msgstr "Error del servidor (BASEAPPMGR_TIMEOUT)"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_BASEAPP_OVERLOAD"
+msgstr "Servidor ocupado. Porfavor intentalo de nuevo mas tarde."
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_BASEAPP_TIMEOUT"
+msgstr "Fallo al entrar al juego: el servidor se está reiniciandose."
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_CELLAPP_OVERLOAD"
+msgstr "Servidor ocupado. Vuelva a intentarlo más tarde"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_DBMGR_OVERLOAD"
+msgstr "Servidor ocupado. Vuelva a intentarlo más tarde"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_DB_GENERAL_FAILURE"
+msgstr "Error del servidor (DB_GENERAL_FAILURE)"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_DB_NOT_READY"
+msgstr "Error del servidor (DB_NOT_READY)"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_ILLEGAL_CHARACTERS"
+msgstr "El nombre de usuario o la contraseña contienen carácteres no validos."
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_INVALID_LOGIN"
+msgstr "Correo electrónico o contraseña incorrectos."
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_INVALID_PASSWORD"
+msgstr "Correo electrónico o contraseña incorrectos."
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_IN_ORDER_TO_CANCEL_ACC_DEL_SEND_TICKET_TO_CONTACT_SUPPORT"
+msgstr "Si desea cancelar la eliminación de la cuenta, envíe una solicitud a {link_start}Player Support.{link_end}"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_LOGINS_NOT_ALLOWED"
+msgstr "El servidor no está disponible temporalmente debido a un mantenimiento programado"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_LOGIN_QUEUE"
+msgstr "Servidor ocuado/lleno. Conexión pendiente con el servidor. Tú puesto en la cola es: %d"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_NOT_REGISTERED"
+msgstr ""
+"No se puede iniciar sesión. Mira la bandeja de entrada de tú correo para ver si se encuentra el correo de "
+"confirmación y vuelve a intentarlo."
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_NO_BASEAPPS"
+msgstr "Fallo al entrar al juego: servidor reiniciandose."
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_NO_BASEAPP_RESPONSE"
+msgstr "Error del servidor (NO_BASEAPPS)"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_NO_SUCH_USER"
+msgstr "Correo electrónico o contraseña incorrectos."
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_RATE_LIMITED"
+msgstr "Servidor ocupado. Conexión pendiente con el servidor."
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_REGISTRATION_NOT_ALLOWED"
+msgstr "El registro es temporalmente prohibido."
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_REGISTRATION_NOT_CONFIRMED"
+msgstr ""
+"No se puede iniciar sesión. Mira la bandeja de entrada de tú correo para ver si se encuentra el correo de "
+"confirmación y vuelve a intentarlo."
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_SERVER_NOT_READY"
+msgstr "El servidor no está listo. Porfavor vuelve a intentarlo de nuevo mas tarde."
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_UNABLE_TO_PARSE_JSON"
+msgstr "Este nombre de usuario contiene simbolos que no son validos. Porfavor prueba a usar otro nombre de usuario."
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_USERS_LIMIT"
+msgstr "Servidor ocupado. Selecciona otro servidor o vuelve a intentarlo mas tarde."
+
+msgid "LOGIN/STATUS/MENU_CANT_CREATE_ACCOUNT_NAME_TAKEN"
+msgstr "Un jugador con este nombre ya se encuentra registrado en el juego. Prueba un nombre diferente."
+
+msgid "LOGIN/STATUS/PUBLIC_KEY_LOOKUP_FAILED"
+msgstr "No se puede localizar la clave/key publica del cliente. Por favor actualiza el cliente de juego."
+
+msgid "LOGIN/STATUS/UNAVAILABLE"
+msgstr "Servidor no disponible."
+
+msgid "LOGIN/STATUS/UNKNOWN_ERROR"
+msgstr "Ha ocurrido un error desconocido."
+
+msgid "LOGIN/STATUS/UPDATEURLAVAIALBLEAT"
+msgstr "Hay una nueva versión del cliente de juego disponible. Por favor comienza la actualización."
+
+msgid "LOGIN_ACCOUNT"
+msgstr "Cuenta:"
+
+msgid "LOGIN_AUTO_ENTER"
+msgstr "Conectar automaticamente"
+
+msgid "LOGIN_CUSTOM_DEFINED_ERROR"
+msgstr "Un error desconocido ha ocurrido."
+
+msgid "LOGIN_ENTER"
+msgstr "!CONECTAR!"
+
+msgid "LOGIN_EXIT_ACCOUNT"
+msgstr "Cerrar sesión"
+
+msgid "LOGIN_FAST_ENTER"
+msgstr "Inicio de sesión rapido:"
+
+msgid "LOGIN_FIELD"
+msgstr "Correo electrónico:"
+
+msgid "LOGIN_FORGOT_PASSWORD_TEXT"
+msgstr "¿Has olvidado tu contraseña?"
+
+msgid "LOGIN_LAW_INFO"
+msgstr "Información legal"
+
+msgid "LOGIN_LOGIN"
+msgstr "Correo electrónico:"
+
+msgid "LOGIN_MESSAGES_DOWNLOAD_AND_UPDATE"
+msgstr ""
+"Si la actualzación no empieza, descarga el archivo de actualización del siguiente enlace: {link_start}pincha "
+"aquí{link_end} y ejecutalo."
+
+msgid "LOGIN_MESSAGES_NEW_UPDATE"
+msgstr "Nueva versión del cliente de juego disponible."
+
+msgid "LOGIN_MESSAGES_START_UPDATE"
+msgstr "Comenzar actualización"
+
+msgid "LOGIN_NICK"
+msgstr "Nombre de usuario:"
+
+msgid "LOGIN_PASS"
+msgstr "Constraseña:"
+
+msgid "LOGIN_POPUP_MENU"
+msgstr "Menu"
+
+msgid "LOGIN_REJECTED_ACCOUNT_OUTDATED"
+msgstr "Tú sesión ha expirado."
+
+msgid "LOGIN_REJECTED_ACTIVATION"
+msgstr ""
+"No se puede iniciar sesión. Mira la bandeja de entrada de tú correo para ver si se encuentra el correo de "
+"confirmación y vuelve a intentarlo."
+
+msgid "LOGIN_REJECTED_BAN"
+msgstr "Tú cuenta ha sido bloqueada hasta: %(time)s. Razón: %(reason)s"
+
+msgid "LOGIN_REJECTED_BAN_UNLIMITED"
+msgstr "Tu cuenta ha sido bloqueada permanentemente. Razón: %(reason)s"
+
+msgid "LOGIN_REJECTED_INVALID_DATA"
+msgstr "Credenciales no validos."
+
+msgid "LOGIN_REJECTED_LOGIN_QUEUE"
+msgstr "Tú puesto en la cola para entrar en partida es: "
+
+msgid "LOGIN_REJECTED_RATE_LIMITED"
+msgstr "Servidor ocupado. Conexión pendiente con el servidor."
+
+msgid "LOGIN_SERVER"
+msgstr "Servidor:"
+
+msgid "LOGIN_SIGN_UP_TEXT"
+msgstr "Registro"
+
+msgid "LOGIN_WITH_ANY_TOOLTIP_MESSAGE"
+msgstr "Para entrar al juego, se abrirá una ventana con la pagina de inicio de sesión."
+
+msgid "LOGIN_WITH_FACEBOOK_ACC"
+msgstr "Cuenta de Facebook"
+
+msgid "LOGIN_WITH_GOOGLE_ACC"
+msgstr "Cuenta de Google"
+
+msgid "LOGIN_WITH_VKONTAKTE_ACC"
+msgstr "Cuenta de VK"
+
+msgid "LOGIN_WITH_WG_ID"
+msgstr "Wargaming.net ID"
+
+msgid "MENU_CHANGE_BUTTON"
+msgstr "Cambiar"
+
+msgid "MENU_CHANGE_LANGUAGE"
+msgstr "Cambiar idioma"
+
+msgid "MENU_CHANGE_LANGUAGE_DESCRIPTION"
+msgstr "Los cambios se aplicarán una vez que reinicies el juego."
+
+msgid "MENU_CHANGE_REALM"
+msgstr "Cambiar servidor"
+
+msgid "MENU_CHANGE_REALM_DESCRIPTION"
+msgstr ""
+"¡Atención! Despues de que cambies de servidor, cambiarás a otra cuenta. Tus posesiones dentro del juego, incluida "
+"la Experciena Libre, no se sincroniza entre diferentes servidores: tienes diferentes posesiones y progresos en "
+"diferentes servidores."
+
+msgid "MENU_LANGUAGE"
+msgstr "Idioma:"
+
+msgid "MENU_LANGUAGE_BG"
+msgstr "Български"
+
+msgid "MENU_LANGUAGE_CS"
+msgstr "Čeština"
+
+msgid "MENU_LANGUAGE_DA"
+msgstr "Dansk"
+
+msgid "MENU_LANGUAGE_DE"
+msgstr "Deutsch"
+
+msgid "MENU_LANGUAGE_EL"
+msgstr "Ελληνικά"
+
+msgid "MENU_LANGUAGE_EN"
+msgstr "English"
+
+msgid "MENU_LANGUAGE_ES"
+msgstr "Español"
+
+msgid "MENU_LANGUAGE_ES_AR"
+msgstr "Español (Argentina)"
+
+msgid "MENU_LANGUAGE_ET"
+msgstr "Eesti"
+
+msgid "MENU_LANGUAGE_FI"
+msgstr "Suomi"
+
+msgid "MENU_LANGUAGE_FR"
+msgstr "Français"
+
+msgid "MENU_LANGUAGE_HR"
+msgstr "Hrvatski"
+
+msgid "MENU_LANGUAGE_HU"
+msgstr "Magyar"
+
+msgid "MENU_LANGUAGE_IT"
+msgstr "Italiano"
+
+msgid "MENU_LANGUAGE_JA"
+msgstr "Japanese"
+
+msgid "MENU_LANGUAGE_LT"
+msgstr "Lietuvių"
+
+msgid "MENU_LANGUAGE_LV"
+msgstr "Latviešu"
+
+msgid "MENU_LANGUAGE_NL"
+msgstr "Nederlands"
+
+msgid "MENU_LANGUAGE_NO"
+msgstr "Norsk"
+
+msgid "MENU_LANGUAGE_PL"
+msgstr "Polski"
+
+msgid "MENU_LANGUAGE_PT"
+msgstr "Português (EU)"
+
+msgid "MENU_LANGUAGE_PT_BR"
+msgstr "Português (BR)"
+
+msgid "MENU_LANGUAGE_RO"
+msgstr "Română"
+
+msgid "MENU_LANGUAGE_RU"
+msgstr "Русский"
+
+msgid "MENU_LANGUAGE_SR"
+msgstr "Srpski"
+
+msgid "MENU_LANGUAGE_SV"
+msgstr "Svenska"
+
+msgid "MENU_LANGUAGE_TR"
+msgstr "Türkçe"
+
+msgid "MENU_LANGUAGE_ZH_CN"
+msgstr "简体中文（中华人民共和国）"
+
+msgid "MENU_NICKNAME_IN_GAME"
+msgstr "Nombre de usuario dentro del juego:"
+
+msgid "MENU_NICKNAME_MAY_CONTAIN"
+msgstr "Solo letras, numeros y los caracteres subrayados (_) son válidos."
+
+msgid "MENU_REALM_ASIA"
+msgstr "Asia"
+
+msgid "MENU_REALM_CN"
+msgstr "Asia"
+
+msgid "MENU_REALM_EU"
+msgstr "Europa"
+
+msgid "MENU_REALM_NA"
+msgstr "Norte America"
+
+msgid "MENU_REALM_RU"
+msgstr "CIS"
+
+msgid "MENU_REPLAY_PLAY"
+msgstr "Jugar"
+
+msgid "MENU_REPLAY_VER_DIFF_ATTENTION"
+msgstr ""
+"La versión actual de World of Warplanes no es compatible con la batalla grabando. Esto puede causar problemas en "
+"las repeticiones.<br><font size='6'><br></font>¿Ignorar la diferencia y repetir de todos modos?"
+
+msgid "MENU_UNLINKED"
+msgstr "Cuenta desvinculada"
+
+msgid "MENU_UNLINK_YOUR_CURRENT_ACCOUNT_TO_BE_ABLE_TO_CREATE_A_NEW_ONE"
+msgstr ""
+"Para empezar a jugar, desvincula tu cuenta de Steam de tú cuenta de Wargaming.net.<br>Esto no afectará a las "
+"estadísticas o las posesisiones de tú cuenta de Wargaming.net."
+
+msgid "MENU_UNLINK_YOUR_WG_ACCOUNT"
+msgstr "Desvincular"
+
+msgid "MENU_YOU_CAN_CHOOSE_ONE_OF_THESE_NAMES"
+msgstr "Quizás te gustaría usar uno de estos nombres:"
+
+msgid "NICK_FIELD"
+msgstr "Nombre de usuario:"
+
+msgid "PASS_FIELD"
+msgstr "Contraseña:"
+
+msgid "REMEMBER_PASSWORD"
+msgstr "Recuerdame"
+
+msgid "REPLAY_MESSAGE_CLIENT_ALREADY_LAUNCHED"
+msgstr "Para ver la repetición, primero debes salirte del juego(World of Warplanes)."
+
+msgid "REPLAY_MESSAGE_INCOMPATIBLE_CLIENT_VERSION"
+msgstr ""
+"Esta repetición ha sido grabada en una versión diferente del cliente de juego y no escompatible con tu versión "
+"actual."
+
+msgid "RETURN_TO_GAME_BTN"
+msgstr "Volver al juego"
+
+msgid "SERVER_UNAVAILABLE_HEADER"
+msgstr "Servidor no disponible"
+
+msgid "SERVER_UNAVAILABLE_MESSAGE"
+msgstr ""
+"Temporalmente no está disponible el cambio de servidores. Puedes seguir usando el servidor actual o esperar hasta "
+"que el cambio de servidor esté disponible."
+
+msgid "SUSPENDED"
+msgstr ""
+"La cuenta va a ser eliminada. Puede cancelar el borrado enviando una solicitud a tú pagina de Administrador de "
+"Cuente(Account Management)."
+
+msgid "TOOLTIP_LOGIN_EXIT_ACCOUNT"
+msgstr "Borrar datos de inicio de sesión"
+
+msgid "TOOLTIP_LOGIN_FORGOT_PASSWORD_TEXT"
+msgstr "Serás redirigido a la página de recuperación de contraseñas."
+
+msgid "TOOLTIP_LOGIN_SIGN_UP_TEXT"
+msgstr "Serás redirigido a la página de registro de usuario."
+
+msgid "TOOLTIP_REDIRECT_SOCIAL"
+msgstr "Serás redirigido a la página de inicio de sesión de la red social."
+
+msgid "UPDATEURLAVAIALBLEAT"
+msgstr "Por favor actualiza tu cliente de juego."
+
+msgid "WAIT_CONNECTION_BTN"
+msgstr "Espera"
+
+msgid "WARGAMING_COPYRIGHT"
+msgstr "© 2011–2019 Wargaming.net. Todos los derechos reservados."

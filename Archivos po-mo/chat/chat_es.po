@@ -1,0 +1,954 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "CHAT_ADD_CONTACT_ENTER_PLAYER_NAME"
+msgstr "Introduce un nombre de jugador"
+
+msgid "CHAT_ADD_CONTACT_PLAYERS_FOUND"
+msgstr "Jugadores encontrados"
+
+msgid "CHAT_BLOCKED_LIST_EMPTY"
+msgstr "La lista está vacía."
+
+msgid "CHAT_BLOCKED_LIST_HEADER"
+msgstr "Lista de usuarios bloqueados"
+
+msgid "CHAT_BUTTON_ADD"
+msgstr "Añadir"
+
+msgid "CHAT_BUTTON_APPLY"
+msgstr "Aplicar"
+
+msgid "CHAT_BUTTON_BACK_TO_CHAT"
+msgstr "Volver al chat"
+
+msgid "CHAT_BUTTON_CANCEL"
+msgstr "Cancelar"
+
+msgid "CHAT_BUTTON_CANCEL_1"
+msgstr "Cancelar"
+
+msgid "CHAT_BUTTON_CLAIM_PLAYER"
+msgstr "Reporte"
+
+msgid "CHAT_BUTTON_CLAN_MESSAGE_CANCEL"
+msgstr "Cancelar"
+
+msgid "CHAT_BUTTON_CLAN_MESSAGE_EDIT"
+msgstr "Editar"
+
+msgid "CHAT_BUTTON_CLAN_MESSAGE_SAVE"
+msgstr "Guardar"
+
+msgid "CHAT_BUTTON_CONFIRM"
+msgstr "Confirmar"
+
+msgid "CHAT_BUTTON_CREATE"
+msgstr "Crear"
+
+msgid "CHAT_BUTTON_CREATE_CHANNEL"
+msgstr "Crear canal"
+
+msgid "CHAT_BUTTON_CREATE_GROUP"
+msgstr "Crear grupo"
+
+msgid "CHAT_BUTTON_CREATE_GROUP_CHANNEL"
+msgstr "Crear canal de grupo"
+
+msgid "CHAT_BUTTON_ENABLE_CENSORSHIP"
+msgstr "Censurar mensajes"
+
+msgid "CHAT_BUTTON_ENTER_CHANNEL_NAME"
+msgstr "Introduce nombre de canal"
+
+msgid "CHAT_BUTTON_FIND"
+msgstr "Buscar"
+
+msgid "CHAT_BUTTON_FIND_CHANNEL"
+msgstr "Buscar canal"
+
+msgid "CHAT_BUTTON_HIDE_OFFLINE_CONTACTS"
+msgstr "Ocultar jugadores desconectados"
+
+msgid "CHAT_BUTTON_INVITE"
+msgstr "Invitar"
+
+msgid "CHAT_BUTTON_NEW_CHANNEL"
+msgstr "Nuevo canal"
+
+msgid "CHAT_BUTTON_OPEN_CHANNEL"
+msgstr "Crear canal privado"
+
+msgid "CHAT_BUTTON_RESTORE_REMOVED"
+msgstr "Restaurar"
+
+msgid "CHAT_BUTTON_RESTRICT_MESSAGES_FROM_STRANGERS"
+msgstr "Permitir solo mensajes de jugadores en contactos"
+
+msgid "CHAT_BUTTON_SEND"
+msgstr "Enviar"
+
+msgid "CHAT_BUTTON_SHOW_DELETED_CONTACTS_LIST"
+msgstr "Ver contactos eliminados"
+
+msgid "CHAT_BUTTON_SHOW_IGNORED_LIST"
+msgstr "Ver lista de ignorados"
+
+msgid "CHAT_BUTTON_WRITE_MESSAGE"
+msgstr "Componer"
+
+msgid "CHAT_CANNOT_FIND_INSIDE_CHANNEL"
+msgstr "No hay jugadores con este nombre en el canal."
+
+msgid "CHAT_CHANEL_IS_OPENED"
+msgstr "Este canal es ahora público y visible en los resultados de búsqueda."
+
+msgid "CHAT_CHANEL_NAME_SYSTEM"
+msgstr "Canales oficiales"
+
+msgid "CHAT_CHANNELS_CREATED_BY_ME"
+msgstr "Mis canales"
+
+msgid "CHAT_CHANNEL_CONTEXT_HIGH_LOAD"
+msgstr "(Modo de carga elevada)"
+
+msgid "CHAT_CHANNEL_CREATION_HEADER"
+msgstr "Crear nuevo canal"
+
+msgid "CHAT_CHANNEL_FAQ"
+msgstr "Cuestiones y problemas del juego"
+
+msgid "CHAT_CHANNEL_LOGIN_BUTTON"
+msgstr "Entrar"
+
+msgid "CHAT_CHANNEL_MESSAGE_CONTACTS_EMPTY"
+msgstr "Para invitar a jugadores al canal, primero añádelos a contactos."
+
+msgid "CHAT_CHANNEL_MESSAGE_HIGH_LOAD"
+msgstr "Se ha cambiado el canal a modo de carga elevada."
+
+msgid "CHAT_CHANNEL_MESSAGE_HIGH_LOAD_NO_CONTACTS"
+msgstr "Los contactos no están disponibles para este modo."
+
+msgid "CHAT_CHANNEL_MESSAGE_LOW_LOAD"
+msgstr "Ha disminuido la carga en el canal."
+
+msgid "CHAT_CHANNEL_MESSAGE_LOW_LOAD_CONTACTS"
+msgstr "Los contactos están disponibles de nuevo."
+
+msgid "CHAT_CHANNEL_MESSAGE_MOD_DELETED_CHANNEL"
+msgstr "Un moderador eliminó el canal."
+
+msgid "CHAT_CHANNEL_MESSAGE_MOD_RENAMED_CHANNEL"
+msgstr "Un moderador renombró el canal a {channel_name}."
+
+msgid "CHAT_CHANNEL_MESSAGE_MOD_SET_MUTE"
+msgstr "El moderador te ha baneado en este canal."
+
+msgid "CHAT_CHANNEL_MESSAGE_NO_CONTACTS"
+msgstr ""
+"Sin contactos.<br>Para encontrar jugadores en esta lista, primero añádelos a "
+"contactos."
+
+msgid "CHAT_CHANNEL_MESSAGE_NO_ONLINE"
+msgstr "No hay jugadores en línea en contactos."
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_BLOCKED"
+msgstr "El jugador {name} está bloqueado."
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_BLOCKED_FROM_CHANNEL"
+msgstr "{name} ha sido bloqueado en este canal."
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_DELETED_CHANNEL"
+msgstr "{name} eliminó el canal."
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_INVITED_PLAYERS"
+msgstr "{name} invitó a {names_array}."
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_JOINED_CHANNEL"
+msgstr "{name} se unió al canal."
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_LEFT_CHANNEL"
+msgstr "{name} dejó el canal."
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_REMOVED"
+msgstr "El jugador {name} está eliminado."
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_REMOVED_FROM_CHANNEL"
+msgstr "{name} ha sido eliminado del canal."
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_RENAMED_CHANNEL"
+msgstr "{name} renombró el canal a {channel_name}."
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_SET_MUTE"
+msgstr "{name} te baneó del chat en este canal."
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_SET_SPEAK"
+msgstr "{name} te permitió chatear en este canal."
+
+msgid "CHAT_CHANNEL_MESSAGE_REMOVED_BY_PLAYER"
+msgstr "El jugador {name} te eliminó del canal."
+
+msgid "CHAT_CHANNEL_MESSAGE_USE_SEARCH"
+msgstr "Usa la búsqueda para buscar nuevos jugadores."
+
+msgid "CHAT_CHANNEL_MESSAGE_YOU_CAN_DELETE"
+msgstr ""
+"Para que un jugador no pueda acceder al canal, haz clic derecho en el nombre "
+"del jugador y selecciona «Bloquear jugador».<br>Los jugadores bloqueados no "
+"pueden ingresar en el canal."
+
+msgid "CHAT_CHANNEL_MESSAGE_YOU_CAN_INVITE"
+msgstr ""
+"Puedes invitar jugadores de tus contactos.<br>Para invitar jugadores al "
+"canal, primero añádelos a contactos."
+
+msgid "CHAT_CHANNEL_MESSAGE_YOU_REMOVED_BY_MOD"
+msgstr "El moderador te eliminó de este canal."
+
+msgid "CHAT_CHANNEL_NAME_CONTEXT"
+msgstr "Nombre:"
+
+msgid "CHAT_CHANNEL_PASSWORD_CONTEXT"
+msgstr "Contraseña:"
+
+msgid "CHAT_CHANNEL_PASSWORD_UNACCEPTABLE_CHARACTERS"
+msgstr "La contraseña contiene uno o más caracteres no válidos."
+
+msgid "CHAT_CHANNEL_REMOVE_PLAYER"
+msgstr "Eliminar jugador del canal"
+
+msgid "CHAT_CHANNEL_RESULTS"
+msgstr "Resultados de la batalla y discusión"
+
+msgid "CHAT_CHANNEL_SEARCH"
+msgstr "Buscar escuadrilla o clan"
+
+msgid "CHAT_CHANNEL_STATUS_ALL_PLAYERS_OFFLINE"
+msgstr "(todos los jugadores desconectados)"
+
+msgid "CHAT_CHANNEL_STATUS_COMMANDER"
+msgstr "Comandante"
+
+msgid "CHAT_CHANNEL_STATUS_NO_PLAYERS_IN_CLAN"
+msgstr "(no hay jugadores en el clan)"
+
+msgid "CHAT_CHANNEL_STATUS_PILOT"
+msgstr "Piloto"
+
+msgid "CHAT_CHANNEL_STATUS_PLAYERS_ONLINE_OFFLINE"
+msgstr "Jugadores en el canal, en línea/total"
+
+msgid "CHAT_CHANNEL_STATUS_RECRUIT_MASTER"
+msgstr "Reclutador"
+
+msgid "CHAT_CHANNEL_STATUS_SUB_COMMANDER"
+msgstr "Subcomandante"
+
+msgid "CHAT_CHANNEL_STATUS_TRAINEE_PILOT"
+msgstr "Piloto aprendiz"
+
+msgid "CHAT_CHANNEL_STATUS_WING_COMMANDER"
+msgstr "Líder de escuadrón"
+
+msgid "CHAT_CHANNEL_TALK"
+msgstr "Discusión Off-Topic"
+
+msgid "CHAT_CHANNEL_TALK_BG"
+msgstr "[BG] Други дискусии"
+
+msgid "CHAT_CHANNEL_TALK_BR-PT"
+msgstr "[PT-BR] Discussão Fora do Tópico"
+
+msgid "CHAT_CHANNEL_TALK_CN"
+msgstr "[CN] 水区"
+
+msgid "CHAT_CHANNEL_TALK_CS"
+msgstr "[CS] Diskuze mimo téma"
+
+msgid "CHAT_CHANNEL_TALK_DA"
+msgstr "[DA] Off-topic diskussion"
+
+msgid "CHAT_CHANNEL_TALK_DE"
+msgstr "[DE] Off-Topic-Diskussion"
+
+msgid "CHAT_CHANNEL_TALK_EL"
+msgstr "[EL] Γενική Συζήτηση"
+
+msgid "CHAT_CHANNEL_TALK_EN"
+msgstr "[EN] Off-Topic Discussion"
+
+msgid "CHAT_CHANNEL_TALK_ES"
+msgstr "[ES] Discusión Off-Topic"
+
+msgid "CHAT_CHANNEL_TALK_ES-AR"
+msgstr "[ES-AR] Discución Off-Topic"
+
+msgid "CHAT_CHANNEL_TALK_ET"
+msgstr "[ET] Teemaväline arutelu"
+
+msgid "CHAT_CHANNEL_TALK_FI"
+msgstr "[FI] Asiaan kuulumaton keskustelu"
+
+msgid "CHAT_CHANNEL_TALK_FR"
+msgstr "[FR] Discussion hors-sujet"
+
+msgid "CHAT_CHANNEL_TALK_HR"
+msgstr "[HR] Diskusija izvan teme"
+
+msgid "CHAT_CHANNEL_TALK_HU"
+msgstr "[HU] Off-topic beszélgetés"
+
+msgid "CHAT_CHANNEL_TALK_IT"
+msgstr "[IT] Discussione Off-Topic"
+
+msgid "CHAT_CHANNEL_TALK_JA"
+msgstr "[JA] オフトピック (雑談)"
+
+msgid "CHAT_CHANNEL_TALK_KO"
+msgstr "[KO] 자유 토론"
+
+msgid "CHAT_CHANNEL_TALK_LT"
+msgstr "[LT] Diskusijos ne į temą"
+
+msgid "CHAT_CHANNEL_TALK_LV"
+msgstr "[LV] Ārpus tēmas sarunas"
+
+msgid "CHAT_CHANNEL_TALK_NL"
+msgstr "[NL] Off-topic discussie"
+
+msgid "CHAT_CHANNEL_TALK_NO"
+msgstr "[NO] Åpen diskusjon"
+
+msgid "CHAT_CHANNEL_TALK_PL"
+msgstr "[PL] Dyskusja na inne tematy"
+
+msgid "CHAT_CHANNEL_TALK_PT"
+msgstr "[PT] Discussão Fora do Assunto"
+
+msgid "CHAT_CHANNEL_TALK_RO"
+msgstr "[RO] Discuţii libere"
+
+msgid "CHAT_CHANNEL_TALK_RU"
+msgstr "Свободное общение"
+
+msgid "CHAT_CHANNEL_TALK_SR"
+msgstr "[SR] Off-topic diskusije"
+
+msgid "CHAT_CHANNEL_TALK_SV"
+msgstr "[SV] Off-topic diskussion"
+
+msgid "CHAT_CHANNEL_TALK_TH"
+msgstr "[TH] การสนทนานอกเรื่อง"
+
+msgid "CHAT_CHANNEL_TALK_TR"
+msgstr "[TR] Konu Dışı Tartışma"
+
+msgid "CHAT_CHANNEL_TALK_TW"
+msgstr "[TW] 題外討論"
+
+msgid "CHAT_CHAT_SYSTEM_MESSAGE_UNABLE_TO_CREATE_CHANNEL_MAX_CHANNELS_EXEEDED_V2"
+msgstr "Imposible crear canal. No puedes crear más de 10 canales."
+
+msgid "CHAT_CLAN_CONTEXT_CLAN_NOT_ONLINE"
+msgstr "Clan desconectado"
+
+msgid "CHAT_CLAN_MESSAGE_CLAN_DISBANDED"
+msgstr "El clan ha sido disuelto."
+
+msgid "CHAT_CLAN_MESSAGE_PLAYER_LEFT_CLAN"
+msgstr "El jugador {player_name} ha dejado el clan."
+
+msgid "CHAT_CLAN_MESSAGE_PLAYER_REMOVED_FROM_CLAN"
+msgstr "El jugador {player_name} ha sido excluido del clan."
+
+msgid "CHAT_CLAN_MESSAGE_YOU_LEFT_CLAN"
+msgstr "Has dejado el clan."
+
+msgid "CHAT_CLAN_MESSAGE_YOU_REMOVED_FROM_CLAN"
+msgstr "Has sido excluido del clan."
+
+msgid "CHAT_CLAN_RANK_0"
+msgstr "Reservista"
+
+msgid "CHAT_CLAN_RANK_1"
+msgstr "Recluta"
+
+msgid "CHAT_CLAN_RANK_10"
+msgstr "Comandante"
+
+msgid "CHAT_CLAN_RANK_2"
+msgstr "Soldado"
+
+msgid "CHAT_CLAN_RANK_3"
+msgstr "Suboficial"
+
+msgid "CHAT_CLAN_RANK_4"
+msgstr "Oficial de combate"
+
+msgid "CHAT_CLAN_RANK_5"
+msgstr "Oficial de reclutamiento"
+
+msgid "CHAT_CLAN_RANK_6"
+msgstr "Oficial de intendencia"
+
+msgid "CHAT_CLAN_RANK_7"
+msgstr "Oficial de inteligencia"
+
+msgid "CHAT_CLAN_RANK_8"
+msgstr "Oficial de personal"
+
+msgid "CHAT_CLAN_RANK_9"
+msgstr "Oficial ejecutivo"
+
+msgid "CHAT_CONFIRMATION_CHANNEL_REMOVE_MESSAGE"
+msgstr "¿Eliminar canal {name}?"
+
+msgid "CHAT_CONTACT_CHAT_OWNER"
+msgstr ""
+"No puedes añadir un jugador al canal. Por favor contacta con el dueño del "
+"canal."
+
+msgid "CHAT_CONTEXT_CHANNEL_SETTINGS"
+msgstr "Ajustes del canal"
+
+msgid "CHAT_CONTEXT_CONTACTS_OFFLINE"
+msgstr "No hay jugadores en línea en tus contactos"
+
+msgid "CHAT_CONTEXT_FILTER"
+msgstr "Filtrar"
+
+msgid "CHAT_CONTEXT_MENU_ADD_FRIEND"
+msgstr "Añadir a contactos"
+
+msgid "CHAT_CONTEXT_MENU_ADD_NAME_TO_CONTACTS"
+msgstr "Añadir a contactos"
+
+msgid "CHAT_CONTEXT_MENU_ADD_NAME_TO_CONTACTS_CAPS"
+msgstr "AÑADIR A CONTACTOS"
+
+msgid "CHAT_CONTEXT_MENU_ADD_NAME_TO_FAVORITES"
+msgstr "Añadir a favoritos"
+
+msgid "CHAT_CONTEXT_MENU_ADD_NAME_TO_IGNORE"
+msgstr "Añadir a la lista de ignorados"
+
+msgid "CHAT_CONTEXT_MENU_ADD_NAME_TO_IGNORE_CAPS"
+msgstr "AÑADIR A LA LISTA DE IGNORADOS"
+
+msgid "CHAT_CONTEXT_MENU_ADD_PLAYER"
+msgstr "Añadir jugador"
+
+msgid "CHAT_CONTEXT_MENU_BATTLE_STATS"
+msgstr "Resultados de la batalla"
+
+msgid "CHAT_CONTEXT_MENU_BLACKLIST"
+msgstr "Lista de ignorados"
+
+msgid "CHAT_CONTEXT_MENU_BLOCK_PLAYER"
+msgstr "Bloquear jugador"
+
+msgid "CHAT_CONTEXT_MENU_CHANEL_TRANSFORMATION"
+msgstr "Crear canal privado"
+
+msgid "CHAT_CONTEXT_MENU_CLAN"
+msgstr "Clan {clantag}"
+
+msgid "CHAT_CONTEXT_MENU_CLEAR"
+msgstr "Limpiar"
+
+msgid "CHAT_CONTEXT_MENU_CLICK_TO_TALK"
+msgstr "Click para iniciar conversación"
+
+msgid "CHAT_CONTEXT_MENU_CLIP"
+msgstr "Muelle"
+
+msgid "CHAT_CONTEXT_MENU_CLOSE_CHANNEL"
+msgstr "Cerrar canal"
+
+msgid "CHAT_CONTEXT_MENU_COMPLAIN"
+msgstr "Reporte"
+
+msgid "CHAT_CONTEXT_MENU_CONTROL_REMOVED"
+msgstr "Gestionar jugadores bloqueados"
+
+msgid "CHAT_CONTEXT_MENU_COPY_LINK_TO_CHANNEL"
+msgstr "Copiar enlace del canal"
+
+msgid "CHAT_CONTEXT_MENU_CREATE_GROUP_CHAT"
+msgstr "Crear chat de grupo"
+
+msgid "CHAT_CONTEXT_MENU_CREATE_TEAM"
+msgstr "Ensamblar escuadrilla"
+
+msgid "CHAT_CONTEXT_MENU_DELETE_FROM_CONTACTS"
+msgstr "Eliminar de contactos"
+
+msgid "CHAT_CONTEXT_MENU_DELETE_FROM_CONTACTS_CAPS"
+msgstr "ELIMINAR DE CONTACTOS"
+
+msgid "CHAT_CONTEXT_MENU_DELETE_GROUP"
+msgstr "Eliminar grupo"
+
+msgid "CHAT_CONTEXT_MENU_DELETE_ROOM"
+msgstr "Eliminar canal"
+
+msgid "CHAT_CONTEXT_MENU_FAVORITES"
+msgstr "Favoritos"
+
+msgid "CHAT_CONTEXT_MENU_FIND_INSIDE_CHANNEL"
+msgstr "Buscar jugador en el canal"
+
+msgid "CHAT_CONTEXT_MENU_FIND_OUTSIDE_CONTACTS"
+msgstr "Buscar fuera de contactos"
+
+msgid "CHAT_CONTEXT_MENU_FIND_OUTSIDE_CONTACT_LIST"
+msgstr "Buscar fuera de contactos"
+
+msgid "CHAT_CONTEXT_MENU_IGNORE"
+msgstr "Ignorar"
+
+msgid "CHAT_CONTEXT_MENU_IGNORE_PLAYER"
+msgstr "Añadir a la lista de ignorados"
+
+msgid "CHAT_CONTEXT_MENU_INFO_ON_PLAYER"
+msgstr "Detalles"
+
+msgid "CHAT_CONTEXT_MENU_INVITE_PLAYER"
+msgstr "Invitar a jugador a unirse al canal"
+
+msgid "CHAT_CONTEXT_MENU_LEAVE_TEAM"
+msgstr "Abandonar escuadrilla"
+
+msgid "CHAT_CONTEXT_MENU_MOVE_PLAYER_TO_GROUP"
+msgstr "Mover al grupo"
+
+msgid "CHAT_CONTEXT_MENU_NO_FAVORITES"
+msgstr "Sin canales favoritos"
+
+msgid "CHAT_CONTEXT_MENU_OPEN_CHANNEL"
+msgstr "Abrir canal"
+
+msgid "CHAT_CONTEXT_MENU_PRIVATE_CHAT"
+msgstr "Chat privado"
+
+msgid "CHAT_CONTEXT_MENU_REMOVE_FROM_FAVORITES"
+msgstr "Borrar de favoritos"
+
+msgid "CHAT_CONTEXT_MENU_REMOVE_NAME_FROM_IGNORE"
+msgstr "Eliminar de la lista de ignorados"
+
+msgid "CHAT_CONTEXT_MENU_REMOVE_NAME_FROM_IGNORE_CAPS"
+msgstr "ELIMINAR DE LA LISTA DE IGNORADOS"
+
+msgid "CHAT_CONTEXT_MENU_RENAME"
+msgstr "Renombrar"
+
+msgid "CHAT_CONTEXT_MENU_RENAME_CHANNEL"
+msgstr "Renombrar canal"
+
+msgid "CHAT_CONTEXT_MENU_SAVE"
+msgstr "Guardar"
+
+msgid "CHAT_CONTEXT_MENU_STOP_IGNORE"
+msgstr "Eliminar de la lista de ignorados"
+
+msgid "CHAT_CONTEXT_MENU_UNBLOCK"
+msgstr "Desbloquear"
+
+msgid "CHAT_CONTEXT_MENU_UNBLOCK_PLAYER"
+msgstr "Desbloquear jugador"
+
+msgid "CHAT_CONTEXT_MENU_UNCLIP"
+msgstr "Desacoplar"
+
+msgid "CHAT_CONTEXT_PLAYERS_ONLINE"
+msgstr "Jugadores en línea"
+
+msgid "CHAT_CONTEXT_PLAYER_ACHIEVEMENTS"
+msgstr "Perfil del jugador"
+
+msgid "CHAT_CONTEXT_SHOW_MORE_PLAYERS"
+msgstr "Mostrar más"
+
+msgid "CHAT_CONTEXT_TRAINING_ROOM"
+msgstr "Sala de entrenamiento"
+
+msgid "CHAT_CREATE_CHANEL_MESSAGE"
+msgstr "Introducir contraseña"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_01"
+msgstr "Enero"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_02"
+msgstr "Febrero"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_03"
+msgstr "Marzo"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_04"
+msgstr "Abril"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_05"
+msgstr "Mayo"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_06"
+msgstr "Junio"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_07"
+msgstr "Julio"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_08"
+msgstr "Agosto"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_09"
+msgstr "Septiembre"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_10"
+msgstr "Octubre"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_11"
+msgstr "Noviembre"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_12"
+msgstr "Diciembre"
+
+msgid "CHAT_DATE_MESSAGE_TODAY"
+msgstr "Hoy,"
+
+msgid "CHAT_DATE_MESSAGE_YEAR"
+msgstr " "
+
+msgid "CHAT_DATE_MESSAGE_YESTERDAY"
+msgstr "Ayer,"
+
+msgid "CHAT_DRAG_CONTACT_HERE"
+msgstr "Para añadir un jugador al chat, arrastra y suelta el contacto aquí."
+
+msgid "CHAT_ENTER_NEW_CHANNEL_NAME"
+msgstr "Introduce un nuevo nombre de canal"
+
+msgid "CHAT_ERROR_CLAN_MESSAGE_LENGTH"
+msgstr "Longitud máxima del mensaje: 140 caracteres"
+
+msgid "CHAT_GROUP_MESSAGE_ENTER_GROUP_NAME"
+msgstr "Introduce el nombre del grupo"
+
+msgid "CHAT_HEADER_CHANELS"
+msgstr "Canales"
+
+msgid "CHAT_HEADER_CHANNEL_DELETING_IN_PROGRESS"
+msgstr "Eliminar canal"
+
+msgid "CHAT_HEADER_CLAIM_PLAYER"
+msgstr "Reportar jugador"
+
+msgid "CHAT_HEADER_COMMON_CHANNEL"
+msgstr "General"
+
+msgid "CHAT_HEADER_CONTACTS"
+msgstr "Contactos"
+
+msgid "CHAT_HEADER_FING_PLAYER"
+msgstr "Buscar jugadores"
+
+msgid "CHAT_HEADER_GROUP_GENERAL"
+msgstr "Todos"
+
+msgid "CHAT_HEADER_IGNORED_LIST"
+msgstr "Jugadores bloqueados"
+
+msgid "CHAT_HEADER_INVITATION_TO_CHANNEL"
+msgstr "Invitar a unirse al canal"
+
+msgid "CHAT_HEADER_YOU_ARE_ADDED_TO_FRIENDS"
+msgstr "El jugador te añadió a contactos"
+
+msgid "CHAT_INPUT_FIELD_TIP"
+msgstr "Introduce nombre de canal"
+
+msgid "CHAT_LABEL_CLAN"
+msgstr "Clan"
+
+msgid "CHAT_LABEL_CLAN_FULL_NAME"
+msgstr "{clan_full_name}"
+
+msgid "CHAT_LABEL_INVITE_CLAN_DROPDOWN"
+msgstr "Clan"
+
+msgid "CHAT_LABEL_INVITE_CONTACTS_DROPDOWN"
+msgstr "Contactos"
+
+msgid "CHAT_MENU_CLOSE_ALL_CHANNELS"
+msgstr "Cerrar todos los canales"
+
+msgid "CHAT_MENU_CLOSE_ALL_LEAVE ACTIVE"
+msgstr "Cerrar todos los canales excepto el actual"
+
+msgid "CHAT_MENU_MINIMIZE_ALL_CHANNELS"
+msgstr "Minimizar todos los canales"
+
+msgid "CHAT_MENU_OPEN_ALL_CHANNELS"
+msgstr "Maximizar todos los canales"
+
+msgid "CHAT_MESAGE_USABILITY_WILL_BE_RESTORED_SOON"
+msgstr "El servicio normal se reanudará tan pronto como sea posible."
+
+msgid "CHAT_MESSAGE_ENTER_CHANNEL_NAME"
+msgstr "Introduce nombre de canal"
+
+msgid "CHAT_MESSAGE_ERROR"
+msgstr "Error"
+
+msgid "CHAT_MESSAGE_GROUPNAME_SPECIFICATION"
+msgstr "El nombre de un grupo puede tener una longitud de 1 a 15 caracteres."
+
+msgid "CHAT_MESSAGE_GROUP_ALLREADY_EXISTS"
+msgstr "Ya existe un grupo con este nombre. Por favor selecciona otro nombre."
+
+msgid "CHAT_MESSAGE_INVITATION_TO_CHANNEL"
+msgstr "El jugador {name} te invita a unirte a un canal."
+
+msgid "CHAT_MESSAGE_NO_RESULT_SEARCH"
+msgstr "No se encontraron resultados."
+
+msgid "CHAT_MESSAGE_TEAM_VOISECHAT_MUTE_WARNING"
+msgstr "El chat de voz en equipo está desactivado para el curso de la batalla."
+
+msgid "CHAT_MESSAGE_YOU_ARE_ADDED_TO_FRIENDS"
+msgstr "El jugador {name} te ha añadido a contactos."
+
+msgid "CHAT_NEW_GROUP_DEFAULT_NAME"
+msgstr "Nuevo grupo"
+
+msgid "CHAT_PASSWORD_INPUT_FIELD_TIP"
+msgstr "Introduce tu contraseña para conectarte."
+
+msgid "CHAT_PLAYERS_IN_YOUR_LIST"
+msgstr "Jugadores en contactos"
+
+msgid "CHAT_PLAYERS_ON_SERVER"
+msgstr "Jugadores en el servidor"
+
+msgid "CHAT_PLAYER_CONTEXT_MENU_ADD_TO_FRIENDS"
+msgstr "Añadir a contactos"
+
+msgid "CHAT_PLAYER_CONTEXT_MENU_CALL_BY_NICKNAME"
+msgstr "Contactar con jugador por nombre"
+
+msgid "CHAT_PLAYER_CONTEXT_MENU_DELETE_NAME_FROM_CONTACTS"
+msgstr "Eliminar de contactos"
+
+msgid "CHAT_PLAYER_CONTEXT_MENU_INVITE_TO_TEAM"
+msgstr "Invitar a escuadrilla"
+
+msgid "CHAT_PLAYER_OFFLINE_STATUS_MESSAGE"
+msgstr "(desconectado)"
+
+msgid "CHAT_PREDEFINED_GROUPS_DRAG_CONTACT_HERE"
+msgstr "Arrastra y suelta un contacto aquí"
+
+msgid "CHAT_PREDEFINED_GROUPS_IGNORED"
+msgstr "Ignorado"
+
+msgid "CHAT_PREDEFINED_GROUPS_NO_GROUP"
+msgstr "Desagrupado"
+
+msgid "CHAT_SEND_INVITATION"
+msgstr "Invita a un jugador a unirse a este chat"
+
+msgid "CHAT_SETTINGS_DO_NOT_RECEIVE_MESSAGES_FROM_STRANGERS"
+msgstr "Permitir solo mensajes de jugadores en contactos"
+
+msgid "CHAT_SETTINGS_DO_NOT_SHOW_OFFLINE_PLAYERS"
+msgstr "Muestra solo jugadores conectados"
+
+msgid "CHAT_SETTINGS_SHOW_IGNORED"
+msgstr "Mostrar jugadores ignorados"
+
+msgid "CHAT_SYSTEM_MESSAGE_ACCOUNT_BLOCKED_FOR_REASON"
+msgstr "Tu cuenta ha sido suspendida. {reason}"
+
+msgid "CHAT_SYSTEM_MESSAGE_BAN_REASON"
+msgstr "Razón: {reason}"
+
+msgid "CHAT_SYSTEM_MESSAGE_BAN_TIMER"
+msgstr "El chat está desbloqueado."
+
+msgid "CHAT_SYSTEM_MESSAGE_BAN_TIMER_SHORT"
+msgstr "Hasta: {bandate}"
+
+msgid "CHAT_SYSTEM_MESSAGE_BY_ADMIN"
+msgstr "Chat bloqueado por el administrador."
+
+msgid "CHAT_SYSTEM_MESSAGE_CANNOT_INVITE"
+msgstr ""
+"Este canal es privado. No puedes invitar jugadores a que ingresen en un "
+"canal privado."
+
+msgid "CHAT_SYSTEM_MESSAGE_CHANNEL_BLOCKED_DAYS"
+msgstr "La creación de canales está desactivada por {days} días."
+
+msgid "CHAT_SYSTEM_MESSAGE_CHANNEL_DELETED"
+msgstr "Canal eliminado."
+
+msgid "CHAT_SYSTEM_MESSAGE_CHANNEL_NAME_CONTAINS_BAD_SYMBOLS"
+msgstr ""
+"Este nombre de canal contiene caracteres no válidos. Por favor introduce un "
+"nombre diferente."
+
+msgid "CHAT_SYSTEM_MESSAGE_CHANNEL_NAME_CONTAINS_BAD_WORD"
+msgstr "Este nombre de canal contiene una palabra no válida."
+
+msgid "CHAT_SYSTEM_MESSAGE_CHANNEL_NAME_SYMBOL_CONTENTS"
+msgstr "Sólo son válidos las letras, numerales y los caracteres ()_-:;,.!?"
+
+msgid "CHAT_SYSTEM_MESSAGE_CHANNEL_NAME_SYMBOL_LIMITATIONS"
+msgstr "El nombre de un canal debe contener de 3 a 100 caracteres."
+
+msgid "CHAT_SYSTEM_MESSAGE_CHANNEL_NAME_TAKEN"
+msgstr "Un canal con este nombre ya existe."
+
+msgid "CHAT_SYSTEM_MESSAGE_CHAT_BLOCKED"
+msgstr "El chat está bloqueado."
+
+msgid "CHAT_SYSTEM_MESSAGE_CHAT_BLOCKED_FOR_TIME"
+msgstr "Chat bloqueado por:"
+
+msgid "CHAT_SYSTEM_MESSAGE_CHAT_BLOCKED_TIME"
+msgstr "El chat está bloqueado por {time}."
+
+msgid "CHAT_SYSTEM_MESSAGE_CHAT_UNLOCKED"
+msgstr "El chat está desbloqueado."
+
+msgid "CHAT_SYSTEM_MESSAGE_CHAT_USABILITY_RESTORED"
+msgstr "El chat está desbloqueado."
+
+msgid "CHAT_SYSTEM_MESSAGE_COMPLAIN_ON_PLAYER_SENT"
+msgstr "Reporte de jugador aceptado."
+
+msgid "CHAT_SYSTEM_MESSAGE_CONNECTION_ERROR"
+msgstr "¡Ha ocurrido un error de conexión!"
+
+msgid "CHAT_SYSTEM_MESSAGE_ENTER_PASSWORD"
+msgstr "Introduce contraseña."
+
+msgid "CHAT_SYSTEM_MESSAGE_GROUP_NAME_TAKEN"
+msgstr "El nombre del grupo creado ya está en uso."
+
+msgid "CHAT_SYSTEM_MESSAGE_INVITATION_NOT_SENT"
+msgstr "Fallo al enviar invitación."
+
+msgid "CHAT_SYSTEM_MESSAGE_INVITATION_SENT"
+msgstr "¡Invitación enviada con éxito!"
+
+msgid "CHAT_SYSTEM_MESSAGE_LAST_MESSAGE"
+msgstr "Último mensaje recibido:"
+
+msgid "CHAT_SYSTEM_MESSAGE_PASSWORD_LENGTH_LIMITATON"
+msgstr "La contraseña debe contener de 3 a 32 caracteres."
+
+msgid "CHAT_SYSTEM_MESSAGE_PLAYER_INVITED"
+msgstr "Has invitado a {name} a unirse al chat público {chatname}."
+
+msgid "CHAT_SYSTEM_MESSAGE_UNABLE_TO_CREATE_CHANNEL_MAX_CHANNELS_EXEEDED"
+msgstr "Imposible crear más de 10 canales."
+
+msgid "CHAT_SYSTEM_MESSAGE_USER_ADDED_TO_FRIENDS"
+msgstr "{name} se añadió a contactos."
+
+msgid "CHAT_SYSTEM_MESSAGE_USER_ADDED_TO_IGNORE"
+msgstr "{name} se añadió a la lista de ignorados."
+
+msgid "CHAT_SYSTEM_MESSAGE_USER_REMOVED_FROM_FRIENDS"
+msgstr "{name} se eliminó de contactos."
+
+msgid "CHAT_SYSTEM_MESSAGE_USER_REMOVED_FROM_IGNORE"
+msgstr "{name} se eliminó de tu lista de ignorados."
+
+msgid "CHAT_SYSTEM_MESSAGE_YOU_ADDED_TO_FRIENDS"
+msgstr "{name} te ha añadido a contactos."
+
+msgid "CHAT_TEAM_CONTEXT_INVITE_PLAYER_FROM_LIST"
+msgstr "Invita a un jugador de la lista de arriba."
+
+msgid "CHAT_TEAM_CONTEXT_REMOVE_PLAYER_FROM_LIST"
+msgstr "Eliminar de la lista de jugadores seleccionados"
+
+msgid "CHAT_TEAM_NO_CONTACTS_ADD_PLAYERS"
+msgstr ""
+"Sin contactos. Para crear una escuadrilla, añade jugadores a contactos."
+
+msgid "CHAT_TEAM_STATUS_ALREADY_INVITED"
+msgstr "El jugador ya fue invitado a la escuadrilla."
+
+msgid "CHAT_TEAM_STATUS_INVITATIONS_LEFT"
+msgstr "Invitaciones disponibles: {number}"
+
+msgid "CHAT_TEAM_STATUS_TEAM_PLAYERS_SELECTED"
+msgstr "Se seleccionaron todos los miembros de la escuadrilla."
+
+msgid "CHAT_TEMPORARY_UNAVAILABLE"
+msgstr "Servicio temporalmente no disponible."
+
+msgid "CHAT_TOOLTIP_ADD_USER"
+msgstr "Añadir un jugador a contactos"
+
+msgid "CHAT_TOOLTIP_BUTTON_CANCEL"
+msgstr "Click para mostrar los canales disponibles para conversar."
+
+msgid "CHAT_TOOLTIP_CHANNEL_LIMIT_EXCEEDED"
+msgstr "Se ha excedido el límite de canales favoritos."
+
+msgid "CHAT_WRONG_PASSWORD_MESSAGE"
+msgstr "Contraseña incorrecta."
+
+msgid "DIALOG_DELETE_GROUP_DELETE_CONTACTS"
+msgstr "Borrar contactos"
+
+msgid "DIALOG_DELETE_GROUP_DO_NOT_DELETE_CONTACTS"
+msgstr "Mantener contactos"
+
+msgid "DIALOG_DELETE_GROUP_HEADER"
+msgstr "Borrar grupo"
+
+msgid "DIALOG_DELETE_GROUP_MESSAGE"
+msgstr "¿Borrar este grupo?"
+
+msgid "LAST_VISITED_CHANNELS"
+msgstr "Reciente"
+
+msgid "TOOLTIP_CHAT_ADD_GROUP"
+msgstr "Añadir un nuevo grupo"
+
+msgid "TOOLTIP_CHAT_ADD_TO_CONTACTS"
+msgstr "Añadir un jugador a contactos"
+
+msgid "TOOLTIP_CHAT_CLOSE"
+msgstr "Cerrar"
+
+msgid "TOOLTIP_CHAT_CREATE_GROUP_CHAT"
+msgstr "Crear chat de grupo"
+
+msgid "TOOLTIP_CHAT_FRIEND_NOT_APPROVED"
+msgstr "El jugador todavía no te ha añadido a contactos."
+
+msgid "TOOLTIP_CHAT_MINIMIZE"
+msgstr "Minimizar"
+
+msgid "TOOLTIP_CHAT_OPEN_CHANNELS_CONTROL"
+msgstr "Gestionar los canales abiertos"
+
+msgid "TOOLTIP_CHAT_SETTINGS"
+msgstr "Ajustes"
+
+msgid "TOOLTIP_CHAT_UNBOUND"
+msgstr "Flotar la ventana de chat"

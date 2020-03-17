@@ -1,0 +1,4532 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ACHIEVEMENTS_"
+msgstr "Tasa de impactos"
+
+msgid "ACHIEVEMENTS_AIRCRAFTS"
+msgstr "Aviones"
+
+msgid "ACHIEVEMENTS_AIRCRAFTS_DESTROED_IN_DEF_SECTOR"
+msgstr "Aviones enemigos destruidos al defender sectores"
+
+msgid "ACHIEVEMENTS_AIRCRAFTS_DESTROYED"
+msgstr "Aviones destruidos"
+
+msgid "ACHIEVEMENTS_AIRCRAFTS_DESTROYED_2-0"
+msgstr "Aviones enemigos destruidos"
+
+msgid "ACHIEVEMENTS_AIRCRAFTS_DESTROYED_AVERAGE_PER_BATTLE"
+msgstr "Promedio de aviones enemigos destruidos por batalla"
+
+msgid "ACHIEVEMENTS_AIR_TARGETS_DESTROYED_AVERAGE_PER_FLIGHT"
+msgstr "Promedio de aviones enemigos destruidos por salida"
+
+msgid "ACHIEVEMENTS_ALL_DURATION_ON_PLANES"
+msgstr "Horas de vuelo totales en el avión"
+
+msgid "ACHIEVEMENTS_ARCHIVE"
+msgstr "Archivo"
+
+msgid "ACHIEVEMENTS_AVERAGE_BATTLE_POINTS_PER_BATTLE"
+msgstr "Promedio de puntos personales"
+
+msgid "ACHIEVEMENTS_AVERAGE_BATTLE_POINTS_PER_FLIGHT"
+msgstr "Promedio de puntos personales por salida"
+
+msgid "ACHIEVEMENTS_AVERAGE_DURATION_FLIGHT"
+msgstr "Duración media de la salida"
+
+msgid "ACHIEVEMENTS_AVERAGE_EXP_PER_FLIGHT"
+msgstr "Experiencia media por salida"
+
+msgid "ACHIEVEMENTS_AVG_PER_BATTLE"
+msgstr "Med. por batalla"
+
+msgid "ACHIEVEMENTS_AVG_XP_PER_BATTLE"
+msgstr "Experiencia media ganada por batalla"
+
+msgid "ACHIEVEMENTS_BATTLE"
+msgstr "Batallas"
+
+msgid "ACHIEVEMENTS_BETTLE_EFFICIENCY"
+msgstr "Rendimiento en batalla"
+
+msgid "ACHIEVEMENTS_CHECKBOX_DONT_SHOW_AIRCRAFTS_UNDER_50_FLIGHTS_TAKEN"
+msgstr "Ocultar aviones que participaron en menos de 50 batallas"
+
+msgid "ACHIEVEMENTS_CLASS_EFFICIENCY"
+msgstr "Eficiencia del tipo de avión"
+
+msgid "ACHIEVEMENTS_CLASS_EFFICIENCY_ASSAULT"
+msgstr "Eficiencia del tipo de avión: aviones de ataque"
+
+msgid "ACHIEVEMENTS_CLASS_EFFICIENCY_BOMBER"
+msgstr "Eficiencia del tipo de avión: bombarderos"
+
+msgid "ACHIEVEMENTS_CLASS_EFFICIENCY_FIGHTER"
+msgstr "Eficiencia del tipo de avión: cazas"
+
+msgid "ACHIEVEMENTS_CLASS_EFFICIENCY_HFIGHTER"
+msgstr "Eficiencia del tipo de avión: cazas pesados"
+
+msgid "ACHIEVEMENTS_CLASS_EFFICIENCY_NAVY"
+msgstr "Eficiencia del tipo de avión: cazas polivalentes"
+
+msgid "ACHIEVEMENTS_COMMON_RESULTS"
+msgstr "Estadísticas"
+
+msgid "ACHIEVEMENTS_CONTEXT_AWARDS_NUMBER"
+msgstr "{number} medallas más"
+
+msgid "ACHIEVEMENTS_CONTEXT_CURRENT_AWARD_GRADE"
+msgstr "Clase actual del logro:"
+
+msgid "ACHIEVEMENTS_CONTEXT_CURRENT_SERIES_NUMBER"
+msgstr "Serie actual: {number}"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_1_LONG"
+msgstr "Clase I:"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_1_NUMBER"
+msgstr "I"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_2_LONG"
+msgstr "Clase II:"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_2_NUMBER"
+msgstr "II"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_3_LONG"
+msgstr "Clase III:"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_3_NUMBER"
+msgstr "III"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_4_LONG"
+msgstr "Clase IV:"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_4_NUMBER"
+msgstr "IV"
+
+msgid "ACHIEVEMENTS_CONTEXT_HISTORICAL_REFERENCE"
+msgstr "Nota histórica:"
+
+msgid "ACHIEVEMENTS_CONTEXT_LEFT_TILL_GRADE"
+msgstr "Se requiere para alcanzar la clase {grade}:"
+
+msgid "ACHIEVEMENTS_CONTEXT_MAX_SERIES_NUMBER"
+msgstr "Serie máxima: {number}"
+
+msgid "ACHIEVEMENTS_CONTEXT_MEDALS_OF_TYPES_SHOWN"
+msgstr ""
+"Se muestran las siguientes categorías de logros para el avión seleccionado:"
+"<br>{medal_type_list}."
+
+msgid "ACHIEVEMENTS_CONTEXT_NOT_RECEIVED"
+msgstr "Todavía no se ha recibido el logro"
+
+msgid "ACHIEVEMENTS_CONTEXT_OR"
+msgstr "o"
+
+msgid "ACHIEVEMENTS_CONTEXT_PLANES_NUMBER"
+msgstr "{number} aviones más"
+
+msgid "ACHIEVEMENTS_CONTEXT_PLANE_HAS_NO_MEDALS"
+msgstr "Todavía no has recibido ningún logro en el avión seleccionado."
+
+msgid "ACHIEVEMENTS_CONTEXT_POINTS_NUMBER"
+msgstr "{number} puntos más"
+
+msgid "ACHIEVEMENTS_CONTEXT_RECEIVED_AWARDS_NUMBER"
+msgstr "Logros totales recibidos: {number}"
+
+msgid "ACHIEVEMENTS_CONTEXT_RECEIVE_ON_PLANE"
+msgstr "Logro recibido en:"
+
+msgid "ACHIEVEMENTS_DAMAGE_TO_AIRCRAFTS"
+msgstr "Daño causado en aviones"
+
+msgid "ACHIEVEMENTS_DAMAGE_TO_GROUND_TARGETS"
+msgstr "Daño causado en objetivos terrestres"
+
+msgid "ACHIEVEMENTS_DEFEATS"
+msgstr "Derrotas"
+
+msgid "ACHIEVEMENTS_DEFENDER-BOMBER_DESTROYED"
+msgstr ""
+"Aviones de defensa aérea y bombarderos de una escuadrilla de ataque "
+"destruidos"
+
+msgid "ACHIEVEMENTS_DEFENDER-BOMBER_DESTROYED_ASSISTS"
+msgstr ""
+"Puntos de asistencia por dañar aviones de defensa aérea y bombarderos de una "
+"escuadrilla de ataque"
+
+msgid "ACHIEVEMENTS_DEFENDER-BOMBER_DESTROYED_AVERAGE_PER_BATTLE"
+msgstr ""
+"Promedio de aviones de defensa aérea y bombarderos de una escuadrilla de "
+"ataque destruidos por batalla"
+
+msgid "ACHIEVEMENTS_DISCOVERED_TOTAL"
+msgstr "Aviones enemigos y objetivos terrestres detectados"
+
+msgid "ACHIEVEMENTS_DRAWS"
+msgstr "Empates"
+
+msgid "ACHIEVEMENTS_GROUND_OBJECTS_DESTROYED"
+msgstr "Objetivos terrestres destruidos"
+
+msgid "ACHIEVEMENTS_GROUND_OBJECTS_DESTROYED_ASSIST"
+msgstr "Asistencia en la destrucción de objetivos terrestres"
+
+msgid "ACHIEVEMENTS_GROUND_OBJECTS_DESTROYED_AVERAGE_PER_BATTLE"
+msgstr "Promedio de objetivos terrestres destruidos por batalla"
+
+msgid "ACHIEVEMENTS_GROUND_OBJECTS_DESTROYED_AVERAGE_PER_FLIGHT"
+msgstr "Promedio de objetivos terrestres destruidos por salida"
+
+msgid "ACHIEVEMENTS_GROUND_TARGETS_DESTROYED"
+msgstr "Objetivos terrestres destruidos"
+
+msgid "ACHIEVEMENTS_HEADER_ACHIEVEMENTS"
+msgstr "Logros"
+
+msgid "ACHIEVEMENTS_HEADER_DATA_BY_DATE"
+msgstr "Datos a"
+
+msgid "ACHIEVEMENTS_HEADER_GAME_EVENTS"
+msgstr "Recuerdos"
+
+msgid "ACHIEVEMENTS_HEADER_NATION_AND_LEVEL"
+msgstr "Nivel y nación del avión"
+
+msgid "ACHIEVEMENTS_HEADER_WINS"
+msgstr "Victorias"
+
+msgid "ACHIEVEMENTS_HEROIC_DEEDS"
+msgstr "Hazañas de combate"
+
+msgid "ACHIEVEMENTS_HITS"
+msgstr "Impactos"
+
+msgid "ACHIEVEMENTS_INSUFFICIENT_DATA"
+msgstr "Error recibiendo detalles del jugador."
+
+msgid "ACHIEVEMENTS_LAST_SEEN_IN_BATTLE"
+msgstr "Última batalla:"
+
+msgid "ACHIEVEMENTS_LAST_SEEN_IN_GAME"
+msgstr "Último inicio de sesión"
+
+msgid "ACHIEVEMENTS_LOAD_STATISTICS"
+msgstr "Actualizando estadísticas..."
+
+msgid "ACHIEVEMENTS_MAX_AIRCRAFTS_DESTROED_PER_BATTLE"
+msgstr "Número máximo de aviones enemigos destruidos en una sola batalla"
+
+msgid "ACHIEVEMENTS_MAX_AIRCRAFT_DESTROED_IN_DEF_SECTOR"
+msgstr "Número máximo de aviones enemigos destruidos al defender sectores"
+
+msgid "ACHIEVEMENTS_MAX_BATTLE_POINTS_PER_BATTLE"
+msgstr "Número máximo de puntos personales por batalla"
+
+msgid "ACHIEVEMENTS_MAX_DAMAGE_AIRCRAFT_PER_BATTLE"
+msgstr "Daño máximo causado a aviones enemigos en una sola batalla"
+
+msgid "ACHIEVEMENTS_MAX_DAMAGE_AIR_TARGETS_PER_BATTLE"
+msgstr "Daño máximo causado a aviones en una sola batalla"
+
+msgid "ACHIEVEMENTS_MAX_DAMAGE_DEFENDER-BOMBER_PER_BATTLE"
+msgstr ""
+"Daño máximo causado a aviones de defensa aérea y bombarderos de escuadrillas "
+"de ataque en una sola batalla"
+
+msgid "ACHIEVEMENTS_MAX_DAMAGE_GROUND_OBJECT_PER_BATTLE"
+msgstr "Daño máximo causado a objetivos terrestres en una sola batalla"
+
+msgid "ACHIEVEMENTS_MAX_DEFENDER-BOMBER_DESTROED_PER_BATTLE"
+msgstr ""
+"Número máximo de aviones de defensa aérea y bombarderos de escuadrillas de "
+"ataque destruidos en una sola batalla"
+
+msgid "ACHIEVEMENTS_MAX_DESTROYED_PER_BATTLE"
+msgstr "Número máximo de aviones destruidos en una batalla"
+
+msgid "ACHIEVEMENTS_MAX_GROUND_OBJECT_DESTROED_PER_BATTLE"
+msgstr "Número máximo de objetivos terrestres destruidos en una sola batalla"
+
+msgid "ACHIEVEMENTS_MAX_PER_BATTLE"
+msgstr "Máx. por batalla"
+
+msgid "ACHIEVEMENTS_MAX_XP_FOR_BATTLE"
+msgstr "Experiencia máxima ganada en una batalla"
+
+msgid "ACHIEVEMENTS_NO_MEDALS"
+msgstr "Todavía sin logros."
+
+msgid "ACHIEVEMENTS_OBJECTS_DMG"
+msgstr "Daño causado en objetivos terrestres"
+
+msgid "ACHIEVEMENTS_PARTICIPATION_IN_CAP_SECTOR"
+msgstr "Participación en la captura de sectores"
+
+msgid "ACHIEVEMENTS_PER_BATTLE"
+msgstr "Por batalla"
+
+msgid "ACHIEVEMENTS_PLANES_DMG"
+msgstr "Daño causado en aviones"
+
+msgid "ACHIEVEMENTS_QUEST_PROGRESS_INFO"
+msgstr ""
+"En las batallas contra bots, los resultados de batalla no se muestran en las "
+"estadísticas.<br>Completa esta misión para desbloquear otros tipos de "
+"batalla<br>con estadísticas extendidas."
+
+msgid "ACHIEVEMENTS_RANDOM_MODE_ONLY"
+msgstr ""
+"Solo se muestran en las estadísticas los resultados de las batallas estándar."
+
+msgid "ACHIEVEMENTS_RECIEVED_ON_AIRCRAFT"
+msgstr ""
+"Recibido en los siguientes aviones:<br>{aircraft_1}, {aircraft_2}, "
+"{aircraft_3}, {aircraft_4}, {aircraft_5} y {number} más."
+
+msgid "ACHIEVEMENTS_REFRESHING_DATA"
+msgstr "Actualizando datos..."
+
+msgid "ACHIEVEMENTS_REGISTRATION_DATE"
+msgstr "Registrado:"
+
+msgid "ACHIEVEMENTS_STAT_IN_NEW_MODE_CONQUEST"
+msgstr "Horas de vuelo totales en el modo de juego «Conquista»"
+
+msgid "ACHIEVEMENTS_SUMMARY_BATTLE_POINTS"
+msgstr "Puntos personales totales"
+
+msgid "ACHIEVEMENTS_SUMMARY_BATTLE_POINTS_ON_PLANES"
+msgstr "Puntos personales totales ganados en el avión"
+
+msgid "ACHIEVEMENTS_SUMMARY_EXP_ON_PLANES"
+msgstr "Experiencia total ganada en el avión"
+
+msgid "ACHIEVEMENTS_SUMMARY_STATS"
+msgstr "Resultados totales"
+
+msgid "ACHIEVEMENTS_SUMMARY_XP"
+msgstr "Experiencia total"
+
+msgid "ACHIEVEMENTS_SUPERIORITY_POINTS_AVG_PER_BATTLE"
+msgstr "Media de puntos de superioridad por batalla"
+
+msgid "ACHIEVEMENTS_SUPERIORITY_POINTS_TOTAL"
+msgstr "Total de puntos de superioridad"
+
+msgid "ACHIEVEMENTS_SURVIVED_BATTLES"
+msgstr "Batallas como superviviente"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS"
+msgstr "Logros"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_DISTINCTION"
+msgstr "Insignias"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_EPIC"
+msgstr "Logros épicos"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_GROUP"
+msgstr "Logros en grupo"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_HERO"
+msgstr "Logros de servicio"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_HOLIDAY"
+msgstr "Logros festivos"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_HONOR"
+msgstr "Rangos honorarios"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_MEMORIAL"
+msgstr "Placas distinguidas"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_NEW_YEAR"
+msgstr "Logros de temporada"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_OLD"
+msgstr "Logros anteriores"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_PERSONAL_QUESTS"
+msgstr "Misiones personales y órdenes operativas"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_RATING"
+msgstr "Logros para clasificación"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_RECENT"
+msgstr "Recibido recientemente"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_SERIAL"
+msgstr "Logros en serie"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_STAGE"
+msgstr "Condecoraciones por nivel"
+
+msgid "ACHIEVEMENTS_TAB_STATISTICS"
+msgstr "Estadísticas"
+
+msgid "ACHIEVEMENTS_TOTAL"
+msgstr "Total"
+
+msgid "ACHIEVEMENTS_TOTAL_BATTLES"
+msgstr "Batallas jugadas"
+
+msgid "ACHIEVEMENTS_TOTAL_FLIGHT"
+msgstr "Salidas"
+
+msgid "ACHIEVEMENTS_TOTAL_RECIEVED"
+msgstr "Total recibidos:"
+
+msgid "ACHIEVEMENTS_WINS"
+msgstr "Victorias"
+
+msgid "ACHIEVEMENTS_WINS_IN_GROUP"
+msgstr "Puntos de asistencia"
+
+msgid "ACHIEVEMENTS_WINS_IN_GROUP_2-0"
+msgstr "Asistencia a dañar aviones enemigos"
+
+msgid "ACHIEVEMENTS_WIN_MARKS"
+msgstr "Marcas de victoria"
+
+msgid "ACHIEVEMENTS_WIN_MARKS_DESC"
+msgstr "Concedida por destruir objetivos enemigos."
+
+msgid "ACHIEVEMENTS_XP"
+msgstr "Experiencia"
+
+msgid "ACHIEVEMENTS_XP_AND_BATTLESCORE"
+msgstr "Experiencia y puntos personales"
+
+msgid "MEDAL_DESCRIPTION_1ST_CLASS"
+msgstr ""
+"Concedida por ganar una batalla y conseguir más experiencia que cualquier "
+"jugador del equipo.<br><br>Disponible solamente una vez en batallas estándar."
+
+msgid "MEDAL_DESCRIPTION_2ND_CLASS"
+msgstr ""
+"Concedida por ganar una batalla y estar entre los 5 primeros de tu equipo "
+"por experiencia recibida.<br><br>Disponible solamente una vez en batallas "
+"estándar."
+
+msgid "MEDAL_DESCRIPTION_ABSOLUTE_CHAMPION"
+msgstr ""
+"Se concedió por haber sobrevivido, ganado y <font color='#f2f2f2'>haberse "
+"clasificado primero en todos los criterios en la ventana de resultados de "
+"batalla</font>.<br><font size='6'><br></font>Estuvo disponible una vez en "
+"batallas contra bots antes del lanzamiento de la versión 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_ACE"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} objetivos aéreos</"
+"font> en una sola batalla."
+
+msgid "MEDAL_DESCRIPTION_AIR_DEFENCE_PILOT"
+msgstr ""
+"Concedida por destruir un avión enemigo que ataca al cuartel general aliado. "
+"El jugador tiene que destruir el avión enemigo antes de que el cuartel "
+"general sea destruido.<br><br>Disponible solamente en batallas estándar, una "
+"vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_AKAMATSU"
+msgstr ""
+"Otorgada por conseguir al menos <font color='#f2f2f2'>{0} puntos de captura</"
+"font> por destruir objetivos aéreos con un caza en una sola salida."
+
+msgid "MEDAL_DESCRIPTION_ALBION_LION-I"
+msgstr ""
+"Se otorgó por participar en al menos <font color='#f2f2f2'>21 "
+"confrontaciones</font> en el bando aliado durante el evento «Cielo de "
+"Albión»."
+
+msgid "MEDAL_DESCRIPTION_ALBION_LION-II"
+msgstr ""
+"Se otorgó por participar en al menos <font color='#f2f2f2'>10 "
+"confrontaciones</font> en el bando aliado durante el evento «Cielo de "
+"Albión»."
+
+msgid "MEDAL_DESCRIPTION_ALBION_LION-III"
+msgstr ""
+"Se otorgó por participar en al menos <font color='#f2f2f2'>1 confrontación</"
+"font> en el bando aliado durante el evento «Cielo de Albión»."
+
+msgid "MEDAL_DESCRIPTION_ALL_YEAR_2016_VETERAN"
+msgstr ""
+"Otorgado por participar en los cuatro eventos de temporada de 2015-2016."
+
+msgid "MEDAL_DESCRIPTION_ALTITUDE_HUNTER"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} bombarderos</font> "
+"del grupo de combate enemigo en una sola batalla y ganar la batalla."
+"<br><font size='6'><br></font>Disponible una vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_ANIMAL_KING"
+msgstr ""
+"Concedida por conseguir cuatro esculturas animales para el hangar durante el "
+"evento <font color='#f2f2f2'>Operación maniobras festivas</font>."
+
+msgid "MEDAL_DESCRIPTION_AROUND_THE_WORLD"
+msgstr "Concedida por participar en batallas en al menos 2 mapas diferentes."
+
+msgid "MEDAL_DESCRIPTION_AS"
+msgstr ""
+"Concedida por destruir al menos 5 aviones enemigos en una batalla."
+"<br><br>Disponible solamente en batallas estándar."
+
+msgid "MEDAL_DESCRIPTION_ASSAULT_TEST"
+msgstr ""
+"Se concedió por haber recibido al menos <font color='#f2f2f2'>20 puntos</"
+"font> por haber destruido objetivos terrestres enemigos en un avión de "
+"ataque en una sola batalla.<br><font size='6'><br></font>Estuvo disponible "
+"una vez en batallas contra bots antes del lanzamiento de la versión 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_ASSISTANT"
+msgstr ""
+"Se concedió por haber asistido a tus aliados en la destrucción de al menos "
+"<font color='#f2f2f2'>3 aviones enemigos</font> en una batalla.<br><font "
+"size='6'><br></font>Estuvo disponible una vez en batallas contra bots antes "
+"del lanzamiento de la versión 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_ASSISTMASTER"
+msgstr ""
+"Concedida por alcanzar la máxima eficiencia al completar una misión del tipo "
+"específico de avión <font color='#f2f2f2'>«Trabajo en equipo»</font>."
+
+msgid "MEDAL_DESCRIPTION_ATTACKER"
+msgstr ""
+"Concedida por ganar un <font color='#f2f2f2'>grado de avión II</font> "
+"durante la etapa 1 <font color='#f2f2f2'>«Niebla de guerra»</font> del "
+"evento Orillas llameantes."
+
+msgid "MEDAL_DESCRIPTION_ATTACK_HERO"
+msgstr ""
+"Concedida por ganar el <font color='#{1}'>grado de avión II</font> durante "
+"<font color='#{1}'>la etapa «Ofensiva»</font> del evento «Tormenta de "
+"verano»."
+
+msgid "MEDAL_DESCRIPTION_ATTACK_ON_ALLIES_POSITION"
+msgstr "Otorgado por completar la misión «Ofensiva»."
+
+msgid "MEDAL_DESCRIPTION_AUTUMN_VETERAN"
+msgstr "Otorgado por participar en el evento «Tres años en el aire» de 2016."
+
+msgid "MEDAL_DESCRIPTION_AVALANCHE"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} objetivos "
+"terrestres</font> en una salida.<br><font size='6'><br></font>La cuenta se "
+"reinicia si el avión del jugador es destruido antes de haber destruido {0} "
+"objetivos terrestres enemigos."
+
+msgid "MEDAL_DESCRIPTION_BANSHEE"
+msgstr ""
+"Se concedió por haber destruido al menos <font color='#f2f2f2'>1 objetivo "
+"terrestre enemigo</font>. La cuenta se reiniciaba si el avión del jugador "
+"era destruido.<br><font size='6'><br></font>Estuvo disponible en batallas "
+"contra bots antes del lanzamiento de la versión 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_BATTERED_BUT_NOT_BROKEN"
+msgstr ""
+"Concedida por recibir al menos 3 impactos críticos y sobrevivir a la "
+"batalla<br><br>Disponible solamente en batallas estándar, una vez por cada "
+"avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_BATTLE_VULTURE"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} cazas "
+"polivalentes</font> del grupo de combate enemigo en una sola batalla y ganar "
+"la batalla.<br><font size='6'><br></font>Disponible una vez por cada avión "
+"en el hangar."
+
+msgid "MEDAL_DESCRIPTION_BEGELDINOV1"
+msgstr ""
+"Se concedió por haber recibido <font color='#f2f2f2'>150 000 puntos</font> "
+"por objetivos enemigos terrestres destruidos en batallas estándar.<br><font "
+"size='6'><br></font>Estuvo disponible en batallas estándar en el modo "
+"superioridad."
+
+msgid "MEDAL_DESCRIPTION_BEGELDINOV2"
+msgstr ""
+"Se concedió por haber recibido <font color='#f2f2f2'>15 000</font> puntos "
+"por objetivos enemigos terrestres destruidos.<br><font size='6'><br></"
+"font>Estuvo disponible en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_BEGELDINOV3"
+msgstr ""
+"Se concedió por haber recibido <font color='#f2f2f2'>1500</font> puntos por "
+"objetivos enemigos terrestres destruidos.<br><font size='6'><br></"
+"font>Estuvo disponible en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_BEGELDINOV4"
+msgstr ""
+"Se concedió por haber recibido <font color='#f2f2f2'>150</font> puntos por "
+"objetivos enemigos terrestres destruidos.<br><font size='6'><br></"
+"font>Estuvo disponible en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_BEWARE_OF_BOMBS"
+msgstr ""
+"Concedida por dañar un avión enemigo con una bomba.<br><br>Disponible "
+"solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_BIRD_OF_PREY"
+msgstr ""
+"Concedida por destruir al menos 2 cazas pesados enemigos en una batalla. El "
+"jugador tiene que ganar la batalla y sobrevivir.<br><br>Disponible solamente "
+"en batallas estándar, una vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_BLITZ"
+msgstr ""
+"Concedida por destruir 2 aviones enemigos seguidos en una batalla, sin que "
+"ningún otro avión enemigo sea destruido por aliados mientras."
+"<br><br>Disponible solamente en batallas estándar."
+
+msgid "MEDAL_DESCRIPTION_BOMBARDIER"
+msgstr ""
+"Concedida por destruir un <font color='#f2f2f2'>objetivo aéreo con la "
+"explosión de una bomba</font>.<br><br>Disponible una vez por cada avión en "
+"el hangar."
+
+msgid "MEDAL_DESCRIPTION_BOMBARDIER_1"
+msgstr ""
+"Concedida por destruir <font color='#f2f2f2'>un avión enemigo con una "
+"explosión de bomba</font>.<br><font size='6'><br></font>Disponible una vez "
+"por avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_BOMBING"
+msgstr ""
+"Concedida una vez por <font color='#f2f2f2'>destruir {0} objetivos "
+"terrestres</font> empleando bombas."
+
+msgid "MEDAL_DESCRIPTION_BOMBING_1"
+msgstr ""
+"Concedida por dañar un objetivo terrestre lanzando una bomba.<br><br>Se "
+"otorga una sola vez."
+
+msgid "MEDAL_DESCRIPTION_BONG1"
+msgstr ""
+"Se concedió por haber conseguido <font color='#f2f2f2'>300 medallas "
+"«Destructor»</font> en cazas pesados.<br><font size='6'><br></font>Estuvo "
+"disponible en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_BONG2"
+msgstr ""
+"Se concedió por haber conseguido <font color='#f2f2f2'>30 medallas "
+"«Destructor»</font> en cazas pesados.<br><font size='6'><br></font>Estuvo "
+"disponible en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_BONG3"
+msgstr ""
+"Se concedió por haber conseguido <font color='#f2f2f2'>3 medallas "
+"«Destructor»</font> en cazas pesados.<br><font size='6'><br></font>Estuvo "
+"disponible en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_BOYINGTON1"
+msgstr ""
+"Concedida por conseguir al menos <font color='#f2f2f2'>{0} puntos de "
+"captura</font>."
+
+msgid "MEDAL_DESCRIPTION_BOYINGTON2"
+msgstr ""
+"Concedida por conseguir al menos <font color='#f2f2f2'>{0} puntos de "
+"captura</font>."
+
+msgid "MEDAL_DESCRIPTION_BOYINGTON3"
+msgstr ""
+"Concedida por conseguir al menos <font color='#f2f2f2'>{0} puntos de "
+"captura</font>."
+
+msgid "MEDAL_DESCRIPTION_BOYINGTON4"
+msgstr ""
+"Concedida por conseguir al menos <font color='#f2f2f2'>{0} puntos de "
+"captura</font>."
+
+msgid "MEDAL_DESCRIPTION_BREAKTHROUGH"
+msgstr ""
+"Concedida por destruir al menos 3 cañones AA enemigos o 3 objetivos "
+"terrestres equipados con cañones AA.<br><br>Disponible solamente en las "
+"batallas estándar, una vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_BRONZE_PLAYERS"
+msgstr ""
+"Concedida por entrar en la división de bronce en función de la puntuación "
+"personal."
+
+msgid "MEDAL_DESCRIPTION_BURNING"
+msgstr ""
+"Concedida por sobrevivir al menos <font color='#f2f2f2'>2 incendios</font> "
+"en una sola salida.<br><font size='6'><br></font>La cuenta se reinicia si el "
+"avión del jugador es destruido."
+
+msgid "MEDAL_DESCRIPTION_BURNING_SHORES"
+msgstr ""
+"Concedida por ganar <font color='#f2f2f2'>{0}</font> puntos personales "
+"durante el evento Orillas llameantes."
+
+msgid "MEDAL_DESCRIPTION_CADET"
+msgstr "Concedida por completar una misión de entrenamiento."
+
+msgid "MEDAL_DESCRIPTION_CADET_1"
+msgstr ""
+"Medalla de primer rango por completar una misión de la secuencia de misiones "
+"«Vuelo de entrenamiento»"
+
+msgid "MEDAL_DESCRIPTION_CADET_2"
+msgstr ""
+"Medalla de segundo rango por completar una misión de la secuencia de "
+"misiones «Vuelo de entrenamiento»"
+
+msgid "MEDAL_DESCRIPTION_CADET_3"
+msgstr ""
+"Medalla de tercer rango por completar una misión de la secuencia de misiones "
+"«Vuelo de entrenamiento»"
+
+msgid "MEDAL_DESCRIPTION_CADET_4"
+msgstr ""
+"Medalla de cuarto rango por completar una misión de la secuencia de misiones "
+"«Vuelo de entrenamiento»"
+
+msgid "MEDAL_DESCRIPTION_CADET_5"
+msgstr ""
+"Medalla de quinto rango por completar una misión de la secuencia de misiones "
+"«Vuelo de entrenamiento»"
+
+msgid "MEDAL_DESCRIPTION_CANDY_RAID"
+msgstr ""
+"Concedida por recibir la primera golosina durante el evento <font "
+"color='#f2f2f2'>Operación maniobras festivas</font>."
+
+msgid "MEDAL_DESCRIPTION_CAREFUL"
+msgstr ""
+"Concedida por destruir 3 aviones enemigos en una batalla y evitar el "
+"recalentamiento de armas y motor durante la batalla.<br><br>Disponible "
+"solamente en las batallas estándar, una vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_CATCHER"
+msgstr ""
+"Concedida por conseguir al menos <font color='#f2f2f2'>{0} puntos de "
+"captura</font> por destruir aviones enemigos volando sobre un sector bajo el "
+"control del grupo de combate del jugador en una sola batalla."
+
+msgid "MEDAL_DESCRIPTION_CAUTION_BOMB"
+msgstr ""
+"Concedida una vez por <font color='#f2f2f2'>dañar aviones enemigos al soltar "
+"una bomba</font>."
+
+msgid "MEDAL_DESCRIPTION_CHAMPION_DESTROYER"
+msgstr ""
+"Se concedió por haber destruido <font color='#f2f2f2'>la mayoría de "
+"objetivos terrestres enemigos</font>. El jugador tenía que ganar la batalla "
+"y sobrevivir.<br><font size='6'><br></font>Estuvo disponible una vez en "
+"batallas contra bots antes del lanzamiento de la versión 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_CLEANER"
+msgstr ""
+"Se concedió a todos los miembros de una escuadrilla que en total hubieran "
+"destruido al menos <font color='#f2f2f2'>5 aviones enemigos</font> y "
+"hubieran recibido al menos <font color='#f2f2f2'>75 puntos</font> por haber "
+"destruido objetivos terrestres enemigos.<br><font size='6'><br></font>Estuvo "
+"disponible solamente en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_CLEANUP"
+msgstr ""
+"Concedida por destruir el último avión enemigo y sobrevivir a la batalla."
+"<br><br>Disponible solamente una vez en batallas contra bots."
+
+msgid "MEDAL_DESCRIPTION_CLEAR_SKY"
+msgstr ""
+"Se concedió por haber destruido <font color='#f2f2f2'>3 cazas enemigos o "
+"cazas polivalentes</font> en una o varias batallas. El jugador tenía que "
+"sobrevivir a todas las batallas hasta que 3 cazas estuvieran destruidos."
+"<br><font size='6'><br></font>Estuvo disponible una vez en batallas contra "
+"bots antes del lanzamiento de la versión 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_CLIPPING_THE_WINGS"
+msgstr ""
+"Concedida por destruir un avión enemigo causando daño crítico en las alas."
+"<br><br>Disponible solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_CLOSTERMAN"
+msgstr ""
+"Se concedió por haber destruido al menos <font color='#f2f2f2'>7 aviones "
+"enemigos</font> y haber recibido al menos <font color='#f2f2f2'>15 puntos</"
+"font> por haber destruido objetivos terrestres enemigos en una batalla."
+"<br><font size='6'><br></font>Estuvo disponible solamente en batallas "
+"estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_COLLECTOR"
+msgstr ""
+"Concedida por participar en batallas en aviones de al menos 2 niveles "
+"diferentes."
+
+msgid "MEDAL_DESCRIPTION_COMMAND_DES"
+msgstr ""
+"Concedida por ganar al menos <font color='#f2f2f2'>{200} puntos de captura</"
+"font> por destruir objetivos terrestres enemigos y causar al menos <font "
+"color='#f2f2f2'>{2000} puntos de daño a objetivos aéreos</font> con fuego de "
+"torreta en una sola salida."
+
+msgid "MEDAL_DESCRIPTION_COMPETITIVE_PLAYERS"
+msgstr "Concedida por entrar en la clasificación."
+
+msgid "MEDAL_DESCRIPTION_CONQUEROR"
+msgstr ""
+"Concedida por ganar al menos <font color='#f2f2f2'>{0} puntos de captura</"
+"font> en una sola batalla."
+
+msgid "MEDAL_DESCRIPTION_CONTROLLER"
+msgstr ""
+"Concedida por alcanzar la máxima eficiencia al completar una misión del tipo "
+"específico de avión <font color='#f2f2f2'>«Captura de los sectores»</font>."
+
+msgid "MEDAL_DESCRIPTION_CROSSFIRE"
+msgstr ""
+"Concedida una vez por <font color='#f2f2f2'>asistir en la destrucción de {0} "
+"objetivos aéreos</font>."
+
+msgid "MEDAL_DESCRIPTION_CROSSFIRE_1"
+msgstr ""
+"Concedida por dañar un avión enemigo, destruido posteriormente por un avión "
+"aliado.<br><br>Disponible solo una vez."
+
+msgid "MEDAL_DESCRIPTION_CRUCIALCONTRIBUTION"
+msgstr ""
+"Se concedió a todos los miembros de una escuadrilla que en total hubieran "
+"destruido al menos <font color='#f2f2f2'>12 aviones enemigos</font> antes de "
+"que uno de los miembros de la escuadrilla fuera destruido.<br><font "
+"size='6'><br></font>Estuvo disponible en batallas estándar en el modo "
+"superioridad."
+
+msgid "MEDAL_DESCRIPTION_DANGEROUS_TARGET"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0}objetivos aéreos</"
+"font> en la primera salida.<br><font size='6'><br></font>La cuenta se "
+"reinicia si el avión del jugador es destruido antes de que destruya {0} "
+"objetivos aéreos."
+
+msgid "MEDAL_DESCRIPTION_DANGER_TAIL"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} objetivos aéreos</"
+"font> con fuego de una torreta en una sola salida.<br><font size='6'><br></"
+"font>La cuenta se reinicia si el avión del jugador es destruido."
+
+msgid "MEDAL_DESCRIPTION_DARING_SWOOP"
+msgstr ""
+"Concedida una vez por <font color='#f2f2f2'>participar en la captura de un "
+"sector enemigo</font>."
+
+msgid "MEDAL_DESCRIPTION_DEAD_ZONE"
+msgstr ""
+"Concedida por destruir un avión enemigo equipado con una torreta defensiva "
+"sin recibir daño de ese avión.<br><br>Disponible solamente en batallas "
+"estándar."
+
+msgid "MEDAL_DESCRIPTION_DEFENDER_PROGRESS1"
+msgstr ""
+"Se concedió por haber participado en al menos <font color='#f2f2f2'>21 "
+"confrontaciones</font> en el bando del Eje durante el evento de la Batalla "
+"por el martillo de Thor."
+
+msgid "MEDAL_DESCRIPTION_DEFENDER_PROGRESS2"
+msgstr ""
+"Se concedió por haber participado en al menos <font color='#f2f2f2'>10 "
+"confrontaciones</font> en el bando del Eje durante el evento de la Batalla "
+"por el martillo de Thor."
+
+msgid "MEDAL_DESCRIPTION_DEFENDER_PROGRESS3"
+msgstr ""
+"Se concedió por haber participado en al menos <font color='#f2f2f2'>1 "
+"confrontación</font> en el bando del Eje durante el evento de la Batalla por "
+"el martillo de Thor."
+
+msgid "MEDAL_DESCRIPTION_DESTROYER"
+msgstr ""
+"Concedida por alcanzar la máxima eficiencia al completar una misión del tipo "
+"específico de avión <font color='#f2f2f2'>«Destrucción de la "
+"infraestructura»</font>."
+
+msgid "MEDAL_DESCRIPTION_DESTROYER_OLD"
+msgstr ""
+"Se concedió por haber destruido al menos <font color='#f2f2f2'>4 aviones "
+"enemigos</font> y haber recibido al menos <font color='#f2f2f2'>15 puntos</"
+"font> por haber destruido objetivos terrestres enemigos en una sola batalla."
+"<br><font size='6'><br></font>Estuvo disponible en batallas estándar en el "
+"modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_DEVASTATOR"
+msgstr ""
+"Concedida por destruir 2 objetivos terrestres enemigos con una sola bomba."
+"<br><br>Disponible solamente en batallas estándar, una vez por cada avión en "
+"el hangar."
+
+msgid "MEDAL_DESCRIPTION_DILLEI1"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} aviones del grupo "
+"de combate enemigo</font>."
+
+msgid "MEDAL_DESCRIPTION_DILLEI2"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} aviones del grupo "
+"de combate enemigo</font>."
+
+msgid "MEDAL_DESCRIPTION_DILLEI3"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} aviones del grupo "
+"de combate enemigo</font>."
+
+msgid "MEDAL_DESCRIPTION_DILLEI4"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} aviones del grupo "
+"de combate enemigo</font>."
+
+msgid "MEDAL_DESCRIPTION_DOMINATOR"
+msgstr ""
+"Concedida por destruir al menos 1 <font color='#f2f2f2'>caza</font>, 1 <font "
+"color='#f2f2f2'>caza pesado</font> y 1 <font color='#f2f2f2'>avión de "
+"ataque</font> del equipo enemigo en una sola batalla y ganar la batalla."
+"<br><font size='6'><br></font>Disponible una vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_DOMINATOR_1"
+msgstr ""
+"Concedida por destruir al menos 1 caza enemigo, 1 caza pesado y 1 avión de "
+"ataque en una batalla. El jugador debe ganar la batalla.<br><br>Disponible "
+"una vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_DULITTLA"
+msgstr ""
+"Concedida por conseguir al menos <font color='#f2f2f2'>{0} puntos de "
+"captura</font> por destruir objetivos terrestres enemigos con un bombardero "
+"en una sola salida."
+
+msgid "MEDAL_DESCRIPTION_EFFECTIVE"
+msgstr ""
+"Concedida por ganar al menos <font color='#f2f2f2'>{0}puntos personales</"
+"font> en cada una de al menos 2 batallas consecutivas.<br><font "
+"size='6'><br></font>La cuenta se reinicia si el jugador gana menos de {0} "
+"puntos personales en una batalla."
+
+msgid "MEDAL_DESCRIPTION_ELITE_PLANE"
+msgstr ""
+"Concedida al adquirir el <font color='#f2f2f2'>estatus de élite</font> en "
+"cualquier avión.<br><font size='6'><br></font>Disponible una vez para "
+"cualquier avión que adquiera el <font color='#f2f2f2'>estatus de élite</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_END_OF_SPEAR"
+msgstr ""
+"Concedida a los miembros de la escuadrilla que ganó al menos <font "
+"color='#f2f2f2'>{0} puntos personales</font>.<br><font size='6'><br></"
+"font>La cuenta se reinicia si uno de los miembros de la escuadrilla es "
+"destruido."
+
+msgid "MEDAL_DESCRIPTION_ESCORT_SKY_AVENGER"
+msgstr ""
+"Concedida por alcanzar la máxima eficiencia al completar la misión del tipo "
+"específico de avión <font color='#{1}'>«Destruir aviones enemigos»</font>."
+
+msgid "MEDAL_DESCRIPTION_ESCORT_SKY_DEFENDER"
+msgstr ""
+"Concedida por alcanzar la máxima eficiencia al completar la misión del tipo "
+"específico de avión <font color='#{1}'>«Destruir aviones enemigos»</font>."
+
+msgid "MEDAL_DESCRIPTION_ESCORT_SKY_DESTROYER"
+msgstr ""
+"Concedida por alcanzar la máxima eficiencia al completar la misión del tipo "
+"específico de avión <font color='#{1}'>«Eliminar defensas AA»</font>."
+
+msgid "MEDAL_DESCRIPTION_ESCORT_SKY_HUNTER"
+msgstr ""
+"Concedida por alcanzar la máxima eficiencia al completar la misión del tipo "
+"específico de avión<font color='#{1}'>«Intercepta»</font>."
+
+msgid "MEDAL_DESCRIPTION_ESCORT_SKY_KEEPER"
+msgstr ""
+"Concedida por alcanzar la máxima eficiencia al completar la misión del tipo "
+"específico de avión<font color='#{1}'>«Bombarderos escolta»</font>."
+
+msgid "MEDAL_DESCRIPTION_EXPERIENCED"
+msgstr ""
+"Concedida por ganar una batalla y <font color='#f2f2f2'>situarse entre los "
+"3</font> primeros en el grupo de combate.<br><font size='6'><br></"
+"font>Disponible una vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_EXPERIENCED_ALT"
+msgstr ""
+"Concedida por <font color='#f2f2f2'>conseguir uno de los 3 primeros puestos</"
+"font> en el grupo de combate en <font color='#f2f2f2'>2</font> batallas "
+"victoriosas seguidas. La cuenta se reinicia si el jugador no consigue uno de "
+"los 3 puestos superiores en el grupo de combate."
+
+msgid "MEDAL_DESCRIPTION_EXPERIENCED_HUNTER"
+msgstr "Concedida por completar la misión «Cazador experto»."
+
+msgid "MEDAL_DESCRIPTION_EXTERMINATOR"
+msgstr ""
+"Concedida por alcanzar la máxima eficiencia al completar la misión del tipo "
+"específico de avión <font color='#f2f2f2'>«Destrucción de los objetivos "
+"terrestres»</font>."
+
+msgid "MEDAL_DESCRIPTION_FALCON"
+msgstr ""
+"Concedida por destruir un avión enemigo en un ataque en picado."
+"<br><br>Disponible solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_FALCONRY"
+msgstr ""
+"Concedida por destruir al menos 2 cazas enemigos o cazas polivalente en una "
+"batalla. El jugador tiene que ganar la batalla y sobrevivir."
+"<br><br>Disponible solamente en batallas estándar, una vez por cada avión en "
+"el hangar."
+
+msgid "MEDAL_DESCRIPTION_FALCON_HUNTING"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} cazas</font> del "
+"grupo de combate enemigo en una sola batalla y ganar la batalla.<br><font "
+"size='6'><br></font>Disponible una vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_FIGHTER_DEFENDER"
+msgstr ""
+"Concedida por alcanzar la máxima eficiencia al completar una misión del tipo "
+"específico de avión <font color='#f2f2f2'>«Defensa de los sectores»</font>."
+
+msgid "MEDAL_DESCRIPTION_FIGHTER_DOMINATOR"
+msgstr ""
+"Concedida por alcanzar la máxima eficiencia al completar una misión del tipo "
+"específico de avión <font color='#f2f2f2'>«Batalla aérea por los sectores»</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_FIGHTER_INTERCEPTOR"
+msgstr ""
+"Concedida por alcanzar la máxima eficiencia al completar una misión del tipo "
+"específico de avión <font color='#f2f2f2'>«Destrucción de los objetivos "
+"aéreos»</font>."
+
+msgid "MEDAL_DESCRIPTION_FIGHTER_OF_ALL_LIFE"
+msgstr ""
+"Concedida por alcanzar la máxima eficiencia al completar una misión del tipo "
+"específico de avión <font color='#f2f2f2'>«Ataque de los sectores»</font>."
+
+msgid "MEDAL_DESCRIPTION_FIGHTER_TEST"
+msgstr ""
+"Se concedió por haber destruido al menos <font color='#f2f2f2'>2 aviones "
+"enemigos</font> con un caza o un caza polivalente en una sola batalla."
+"<br><font size='6'><br></font>Estuvo disponible una vez en batallas contra "
+"bots antes del lanzamiento de la versión 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_FIREBUG"
+msgstr ""
+"Concedida por <font color='#f2f2f2'>destruir un objetivo terrestre "
+"incendiándolo</font>."
+
+msgid "MEDAL_DESCRIPTION_FIRESPITTING"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>2 objetivos "
+"terrestres</font> en una batalla <font color='#f2f2f2'>incendiándolos</font>."
+"<br><font size='6'><br></font>Disponible una vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_FIRESTARTER"
+msgstr ""
+"Concedida por dañar un objetivo terrestre enemigo tras incendiarlo usando "
+"munición con propiedades incendiarias.<br><br>Disponible solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_FIRE_BILLOW"
+msgstr ""
+"Se concedió por haber recibido al menos <font color='#f2f2f2'>50 puntos</"
+"font> por haber destruido objetivos terrestres enemigos en una o varias "
+"batallas.<br><font size='6'><br></font>La cuenta se reiniciaba si el avión "
+"del jugador era destruido.<br><font size='6'><br></font>Estuvo disponible "
+"solamente en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_FIRE_BREATH"
+msgstr ""
+"Concedida por destruir al menos 2 objetivos terrestres enemigos tras "
+"incendiarlos en una batalla.<br><br>Disponible solamente en batallas "
+"estándar, una vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_FIRST_BLOOD"
+msgstr ""
+"Se concedió por haber sido el primero en destruir un <font "
+"color='#f2f2f2'>avión enemigo</font> en una batalla. La cuenta se reiniciaba "
+"si otro jugador humano o un bot destruía un avión enemigo primero.<br><font "
+"size='6'><br></font>Estuvo disponible en batallas contra bots antes del "
+"lanzamiento de la versión 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_FIRST_FIGHTER"
+msgstr ""
+"Concedida por ganar el <font color='#{1}'>grado de avión II</font> durante "
+"<font color='#{1}'>la etapa «Reconocimiento»</font> del evento «Tormenta de "
+"verano»."
+
+msgid "MEDAL_DESCRIPTION_FIRST_IN_TEAM"
+msgstr ""
+"Se concedió por haber <font color='#f2f2f2'>destruido el mayor número de "
+"aviones enemigos</font> entre tus compañeros de equipo, haber sobrevivido y "
+"ganado la batalla. Si varios jugadores destruían el mismo número de aviones "
+"enemigos, cada uno era galardonado.<br><font size='6'><br></font>Estuvo "
+"disponible en batallas contra bots antes del lanzamiento de la versión 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_FLAME_OF_HEAVEN"
+msgstr ""
+"Concedida por <font color='#f2f2f2'>destruir un avión enemigo incendiándolo</"
+"font>.<br><font size='6'><br></font>Disponible una vez por cada avión en el "
+"hangar."
+
+msgid "MEDAL_DESCRIPTION_FLAMING"
+msgstr ""
+"Concedida por destruir un avión enemigo mientras el avión propio está en "
+"llamas.<br><br>Disponible una vez por cada avión en el hangar, solamente en "
+"batallas estándar."
+
+msgid "MEDAL_DESCRIPTION_FLGHT_LEADER_1"
+msgstr ""
+"Medalla de primer rango por completar una misión de la secuencia de misiones "
+"«Hermandad del aire»"
+
+msgid "MEDAL_DESCRIPTION_FLGHT_LEADER_2"
+msgstr ""
+"Medalla de segundo rango por completar una misión de la secuencia de "
+"misiones «Hermandad del aire»"
+
+msgid "MEDAL_DESCRIPTION_FLGHT_LEADER_3"
+msgstr ""
+"Medalla de tercer rango por completar una misión de la secuencia de misiones "
+"«Hermandad del aire»"
+
+msgid "MEDAL_DESCRIPTION_FLGHT_LEADER_4"
+msgstr ""
+"Medalla de cuarto rango por completar una misión de la secuencia de misiones "
+"«Hermandad del aire»"
+
+msgid "MEDAL_DESCRIPTION_FLGHT_LEADER_5"
+msgstr ""
+"Medalla de quinto rango por completar una misión de la secuencia de misiones "
+"«Hermandad del aire»"
+
+msgid "MEDAL_DESCRIPTION_FLIGHT_DRESSING"
+msgstr ""
+"Concedida por curar a un piloto herido con el botiquín de primeros auxilios "
+"o el paquete de primeros auxilios.<br><br>Disponible solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_FLIGHT_REPAIRS"
+msgstr ""
+"Concedida por reiniciar un motor que ha fallado.<br><br>Disponible solamente "
+"una vez."
+
+msgid "MEDAL_DESCRIPTION_FLOWN"
+msgstr ""
+"Concedida por <font color='#f2f2f2'>asistir a los aliados al menos {0} veces "
+"al destruir objetivos aéreos</font> en una batalla y ganar la batalla. El "
+"jugador debe ganar la batalla.<br><font size='6'><br></font>Disponible una "
+"vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_FLYING_EAGLE"
+msgstr ""
+"Concedida por ganar un <font color='#f2f2f2'>grado de avión II</font> "
+"durante la etapa 2, <font color='#f2f2f2'>«Sombra del águila»</font>, del "
+"evento Orillas llameantes."
+
+msgid "MEDAL_DESCRIPTION_FLY_SAUCER"
+msgstr ""
+"Otorgada por pilotar el Sleipnir al menos en una batalla.<br><font "
+"size='6'><br></font>Estuvo disponible durante el evento del Día de los "
+"Inocentes de 2014."
+
+msgid "MEDAL_DESCRIPTION_FRONTLINE_1"
+msgstr ""
+"Medalla de primer rango por completar una misión de la secuencia de misiones "
+"«Cielos mortales»"
+
+msgid "MEDAL_DESCRIPTION_FRONTLINE_2"
+msgstr ""
+"Medalla de segundo rango por completar una misión de la secuencia de "
+"misiones «Cielos mortales»"
+
+msgid "MEDAL_DESCRIPTION_FRONTLINE_3"
+msgstr ""
+"Medalla de tercer rango por completar una misión de la secuencia de misiones "
+"«Cielos mortales»"
+
+msgid "MEDAL_DESCRIPTION_FRONTLINE_4"
+msgstr ""
+"Medalla de cuarto rango por completar una misión de la secuencia de misiones "
+"«Cielos mortales»"
+
+msgid "MEDAL_DESCRIPTION_FRONTLINE_5"
+msgstr ""
+"Medalla de quinto rango por completar una misión de la secuencia de misiones "
+"«Cielos mortales»"
+
+msgid "MEDAL_DESCRIPTION_FULMINANT"
+msgstr ""
+"Concedida por destruir <font color='#f2f2f2'>2 objetivos aéreos</font> "
+"seguidos en una batalla, sin que ningún otro avión enemigo sea destruido "
+"entre medias por los aliados."
+
+msgid "MEDAL_DESCRIPTION_FUTURE_ACE"
+msgstr ""
+"Concedida por destruir al menos 3 aviones enemigos en una sola batalla. El "
+"jugador tiene que sobrevivir a la batalla.<br><br>Disponible solamente una "
+"vez en batallas contra bots."
+
+msgid "MEDAL_DESCRIPTION_GALLAND1"
+msgstr ""
+"Se concedió por haber ganado <font color='#f2f2f2'>300 medallas «As»</font> "
+"en cazas o cazas polivalentes.<br><font size='6'><br></font>Estuvo "
+"disponible solamente en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_GALLAND2"
+msgstr ""
+"Se concedió por haber ganado <font color='#f2f2f2'>30 medallas «As»</font> "
+"en cazas o cazas polivalentes.<br><font size='6'><br></font>Estuvo "
+"disponible solamente en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_GALLAND3"
+msgstr ""
+"Se concedió por haber ganado <font color='#f2f2f2'>3 medallas «As»</font> en "
+"cazas o cazas polivalentes.<br><font size='6'><br></font>Estuvo disponible "
+"solamente en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_GOLD_PLAYERS"
+msgstr ""
+"Concedida por entrar en la división de oro en función de la puntuación "
+"personal."
+
+msgid "MEDAL_DESCRIPTION_GOLIAPHS_NEMESIS"
+msgstr ""
+"Se concedió <font color='#f2f2f2'>por haber destruido 3 cazas pesados "
+"enemigos</font> en una o varias batallas y sobrevivido a esas batallas."
+"<br><font size='6'><br></font>Estuvo disponible una vez en batallas contra "
+"bots antes del lanzamiento de la versión 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_GOLUBEV"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} objetivos aéreos</"
+"font> usando cohetes en una sola salida y ganar la batalla."
+
+msgid "MEDAL_DESCRIPTION_GOROVETS"
+msgstr ""
+"Se concedió por haber destruido al menos <font color='#f2f2f2'>9 aviones "
+"enemigos</font> en una batalla.<br><font size='6'><br></font>Estuvo "
+"disponible solamente en batallas estándar en el modo de superioridad."
+
+msgid "MEDAL_DESCRIPTION_GOTCHA"
+msgstr ""
+"Concedida una vez por <font color='#f2f2f2'>dañar un objetivo aéreo con las "
+"armas frontales</font>."
+
+msgid "MEDAL_DESCRIPTION_GOTCHA_1"
+msgstr ""
+"Concedida por dañar un avión enemigo con armas de disparo frontal."
+"<br><br>Disponible una sola vez."
+
+msgid "MEDAL_DESCRIPTION_GOT_TEN"
+msgstr ""
+"Concedida por recibir una segunda marca de victoria por destruir aviones "
+"enemigos.<br><br>Disponible solamente en batallas estándar, una vez por cada "
+"avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_GRAF1"
+msgstr ""
+"Se concedió por haber destruido <font color='#f2f2f2'>10 000</font> aviones "
+"enemigos en batallas estándar.<br><font size='6'><br></font>Estuvo "
+"disponible solamente en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_GRAF2"
+msgstr ""
+"Se concedió por haber destruido <font color='#f2f2f2'>1000</font> aviones "
+"enemigos en batallas estándar.<br><font size='6'><br></font>Estuvo "
+"disponible solamente en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_GRAF3"
+msgstr ""
+"Se concedió por haber destruido <font color='#f2f2f2'>100</font> aviones "
+"enemigos en batallas estándar.<br><font size='6'><br></font>Estuvo "
+"disponible solamente en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_GRAF4"
+msgstr ""
+"Se concedió por haber destruido <font color='#f2f2f2'>10</font> aviones "
+"enemigos en batallas estándar.<br><font size='6'><br></font>Estuvo "
+"disponible solamente en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_GRIP"
+msgstr ""
+"Concedida por ganar el <font color='#{1}'>grado de avión II</font> durante "
+"<font color='#{1}'>la etapa «Mantener posiciones»</font> del evento "
+"«Tormenta de verano»."
+
+msgid "MEDAL_DESCRIPTION_GROUND_AND_IN_THE_SKY"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} objetivos aéreos</"
+"font> y <font color='#f2f2f2'>{1} objetivos terrestres</font> en cada una de "
+"al menos 2 batallas consecutivas.<br><font size='6'><br></font>La cuenta se "
+"reinicia si el jugador no cumple esta condición."
+
+msgid "MEDAL_DESCRIPTION_GROUND_DEFENDER"
+msgstr ""
+"Se concedió por haber destruido <font color='#f2f2f2'>3 aviones de ataque "
+"enemigos</font> en una o varias batallas y sobrevivir a todas las batallas "
+"hasta que 3 aviones de ataque fueran destruidos.<br><font size='6'><br></"
+"font>Estuvo disponible una vez en batallas contra bots antes del lanzamiento "
+"de la versión 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_GROUND_POUNDER"
+msgstr ""
+"Concedida por causar un daño total de 10 000 PV a objetivos terrestres "
+"enemigos en una o varias batallas.<br><br>Disponible solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_GUARD"
+msgstr ""
+"Concedida una vez por <font color='#f2f2f2'>destruir un objetivo terrestre "
+"enemigo</font>."
+
+msgid "MEDAL_DESCRIPTION_GUNNER"
+msgstr ""
+"Concedida una vez por <font color='#f2f2f2'>dañar un avión enemigo con fuego "
+"de la torreta defensiva</font>."
+
+msgid "MEDAL_DESCRIPTION_HABREZKI"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} objetivos aéreos</"
+"font> y <font color='#f2f2f2'>{1} objetivos terrestres</font> en una sola "
+"salida y ganar la batalla."
+
+msgid "MEDAL_DESCRIPTION_HAMMER_PROGRESS1"
+msgstr ""
+"Se concedió por haber participado en al menos <font color='#f2f2f2'>21 "
+"confrontaciones</font> en el bando aliado durante el evento de la Batalla "
+"por el martillo de Thor."
+
+msgid "MEDAL_DESCRIPTION_HAMMER_PROGRESS2"
+msgstr ""
+"Se concedió por haber participado en al menos <font color='#f2f2f2'>10 "
+"confrontaciones</font> en el bando aliado durante el evento de la Batalla "
+"por el martillo de Thor."
+
+msgid "MEDAL_DESCRIPTION_HAMMER_PROGRESS3"
+msgstr ""
+"Se concedió por haber participado en al menos <font color='#f2f2f2'>1 "
+"confrontación</font> en el bando aliado durante el evento de la Batalla por "
+"el martillo de Thor."
+
+msgid "MEDAL_DESCRIPTION_HAWK_LA_MANCHE-I"
+msgstr ""
+"Se otorgó por participar en al menos <font color='#f2f2f2'>21 "
+"confrontaciones</font> en el bando del Eje durante el evento «Cielo de "
+"Albión»."
+
+msgid "MEDAL_DESCRIPTION_HAWK_LA_MANCHE-II"
+msgstr ""
+"Se otorgó por participar en al menos <font color='#f2f2f2'>10 "
+"confrontaciones</font> en el bando del Eje durante el evento «Cielo de "
+"Albión»."
+
+msgid "MEDAL_DESCRIPTION_HAWK_LA_MANCHE-III"
+msgstr ""
+"Se otorgó por participar en al menos <font color='#f2f2f2'>1 confrontación</"
+"font> en el bando del Eje durante el evento «Cielo de Albión»."
+
+msgid "MEDAL_DESCRIPTION_HEAVYWEIGHT"
+msgstr ""
+"Concedida una vez por <font color='#f2f2f2'>destruir {0} cazas pesados</"
+"font> del grupo de combate enemigo."
+
+msgid "MEDAL_DESCRIPTION_HEAVYWEIGHT_1"
+msgstr ""
+"Concedida por destruir un caza pesado enemigo.<br><br>Disponible solamente "
+"una vez."
+
+msgid "MEDAL_DESCRIPTION_HEAVY_FIGHTER_1"
+msgstr ""
+"Concedida por ser uno de los mejores jugadores según los resultados logrados "
+"en un caza pesado durante los eventos del juego."
+
+msgid "MEDAL_DESCRIPTION_HEAVY_HITTER"
+msgstr ""
+"Concedida por causar un daño total de 1000 PV en aviones enemigos en una o "
+"varias batallas.<br><br>Disponible solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_HEAVY_TEST"
+msgstr ""
+"Se concedió por haber destruido al menos <font color='#f2f2f2'>1 avión "
+"enemigo</font> y recibir al menos <font color='#f2f2f2'>10 puntos</font> por "
+"destruir objetivos terrestres enemigos con un caza pesado en una sola "
+"batalla.<br><font size='6'><br></font>Estuvo disponible una vez en batallas "
+"contra bots antes del lanzamiento de la versión 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_HIDE_N_SEEK"
+msgstr ""
+"Concedida por usar el terreno como cobertura para ocultarte del enemigo tras "
+"ser detectado.<br><br>Disponible solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_HIGH_START"
+msgstr ""
+"Otorgada por participar en al menos 50 batallas durante el mes que siguió al "
+"primer inicio de sesión."
+
+msgid "MEDAL_DESCRIPTION_HOSTILE_SKIES"
+msgstr ""
+"Concedida por sobrevivir al daño antiaéreo y escapar al alcance de los "
+"cañones AA enemigos.<br><br>Disponible solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_HOT_ENGINES"
+msgstr ""
+"Concedida por enfriar completamente un motor recalentado tras un uso extenso "
+"del impulsor.<br><br>Disponible solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_HUNGRY_FLOCK"
+msgstr ""
+"Concedida a los miembros de una escuadrilla por destruir al menos <font "
+"color='#f2f2f2'>{0} objetivos aéreos</font> consiguiendo al menos <font "
+"color='#f2f2f2'>{1} puntos de captura</font> en una sola salida y ganar la "
+"batalla."
+
+msgid "MEDAL_DESCRIPTION_HUNTER"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} aviones de defensa "
+"aérea</font> en cada una de al menos 2 batallas consecutivas.<br><font "
+"size='6'><br></font>La cuenta se reinicia si el jugador destruye menos de "
+"{0} aviones defensores en una batalla."
+
+msgid "MEDAL_DESCRIPTION_IMPACT_FROM_THE_SKY"
+msgstr ""
+"Concedida una vez por destruir un <font color='#f2f2f2'>avión de una "
+"escuadrilla de ataque</font>."
+
+msgid "MEDAL_DESCRIPTION_INDEPENDENT"
+msgstr ""
+"Concedida a los miembros de una escuadrilla por destruir al menos <font "
+"color='#f2f2f2'>{0} aviones del grupo de combate enemigo en una sola "
+"batalla</font> tras la llegada del <font color='#f2f2f2'>frente de "
+"tempestad</font> y ganar la batalla."
+
+msgid "MEDAL_DESCRIPTION_INTERCEPTOR"
+msgstr ""
+"Concedida por destruir al menos 2 aviones de ataque enemigos en una batalla. "
+"El jugador tiene que ganar la batalla y sobrevivir.<br><br>Disponible "
+"solamente en batallas estándar, una vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_INTERCEPTORHEAVYWEIGHT_FIGHTER"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} aviones de ataque</"
+"font> del grupo de combate enemigo en una sola batalla y ganar la batalla."
+"<br><font size='6'><br></font>Disponible una vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_INTERCEPTOR_1"
+msgstr ""
+"Concedida por destruir al menos 12 aviones enemigos en una sola batalla."
+
+msgid "MEDAL_DESCRIPTION_INVADER"
+msgstr ""
+"Concedida por ganar al menos <font color='#f2f2f2'>{0} puntos de captura</"
+"font> en cada una de al menos 2 batallas consecutivas.<br><font "
+"size='6'><br></font>La cuenta se reinicia si el jugador consigue menos de "
+"{0} puntos de captura en una sola batalla."
+
+msgid "MEDAL_DESCRIPTION_INVASION"
+msgstr ""
+"Concedida por ganar al menos 10 batallas en el modo <font "
+"color='#f2f2f2'>Invasión</font> durante el evento Operación Muro del Oeste."
+
+msgid "MEDAL_DESCRIPTION_INVULNERABLE"
+msgstr ""
+"Concedida por destruir al menos 2 aviones enemigos sin recibir daño. El "
+"jugador tiene que ganar la batalla y sobrevivir.<br><br>Disponible solamente "
+"en batallas estándar."
+
+msgid "MEDAL_DESCRIPTION_INVULNERABLE_1"
+msgstr ""
+"Concedida por sobrevivir a al menos 2 batallas. La cuenta se reinicia si el "
+"avión del jugador resulta destruido."
+
+msgid "MEDAL_DESCRIPTION_IRREPLACEABLE"
+msgstr "Concedida por recibir el logro «Dominador» en 3 aviones diferentes."
+
+msgid "MEDAL_DESCRIPTION_JACK_OF_ALL_TRADES"
+msgstr ""
+"Concedida por participar en batallas en aviones de al menos 2 tipos "
+"diferentes."
+
+msgid "MEDAL_DESCRIPTION_JA_ALLY_PROGRESS1"
+msgstr ""
+"Se concedió por haber recibido al menos <font color='#f2f2f2'>5000 puntos de "
+"superioridad</font> en batallas luchadas en el bando aliado durante el "
+"evento «La amenaza japonesa»."
+
+msgid "MEDAL_DESCRIPTION_JA_ALLY_PROGRESS2"
+msgstr ""
+"Se concedió por haber recibido al menos <font color='#f2f2f2'>1500 puntos de "
+"superioridad</font> en batallas luchadas en el bando aliado durante el "
+"evento «La amenaza japonesa»."
+
+msgid "MEDAL_DESCRIPTION_JA_ALLY_PROGRESS3"
+msgstr ""
+"Se concedió por haber recibido al menos <font color='#f2f2f2'>100 puntos de "
+"superioridad</font> en batallas luchadas en el bando aliado durante el "
+"evento «La amenaza japonesa»."
+
+msgid "MEDAL_DESCRIPTION_JA_AXIS_PROGRESS1"
+msgstr ""
+"Se concedió por haber recibido al menos <font color='#f2f2f2'>5000 puntos de "
+"superioridad</font> en batallas luchadas en el bando del Eje durante el "
+"evento «La amenaza japonesa»."
+
+msgid "MEDAL_DESCRIPTION_JA_AXIS_PROGRESS2"
+msgstr ""
+"Se concedió por haber recibido al menos <font color='#f2f2f2'>1500 puntos de "
+"superioridad</font> en batallas luchadas en el bando del Eje durante el "
+"evento «La amenaza japonesa»."
+
+msgid "MEDAL_DESCRIPTION_JA_AXIS_PROGRESS3"
+msgstr ""
+"Se concedió por haber recibido al menos <font color='#f2f2f2'>100 puntos de "
+"superioridad</font> en batallas luchadas en el bando del Eje durante el "
+"evento «La amenaza japonesa»."
+
+msgid "MEDAL_DESCRIPTION_JA_BANZAY"
+msgstr ""
+"Otorgada a un jugador de las fuerzas del Eje que destruyó un avión enemigo "
+"mediante una embestida durante el evento «La amenaza japonesa».<br><font "
+"size='6'><br></font>Solo estuvo disponible una vez."
+
+msgid "MEDAL_DESCRIPTION_JA_HUNTER"
+msgstr ""
+"Otorgada a un jugador de las fuerzas Aliadas que destruyó un avión enemigo "
+"incendiándolo durante el evento «La amenaza japonesa».<br><font "
+"size='6'><br></font>Solo estuvo disponible una vez."
+
+msgid "MEDAL_DESCRIPTION_JA_PACIFIC1"
+msgstr ""
+"Se concedió por haber participado en al menos <font color='#f2f2f2'>21 "
+"confrontaciones</font> con las fuerzas de los Aliados durante el evento «La "
+"amenaza japonesa»."
+
+msgid "MEDAL_DESCRIPTION_JA_PACIFIC2"
+msgstr ""
+"Se concedió por haber participado en al menos <font color='#f2f2f2'>10 "
+"confrontaciones</font> con las fuerzas de los Aliados durante el evento «La "
+"amenaza japonesa»."
+
+msgid "MEDAL_DESCRIPTION_JA_PACIFIC3"
+msgstr ""
+"Se concedió por haber participado en al menos <font color='#f2f2f2'>1 "
+"confrontación</font> con las fuerzas de los Aliados durante el evento «La "
+"amenaza japonesa»."
+
+msgid "MEDAL_DESCRIPTION_JA_TORATORA1"
+msgstr ""
+"Se concedió por haber participado en al menos <font color='#f2f2f2'>21 "
+"confrontaciones</font> en el bando del Eje durante el evento «La amenaza "
+"japonesa»."
+
+msgid "MEDAL_DESCRIPTION_JA_TORATORA2"
+msgstr ""
+"Se concedió por haber participado en al menos <font color='#f2f2f2'>10 "
+"confrontaciones</font> en el bando del Eje durante el evento «La amenaza "
+"japonesa»."
+
+msgid "MEDAL_DESCRIPTION_JA_TORATORA3"
+msgstr ""
+"Se concedió por haber participado en al menos <font color='#f2f2f2'>1 "
+"confrontación</font> en el bando del Eje durante el evento «La amenaza "
+"japonesa»."
+
+msgid "MEDAL_DESCRIPTION_JOHNSON1"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} objetivos "
+"terrestres enemigos</font>."
+
+msgid "MEDAL_DESCRIPTION_JOHNSON2"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} objetivos "
+"terrestres enemigos</font>."
+
+msgid "MEDAL_DESCRIPTION_JOHNSON3"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} objetivos "
+"terrestres enemigos</font>."
+
+msgid "MEDAL_DESCRIPTION_JOHNSON4"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} objetivos "
+"terrestres enemigos</font>."
+
+msgid "MEDAL_DESCRIPTION_KEEP_CLEAR"
+msgstr ""
+"Concedida por destruir un avión enemigo y un objetivo terrestre con una sola "
+"bomba.<br><br>Disponible solamente en batallas estándar, una vez por cada "
+"avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_KILL_SAUCER"
+msgstr ""
+"Otorgada por destruir un Sleipnir enemigo.<br><font size='6'><br></font> "
+"Estuvo disponible durante el evento del Día de los Inocentes de 2014."
+
+msgid "MEDAL_DESCRIPTION_KNIGHT"
+msgstr ""
+"Concedida por destruir un <font color='#f2f2f2'>avión de defensa aérea</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_KOJEDUBA"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} aviones del grupo "
+"de combate enemigo</font> tras la llegada del <font color='#f2f2f2'>frente "
+"de tempestad</font> y por sobrevivir hasta el final de la batalla."
+
+msgid "MEDAL_DESCRIPTION_LAMBERTA"
+msgstr ""
+"Concedida por conseguir al menos <font color='#f2f2f2'>{0} puntos de "
+"captura</font> en una sola salida con un caza polivalente."
+
+msgid "MEDAL_DESCRIPTION_LANG"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} objetivos "
+"terrestres</font> en una salida y ganar la batalla."
+
+msgid "MEDAL_DESCRIPTION_LAST_BREATH"
+msgstr ""
+"Concedida por destruir al menos 1 avión enemigo en un avión con 90 % o más "
+"de daño. El jugador tiene que ganar la batalla y sobrevivir."
+"<br><br>Disponible solamente en batallas estándar."
+
+msgid "MEDAL_DESCRIPTION_LAST_BULLET"
+msgstr ""
+"Concedida por destruir un avión enemigo con armas recalentadas durante el "
+"fuego<br><br>Disponible solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_LAST_HERO"
+msgstr ""
+"Concedida por ser el único superviviente en una batalla y destruir al menos "
+"3 aviones enemigos. El equipo del jugador tiene que ganar la batalla."
+"<br><br>Disponible solamente en batallas estándar."
+
+msgid "MEDAL_DESCRIPTION_LAST_HOPE_ALLIES"
+msgstr "Otorgado por completar la misión «La última esperanza de los aliados»."
+
+msgid "MEDAL_DESCRIPTION_LAST_MAN_FLYING"
+msgstr ""
+"Concedida por ser el único superviviente en una batalla y destruir al menos "
+"1 avión enemigo. El equipo del jugador tiene que ganar la batalla."
+"<br><br>Disponible solamente en batallas estándar."
+
+msgid "MEDAL_DESCRIPTION_LEADER"
+msgstr ""
+"Se concedió por haber destruido la <font color='#f2f2f2'>mayoría de aviones "
+"enemigos</font> de entre todos los jugadores del equipo, haber sobrevivido y "
+"ganado la batalla.<br><font size='6'><br></font>Estuvo disponible una vez en "
+"batallas contra bots antes del lanzamiento de la versión 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_ACE"
+msgstr ""
+"Concedida por obtener resultados remarcables en un avión de cualquier tipo."
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_ASSAULT"
+msgstr "Concedida por conseguir 1000 medallas «Trueno» en aviones de ataque."
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_ASSAULT_1"
+msgstr ""
+"Concedida por ser uno de los mejores jugadores según los resultados logrados "
+"en un avión de ataque durante los eventos del juego."
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_FIGHTER"
+msgstr "Concedida por conseguir 1000 medallas «As» en cazas."
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_FIGHTER_1"
+msgstr ""
+"Concedida por ser uno de los mejores jugadores según los resultados logrados "
+"en un caza durante los eventos del juego."
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_HEAVY"
+msgstr "Concedida por conseguir 1000 medallas «Destructor» en cazas pesados."
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_NAVY"
+msgstr "Concedida por ganar 1000 medallas «Destructor» en cazas polivalentes."
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_NAVY_1"
+msgstr ""
+"Concedida por ser uno de los mejores jugadores según los resultados logrados "
+"en un caza polivalente durante los eventos del juego."
+
+msgid "MEDAL_DESCRIPTION_LIGHTWEIGHT"
+msgstr ""
+"Concedida por destruir un caza enemigo o un caza polivalente."
+"<br><br>Disponible solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_LIGHT_WEIGHT"
+msgstr ""
+"Concedida una vez por <font color='#f2f2f2'>destruir {0} cazas</font> del "
+"grupo de combate enemigo."
+
+msgid "MEDAL_DESCRIPTION_LINDBERGH"
+msgstr "Concedida por participar en el Supertest durante 9 meses."
+
+msgid "MEDAL_DESCRIPTION_MACCAMPBELL"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} objetivos aéreos</"
+"font> en una salida y ganar la batalla.<br><font size='6'><br></font>Los "
+"objetos destruidos deben incluir aviones de <font color='#f2f2f2'>los 5 "
+"tipos</font>."
+
+msgid "MEDAL_DESCRIPTION_MARATHON"
+msgstr ""
+"Concedida por ganar al menos cinco batallas durante la fase de combate del "
+"evento Operación Muro del Oeste."
+
+msgid "MEDAL_DESCRIPTION_MARATHON_DO335A-1"
+msgstr ""
+"Concedida por completar todas las misiones compuestas al recibir el <font "
+"color='#ffd57e'>Dornier Do 335 A-1 Pfeil</font> durante el evento Operación "
+"Muro del Oeste."
+
+msgid "MEDAL_DESCRIPTION_MARATHON_XF15C"
+msgstr ""
+"Concedida por completar todas las misiones compuestas al recibir el <font "
+"color='#ffd57e'>Curtiss XF15C</font> durante el evento Operación Muro del "
+"Oeste."
+
+msgid "MEDAL_DESCRIPTION_MARCEL"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} objetivos aéreos</"
+"font> en una salida y ganar la batalla."
+
+msgid "MEDAL_DESCRIPTION_MASTERS_OF_SKY"
+msgstr ""
+"Concedida a los miembros de la escuadrilla por destruir al menos <font "
+"color='#f2f2f2'>{0} objetivos aéreos</font>.<br><font size='6'><br></font>La "
+"cuenta se reinicia si uno de los miembros de la escuadrilla es destruido."
+
+msgid "MEDAL_DESCRIPTION_MCGUIRE"
+msgstr ""
+"Concedida por conseguir al menos <font color='#f2f2f2'>{0} puntos de "
+"captura</font> en una salida con un caza pesado."
+
+msgid "MEDAL_DESCRIPTION_MEANINGFUL_CONTRIBUTION"
+msgstr ""
+"Se concedió a todos los miembros de una escuadrilla que destruyeran al menos "
+"<font color='#f2f2f2'>6 aviones enemigos</font> antes de que uno de los "
+"miembros de la escuadrilla fuera destruido.<br><font size='6'><br></"
+"font>Estuvo disponible en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_MEYER1"
+msgstr ""
+"Se concedió por haber conseguido <font color='#f2f2f2'>300 medallas "
+"«Trueno»</font> en aviones de ataque.<br><font size='6'><br></font>Estuvo "
+"disponible en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_MEYER2"
+msgstr ""
+"Se concedió por haber conseguido <font color='#f2f2f2'>30 medallas «Trueno»</"
+"font> en aviones de ataque.<br><font size='6'><br></font>Estuvo disponible "
+"en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_MEYER3"
+msgstr ""
+"Se concedió por haber conseguido <font color='#f2f2f2'>3 medallas «Trueno»</"
+"font> en aviones de ataque.<br><font size='6'><br></font>Estuvo disponible "
+"en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_MIHALENKOV1"
+msgstr ""
+"Concedida por conseguir <font color='#f2f2f2'>{0} puntos personales</font>."
+
+msgid "MEDAL_DESCRIPTION_MIHALENKOV2"
+msgstr ""
+"Concedida por conseguir <font color='#f2f2f2'>{0} puntos personales</font>."
+
+msgid "MEDAL_DESCRIPTION_MIHALENKOV4"
+msgstr ""
+"Concedida por conseguir <font color='#f2f2f2'>{0} puntos personales</font>."
+
+msgid "MEDAL_DESCRIPTION_MIHALENKOV_3"
+msgstr ""
+"Concedida por conseguir <font color='#f2f2f2'>{0} puntos personales</font>."
+
+msgid "MEDAL_DESCRIPTION_MISSILE_STRIKE"
+msgstr ""
+"Concedida una vez por <font color='#f2f2f2'>dañar {0} objetivos terrestres</"
+"font> usando cohetes."
+
+msgid "MEDAL_DESCRIPTION_MISSION_ACCOMPLISHED"
+msgstr "Otorgado por completar la misión «Misión cumplida»."
+
+msgid "MEDAL_DESCRIPTION_NIMBLE"
+msgstr ""
+"Concedida por realizar maniobras que causen que un enemigo se estrelle."
+"<br><br>Disponible solamente en batallas estándar."
+
+msgid "MEDAL_DESCRIPTION_NOOB_PLANE"
+msgstr ""
+"Concedida por recibir un avión en configuración inicial.<br><font "
+"size='6'><br></font>Disponible una vez para cualquier avión que alcance la "
+"configuración inicial."
+
+msgid "MEDAL_DESCRIPTION_NORMALWEIGHT"
+msgstr ""
+"Concedida una vez por <font color='#f2f2f2'>destruir {0} cazas polivalentes</"
+"font> del grupo de combate enemigo."
+
+msgid "MEDAL_DESCRIPTION_NO_CAMP_ALLY_PROGRESS1"
+msgstr ""
+"Otorgada por recibir al menos 5000 puntos de superioridad en batallas "
+"luchadas con las fuerzas aliadas durante el evento «Pugna por el martillo de "
+"Thor»."
+
+msgid "MEDAL_DESCRIPTION_NO_CAMP_ALLY_PROGRESS2"
+msgstr ""
+"Otorgada por recibir al menos 1500 puntos de superioridad en batallas "
+"luchadas con las fuerzas aliadas durante el evento «Pugna por el martillo de "
+"Thor»."
+
+msgid "MEDAL_DESCRIPTION_NO_CAMP_ALLY_PROGRESS3"
+msgstr ""
+"Otorgada por recibir al menos 100 puntos de superioridad en batallas "
+"luchadas con las fuerzas aliadas durante el evento «Pugna por el martillo de "
+"Thor»."
+
+msgid "MEDAL_DESCRIPTION_NO_CAMP_AXIS_PROGRESS1"
+msgstr ""
+"Otorgada por recibir al menos 5000 puntos de superioridad en batallas "
+"luchadas con las fuerzas aliadas durante el evento «Pugna por el martillo de "
+"Thor»."
+
+msgid "MEDAL_DESCRIPTION_NO_CAMP_AXIS_PROGRESS2"
+msgstr ""
+"Otorgada por recibir al menos 1500 puntos de superioridad en batallas "
+"luchadas con las fuerzas del Eje durante el evento «Pugna por el martillo de "
+"Thor»."
+
+msgid "MEDAL_DESCRIPTION_NO_CAMP_AXIS_PROGRESS3"
+msgstr ""
+"Otorgada por recibir al menos 100 puntos de superioridad en batallas "
+"luchadas con las fuerzas del Eje durante el evento «Pugna por el martillo de "
+"Thor»."
+
+msgid "MEDAL_DESCRIPTION_NO_STONE_UNTURNED"
+msgstr ""
+"Concedida por destruir el último objetivo terrestre enemigo en una batalla."
+"<br><br>Disponible solamente una vez en batallas contra bots."
+
+msgid "MEDAL_DESCRIPTION_NY_FROST"
+msgstr ""
+"Otorgada por ganar al menos 5 batallas en mapas de invierno durante la "
+"Navidad de 2014-15."
+
+msgid "MEDAL_DESCRIPTION_NY_LUCK"
+msgstr ""
+"Otorgada por completar 5 misiones de Navidad no diarias durante la Navidad "
+"de 2014-15."
+
+msgid "MEDAL_DESCRIPTION_NY_MARKSMAN"
+msgstr ""
+"Otorgada por darle a 50 platillos volantes enemigos diferentes con bolas de "
+"nieve en varias batallas durante la Navidad de 2014-15."
+
+msgid "MEDAL_DESCRIPTION_NY_SET"
+msgstr ""
+"Otorgada por completar 10 misiones diarias de Navidad durante la Navidad de "
+"2014-15."
+
+msgid "MEDAL_DESCRIPTION_NY_SHOOTER"
+msgstr ""
+"Otorgada por darle a 10 platillos volantes enemigos diferentes con bolas de "
+"nieve en una o varias batallas durante la Navidad de 2014-15."
+
+msgid "MEDAL_DESCRIPTION_NY_SNOWBALL"
+msgstr ""
+"Otorgada por darle a un platillo volante enemigo con una bola de nieve "
+"durante la Navidad de 2014-15."
+
+msgid "MEDAL_DESCRIPTION_NY_WATCH"
+msgstr ""
+"Otorgada por ganar al menos una batalla cada día durante 10 días de Navidad "
+"durante la Navidad de 2014-15."
+
+msgid "MEDAL_DESCRIPTION_PATROL"
+msgstr ""
+"Concedida una vez por destruir <font color='#f2f2f2'>2 objetivos aéreos</"
+"font> y <font color='#f2f2f2'>2 objetivos terrestres</font> en una sola "
+"batalla."
+
+msgid "MEDAL_DESCRIPTION_PERSISTENT"
+msgstr ""
+"Se concedió por haber destruido al menos <font color='#f2f2f2'>1 avión "
+"enemigo</font> en cada batalla. La cuenta se reiniciba si el jugador no "
+"destruía aviones enemigos o no conseguía sobrevivir.<br><font size='6'><br></"
+"font>Estuvo disponible solamente en batallas estándar en el modo "
+"superioridad."
+
+msgid "MEDAL_DESCRIPTION_PLANE_TESTER"
+msgstr ""
+"Concedida por participar en batallas en aviones de al menos 2 naciones "
+"diferentes."
+
+msgid "MEDAL_DESCRIPTION_POKRYSHKIN1"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} aviones de defensa "
+"aérea</font>."
+
+msgid "MEDAL_DESCRIPTION_POKRYSHKIN2"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} aviones de defensa "
+"aérea</font>."
+
+msgid "MEDAL_DESCRIPTION_POKRYSHKIN3"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} aviones de defensa "
+"aérea</font>."
+
+msgid "MEDAL_DESCRIPTION_POKRYSHKIN4"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} aviones de defensa "
+"aérea</font>."
+
+msgid "MEDAL_DESCRIPTION_PREDATOR"
+msgstr ""
+"Concedida por asistir en la destrucción de al menos <font "
+"color='#f2f2f2'>{0} objetivos aéreos</font> en una sola batalla."
+
+msgid "MEDAL_DESCRIPTION_PREDATORY_BIRD"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>{0} cazas pesados</"
+"font> del grupo de combate enemigo en una batalla y ganar la batalla."
+"<br><font size='6'><br></font>Disponible una vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_PREDATORY_DUET"
+msgstr ""
+"Concedida a los miembros de una escuadrilla por destruir <font "
+"color='#f2f2f2'>{0} objetivos aéreos</font> y conseguir al menos <font "
+"color='#f2f2f2'>{1} puntos de captura</font>.<br><font size='6'><br></"
+"font>La cuenta se reinicia si un miembro de la escuadrilla es destruido."
+
+msgid "MEDAL_DESCRIPTION_PULL"
+msgstr ""
+"Concedida por salvar el avión tras un picado profundo.<br><br>Disponible "
+"solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_PUNISHER"
+msgstr ""
+"Concedida por destruir 2 aviones enemigos con una sola bomba."
+"<br><br>Disponible solamente en batallas estándar, una vez por cada avión en "
+"el hangar."
+
+msgid "MEDAL_DESCRIPTION_PYROMANIAC"
+msgstr ""
+"Concedida por recibir el logro «Alas en llamas» en 3 aviones diferentes."
+
+msgid "MEDAL_DESCRIPTION_QUARTERMASTER_1"
+msgstr ""
+"Medalla de primer rango por completar una misión de la secuencia de misiones "
+"«Conjunto completo»"
+
+msgid "MEDAL_DESCRIPTION_QUARTERMASTER_2"
+msgstr ""
+"Medalla de segundo rango por completar una misión de la secuencia de "
+"misiones «Conjunto completo»"
+
+msgid "MEDAL_DESCRIPTION_QUARTERMASTER_3"
+msgstr ""
+"Medalla de tercer rango por completar una misión de la secuencia de misiones "
+"«Conjunto completo»"
+
+msgid "MEDAL_DESCRIPTION_QUARTERMASTER_4"
+msgstr ""
+"Medalla de cuarto rango por completar una misión de la secuencia de misiones "
+"«Conjunto completo»"
+
+msgid "MEDAL_DESCRIPTION_QUARTERMASTER_5"
+msgstr ""
+"Medalla de quinto rango por completar una misión de la secuencia de misiones "
+"«Conjunto completo»"
+
+msgid "MEDAL_DESCRIPTION_RAIDER"
+msgstr ""
+"Concedida por destruir el cuartel general enemigo y sobrevivir a la batalla."
+"<br><br>Disponible solamente en batallas estándar, una vez por cada avión en "
+"el hangar."
+
+msgid "MEDAL_DESCRIPTION_REAPER"
+msgstr ""
+"Concedida por recibir el logro «Beso de la muerte» en 3 aviones diferentes."
+
+msgid "MEDAL_DESCRIPTION_REAR_GUARD"
+msgstr ""
+"Concedida por destruir un avión enemigo con el fuego de la torreta defensiva."
+"<br><br>Disponible solamente en batallas estándar."
+
+msgid "MEDAL_DESCRIPTION_REAR_GUNNER"
+msgstr ""
+"Concedida por dañar un avión enemigo con el fuego de la torreta defensiva."
+"<br><br>Disponible solamente una vez."
+msgid "MEDAL_DESCRIPTION_REDCOMET1"
+msgstr ""
+"Otorgado por conseguir {header_Open}aeronave type de grado II{header_Close} durante "
+"la Fase I del evento: {header_Open}Steel Defense{header_Close} of the {header_Open}Red "
+"Comet{header_Close}."
+
+msgid "MEDAL_DESCRIPTION_REDCOMET2"
+msgstr ""
+"Otorgado por conseguir {header_Open}aeronave type de grado II{header_Close} durante "
+"la Fase II del evento: {header_Open}Comet Strike{header_Close} of the {header_Open}Red "
+"Comet{header_Close}."
+
+msgid "MEDAL_DESCRIPTION_REDCOMET3"
+msgstr ""
+"Otorgado por conseguir {header_Open}aeronave type de grado II{header_Close} durante "
+"la Fase III del evento: {header_Open}Broken Sword{header_Close} of the {header_Open}Red "
+"Comet{header_Close}."
+
+msgid "MEDAL_DESCRIPTION_REDCOMET4"
+msgstr ""
+"Otorgado por conseguir {header_Open}aeronave type de grado II{header_Close} durante "
+"la Fase IV del evento: {header_Open}Air Domination{header_Close} of the {header_Open}Red "
+"Comet{header_Close}."
+
+msgid "MEDAL_DESCRIPTION_REDCOMET_LEADER"
+msgstr ""
+"Otorgado por conseguir {header_Open}1,500,000{header_Close} de puntos personales "
+"durante el evento {header_Open}Red Comet{header_Close} event."
+
+msgid "MEDAL_DESCRIPTION_RELEASER"
+msgstr ""
+"Concedida por ganar un <font color='#f2f2f2'>grado de avión II</font> "
+"durante la etapa 4, <font color='#f2f2f2'>«Contrataque»</font>, del evento "
+"Orillas llameantes."
+
+msgid "MEDAL_DESCRIPTION_RELIABLE_PROTECTION"
+msgstr ""
+"Concedida por <font color='#f2f2f2'>asistir a los aliados al menos {0} veces "
+"en destruir objetivos aéreos</font> en una batalla y ganar la batalla."
+"<br><font size='6'><br></font>Disponible una vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_RELIABLE_REAR"
+msgstr ""
+"Concedida por destruir <font color='#f2f2f2'>un objetivo aéreo con fuego de "
+"la torreta defensiva.</font>."
+
+msgid "MEDAL_DESCRIPTION_RESILIENT"
+msgstr ""
+"Concedida por recibir daño de al menos 5 aviones enemigos y sobrevivir."
+"<br><br>Disponible solamente en batallas estándar."
+
+msgid "MEDAL_DESCRIPTION_REVENGE"
+msgstr ""
+"Concedida por destruir un <font color='#f2f2f2'>avión del grupo de combate "
+"enemigo que haya destruido anteriormente el avión del jugador en la misma "
+"batalla</font>."
+
+msgid "MEDAL_DESCRIPTION_RIDDLE"
+msgstr ""
+"Concedida por <font color='#f2f2f2'>asistir a los aliados al menos {0} veces "
+"en la destrucción de objetivos terrestres</font> en una batalla y ganar la "
+"batalla.<br><font size='6'><br></font>Disponible una vez por cada avión en "
+"el hangar."
+
+msgid "MEDAL_DESCRIPTION_RIDDLED"
+msgstr ""
+"Concedida por asistir a tus aliados 3 veces destruyendo objetivos terrestres "
+"enemigos en una batalla. El jugador tiene que ganar la batalla y sobrevivir."
+"<br><br>Disponible solamente en batallas estándar, una vez por cada avión en "
+"el hangar."
+
+msgid "MEDAL_DESCRIPTION_ROAD_TO_THE_SKY"
+msgstr "Concedida por completar la «Lección de asalto a objetivos terrestres»."
+
+msgid "MEDAL_DESCRIPTION_ROCKETEER"
+msgstr ""
+"Concedida por destruir un <font color='#f2f2f2'>objetivo aéreo enemigo "
+"usando un cohete avión enemigo con un cohete</font>."
+
+msgid "MEDAL_DESCRIPTION_ROCKET_SHOOTER"
+msgstr ""
+"Concedida por destruir aviones enemigos con un cohete.<br><br>Disponible "
+"solamente en batallas estándar."
+
+msgid "MEDAL_DESCRIPTION_ROCKET_STRIKE"
+msgstr ""
+"Concedida por dañar un objetivo terrestre enemigo con un cohete."
+"<br><br>Disponible solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_RUDOLPH_PILOTDEER"
+msgstr ""
+"Concedida por ganar <font color='#f2f2f2'>10 000</font> puntos personales "
+"volando en el <font color='#ffd57e'>Hawker P.V.3.</font> con Rudolph Hawker "
+"como piloto."
+
+msgid "MEDAL_DESCRIPTION_RUDORFFER"
+msgstr ""
+"Se concedió por haber destruido al menos <font color='#f2f2f2'>13 aviones "
+"enemigos</font> en una batalla.<br><font size='6'><br></font>Estuvo "
+"disponible solamente en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_RUTHLESS"
+msgstr ""
+"Concedida por destruir al menos 15 aviones de defensa aérea y bombarderos de "
+"una escuadrilla de ataque en una batalla."
+
+msgid "MEDAL_DESCRIPTION_SCAN_THE_SKIES"
+msgstr ""
+"Concedida por detectar un avión enemigo.<br><br>Disponible solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_SCORCHED_EARTH"
+msgstr ""
+"Se concedió por haber recibido al menos <font color='#f2f2f2'>25 puntos</"
+"font> por haber destruido objetivos terrestres enemigos en una sola batalla "
+"y haber sobrevivido a la batalla.<br><font size='6'><br></font>Estuvo "
+"disponible una vez en batallas contra bots antes del lanzamiento de la "
+"versión 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_SCYTHE_OF_DEATH"
+msgstr ""
+"Se concedió por haber destruido al menos <font color='#f2f2f2'>2 aviones "
+"enemigos</font> seguidos sin que ningún otro avión enemigo fuera destruido "
+"por aliados en el entretiempo. La cuenta se reiniciaba si el avión del "
+"jugador era destruido.<br><font size='6'><br></font>Estuvo disponible una "
+"vez en batallas contra bots antes del lanzamiento de la versión 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_SECRET_SANTA"
+msgstr ""
+"Otorgada a todos los jugadores que participaron en el evento «Amigo "
+"invisible 2015-2016»."
+
+msgid "MEDAL_DESCRIPTION_SECRET_SANTA_1"
+msgstr ""
+"Enviar al menos un regalo a un jugador al azar como parte del evento «Amigo "
+"invisible 2015-2016»."
+
+msgid "MEDAL_DESCRIPTION_SECRET_SANTA_2017"
+msgstr "Concedida por participar en el evento 2016-2017 «Saco de regalos»."
+
+msgid "MEDAL_DESCRIPTION_SECRET_SANTA_2017_1"
+msgstr "Participa en el evento de las festividades de 2016-2017."
+
+msgid "MEDAL_DESCRIPTION_SECRET_SANTA_2018"
+msgstr ""
+"Otorgado por participar en el evento especial durante la temporada festiva "
+"de 2017-2018."
+
+msgid "MEDAL_DESCRIPTION_SECRET_SANTA_2019"
+msgstr "Concedida por participar en el evento 2018-2019 «Saco de regalos»."
+
+msgid "MEDAL_DESCRIPTION_SEVERSKY1"
+msgstr ""
+"Se concedió al jugador que <font color='#f2f2f2'>hubiera desarrollado y "
+"hubiera comprado un avión de nivel X</font> de al menos una rama tecnológica "
+"durante la oferta especial en el desarrollo del avión de nivel más alto."
+
+msgid "MEDAL_DESCRIPTION_SEVERSKY2"
+msgstr ""
+"Se concedió al jugador que <font color='#f2f2f2'>hubiera desarrollado y "
+"hubiera comprado</font> un avión de nivel X de al menos una rama tecnológica "
+"no más de 2 horas después del primer jugador que había conseguido la Orden "
+"de Seversky de Clase I."
+
+msgid "MEDAL_DESCRIPTION_SEVERSKY3"
+msgstr ""
+"Se concedió al jugador que <font color='#f2f2f2'>hubiera desarrollado y "
+"hubiera comprado un avión de nivel X</font> de al menos una rama tecnológica "
+"durante la oferta especial en el desarrollo del avión de nivel más alto."
+
+msgid "MEDAL_DESCRIPTION_SIKORSKY1"
+msgstr ""
+"Se concedió por haber participado en la <font color='#f2f2f2'>fase inicial "
+"de pruebas Alfa de World of Warplanes</font>."
+
+msgid "MEDAL_DESCRIPTION_SIKORSKY2"
+msgstr ""
+"Se concedió por haber participado en las <font color='#f2f2f2'>pruebas Alfa "
+"Global de World of Warplanes</font>."
+
+msgid "MEDAL_DESCRIPTION_SIKORSKY3"
+msgstr ""
+"Se concedió por haber participado en al menos <font color='#f2f2f2'>100 "
+"batallas</font> durante las pruebas en Beta Cerrada de World of Warplanes."
+
+msgid "MEDAL_DESCRIPTION_SIKORSKY4"
+msgstr ""
+"Se concedió por haber participado en al menos <font color='#f2f2f2'>100 "
+"batallas</font> durante las pruebas en Beta Abierta de World of Warplanes."
+
+msgid "MEDAL_DESCRIPTION_SILVER_PLAYERS"
+msgstr ""
+"Concedida por entrar en la división de plata en función de la puntuación "
+"personal."
+
+msgid "MEDAL_DESCRIPTION_SKILLED_PILOT"
+msgstr ""
+"Concedida por retomar el control del avión y nivelarlo.<br><br>Disponible "
+"solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_SKY_FIRE"
+msgstr ""
+"Concedida por destruir un avión enemigo tras incendiarlo.<br><br>Disponible "
+"solamente en batallas estándar, una vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_SKY_N_GROUND"
+msgstr ""
+"Se concedió por haber destruido al menos <font color='#f2f2f2'>3 aviones "
+"enemigos</font> y recibido al menos <font color='#f2f2f2'>25 puntos</font> "
+"por destruir objetivos terrestres enemigos en una sola batalla. El jugador "
+"tenía que sobrevivir a la batalla.<br><font size='6'><br></font>Estuvo "
+"disponible una vez en batallas contra bots antes del lanzamiento de la "
+"versión 1.9.0."
+
+msgid "MEDAL_DESCRIPTION_SKY_SCOURGE"
+msgstr ""
+"Concedida por destruir al menos <font color='#f2f2f2'>3 aviones enemigos</"
+"font> en una o varias batallas.<br><font size='6'><br></font> La cuenta se "
+"reiniciaba si el avión del jugador era destruido.<br><font size='6'><br></"
+"font>Estuvo disponible solamente en batallas estándar en el modo "
+"superioridad."
+
+msgid "MEDAL_DESCRIPTION_SKY_WOLVES"
+msgstr ""
+"Concedida a los miembros de una escuadrilla por destruir al menos <font "
+"color='#f2f2f2'>{0} objetivos aéreos</font> consiguiendo al menos <font "
+"color='#f2f2f2'>{1} puntos de captura</font> en una sola salida y ganar la "
+"batalla."
+
+msgid "MEDAL_DESCRIPTION_SMOKING_BARRELS"
+msgstr ""
+"Concedida por enfriar completamente armas recalentadas durante el fuego."
+"<br><br>Disponible solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_SNAKE_HIPS"
+msgstr ""
+"Concedida por participar en la captura de al menos <font color='#f2f2f2'>{3} "
+"sectores </font> y ganar al menos <font color='#f2f2f2'>{200} puntos de "
+"captura</font> en una sola salida."
+
+msgid "MEDAL_DESCRIPTION_SPECIALIST_PLANE"
+msgstr ""
+"Concedida por recibir un avión en configuración <font "
+"color='#f2f2f2'>«Especialista»</font>.<br><font size='6'><br></"
+"font>Disponible una vez para cualquier avión que alcance la configuración "
+"<font color='#f2f2f2'>«Especialista»</font>."
+
+msgid "MEDAL_DESCRIPTION_SPECIAL_AWARD"
+msgstr ""
+"Concedida a jugadores distinguidos por los organizadores en torneos "
+"oficiales de World of Warplanes."
+
+msgid "MEDAL_DESCRIPTION_SPRING_VETERAN"
+msgstr ""
+"Otorgada por participar en el evento de la Ofensiva de Primavera de 2016."
+
+msgid "MEDAL_DESCRIPTION_SQUALL_OF_STEEL"
+msgstr ""
+"Concedida por asistir a los aliados 5 veces destruyendo objetivos terrestres "
+"enemigos. El jugador tiene que ganar la batalla.<br><br>Disponible solamente "
+"en batallas estándar, una vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_STABLE_RESULT"
+msgstr ""
+"Concedida por destruir al menos 3 aviones enemigos en una batalla. La cuenta "
+"se reinicia si el avión del jugador es destruido.<br><font size='6'><br></"
+"font>Disponible solamente en batallas contra bots."
+
+msgid "MEDAL_DESCRIPTION_STAIRS_TO_THE_SKY"
+msgstr "Concedida por completar la lección «Combate aéreo en equipo»."
+
+msgid "MEDAL_DESCRIPTION_STAIRWAY_TO_THE_SKY"
+msgstr "Concedida por completar la lección «Entrenamiento en combate aéreo»."
+
+msgid "MEDAL_DESCRIPTION_STAR_CATCHER"
+msgstr ""
+"Concedida por participar en el evento 2016-2017 «Pide un deseo a la estrella "
+"fugaz»."
+
+msgid "MEDAL_DESCRIPTION_STEEL_FLURRY"
+msgstr ""
+"Concedida por <font color='#f2f2f2'>asistir a los aliados al menos {0} veces "
+"en la destrucción de objetivos terrestres</font> en una batalla y ganar la "
+"batalla.<br><font size='6'><br></font>Disponible una vez por cada avión en "
+"el hangar."
+
+msgid "MEDAL_DESCRIPTION_STEP_TO_THE_SKY"
+msgstr "Concedida por completar la lección «Práctica de tiro»."
+
+msgid "MEDAL_DESCRIPTION_STORMBRINGER"
+msgstr ""
+"Concedida por recibir el logro «Disparo rápido» en 3 aviones diferentes."
+
+msgid "MEDAL_DESCRIPTION_STRATEGIST"
+msgstr ""
+"Concedida por ganar un <font color='#f2f2f2'>grado de avión II</font> "
+"durante la etapa 3, <font color='#f2f2f2'>«Ala rota»</font>, del evento "
+"Orillas llameantes."
+
+msgid "MEDAL_DESCRIPTION_STRIKE_TEAM"
+msgstr ""
+"Se concedió a todos los miembros de una escuadrilla que destruyeran al menos "
+"<font color='#f2f2f2'>4 aviones enemigos</font> y recibieran al menos <font "
+"color='#f2f2f2'>60 puntos</font> por objetivos terrestres enemigos "
+"destruidos antes de que uno de los miembros de la escuadrilla fuera "
+"destruido.<br><font size='6'><br></font>Solo estuvo disponible en batallas "
+"estándar en modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_STRONG_TEAM"
+msgstr ""
+"Se concedió a todos los miembros de una escuadrilla que destruyeran al menos "
+"<font color='#f2f2f2'>3 aviones enemigos</font> y recibieran al menos <font "
+"color='#f2f2f2'>40 puntos</font> por objetivos terrestres enemigos "
+"destruidos antes de que uno de los miembros de la escuadrilla fuera "
+"destruido.<br><font size='6'><br></font>Solo estuvo disponible en batallas "
+"estándar en modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_SUCCESSFUL_RAID"
+msgstr ""
+"Concedida por recibir una segunda marca de victoria por destruir objetivos "
+"terrestres enemigos.<br><br>Disponible solamente en batallas estándar, una "
+"vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_SUDDEN_DEATH"
+msgstr ""
+"Concedida por destruir el 100 % de PV de un avión enemigo con las armas "
+"frontales en 3 segundos.<br><br>Disponible solamente en batallas estándar."
+
+msgid "MEDAL_DESCRIPTION_SUMMER_STORM"
+msgstr ""
+"Concedida por ganar <font color='#f2f2f2'>10 000 puntos personales</font> "
+"durante el evento <font color='#f2f2f2'>«Tormenta de verano»</font>."
+
+msgid "MEDAL_DESCRIPTION_SUMMER_VETERAN"
+msgstr "Otorgada por participar en el evento «Relámpago encadenado» de 2015."
+
+msgid "MEDAL_DESCRIPTION_SUPERHEAVY"
+msgstr ""
+"Concedida por destruir un avión de ataque enemigo.<br><br>Disponible "
+"solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_SUPERHEAVYWEIGHT"
+msgstr ""
+"Concedida una vez por <font color='#f2f2f2'>destruir {0} aviones de ataque</"
+"font> de un grupo de combate enemigo."
+
+msgid "MEDAL_DESCRIPTION_SUPERTEST_VETERAN"
+msgstr "Concedida por participar en el Supertest por 9 meses."
+
+msgid "MEDAL_DESCRIPTION_SURE_COVER"
+msgstr ""
+"Concedida por asistir a aliados 5 veces destruyendo aviones enemigos en una "
+"batalla. El jugador tiene que ganar la batalla y sobrevivir."
+"<br><br>Disponible solamente en batallas estándar, una vez por cada avión en "
+"el hangar."
+
+msgid "MEDAL_DESCRIPTION_SURVIVOR"
+msgstr ""
+"Se concedió por haber <font color='#f2f2f2'>ganado al menos 2 batallas "
+"seguidas</font>. La cuenta se reiniciaba si el avión del jugador era "
+"destruido.<br><font size='6'><br></font>Estuvo disponible solamente en "
+"batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_TAIL_BUSTER"
+msgstr ""
+"Concedida por haber destruido un avión enemigo causando daño crítico en la "
+"cola.<br><br>Disponible solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_TEAMWORK_GURU"
+msgstr ""
+"Concedida por ganar el <font color='#f2f2f2'>grado de avión más alto</font> "
+"en batalla."
+
+msgid "MEDAL_DESCRIPTION_TESTER_1"
+msgstr ""
+"Concedida por la participación activa en <font color='#f2f2f2'>diez</font> "
+"pruebas públicas en cualquier actualización del juego."
+
+msgid "MEDAL_DESCRIPTION_TESTER_10"
+msgstr ""
+"Concedida por la participación activa en <font color='#f2f2f2'>una</font> "
+"prueba pública en cualquier actualización del juego."
+
+msgid "MEDAL_DESCRIPTION_TESTER_2"
+msgstr ""
+"Concedida por la participación activa en <font color='#f2f2f2'>nueve</font> "
+"pruebas públicas en cualquier actualización del juego."
+
+msgid "MEDAL_DESCRIPTION_TESTER_3"
+msgstr ""
+"Concedida por la participación activa en <font color='#f2f2f2'>ocho</font> "
+"pruebas públicas en cualquier actualización del juego."
+
+msgid "MEDAL_DESCRIPTION_TESTER_4"
+msgstr ""
+"Concedida por la participación activa en <font color='#f2f2f2'>siete</font> "
+"pruebas públicas en cualquier actualización del juego."
+
+msgid "MEDAL_DESCRIPTION_TESTER_5"
+msgstr ""
+"Concedida por la participación activa en <font color='#f2f2f2'>seis</font> "
+"pruebas públicas en cualquier actualización del juego."
+
+msgid "MEDAL_DESCRIPTION_TESTER_6"
+msgstr ""
+"Concedida por la participación activa en <font color='#f2f2f2'>cinco</font> "
+"pruebas públicas en cualquier actualización del juego."
+
+msgid "MEDAL_DESCRIPTION_TESTER_7"
+msgstr ""
+"Concedida por la participación activa en <font color='#f2f2f2'>cuatro</font> "
+"pruebas públicas en cualquier actualización del juego."
+
+msgid "MEDAL_DESCRIPTION_TESTER_8"
+msgstr ""
+"Concedida por la participación activa en <font color='#f2f2f2'>tres</font> "
+"pruebas públicas en cualquier actualización del juego."
+
+msgid "MEDAL_DESCRIPTION_TESTER_9"
+msgstr ""
+"Concedida por la participación activa en <font color='#f2f2f2'>dos</font> "
+"pruebas públicas en cualquier actualización del juego."
+
+msgid "MEDAL_DESCRIPTION_THRIFTY_BOMBARDIER"
+msgstr ""
+"Concedida por dañar 2 objetivos terrestres enemigos con una sola bomba."
+"<br><br>Disponible solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_THRIFTY_ROCKETEER"
+msgstr ""
+"Concedida por dañar 2 objetivos terrestres enemigos con un solo cohete."
+"<br><br>Disponible solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_THUNDER"
+msgstr ""
+"Concedida por recibir al menos <font color='#f2f2f2'>{0} puntos de captura</"
+"font> por destruir objetivos terrestres enemigos en una sola batalla."
+
+msgid "MEDAL_DESCRIPTION_TOP_DOWN_DIVER"
+msgstr ""
+"Concedida por acelerar el avión hasta la velocidad máxima en picado."
+"<br><br>Disponible solamente una vez."
+
+msgid "MEDAL_DESCRIPTION_TOP_PLAYERS"
+msgstr ""
+"Concedida por entrar en la división superior en función de la puntuación "
+"personal."
+
+msgid "MEDAL_DESCRIPTION_TOURNAMENT_1_PLACE"
+msgstr ""
+"Concedida a jugadores que quedaron primeros en torneos oficiales de World of "
+"Warplanes."
+
+msgid "MEDAL_DESCRIPTION_TOURNAMENT_2_PLACE"
+msgstr ""
+"Se concedió a jugadores que <font color='#f2f2f2'>quedaron segundos</font> "
+"en torneos oficiales de World of Warplanes."
+
+msgid "MEDAL_DESCRIPTION_TOURNAMENT_3_PLACE"
+msgstr ""
+"Se concedió a jugadores que <font color='#f2f2f2'>quedaron terceros</font> "
+"en torneos oficiales de World of Warplanes."
+
+msgid "MEDAL_DESCRIPTION_TOURNAMENT_PLAYER"
+msgstr ""
+"Se concedió por haber participado en al menos <font color='#f2f2f2'>una "
+"batalla</font> en torneos oficiales de World of Warplanes."
+
+msgid "MEDAL_DESCRIPTION_TRIAL"
+msgstr ""
+"Concedida por completar la cadena entera de misiones y recibir el <font "
+"color='#ffd57e'>Blohm und Voss BV P.203</font> como recompensa."
+
+msgid "MEDAL_DESCRIPTION_UNLIMITED_WEIGHT"
+msgstr ""
+"Concedida por <font color='#f2f2f2'>destruir {0} bombardero</font> del grupo "
+"de combate enemigo."
+
+msgid "MEDAL_DESCRIPTION_UNSTOPPABLE"
+msgstr ""
+"Se concedió por <font color='#f2f2f2'>haber ganado al menos 3 batallas "
+"seguidas</font>.<br><font size='6'><br></font>Estuvo disponible solamente en "
+"batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_UNTOUCHABLE"
+msgstr ""
+"Concedida por destruir al menos 1 avión enemigo sin recibir daño en una o "
+"varias batallas. La cuenta se reinicia si el avión del jugador es dañado."
+"<br><br>Disponible solamente en batallas contra bots."
+
+msgid "MEDAL_DESCRIPTION_VALUABLE_CONTRIBUTION"
+msgstr ""
+"Concedida por ganar al menos un tercio de los puntos de superioridad del "
+"equipo en una batalla ganada tras lograr la superioridad.<br><br>Disponible "
+"solamente en batallas estándar."
+
+msgid "MEDAL_DESCRIPTION_VAMPIREF1"
+msgstr ""
+"Concedida por completar la cadena de misiones personales y recibir el <font "
+"color='#ffd57e'>Vampire F.1</font> como recompensa."
+msgid "MEDAL_DESCRIPTION_VENGEANCE1"
+msgstr ""
+"Otorgado por conseguir {header_Open}aeronave type grado II{header_Close} durante "
+"la Fase I del evento: {header_Open}Growing Strength{header_Close} of the {header_Open}"
+"Blade of Vengeance{header_Close}."
+
+msgid "MEDAL_DESCRIPTION_VENGEANCE2"
+msgstr ""
+"Otorgado por conseguir {header_Open}aeronave type grado II{header_Close} durante "
+"la Fase II del evento: {header_Open}Sudden Strike{header_Close} of the {header_Open}Blade "
+"of Vengeance{header_Close}."
+
+msgid "MEDAL_DESCRIPTION_VENGEANCE3"
+msgstr ""
+"Otorgado por conseguir {header_Open}aeronave type grado II{header_Close} durante "
+"la Fase III del evento: {header_Open}Divide and Rule{header_Close} of the {header_Open}"
+"Blade of Vengeance{header_Close}."
+
+msgid "MEDAL_DESCRIPTION_VENGEANCE4"
+msgstr ""
+"Otorgado por conseguir {header_Open}aeronave type grado II{header_Close} durante "
+"la Fase IV del evento: {header_Open}A Worthy Opponent{header_Close} of the {header_Open}"
+"Blade of Vengeance{header_Close}."
+
+msgid "MEDAL_DESCRIPTION_VENGEANCE_LEADER"
+msgstr ""
+"Otorgado por conseguir {header_Open}{0}{header_Close} Puntos Personales durante "
+"el evento de: {header_Open}Blade of Vengeance{header_Close}."
+msgid "MEDAL_DESCRIPTION_VETERAN"
+msgstr ""
+"Concedida por ganar una batalla y <font color='#f2f2f2'>conseguir el primer "
+"puesto</font> en el grupo de combate.<br><font size='6'><br></"
+"font>Disponible una sola vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_VETERAN_ALT"
+msgstr ""
+"Concedida por <font color='#f2f2f2'>conseguir el primer puesto</font> en el "
+"grupo de combate en <font color='#f2f2f2'>2</font> batallas victoriosas "
+"seguidas. La cuenta se reinicia si el jugador no consigue el puesto superior "
+"en el grupo de combate."
+
+msgid "MEDAL_DESCRIPTION_VOLUNTEER"
+msgstr ""
+"Otorgada a los moderadores del chat y el foro que contribuyen de manera "
+"activa en el proyecto.<br><font size='6'><br></font>Estuvo disponible solo "
+"una vez."
+
+msgid "MEDAL_DESCRIPTION_WAR_OF_ATTRITION"
+msgstr ""
+"Concedida por ganar al menos 10 batallas en el modo <font "
+"color='#f2f2f2'>Guerra de desgaste</font> durante el evento Operación Muro "
+"del Oeste."
+
+msgid "MEDAL_DESCRIPTION_WEIGHTY_CONTRIBUTION"
+msgstr ""
+"Se concedió a todos los miembros de una escuadrilla que hubieran destruido "
+"al menos <font color='#f2f2f2'>9 aviones enemigos</font> antes de que uno de "
+"los miembros de la escuadrilla fuera destruido.<br><font size='6'><br></"
+"font>Solo estuvo disponible en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_DESCRIPTION_WG_FEST_2016"
+msgstr ""
+"Награждается игрок, посетивший фестиваль <font color='#f2f2f2'>WG Fest 2016</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_WG_FEST_2017"
+msgstr ""
+"Выдавалась за посещение мероприятия <font color='#f2f2f2'>WG Fest 2017</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_WG_FEST_2017_1"
+msgstr ""
+"Выдавалась всем игрокам при получении пригласительного на <font "
+"color='#{colorID}'>WG Fest 2017</font>."
+
+msgid "MEDAL_DESCRIPTION_WG_FEST_2017_2"
+msgstr "Выдавалась только одна награда за любое количество пригласительных."
+
+msgid "MEDAL_DESCRIPTION_WG_FEST_2018"
+msgstr "Awarded for visiting <font color='#f2f2f2'>WG Fest 2018</font> event."
+
+msgid "MEDAL_DESCRIPTION_WINGED_FLAME"
+msgstr ""
+"Concedida por incendiar al menos 3 aviones enemigos en una batalla."
+"<br><br>Disponible solamente en batallas estándar, una vez por cada avión en "
+"el hangar."
+
+msgid "MEDAL_DESCRIPTION_WINGMAN"
+msgstr ""
+"Concedida por asistir a aliados 3 veces destruyendo aviones enemigos. El "
+"jugador tiene que ganar la batalla y sobrevivir.<br><br>Disponible solamente "
+"en batallas estándar, una vez por cada avión en el hangar."
+
+msgid "MEDAL_DESCRIPTION_WING_LEGEND"
+msgstr ""
+"Concedida por conseguir al menos <font color='#f2f2f2'>{0} puntos "
+"personales</font> en una sola batalla."
+
+msgid "MEDAL_DESCRIPTION_WINTER_VETERAN"
+msgstr ""
+"Otorgada por participar en el evento de la Campaña de Invierno de 2015-16."
+
+msgid "MEDAL_DESCRIPTION_XP-55"
+msgstr ""
+"Concedida por completar la cadena de misiones personales y recibir el <font "
+"color='#ffd57e'>XP-55</font> como recompensa."
+
+msgid "MEDAL_DESCRIPTION_YEFIMOV"
+msgstr ""
+"Concedida por conseguir al menos <font color='#f2f2f2'>{0} puntos de "
+"captura</font> por destruir objetivos terrestres enemigos con un avión de "
+"ataque en una salida."
+
+msgid "MEDAL_DESCRIPTION_ZVONAREV"
+msgstr ""
+"Se concedió por haber destruido <font color='#f2f2f2'>3 aviones enemigos</"
+"font> con cohetes en una batalla.<br><font size='6'><br></font>Estuvo "
+"disponible solamente en batallas estándar en el modo superioridad."
+
+msgid "MEDAL_EVENT_DESCRIPTION_1ST_CLASS"
+msgstr "Mayor ganador de experiencia del equipo"
+
+msgid "MEDAL_EVENT_DESCRIPTION_2ND_CLASS"
+msgstr "Entró en el top 5 de experiencia del equipo"
+
+msgid "MEDAL_EVENT_DESCRIPTION_ABSOLUTE_CHAMPION"
+msgstr "El mejor en todo"
+
+msgid "MEDAL_EVENT_DESCRIPTION_AIR_DEFENCE_PILOT"
+msgstr "Destruyó aviones que atacaban el cuartel general"
+
+msgid "MEDAL_EVENT_DESCRIPTION_AKAMATSU"
+msgstr "3 aviones destruidos en un caza"
+
+msgid "MEDAL_EVENT_DESCRIPTION_AROUND_THE_WORLD"
+msgstr "Participó en batallas en varios mapas"
+
+msgid "MEDAL_EVENT_DESCRIPTION_AS"
+msgstr "Destruyó 5 aviones en un caza"
+
+msgid "MEDAL_EVENT_DESCRIPTION_ASSAULT_TEST"
+msgstr "20 puntos por objetivos terrestres enemigos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_ASSISTANT"
+msgstr "Asistió 3 veces en una batalla"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BANSHEE"
+msgstr "Estableció el récord de objetivos terrestres"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BATTERED_BUT_NOT_BROKEN"
+msgstr "Sobrevivió con 3 impactos críticos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BEGELDINOV1"
+msgstr "150 000 puntos por objetivos terrestres destruidos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BEGELDINOV2"
+msgstr "15 000 puntos por objetivos terrestres destruidos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BEGELDINOV3"
+msgstr "1500 puntos por objetivos terrestres destruidos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BEGELDINOV4"
+msgstr "150 puntos por objetivos terrestres destruidos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BEWARE_OF_BOMBS"
+msgstr "Dañó un avión con una bomba"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BIRD_OF_PREY"
+msgstr "Destruyó 2 cazas pesados"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BLITZ"
+msgstr "Destruyó 2 enemigos seguidos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BOMBARDIER"
+msgstr "Destruyó al enemigo con una bomba"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BOMBING"
+msgstr "Dañó un objetivo terrestre con una bomba"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BONG1"
+msgstr "300 medallas «Destructor» en cazas pesados"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BONG2"
+msgstr "30 medallas «Destructor» en cazas pesados"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BONG3"
+msgstr "3 medallas «Destructor» en cazas pesados"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BREAKTHROUGH"
+msgstr "Destruyó 3 cañones AA"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CADET_1"
+msgstr "Vuelo de entrenamiento, rango 1"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CADET_2"
+msgstr "Vuelo de entrenamiento, rango 2"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CADET_3"
+msgstr "Vuelo de entrenamiento, rango 3"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CADET_4"
+msgstr "Vuelo de entrenamiento, rango 4"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CADET_5"
+msgstr "Vuelo de entrenamiento, rango 5"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CAREFUL"
+msgstr "Destruyó 3 enemigos sin recalentamiento"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CHAMPION_DESTROYER"
+msgstr "Destruyó la mayoría de objetivos terrestres"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CLEANER"
+msgstr "Voló en una escuadrilla que destruyó 5 aviones y recibió 75 puntos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CLEANUP"
+msgstr "Destruyó al último enemigo"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CLEAR_SKY"
+msgstr "Destruyó 3 cazas"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CLIPPING_THE_WINGS"
+msgstr "Destruyó un avión causando daño crítico en las alas"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CLOSTERMAN"
+msgstr "Destruyó 7 aviones y recibió 15 puntos por objetivos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_COLLECTOR"
+msgstr "Voló en aviones de varios niveles"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CROSSFIRE"
+msgstr "Asistió al destruir enemigos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CRUCIALCONTRIBUTION"
+msgstr "Voló en una escuadrilla que destruyó 12 aviones"
+
+msgid "MEDAL_EVENT_DESCRIPTION_DEAD_ZONE"
+msgstr "Esquivó el fuego de un artillero"
+
+msgid "MEDAL_EVENT_DESCRIPTION_DESTROYER"
+msgstr "Destruyó 4 aviones y recibió 15 puntos por objetivos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_DEVASTATOR"
+msgstr "Destruyó 2 objetivos terrestres con una bomba"
+
+msgid "MEDAL_EVENT_DESCRIPTION_DOMINATOR"
+msgstr "Destruyó aviones de todos los tipos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_EXPERIENCED_HUNTER"
+msgstr "Realizó la misión «Cazador experto»"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FALCON"
+msgstr "Destruyó un enemigo con un ataque en picado"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FALCONRY"
+msgstr "Destruyó 2 cazas"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FIGHTER_TEST"
+msgstr "Destruyó 2 aviones con un caza"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FIRESTARTER"
+msgstr "Incendió un objetivo terrestre"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FIRE_BILLOW"
+msgstr "Series de 50 puntos por objetivos terrestres"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FIRE_BREATH"
+msgstr "Destruyó 2 objetivos terrestres tras un incendio"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FIRST_BLOOD"
+msgstr "Abrió la puntuación"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FIRST_IN_TEAM"
+msgstr "Destruyó la mayoría de aviones, sobrevivió y ganó"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLAMING"
+msgstr "Mientras estaba en llamas, destruyó un enemigo"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLGHT_LEADER_1"
+msgstr "Hermandad del aire, rango 1"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLGHT_LEADER_2"
+msgstr "Hermandad del aire, rango 2"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLGHT_LEADER_3"
+msgstr "Hermandad del aire, rango 3"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLGHT_LEADER_4"
+msgstr "Hermandad del aire, rango 4"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLGHT_LEADER_5"
+msgstr "Hermandad del aire, rango 5"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLIGHT_DRESSING"
+msgstr "Continuó el combate con el piloto herido"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLIGHT_REPAIRS"
+msgstr "Reinició un motor que falló"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FRONTLINE_1"
+msgstr "Cielos mortales, rango 1"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FRONTLINE_2"
+msgstr "Cielos mortales, rango 2"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FRONTLINE_3"
+msgstr "Cielos mortales, rango 3"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FRONTLINE_4"
+msgstr "Cielos mortales, rango 4"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FRONTLINE_5"
+msgstr "Cielos mortales, rango 5"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FUTURE_ACE"
+msgstr "Destruyó 3 aviones y sobrevivió"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GALLAND1"
+msgstr "300 medallas «As» en cazas"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GALLAND2"
+msgstr "30 medallas «As» en cazas"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GALLAND3"
+msgstr "3 medallas «As» en cazas"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GOLIAPHS_NEMESIS"
+msgstr "Destruyó 3 cazas pesados"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GOLUBEV_MEDAL"
+msgstr "Destruyó 3 cazas dos niveles mayores"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GOROVETS"
+msgstr "Destruyó 9 enemigos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GOTCHA"
+msgstr "Alcanzó un avión enemigo"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GOT_TEN"
+msgstr "Dos marcas por aviones destruidos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GRAF1"
+msgstr "Por 10 000 aviones destruidos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GRAF2"
+msgstr "Por 1000 aviones destruidos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GRAF3"
+msgstr "Por 100 aviones destruidos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GRAF4"
+msgstr "Por 10 aviones destruidos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GROUND_DEFENDER"
+msgstr "Destruyó 3 aviones de ataque"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GROUND_POUNDER"
+msgstr "Causó un daño total de 10 000 PV a objetivos terrestres"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HABREZKI"
+msgstr "Destruyó 9 aviones y recibió 15 puntos por objetivos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HEAVYWEIGHT"
+msgstr "Destruyó un caza pesado enemigo"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HEAVY_HITTER"
+msgstr "Causó un daño total de 1000 PV en aviones"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HEAVY_TEST"
+msgstr "Destruyó 1 avión y recibió 10 puntos por objetivos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HIDE_N_SEEK"
+msgstr "Usó el terreno como cobertura"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HOSTILE_SKIES"
+msgstr "Sobrevivió al fuego antiaéreo"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HOT_ENGINES"
+msgstr "Enfrió el motor recalentado"
+
+msgid "MEDAL_EVENT_DESCRIPTION_INTERCEPTOR"
+msgstr "Destruyó 2 aviones de ataque"
+
+msgid "MEDAL_EVENT_DESCRIPTION_INVULNERABLE"
+msgstr "Destruyó 2 aviones y permaneció intacto"
+
+msgid "MEDAL_EVENT_DESCRIPTION_IRREPLACEABLE"
+msgstr "Recibió «Dominador» varias veces"
+
+msgid "MEDAL_EVENT_DESCRIPTION_JACK_OF_ALL_TRADES"
+msgstr "Voló en aviones de varios tipos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_KEEP_CLEAR"
+msgstr "1 bomba, 1 avión, 1 objetivo terrestre"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LAST_BREATH"
+msgstr "Destruyó un enemigo mientras tenía un 10 % de PV y ganó"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LAST_BULLET"
+msgstr "Destruyó un enemigo con las armas recalentadas"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LAST_HERO"
+msgstr "El único superviviente, destruyó 3 enemigos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LAST_MAN_FLYING"
+msgstr "El único superviviente"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LEADER"
+msgstr "Mejor jugador por aviones destruidos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LEGENDARY_ASSAULT"
+msgstr "1000 medallas «Trueno» en aviones de ataque"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LEGENDARY_FIGHTER"
+msgstr "1000 medallas «As» en cazas"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LEGENDARY_HEAVY"
+msgstr "1000 medallas «Destructor» en cazas pesados"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LIGHTWEIGHT"
+msgstr "Destruyó un caza enemigo"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LUCKY_HUNT"
+msgstr "Realizó la misión «Buena caza»"
+
+msgid "MEDAL_EVENT_DESCRIPTION_MASTER_HUNT"
+msgstr "Realizó la misión «Caza habilidosa»"
+
+msgid "MEDAL_EVENT_DESCRIPTION_MCGUIRE"
+msgstr "3 aviones destruidos en cazas pesados"
+
+msgid "MEDAL_EVENT_DESCRIPTION_MEANINGFUL_CONTRIBUTION"
+msgstr "Voló en una escuadrilla que destruyó 6 aviones"
+
+msgid "MEDAL_EVENT_DESCRIPTION_MEYER1"
+msgstr "300 medallas «Trueno» en aviones de ataque"
+
+msgid "MEDAL_EVENT_DESCRIPTION_MEYER2"
+msgstr "30 medallas «Trueno» en aviones de ataque"
+
+msgid "MEDAL_EVENT_DESCRIPTION_MEYER3"
+msgstr "3 medallas «Trueno» en aviones de ataque"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NIMBLE"
+msgstr "Provocó que el enemigo se estrellara"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NO_STONE_UNTURNED"
+msgstr "Destruyó el último objetivo terrestre"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_FROST"
+msgstr "Ganó 5 batallas en mapas de invierno"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_LUCK"
+msgstr "Completó 5 misiones festivas"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_MARKSMAN"
+msgstr "Dañó 50 platillos volantes"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_SET"
+msgstr "Completó 10 misiones diarias"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_SHOOTER"
+msgstr "Alcanzó 10 platillos volantes"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_SNOWBALL"
+msgstr "Alcanzó un platillo volante con una bola de nieve"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_WATCH"
+msgstr "Ganó batallas durante 10 días"
+
+msgid "MEDAL_EVENT_DESCRIPTION_PERSISTENT"
+msgstr "Destruyó un enemigo en cada batalla"
+
+msgid "MEDAL_EVENT_DESCRIPTION_PLANE_TESTER"
+msgstr "Probó aviones de varias naciones"
+
+msgid "MEDAL_EVENT_DESCRIPTION_PULL"
+msgstr "Niveló el avión tras un picado profundo"
+
+msgid "MEDAL_EVENT_DESCRIPTION_PUNISHER"
+msgstr "Destruyó 2 aviones con una bomba"
+
+msgid "MEDAL_EVENT_DESCRIPTION_PYROMANIAC"
+msgstr "Recibió «Alas en llamas» varias veces"
+
+msgid "MEDAL_EVENT_DESCRIPTION_RAIDER"
+msgstr ""
+"Concedida por ganar el <font color='#{1}'>grado de avión II</font> durante "
+"<font color='#{1}'>la etapa «Reabastecimiento»</font> del evento «Tormenta "
+"de verano»."
+
+msgid "MEDAL_EVENT_DESCRIPTION_REAPER"
+msgstr "Recibió «Beso de la muerte» varias veces"
+
+msgid "MEDAL_EVENT_DESCRIPTION_REAR_GUARD"
+msgstr "Destruyó al enemigo con el artillero"
+
+msgid "MEDAL_EVENT_DESCRIPTION_REAR_GUNNER"
+msgstr "Dañó al enemigo con el artillero"
+
+msgid "MEDAL_EVENT_DESCRIPTION_RESILIENT"
+msgstr "Estuvo bajo el fuego de 5 enemigos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_RIDDLED"
+msgstr "Asistió en ataques terrestres 3 veces"
+
+msgid "MEDAL_EVENT_DESCRIPTION_ROCKET_SHOOTER"
+msgstr "Destruyó al enemigo con cohetes"
+
+msgid "MEDAL_EVENT_DESCRIPTION_ROCKET_STRIKE"
+msgstr "Dañó objetivos terrestres con un cohete"
+
+msgid "MEDAL_EVENT_DESCRIPTION_RUDORFFER"
+msgstr "Destruyó 13 enemigos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SCAN_THE_SKIES"
+msgstr "Detectó un avión enemigo"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SCORCHED_EARTH"
+msgstr "25 puntos por objetivos terrestres enemigos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SCYTHE_OF_DEATH"
+msgstr "Destruyó 2 enemigos seguidos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SKILLED_PILOT"
+msgstr "Retuvo el control del avión"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SKY_FIRE"
+msgstr "Destruyó un avión con un incendio"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SKY_N_GROUND"
+msgstr "Destruyó 3 aviones y recibió 25 puntos por objetivos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SKY_SCOURGE"
+msgstr "Series de al menos 3 aviones destruidos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SMOKING_BARRELS"
+msgstr "Enfrió armas recalentadas"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SQUALL_OF_STEEL"
+msgstr "Asistió en ataques terrestres 5 veces"
+
+msgid "MEDAL_EVENT_DESCRIPTION_STABLE_RESULT"
+msgstr "Destruyó 3 aviones y sobrevivió"
+
+msgid "MEDAL_EVENT_DESCRIPTION_STORMBRINGER"
+msgstr "Recibió «Disparo rápido» varias veces"
+
+msgid "MEDAL_EVENT_DESCRIPTION_STRIKE_TEAM"
+msgstr "Miembro de una escuadrilla que destruyó 4 aviones y recibió 60 puntos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_STRONG_TEAM"
+msgstr "Miembro de una escuadrilla que destruyó 3 aviones y recibió 40 puntos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SUCCESSFUL_RAID"
+msgstr "Dos marcas por objetivos terrestres"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SUDDEN_DEATH"
+msgstr "Destruyó con rapidez el 100 % de los PV enemigos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SUPERHEAVY"
+msgstr "Destruyó aviones de ataque"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SURE_COVER"
+msgstr "Asistió a aliados 5 veces"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SURVIVOR"
+msgstr "Ganó y sobrevivió a 2 batallas en línea"
+
+msgid "MEDAL_EVENT_DESCRIPTION_TAIL_BUSTER"
+msgstr "Causó daño crítico en la cola de aviones enemigos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_THRIFTY_BOMBARDIER"
+msgstr "Dañó 2 objetivos terrestres con una bomba"
+
+msgid "MEDAL_EVENT_DESCRIPTION_THRIFTY_ROCKETEER"
+msgstr "Dañó 2 objetivos terrestres con un cohete"
+
+msgid "MEDAL_EVENT_DESCRIPTION_THUNDER"
+msgstr "75 puntos por objetivos terrestres enemigos"
+
+msgid "MEDAL_EVENT_DESCRIPTION_TOP_DOWN_DIVER"
+msgstr "Consiguió la máxima velocidad en picado"
+
+msgid "MEDAL_EVENT_DESCRIPTION_UNSTOPPABLE"
+msgstr "Ganó 3 batallas seguidas"
+
+msgid "MEDAL_EVENT_DESCRIPTION_UNTOUCHABLE"
+msgstr "Destruyó un enemigo sin ser dañado"
+
+msgid "MEDAL_EVENT_DESCRIPTION_VALUABLE_CONTRIBUTION"
+msgstr "Consiguió un tercio de los puntos de superioridad del equipo"
+
+msgid "MEDAL_EVENT_DESCRIPTION_WEIGHTY_CONTRIBUTION"
+msgstr "Voló en una escuadrilla que destruyó 9 aviones"
+
+msgid "MEDAL_EVENT_DESCRIPTION_WINGED_FLAME"
+msgstr "Incendió 3 aviones"
+
+msgid "MEDAL_EVENT_DESCRIPTION_WINGMAN"
+msgstr "Asistió a aliados 3 veces"
+
+msgid "MEDAL_EVENT_DESCRIPTION_YEFIMOV"
+msgstr "Destruyó 3 aviones en aviones de ataque"
+
+msgid "MEDAL_EVENT_DESCRIPTION_ZVONAREV"
+msgstr "Destruyó 3 aviones con cohetes"
+
+msgid "MEDAL_HISTORY_AKAMATSU"
+msgstr ""
+"<font color='#f2f2f2'>Sadaaki Akamatsu</font> fue un as japonés. Destruyó 27 "
+"aviones enemigos durante la Segunda Guerra Chino-Japonesa y la Segunda "
+"Guerra Mundial. Durante los combates de 1945, se enfrentó a cazas "
+"estadounidenses tecnológicamente más avanzados, derribando más de 10."
+
+msgid "MEDAL_HISTORY_BEGELDINOV"
+msgstr ""
+"<font color='#f2f2f2'>Talgat Begeldinov</font> fue un piloto de aviones de "
+"ataque soviético que sirvió durante la Segunda Guerra Mundial. En 1943-1945 "
+"voló en 305 misiones de combate, destruyó un significativo número de "
+"objetivos terrestres y derribó 7 aviones enemigos."
+
+msgid "MEDAL_HISTORY_BONG"
+msgstr ""
+"<font color='#f2f2f2'>Richard Ira Bong</font> fue el as con mejores "
+"puntuaciones de la U.S. Army Air Force durante la Segunda Guerra Mundial. "
+"Volando en el Lockheed P-38 Lightning, derribó al menos 40 aviones japoneses "
+"mientras servía en el Pacífico Sur. Murió el 6 de agosto de 1945 durante un "
+"vuelo de pruebas en el P-80 Shooting Star."
+
+msgid "MEDAL_HISTORY_BOYINGTON"
+msgstr ""
+"<font color='#f2f2f2'>Gregory «Pappy» Boyington</font> fue un as de caza "
+"estadounidense. Sirvió con el 1er Grupo de Voluntarios Americanos, conocidos "
+"como los Flying Tigers, en 1941 y 1942 y en el VMF-214 «Black Sheep» del "
+"Cuerpo de Marines en 1943 y 1944. Derribó 28 aviones japoneses con el Р-40 "
+"Warhawk y el F4U Corsair."
+
+msgid "MEDAL_HISTORY_CLOSTERMAN"
+msgstr ""
+"<font color='#f2f2f2'>Pierre Clostermann</font> fue el mejor as de cazas "
+"francés. Tras la derrota de Francia, ingresó en la Royal Air Force. "
+"Clostermann fue acreditado con un total de 33 victorias y destruyó un "
+"significativo número de objetivos terrestres enemigos."
+
+msgid "MEDAL_HISTORY_DILLEI"
+msgstr ""
+"<font color='#f2f2f2'>Bruno Dilley</font> fue un piloto alemán. De 1939 a "
+"1943 voló 700 misiones de combate en el bombardero en picado Ju 87. Es "
+"considerado como el primer piloto que realizó una incursión de bombardeo en "
+"la II Guerra Mundial, el 1 de septiembre de 1939."
+
+msgid "MEDAL_HISTORY_DULITTLA"
+msgstr ""
+"<font color='#f2f2f2'>James Harold Doolittle</font> fue un piloto de "
+"bombarderos estadounidense. El 18 de abril de 1942, 16 bombarderos con base "
+"en tierra B-25 Mitchell bajo su mando despegaron del portaaviones Hornet y "
+"llevaron a cabo una incursión de gran valor político y moral sobre la "
+"capital del Imperio Japonés, Toquio."
+
+msgid "MEDAL_HISTORY_GALLAND"
+msgstr ""
+"<font color='#f2f2f2'>Adolf Galland</font> fue un as de caza alemán, que "
+"sirvió como teniente general de la Luftwaffe durante la Segunda Guerra "
+"Mundial. Voló en 705 misiones de combate y fue acreditado con 104 victorias "
+"aéreas. Fue nombrado Comandante de la Fuerza Aérea Alemana en noviembre de "
+"1941 y permaneció en esta posición hasta enero de 1945."
+
+msgid "MEDAL_HISTORY_GOLUBEV"
+msgstr ""
+"<font color='#f2f2f2'>Vasiliy Golubev</font> fue un piloto de caza soviético "
+"que sirvió en la II Guerra Mundial. De 1941 a 1945 voló 589 misiones de "
+"combate en el I-16, La-5 y La-7. Se le acreditó con 39 victorias aéreas "
+"individuales y 12 compartidas."
+
+msgid "MEDAL_HISTORY_GOROVETS"
+msgstr ""
+"<font color='#f2f2f2'>Alexander Gorovets</font> fue un as de caza soviético. "
+"El 6 de julio de 1943 atacó en solitario una gran formación de aviones "
+"alemanes y consiguió destruir 9 de ellos. Volviendo a base sin munición para "
+"defenderse y bajo de combustible, Gorovets fue derribado y murió."
+
+msgid "MEDAL_HISTORY_GRAF"
+msgstr ""
+"<font color='#f2f2f2'>Hermann Graf</font> fue un as alemán, que sirvió "
+"durante la Segunda Guerra Mundial. Voló en 800 misiones de combate y fue "
+"acreditado con 212 victorias aéreas en el Frente Oriental y Occidental. Fue "
+"el primer piloto del mundo en conseguir 200 victorias aéreas."
+
+msgid "MEDAL_HISTORY_HABREZKI"
+msgstr ""
+"<font color='#f2f2f2'>Francis «Gabby» Gabreski</font> fue un as de caza "
+"americano. Durante la Segunda Guerra Mundial destruyó 28 aviones enemigos en "
+"su P-47 Thunderbolt, y 6 más durante la Guerra de Corea."
+
+msgid "MEDAL_HISTORY_JOHNSON"
+msgstr ""
+"<font color='#f2f2f2'>James Edgar Johnson</font> fue un piloto de caza "
+"británico y el as británico con más derribos que haya servido en la II "
+"Guerra Mundial. De 1940 a 1944 voló 515 misiones de combate en el Spitfire y "
+"consiguió 34 victorias aéreas individuales y 7 compartidas."
+
+msgid "MEDAL_HISTORY_KOJEDUBA"
+msgstr ""
+"<font color='#f2f2f2'>Ivan Kozhedub</font> fue un as soviético con el mayor "
+"número de derribos entre los pilotos aliados. Entre 1943 y 1945, pilotando "
+"el La-5 y el La-7 derribó un total de 62 aviones enemigos, incluyendo el "
+"modelo a reacción Me 262."
+
+msgid "MEDAL_HISTORY_LAMBERTA"
+msgstr ""
+"<font color='#f2f2f2'>August Lambert</font> fue un as alemán que voló en el "
+"Fw 190 en una unidad de ataque a tierra de la Luftwaffe. Destruyó una gran "
+"cantidad de objetivos terrestres y afirmó haber derribado 116 aviones "
+"enemigos."
+
+msgid "MEDAL_HISTORY_LANG"
+msgstr ""
+"<font color='#f2f2f2'>Friedrich Lang</font> fue un as alemán. Voló 1008 "
+"misiones de combate en el Ju 87 y el Fw 190, desde el primer día hasta el "
+"último de la II Guerra Mundial y nunca fue derribado."
+
+msgid "MEDAL_HISTORY_LINDBERGH"
+msgstr ""
+"<font color='#f2f2f2'>Charles Lindbergh</font> fue un aviador americano que "
+"fue el primero en cruzar el Atlántico, volando desde Nueva York hasta París. "
+"Sirvió como consultor en el U.S. Army y Navy durante la Segunda Guerra "
+"Mundial. Aunque Lindbergh era civil, sin embargo voló en unas 50 misiones de "
+"combate."
+
+msgid "MEDAL_HISTORY_MACCAMPBELL"
+msgstr ""
+"<font color='#f2f2f2'>David McCampbell</font> fue un piloto de caza "
+"estadounidense y el as con más bajas de la U.S. Navy durante la II Guerra "
+"Mundial. De 1944 a 1945 derribó 34 aviones japoneses, incluyendo 9 en una "
+"sola misión, en su F6F Hellcat."
+
+msgid "MEDAL_HISTORY_MARCEL"
+msgstr ""
+"<font color='#f2f2f2'>Hans-Joachim Marseille</font> fue un as de caza "
+"alemán. De 1940 a 1942 voló 388 misiones de combate y obtuvo 158 victorias "
+"aéreas en Bf 109. Es considerado como el as de la Luftwaffe con más bajas "
+"causadas en batallas contra los aliados occidentales."
+
+msgid "MEDAL_HISTORY_MCGUIRE"
+msgstr ""
+"<font color='#f2f2f2'>Thomas McGuire</font> fue un as americano que sirvió "
+"durante la Segunda Guerra Mundial. Volando en el caza pesado P-38 Lightning, "
+"derribó 38 aviones japoneses. Murió durante un combate aéreo el 7 de enero "
+"de 1945."
+
+msgid "MEDAL_HISTORY_MEYER"
+msgstr ""
+"<font color='#f2f2f2'>Bruno Meyer</font> fue un as de ataque alemán que "
+"sirvió durante la Segunda Guerra Mundial. Participó en combate en Polonia, "
+"Francia, África del Norte y en el Frente Oriental. Volando en más de 1000 "
+"misiones de combate, destruyó un significativo número de vehículos "
+"terrestres, incluyendo 183 carros. Voló principalmente en un avión de ataque "
+"Hs 129."
+
+msgid "MEDAL_HISTORY_MIHALENKOV"
+msgstr ""
+"<font color='#f2f2f2'>Efim Mikhalenkov</font> fue un piloto de ataque "
+"soviético que sirvió en la II Guerra Mundial. Voló 275 misiones de combate "
+"en el IL-2, destruyó un número significativo de objetivos terrestres y 12 "
+"aviones enemigos personalmente y junto a otros pilotos."
+
+msgid "MEDAL_HISTORY_POKRYSHKIN"
+msgstr ""
+"<font color='#f2f2f2'>Alexander Pokryshkin</font> fue un as de caza "
+"soviético. De 1941 a 1945 voló 650 misiones de combate en el MiG-3, Yak-1 y "
+"P-39 Airacobra. Derribó personalmente 59 aviones enemigos y 6 más junto a "
+"otros pilotos."
+
+msgid "MEDAL_HISTORY_RUDORFFER"
+msgstr ""
+"<font color='#f2f2f2'>Erich Rudorffer</font> fue un as de caza alemán que "
+"sirvió a lo largo de toda la Segunda Guerra Mundial. Volando en más de 1000 "
+"misiones de combate, se enfrentó en combate aéreo 302 veces. Rudorffer "
+"reclamó un total de 222 victorias aéreas en el Frente Occidental, 26 en "
+"África del Norte y 136 en el Frente Oriental."
+
+msgid "MEDAL_HISTORY_SEVERSKY"
+msgstr ""
+"<font color='#f2f2f2'>Alexander de Seversky</font> fue un aviador ruso-"
+"americano, inventor y diseñador de aviones. En febrero de 1931 fundó la "
+"Seversky Aircraft Corporation (más tarde reorganizada y renombrada como "
+"Republic Aviation Corporation), en donde sirvió como presidente, diseñador "
+"de aviones y piloto de pruebas. Diseñó el SEV-3, P-35, 2PA, y el P-47 "
+"Thunderbolt, uno de los cazas más ampliamente producidos de la SGM."
+
+msgid "MEDAL_HISTORY_SIKORSKY"
+msgstr ""
+"Igor Sikorsky fue un pionero de la aviación ruso-americano. Diseñó y voló en "
+"el primer avión multimotor de ala fija del mundo, el Russky Vityaz, y el "
+"primer avión de línea y bombardero pesado de cuatro motores, el Ilya "
+"Muromets. También diseñó botes voladores, hidroaviones transatlánticos, y el "
+"Vought-Sikorsky VS-300, un helicóptero de un solo motor con un rotor de tres "
+"palas."
+
+msgid "MEDAL_HISTORY_YEFIMOV"
+msgstr ""
+"<font color='#f2f2f2'>Alexander Efimov</font> fue un piloto de aviones de "
+"ataque soviético, que sirvió durante la Segunda Guerra Mundial. En 1942-1945 "
+"voló en 288 misiones de combate en el avión de ataque IL-2. Destruyó un "
+"significativo número de objetivos terrestres y derribó 8 aviones enemigos en "
+"combate aéreo y 85 aviones en el suelo."
+
+msgid "MEDAL_HISTORY_ZVONAREV"
+msgstr ""
+"<font color='#f2f2f2'>Nikolay Zvonarev</font> fue un piloto de pruebas "
+"soviético. El 20 de agosto de 1939, durante el conflicto fronterizo "
+"soviético-japonés, la formación de cazas I-16 bajo el mando de Zvonarev usó "
+"con éxito por primera vez cohetes en combate aéreo en el río Jaljin Gol, "
+"destruyendo varios aviones enemigos."
+
+msgid "MEDAL_LEVEL_LIMIT"
+msgstr "Se puede recibir en aviones de nivel IV o superior."
+
+msgid "MEDAL_LOW_LEVEL_LIMIT"
+msgstr "Se puede recibir en aviones de nivel III o inferior."
+
+msgid "MEDAL_NAME_1ST_CLASS"
+msgstr "Veterano"
+
+msgid "MEDAL_NAME_2ND_CLASS"
+msgstr "Experto"
+
+msgid "MEDAL_NAME_ABSOLUTE_CHAMPION"
+msgstr "Campeón indiscutible"
+
+msgid "MEDAL_NAME_ACE"
+msgstr "As"
+
+msgid "MEDAL_NAME_AIR_DEFENCE_PILOT"
+msgstr "Piloto de defensa aérea"
+
+msgid "MEDAL_NAME_AKAMATSU"
+msgstr "Medalla de Akamatsu"
+
+msgid "MEDAL_NAME_ALBION_LION-I"
+msgstr "Placa del León de Albión clase I"
+
+msgid "MEDAL_NAME_ALBION_LION-II"
+msgstr "Placa del León de Albión clase II"
+
+msgid "MEDAL_NAME_ALBION_LION-III"
+msgstr "Placa del León de Albión clase III"
+
+msgid "MEDAL_NAME_ALL_YEAR_2016_VETERAN"
+msgstr "Maestro de temporadas de caza"
+
+msgid "MEDAL_NAME_ALTITUDE_HUNTER"
+msgstr "A la caza del condor"
+
+msgid "MEDAL_NAME_ANIMAL_KING"
+msgstr "Rey de los animales"
+
+msgid "MEDAL_NAME_AROUND_THE_WORLD"
+msgstr "Viajero del mundo"
+
+msgid "MEDAL_NAME_AS"
+msgstr "As"
+
+msgid "MEDAL_NAME_ASSAULT_TEST"
+msgstr "Piloto de avión de ataque certificado"
+
+msgid "MEDAL_NAME_ASSISTANT"
+msgstr "Compañero"
+
+msgid "MEDAL_NAME_ASSISTMASTER"
+msgstr "Placa de Jugador en Equipo"
+
+msgid "MEDAL_NAME_ATTACKER"
+msgstr "Expoliador"
+
+msgid "MEDAL_NAME_ATTACK_HERO"
+msgstr "Héroe de la ofensiva"
+
+msgid "MEDAL_NAME_ATTACK_ON_ALLIES_POSITION"
+msgstr "Ofensiva"
+
+msgid "MEDAL_NAME_AUTUMN_VETERAN"
+msgstr "Veterano del evento de otoño"
+
+msgid "MEDAL_NAME_AVALANCHE"
+msgstr "Avalancha"
+
+msgid "MEDAL_NAME_BANSHEE"
+msgstr "Incursor aéreo"
+
+msgid "MEDAL_NAME_BATTERED_BUT_NOT_BROKEN"
+msgstr "Engaño a la muerte"
+
+msgid "MEDAL_NAME_BATTLE_VULTURE"
+msgstr "A la caza del halcón"
+
+msgid "MEDAL_NAME_BEGELDINOV1"
+msgstr "Medalla de Begeldinov Clase I"
+
+msgid "MEDAL_NAME_BEGELDINOV2"
+msgstr "Medalla de Begeldinov Clase II"
+
+msgid "MEDAL_NAME_BEGELDINOV3"
+msgstr "Medalla de Begeldinov Clase III"
+
+msgid "MEDAL_NAME_BEGELDINOV4"
+msgstr "Medalla de Begeldinov Clase IV"
+
+msgid "MEDAL_NAME_BEWARE_OF_BOMBS"
+msgstr "Cuidado con las bombas"
+
+msgid "MEDAL_NAME_BIRD_OF_PREY"
+msgstr "Ave de presa"
+
+msgid "MEDAL_NAME_BLITZ"
+msgstr "Disparo rápido"
+
+msgid "MEDAL_NAME_BOMBARDIER"
+msgstr "Bombardero"
+
+msgid "MEDAL_NAME_BOMBARDIER_1"
+msgstr "Bombardero"
+
+msgid "MEDAL_NAME_BOMBING"
+msgstr "As de bombarderos"
+
+msgid "MEDAL_NAME_BOMBING_1"
+msgstr "Bombas fuera"
+
+msgid "MEDAL_NAME_BONG1"
+msgstr "Medalla de Bong Clase I"
+
+msgid "MEDAL_NAME_BONG2"
+msgstr "Medalla de Bong Clase II"
+
+msgid "MEDAL_NAME_BONG3"
+msgstr "Medalla de Bong Clase III"
+
+msgid "MEDAL_NAME_BOYINGTON1"
+msgstr "Medalla de Boyington Clase I"
+
+msgid "MEDAL_NAME_BOYINGTON2"
+msgstr "Medalla de Boyington Clase II"
+
+msgid "MEDAL_NAME_BOYINGTON3"
+msgstr "Medalla de Boyington Clase III"
+
+msgid "MEDAL_NAME_BOYINGTON4"
+msgstr "Medalla de Boyington Clase IV"
+
+msgid "MEDAL_NAME_BREAKTHROUGH"
+msgstr "Ruptura"
+
+msgid "MEDAL_NAME_BRONZE_PLAYERS"
+msgstr "Placa de copa de bronce"
+
+msgid "MEDAL_NAME_BURNING"
+msgstr "Ignífugo"
+
+msgid "MEDAL_NAME_BURNING_SHORES"
+msgstr "Orillas llameantes"
+
+msgid "MEDAL_NAME_CADET"
+msgstr "Cadete"
+
+msgid "MEDAL_NAME_CADET_1"
+msgstr "Cadete rango 1"
+
+msgid "MEDAL_NAME_CADET_2"
+msgstr "Cadete rango 2"
+
+msgid "MEDAL_NAME_CADET_3"
+msgstr "Cadete rango 3"
+
+msgid "MEDAL_NAME_CADET_4"
+msgstr "Cadete rango 4"
+
+msgid "MEDAL_NAME_CADET_5"
+msgstr "Cadete rango 5"
+
+msgid "MEDAL_NAME_CANDY_RAID"
+msgstr "Incursión de golosinas"
+
+msgid "MEDAL_NAME_CAREFUL"
+msgstr "Gatillo disciplinado"
+
+msgid "MEDAL_NAME_CATCHER"
+msgstr "Guardián"
+
+msgid "MEDAL_NAME_CAUTION_BOMB"
+msgstr "Sorpresa caída del cielo"
+
+msgid "MEDAL_NAME_CHAMPION_DESTROYER"
+msgstr "Campeón de la destrucción"
+
+msgid "MEDAL_NAME_CLEANER"
+msgstr "Ala de élite"
+
+msgid "MEDAL_NAME_CLEANUP"
+msgstr "Mano de hierro"
+
+msgid "MEDAL_NAME_CLEAR_SKY"
+msgstr "Cielo limpio"
+
+msgid "MEDAL_NAME_CLIPPING_THE_WINGS"
+msgstr "Sujeta las alas"
+
+msgid "MEDAL_NAME_CLOSTERMAN"
+msgstr "Medalla de Clostermann"
+
+msgid "MEDAL_NAME_COLLECTOR"
+msgstr "Coleccionista"
+
+msgid "MEDAL_NAME_COMMAND_DES"
+msgstr "Medalla de Hansell"
+
+msgid "MEDAL_NAME_COMPETITIVE_PLAYERS"
+msgstr "Placa del competidor"
+
+msgid "MEDAL_NAME_CONQUEROR"
+msgstr "Conquistador"
+
+msgid "MEDAL_NAME_CONTROLLER"
+msgstr "Placa de Vanguardia alada"
+
+msgid "MEDAL_NAME_CROSSFIRE"
+msgstr "Fuego cruzado"
+
+msgid "MEDAL_NAME_CROSSFIRE_1"
+msgstr "Fuego cruzado"
+
+msgid "MEDAL_NAME_CRUCIALCONTRIBUTION"
+msgstr "Contribución épica"
+
+msgid "MEDAL_NAME_DANGEROUS_TARGET"
+msgstr "Buen comienzo"
+
+msgid "MEDAL_NAME_DANGER_TAIL"
+msgstr "Maestro de la autodefensa"
+
+msgid "MEDAL_NAME_DARING_SWOOP"
+msgstr "Bravo conquistador"
+
+msgid "MEDAL_NAME_DEAD_ZONE"
+msgstr "Zona muerta"
+
+msgid "MEDAL_NAME_DEFENDER_PROGRESS1"
+msgstr "Placa de Guardián de Asgard clase I"
+
+msgid "MEDAL_NAME_DEFENDER_PROGRESS2"
+msgstr "Placa de Guardián de Asgard clase II"
+
+msgid "MEDAL_NAME_DEFENDER_PROGRESS3"
+msgstr "Placa de Guardián de Asgard clase III"
+
+msgid "MEDAL_NAME_DESTROYER"
+msgstr "Placa de la venganza alada"
+
+msgid "MEDAL_NAME_DESTROYER_OLD"
+msgstr "Destructor"
+
+msgid "MEDAL_NAME_DEVASTATOR"
+msgstr "Dos por uno"
+
+msgid "MEDAL_NAME_DILLEI1"
+msgstr "Medalla de Dilley Clase I"
+
+msgid "MEDAL_NAME_DILLEI2"
+msgstr "Medalla de Dilley Clase II"
+
+msgid "MEDAL_NAME_DILLEI3"
+msgstr "Medalla de Dilley Clase III"
+
+msgid "MEDAL_NAME_DILLEI4"
+msgstr "Medalla de Dilley Clase IV"
+
+msgid "MEDAL_NAME_DOMINATOR"
+msgstr "Triplete"
+
+msgid "MEDAL_NAME_DOMINATOR_1"
+msgstr "Triplete"
+
+msgid "MEDAL_NAME_DULITTLA"
+msgstr "Medalla de Doolittle"
+
+msgid "MEDAL_NAME_EFFECTIVE"
+msgstr "Fuego eficaz"
+
+msgid "MEDAL_NAME_ELITE_PLANE"
+msgstr "Piloto de élite"
+
+msgid "MEDAL_NAME_END_OF_SPEAR"
+msgstr "Punta de lanza"
+
+msgid "MEDAL_NAME_ESCORT_SKY_AVENGER"
+msgstr "Placa del vengador volador"
+
+msgid "MEDAL_NAME_ESCORT_SKY_DEFENDER"
+msgstr "Placa del protector volador"
+
+msgid "MEDAL_NAME_ESCORT_SKY_DESTROYER"
+msgstr "Placa del destructor volador"
+
+msgid "MEDAL_NAME_ESCORT_SKY_HUNTER"
+msgstr "Placa del maestro de caza volador"
+
+msgid "MEDAL_NAME_ESCORT_SKY_KEEPER"
+msgstr "Placa del guardián volador"
+
+msgid "MEDAL_NAME_EXPERIENCED"
+msgstr "Piloto experto"
+
+msgid "MEDAL_NAME_EXPERIENCED_HUNTER"
+msgstr "Cazador experto"
+
+msgid "MEDAL_NAME_EXTERMINATOR"
+msgstr "Placa de exterminador alado"
+
+msgid "MEDAL_NAME_FALCON"
+msgstr "Raptor"
+
+msgid "MEDAL_NAME_FALCONRY"
+msgstr "Cetrería"
+
+msgid "MEDAL_NAME_FALCON_HUNTING"
+msgstr "A la caza del gavilán"
+
+msgid "MEDAL_NAME_FIGHTER_DEFENDER"
+msgstr "Placa del guardián alado"
+
+msgid "MEDAL_NAME_FIGHTER_DOMINATOR"
+msgstr "Placa del guerrero alado"
+
+msgid "MEDAL_NAME_FIGHTER_INTERCEPTOR"
+msgstr "Placa del paladín alado"
+
+msgid "MEDAL_NAME_FIGHTER_OF_ALL_LIFE"
+msgstr "Placa del incursor alado"
+
+msgid "MEDAL_NAME_FIGHTER_TEST"
+msgstr "Piloto de caza certificado"
+
+msgid "MEDAL_NAME_FIREBUG"
+msgstr "Infierno"
+
+msgid "MEDAL_NAME_FIRESPITTING"
+msgstr "Aliento de fuego"
+
+msgid "MEDAL_NAME_FIRESTARTER"
+msgstr "Infierno"
+
+msgid "MEDAL_NAME_FIRE_BILLOW"
+msgstr "Mazo terrestre"
+
+msgid "MEDAL_NAME_FIRE_BREATH"
+msgstr "Aliento de fuego"
+
+msgid "MEDAL_NAME_FIRST_BLOOD"
+msgstr "Primera sangre"
+
+msgid "MEDAL_NAME_FIRST_FIGHTER"
+msgstr "Guerrero de primera línea"
+
+msgid "MEDAL_NAME_FIRST_IN_TEAM"
+msgstr "Primero entre iguales"
+
+msgid "MEDAL_NAME_FLAME_OF_HEAVEN"
+msgstr "Llamas en el cielo"
+
+msgid "MEDAL_NAME_FLAMING"
+msgstr "En llamas"
+
+msgid "MEDAL_NAME_FLGHT_LEADER_1"
+msgstr "Comandante de vuelo rango 1"
+
+msgid "MEDAL_NAME_FLGHT_LEADER_2"
+msgstr "Comandante de vuelo rango 2"
+
+msgid "MEDAL_NAME_FLGHT_LEADER_3"
+msgstr "Comandante de vuelo rango 3"
+
+msgid "MEDAL_NAME_FLGHT_LEADER_4"
+msgstr "Comandante de vuelo rango 4"
+
+msgid "MEDAL_NAME_FLGHT_LEADER_5"
+msgstr "Comandante de vuelo rango 5"
+
+msgid "MEDAL_NAME_FLIGHT_DRESSING"
+msgstr "Vuelta a la acción"
+
+msgid "MEDAL_NAME_FLIGHT_REPAIRS"
+msgstr "Reparaciones en el aire"
+
+msgid "MEDAL_NAME_FLOWN"
+msgstr "Fuego de apoyo"
+
+msgid "MEDAL_NAME_FLYING_EAGLE"
+msgstr "Águila planeadora"
+
+msgid "MEDAL_NAME_FLY_SAUCER"
+msgstr "Jinete del Sleipnir"
+
+msgid "MEDAL_NAME_FRONTLINE_1"
+msgstr "Soldado rango 1"
+
+msgid "MEDAL_NAME_FRONTLINE_2"
+msgstr "Soldado rango 2"
+
+msgid "MEDAL_NAME_FRONTLINE_3"
+msgstr "Soldado rango 3"
+
+msgid "MEDAL_NAME_FRONTLINE_4"
+msgstr "Soldado rango 4"
+
+msgid "MEDAL_NAME_FRONTLINE_5"
+msgstr "Soldado rango 5"
+
+msgid "MEDAL_NAME_FULMINANT"
+msgstr "Disparo rápido"
+
+msgid "MEDAL_NAME_FUTURE_ACE"
+msgstr "Aspirante a as"
+
+msgid "MEDAL_NAME_GALLAND1"
+msgstr "Medalla de Galland Clase I"
+
+msgid "MEDAL_NAME_GALLAND2"
+msgstr "Medalla de Galland Clase II"
+
+msgid "MEDAL_NAME_GALLAND3"
+msgstr "Medalla de Galland Clase III"
+
+msgid "MEDAL_NAME_GOLD_PLAYERS"
+msgstr "Placa de copa de oro"
+
+msgid "MEDAL_NAME_GOLIAPHS_NEMESIS"
+msgstr "Asesino de gigantes"
+
+msgid "MEDAL_NAME_GOLUBEV"
+msgstr "Medalla Golubev"
+
+msgid "MEDAL_NAME_GOROVETS"
+msgstr "Medalla de Gorovets"
+
+msgid "MEDAL_NAME_GOTCHA"
+msgstr "Disparo perfecto"
+
+msgid "MEDAL_NAME_GOTCHA_1"
+msgstr "Impacto directo"
+
+msgid "MEDAL_NAME_GOT_TEN"
+msgstr "Marca de un Hhéroe"
+
+msgid "MEDAL_NAME_GRAF1"
+msgstr "Medalla de Graf Clase I"
+
+msgid "MEDAL_NAME_GRAF2"
+msgstr "Medalla de Graf Clase II"
+
+msgid "MEDAL_NAME_GRAF3"
+msgstr "Medalla de Graf Clase III"
+
+msgid "MEDAL_NAME_GRAF4"
+msgstr "Medalla de Graf Clase IV"
+
+msgid "MEDAL_NAME_GROUND_AND_IN_THE_SKY"
+msgstr "Aire y tierra"
+
+msgid "MEDAL_NAME_GROUND_DEFENDER"
+msgstr "Defensor terrestre"
+
+msgid "MEDAL_NAME_GROUND_POUNDER"
+msgstr "Eliminador"
+
+msgid "MEDAL_NAME_GUARD"
+msgstr "Aplastador"
+
+msgid "MEDAL_NAME_GUNNER"
+msgstr "Cobertura segura"
+
+msgid "MEDAL_NAME_HABREZKI"
+msgstr "Medalla de Gabreski"
+
+msgid "MEDAL_NAME_HAMMER_PROGRESS1"
+msgstr "Placa del martillo de Thor clase I"
+
+msgid "MEDAL_NAME_HAMMER_PROGRESS2"
+msgstr "Placa del martillo de Thor clase II"
+
+msgid "MEDAL_NAME_HAMMER_PROGRESS3"
+msgstr "Placa del martillo de Thor clase III"
+
+msgid "MEDAL_NAME_HAWK_LA_MANCHE-I"
+msgstr "Placa del Águila del Canal clase I"
+
+msgid "MEDAL_NAME_HAWK_LA_MANCHE-II"
+msgstr "Placa del Águila del Canal clase II"
+
+msgid "MEDAL_NAME_HAWK_LA_MANCHE-III"
+msgstr "Placa del Águila del Canal clase III"
+
+msgid "MEDAL_NAME_HEAVYWEIGHT"
+msgstr "Super peso medio"
+
+msgid "MEDAL_NAME_HEAVYWEIGHT_1"
+msgstr "Peso pesado"
+
+msgid "MEDAL_NAME_HEAVYWEIGHT_FIGHTER"
+msgstr "A la caza del petrel"
+
+msgid "MEDAL_NAME_HEAVY_FIGHTER_1"
+msgstr "Piloto legendario de caza pesado"
+
+msgid "MEDAL_NAME_HEAVY_HITTER"
+msgstr "Francotirador"
+
+msgid "MEDAL_NAME_HEAVY_TEST"
+msgstr "Piloto de caza pesado certificado"
+
+msgid "MEDAL_NAME_HIDE_N_SEEK"
+msgstr "Ocúltate y busca"
+
+msgid "MEDAL_NAME_HIGH_START"
+msgstr "Inicio de vuelo"
+
+msgid "MEDAL_NAME_HOSTILE_SKIES"
+msgstr "Cielos hostiles"
+
+msgid "MEDAL_NAME_HOT_ENGINES"
+msgstr "Se calienta"
+
+msgid "MEDAL_NAME_HUNGRY_FLOCK"
+msgstr "Manada hambrienta"
+
+msgid "MEDAL_NAME_HUNTER"
+msgstr "Cazador"
+
+msgid "MEDAL_NAME_IMPACT_FROM_THE_SKY"
+msgstr "Interceptación exitosa"
+
+msgid "MEDAL_NAME_INDEPENDENT"
+msgstr "Imparable"
+
+msgid "MEDAL_NAME_INTERCEPTOR"
+msgstr "Interceptor"
+
+msgid "MEDAL_NAME_INTERCEPTOR_1"
+msgstr "Interceptor"
+
+msgid "MEDAL_NAME_INVADER"
+msgstr "Subyugador"
+
+msgid "MEDAL_NAME_INVASION"
+msgstr "Invasión"
+
+msgid "MEDAL_NAME_INVULNERABLE"
+msgstr "Invulnerable"
+
+msgid "MEDAL_NAME_INVULNERABLE_1"
+msgstr "Invulnerable"
+
+msgid "MEDAL_NAME_IRREPLACEABLE"
+msgstr "Irreemplazable"
+
+msgid "MEDAL_NAME_JACK_OF_ALL_TRADES"
+msgstr "Comodín"
+
+msgid "MEDAL_NAME_JA_ALLY_PROGRESS1"
+msgstr "Placa de servicio distinguido clase I"
+
+msgid "MEDAL_NAME_JA_ALLY_PROGRESS2"
+msgstr "Placa de servicio distinguido clase II"
+
+msgid "MEDAL_NAME_JA_ALLY_PROGRESS3"
+msgstr "Placa de servicio distinguido clase III"
+
+msgid "MEDAL_NAME_JA_AXIS_PROGRESS1"
+msgstr "Placa «Cometa dorado» clase I"
+
+msgid "MEDAL_NAME_JA_AXIS_PROGRESS2"
+msgstr "Placa «Cometa dorado» clase II"
+
+msgid "MEDAL_NAME_JA_AXIS_PROGRESS3"
+msgstr "Placa «Cometa dorado» clase III"
+
+msgid "MEDAL_NAME_JA_BANZAY"
+msgstr "¡Banzai!"
+
+msgid "MEDAL_NAME_JA_HUNTER"
+msgstr "Tiro fácil"
+
+msgid "MEDAL_NAME_JA_PACIFIC1"
+msgstr "Placa de defensa del Pacífico clase I"
+
+msgid "MEDAL_NAME_JA_PACIFIC2"
+msgstr "Placa de defensa del Pacífico clase II"
+
+msgid "MEDAL_NAME_JA_PACIFIC3"
+msgstr "Placa de defensa del Pacífico clase III"
+
+msgid "MEDAL_NAME_JA_TORATORA1"
+msgstr "Placa ¡Tora! ¡Tora! ¡Tora! clase I"
+
+msgid "MEDAL_NAME_JA_TORATORA2"
+msgstr "Placa ¡Tora! ¡Tora! ¡Tora! clase II"
+
+msgid "MEDAL_NAME_JA_TORATORA3"
+msgstr "Placa ¡Tora! ¡Tora! ¡Tora! clase III"
+
+msgid "MEDAL_NAME_JOHNSON1"
+msgstr "Medalla de Johnson Clase I"
+
+msgid "MEDAL_NAME_JOHNSON2"
+msgstr "Medalla de Johnson Clase II"
+
+msgid "MEDAL_NAME_JOHNSON3"
+msgstr "Medalla de Johnson Clase III"
+
+msgid "MEDAL_NAME_JOHNSON4"
+msgstr "Medalla de Johnson Clase IV"
+
+msgid "MEDAL_NAME_KEEP_CLEAR"
+msgstr "Aléjate"
+
+msgid "MEDAL_NAME_KILL_SAUCER"
+msgstr "La ira de Odín"
+
+msgid "MEDAL_NAME_KNIGHT"
+msgstr "Caballero Alado"
+
+msgid "MEDAL_NAME_KOJEDUBA"
+msgstr "Medalla de Kozhedub"
+
+msgid "MEDAL_NAME_LAMBERTA"
+msgstr "Medalla de Lambert"
+
+msgid "MEDAL_NAME_LANG"
+msgstr "Medalla Lang"
+
+msgid "MEDAL_NAME_LAST_BREATH"
+msgstr "Hasta el último aliento"
+
+msgid "MEDAL_NAME_LAST_BULLET"
+msgstr "Última bala"
+
+msgid "MEDAL_NAME_LAST_HERO"
+msgstr "Héroe solitario"
+
+msgid "MEDAL_NAME_LAST_HOPE_ALLIES"
+msgstr "La última esperanza de los aliados"
+
+msgid "MEDAL_NAME_LAST_MAN_FLYING"
+msgstr "El último hombre en vuelo"
+
+msgid "MEDAL_NAME_LEADER"
+msgstr "Superior"
+
+msgid "MEDAL_NAME_LEGENDARY_ACE"
+msgstr "Piloto legendario"
+
+msgid "MEDAL_NAME_LEGENDARY_ASSAULT"
+msgstr "Legendario (avión de ataque)"
+
+msgid "MEDAL_NAME_LEGENDARY_ASSAULT_1"
+msgstr "Piloto legendario de avión de ataque"
+
+msgid "MEDAL_NAME_LEGENDARY_FIGHTER"
+msgstr "Legendario (caza)"
+
+msgid "MEDAL_NAME_LEGENDARY_FIGHTER_1"
+msgstr "Piloto legendario de caza"
+
+msgid "MEDAL_NAME_LEGENDARY_HEAVY"
+msgstr "Legendario (caza pesado)"
+
+msgid "MEDAL_NAME_LEGENDARY_NAVY"
+msgstr "Legendario (caza polivalente)"
+
+msgid "MEDAL_NAME_LEGENDARY_NAVY_1"
+msgstr "Piloto legendario de caza polivalente"
+
+msgid "MEDAL_NAME_LIGHTWEIGHT"
+msgstr "Peso ligero"
+
+msgid "MEDAL_NAME_LIGHT_WEIGHT"
+msgstr "Peso ligero"
+
+msgid "MEDAL_NAME_LINDBERGH"
+msgstr "Orden de Lindbergh"
+
+msgid "MEDAL_NAME_MACCAMPBELL"
+msgstr "Medalla McCampbell"
+
+msgid "MEDAL_NAME_MARATHON"
+msgstr "Prueba de fuego"
+
+msgid "MEDAL_NAME_MARCEL"
+msgstr "Medalla de Marseille"
+
+msgid "MEDAL_NAME_MASTERS_OF_SKY"
+msgstr "Señores del cielo"
+
+msgid "MEDAL_NAME_MCGUIRE"
+msgstr "Medalla de McGuire"
+
+msgid "MEDAL_NAME_MEANINGFUL_CONTRIBUTION"
+msgstr "Contribución valiosa"
+
+msgid "MEDAL_NAME_MEYER1"
+msgstr "Medalla de Meyer Clase I"
+
+msgid "MEDAL_NAME_MEYER2"
+msgstr "Medalla de Meyer Clase II"
+
+msgid "MEDAL_NAME_MEYER3"
+msgstr "Medalla de Meyer Clase III"
+
+msgid "MEDAL_NAME_MIHALENKOV1"
+msgstr "Medalla de Mikhalenkov Clase I"
+
+msgid "MEDAL_NAME_MIHALENKOV2"
+msgstr "Medalla de Mikhalenkov Clase II"
+
+msgid "MEDAL_NAME_MIHALENKOV3"
+msgstr "Medalla de Mikhalenkov Clase III"
+
+msgid "MEDAL_NAME_MIHALENKOV4"
+msgstr "Medalla de Mikhalenkov Clase IV"
+
+msgid "MEDAL_NAME_MISSILE_STRIKE"
+msgstr "Ataque con cohetes"
+
+msgid "MEDAL_NAME_MISSION_ACCOMPLISHED"
+msgstr "Misión cumplida"
+
+msgid "MEDAL_NAME_NIMBLE"
+msgstr "Acróbata aéreo"
+
+msgid "MEDAL_NAME_NOOB_PLANE"
+msgstr "Piloto de pruebas"
+
+msgid "MEDAL_NAME_NORMALWEIGHT"
+msgstr "Peso medio"
+
+msgid "MEDAL_NAME_NO_CAMP_ALLY_PROGRESS1"
+msgstr "Placa de la montaña de acero clase I"
+
+msgid "MEDAL_NAME_NO_CAMP_ALLY_PROGRESS2"
+msgstr "Placa de la montaña de acero clase II"
+
+msgid "MEDAL_NAME_NO_CAMP_ALLY_PROGRESS3"
+msgstr "Placa de la montaña de acero clase III"
+
+msgid "MEDAL_NAME_NO_CAMP_AXIS_PROGRESS1"
+msgstr "Placa de la montaña de acero clase I"
+
+msgid "MEDAL_NAME_NO_CAMP_AXIS_PROGRESS2"
+msgstr "Placa de la montaña de acero clase II"
+
+msgid "MEDAL_NAME_NO_CAMP_AXIS_PROGRESS3"
+msgstr "Placa de la montaña de acero clase III"
+
+msgid "MEDAL_NAME_NO_STONE_UNTURNED"
+msgstr "Hasta debajo de las piedras"
+
+msgid "MEDAL_NAME_NY_FROST"
+msgstr "Operación Escarcha"
+
+msgid "MEDAL_NAME_NY_LUCK"
+msgstr "Suerte festiva"
+
+msgid "MEDAL_NAME_NY_MARKSMAN"
+msgstr "Francotirador de volas de nieve"
+
+msgid "MEDAL_NAME_NY_SET"
+msgstr "Conjunto de temporada"
+
+msgid "MEDAL_NAME_NY_SHOOTER"
+msgstr "Tirador de bolas de nieve"
+
+msgid "MEDAL_NAME_NY_SNOWBALL"
+msgstr "Fiesta de volas de nieve"
+
+msgid "MEDAL_NAME_NY_WATCH"
+msgstr "Golpe ganador"
+
+msgid "MEDAL_NAME_PATROL"
+msgstr "Habilidades polifacéticas"
+
+msgid "MEDAL_NAME_PERSISTENT"
+msgstr "Persistente"
+
+msgid "MEDAL_NAME_PLANE_TESTER"
+msgstr "Piloto de pruebas"
+
+msgid "MEDAL_NAME_POKRYSHKIN1"
+msgstr "Medalla de Pokryshkin Clase I"
+
+msgid "MEDAL_NAME_POKRYSHKIN2"
+msgstr "Medalla de Pokryshkin Clase II"
+
+msgid "MEDAL_NAME_POKRYSHKIN3"
+msgstr "Medalla de Pokryshkin Clase III"
+
+msgid "MEDAL_NAME_POKRYSHKIN4"
+msgstr "Medalla de Pokryshkin Clase IV"
+
+msgid "MEDAL_NAME_PREDATOR"
+msgstr "Depredador"
+
+msgid "MEDAL_NAME_PREDATORY_BIRD"
+msgstr "A la caza del cóndor"
+
+msgid "MEDAL_NAME_PREDATORY_DUET"
+msgstr "Dúo rapaz"
+
+msgid "MEDAL_NAME_PULL"
+msgstr "No te estrelles"
+
+msgid "MEDAL_NAME_PUNISHER"
+msgstr "Castigador"
+
+msgid "MEDAL_NAME_PYROMANIAC"
+msgstr "Pirómano"
+
+msgid "MEDAL_NAME_QUARTERMASTER_1"
+msgstr "Intendente rango 1"
+
+msgid "MEDAL_NAME_QUARTERMASTER_2"
+msgstr "Intendente rango 2"
+
+msgid "MEDAL_NAME_QUARTERMASTER_3"
+msgstr "Intendente rango 3"
+
+msgid "MEDAL_NAME_QUARTERMASTER_4"
+msgstr "Intendente rango 4"
+
+msgid "MEDAL_NAME_QUARTERMASTER_5"
+msgstr "Intendente rango 5"
+
+msgid "MEDAL_NAME_RAIDER"
+msgstr "Incursor"
+
+msgid "MEDAL_NAME_REAPER"
+msgstr "Segador"
+
+msgid "MEDAL_NAME_REAR_GUARD"
+msgstr "Cobertura trasera"
+
+msgid "MEDAL_NAME_REAR_GUNNER"
+msgstr "artillero"
+
+msgid "MEDAL_NAME_RELEASER"
+msgstr "Rescatador"
+
+msgid "MEDAL_NAME_RELIABLE_PROTECTION"
+msgstr "Apoyo fuerte"
+
+msgid "MEDAL_NAME_RELIABLE_REAR"
+msgstr "Cobertura trasera"
+
+msgid "MEDAL_NAME_RESILIENT"
+msgstr "Resistente"
+
+msgid "MEDAL_NAME_REVENGE"
+msgstr "Vengador"
+
+msgid "MEDAL_NAME_RIDDLE"
+msgstr "En picado"
+
+msgid "MEDAL_NAME_RIDDLED"
+msgstr "Lleno de agujeros"
+
+msgid "MEDAL_NAME_ROAD_TO_THE_SKY"
+msgstr "Autopista hacia el cielo"
+
+msgid "MEDAL_NAME_ROCKETEER"
+msgstr "Cohetero"
+
+msgid "MEDAL_NAME_ROCKET_SHOOTER"
+msgstr "Cohetero"
+
+msgid "MEDAL_NAME_ROCKET_STRIKE"
+msgstr "Ataque con cohetes"
+
+msgid "MEDAL_NAME_RUDOLPH_PILOTDEER"
+msgstr "Rudolph Hawker"
+
+msgid "MEDAL_NAME_RUDORFFER"
+msgstr "Medalla de Rudorffer"
+
+msgid "MEDAL_NAME_RUTHLESS"
+msgstr "Implacable"
+
+msgid "MEDAL_NAME_SCAN_THE_SKIES"
+msgstr "Vigilante"
+
+msgid "MEDAL_NAME_SCORCHED_EARTH"
+msgstr "Tierra calcinada"
+
+msgid "MEDAL_NAME_SCYTHE_OF_DEATH"
+msgstr "Guadaña de la muerte"
+
+msgid "MEDAL_NAME_SECRET_SANTA"
+msgstr "Amigo invisible"
+
+msgid "MEDAL_NAME_SECRET_SANTA_2017"
+msgstr "Saco de regalos"
+
+msgid "MEDAL_NAME_SECRET_SANTA_2018"
+msgstr "Evento de la temporada de fiestas"
+
+msgid "MEDAL_NAME_SECRET_SANTA_2019"
+msgstr "Saco de regalos 2019"
+
+msgid "MEDAL_NAME_SECRET_TRIAL"
+msgstr "Pruebas secretas"
+
+msgid "MEDAL_NAME_SEVERSKY1"
+msgstr "Orden de Seversky Clase I"
+
+msgid "MEDAL_NAME_SEVERSKY2"
+msgstr "Orden de Seversky Clase II"
+
+msgid "MEDAL_NAME_SEVERSKY3"
+msgstr "Orden de Seversky Clase III"
+
+msgid "MEDAL_NAME_SIKORSKY1"
+msgstr "Orden de Sikorsky Clase I"
+
+msgid "MEDAL_NAME_SIKORSKY2"
+msgstr "Orden de Sikorsky Clase II"
+
+msgid "MEDAL_NAME_SIKORSKY3"
+msgstr "Orden de Sikorsky Clase III"
+
+msgid "MEDAL_NAME_SIKORSKY4"
+msgstr "Orden de Sikorsky Clase IV"
+
+msgid "MEDAL_NAME_SILVER_PLAYERS"
+msgstr "Placa de copa de plata"
+
+msgid "MEDAL_NAME_SKILLED_PILOT"
+msgstr "Piloto habilidoso"
+
+msgid "MEDAL_NAME_SKY_FIRE"
+msgstr "Llamas en el cielo"
+
+msgid "MEDAL_NAME_SKY_N_GROUND"
+msgstr "Cielo y tierra"
+
+msgid "MEDAL_NAME_SKY_SCOURGE"
+msgstr "Azote del cielo"
+
+msgid "MEDAL_NAME_SKY_WOLVES"
+msgstr "Lobos del aire"
+
+msgid "MEDAL_NAME_SMOKING_BARRELS"
+msgstr "Cañones humeantes"
+
+msgid "MEDAL_NAME_SNAKE_HIPS"
+msgstr "Medalla de Bätcher"
+
+msgid "MEDAL_NAME_SPECIALIST_PLANE"
+msgstr "Especialista"
+
+msgid "MEDAL_NAME_SPECIAL_AWARD"
+msgstr "Medalla distinguida"
+
+msgid "MEDAL_NAME_SPRING_VETERAN"
+msgstr "Veterano del evento de primavera"
+
+msgid "MEDAL_NAME_SQUALL_OF_STEEL"
+msgstr "Lluvia de proyectiles"
+
+msgid "MEDAL_NAME_STABLE_RESULT"
+msgstr "Resultados estables"
+
+msgid "MEDAL_NAME_STAIRS_TO_THE_SKY"
+msgstr "Escaleras al cielo"
+
+msgid "MEDAL_NAME_STAIRWAY_TO_THE_SKY"
+msgstr "Escalera al cielo"
+
+msgid "MEDAL_NAME_STAR_CATCHER"
+msgstr "Estrella avistada"
+
+msgid "MEDAL_NAME_STEEL_FLURRY"
+msgstr "Lluvia de proyectiles"
+
+msgid "MEDAL_NAME_STEEL_GRIP"
+msgstr "Control férreo"
+
+msgid "MEDAL_NAME_STEP_TO_THE_SKY"
+msgstr "Primer paso hacia el cielo"
+
+msgid "MEDAL_NAME_STORMBRINGER"
+msgstr "Atronador"
+
+msgid "MEDAL_NAME_STRATEGIST"
+msgstr "Estratega"
+
+msgid "MEDAL_NAME_STRIKE_TEAM"
+msgstr "Ala distinguida"
+
+msgid "MEDAL_NAME_STRONG_TEAM"
+msgstr "Ala Superior"
+
+msgid "MEDAL_NAME_SUCCESSFUL_RAID"
+msgstr "Raid exitoso"
+
+msgid "MEDAL_NAME_SUDDEN_DEATH"
+msgstr "Beso de la muerte"
+
+msgid "MEDAL_NAME_SUMMER_STORM"
+msgstr "Tormenta de verano"
+
+msgid "MEDAL_NAME_SUMMER_VETERAN"
+msgstr "Veterano del evento de verano"
+
+msgid "MEDAL_NAME_SUPERHEAVY"
+msgstr "Peso superpesado"
+
+msgid "MEDAL_NAME_SUPERHEAVYWEIGHT"
+msgstr "Peso pesado"
+
+msgid "MEDAL_NAME_SUPERTEST_VETERAN"
+msgstr "Veterano del Supertest"
+
+msgid "MEDAL_NAME_SURE_COVER"
+msgstr "Apoyo fuerte"
+
+msgid "MEDAL_NAME_SURVIVOR"
+msgstr "Gato de 7 vidas"
+
+msgid "MEDAL_NAME_TAIL_BUSTER"
+msgstr "Atrapado por la cola"
+
+msgid "MEDAL_NAME_TEAMWORK_GURU"
+msgstr "Placa de Héroe del cielo"
+
+msgid "MEDAL_NAME_TESTER_1"
+msgstr "Maestro de la prueba pública rango 1"
+
+msgid "MEDAL_NAME_TESTER_10"
+msgstr "Participante de la prueba pública rango 10"
+
+msgid "MEDAL_NAME_TESTER_2"
+msgstr "Maestro de la prueba pública rango 2"
+
+msgid "MEDAL_NAME_TESTER_3"
+msgstr "Maestro de la prueba pública rango 3"
+
+msgid "MEDAL_NAME_TESTER_4"
+msgstr "Experto de la prueba pública rango 4"
+
+msgid "MEDAL_NAME_TESTER_5"
+msgstr "Experto de la prueba pública rango 5"
+
+msgid "MEDAL_NAME_TESTER_6"
+msgstr "Experto de la prueba pública rango 6"
+
+msgid "MEDAL_NAME_TESTER_7"
+msgstr "Especialista de la prueba pública rango 7"
+
+msgid "MEDAL_NAME_TESTER_8"
+msgstr "Especialista de la prueba pública rango 8"
+
+msgid "MEDAL_NAME_TESTER_9"
+msgstr "Especialista de la prueba pública rango 9"
+
+msgid "MEDAL_NAME_THRIFTY_BOMBARDIER"
+msgstr "Bombardeo ahorrador"
+
+msgid "MEDAL_NAME_THRIFTY_ROCKETEER"
+msgstr "Cohetero ahorrador"
+
+msgid "MEDAL_NAME_THUNDER"
+msgstr "Trueno"
+
+msgid "MEDAL_NAME_TOP_DOWN_DIVER"
+msgstr "Descenso vertiginoso"
+
+msgid "MEDAL_NAME_TOP_PLAYERS"
+msgstr "Primera placa de trofeo"
+
+msgid "MEDAL_NAME_TOURNAMENT_1_PLACE"
+msgstr "1ª posición en torneo"
+
+msgid "MEDAL_NAME_TOURNAMENT_2_PLACE"
+msgstr "2ª posición en torneo"
+
+msgid "MEDAL_NAME_TOURNAMENT_3_PLACE"
+msgstr "3ª posición en torneo"
+
+msgid "MEDAL_NAME_TOURNAMENT_PLAYER"
+msgstr "Competidor en torneo"
+
+msgid "MEDAL_NAME_UNLIMITED_WEIGHT"
+msgstr "Peso superpesado"
+
+msgid "MEDAL_NAME_UNSTOPPABLE"
+msgstr "Furioso"
+
+msgid "MEDAL_NAME_UNTOUCHABLE"
+msgstr "Sin un arañazo"
+
+msgid "MEDAL_NAME_VALUABLE_CONTRIBUTION"
+msgstr "Gran contribuidor"
+
+msgid "MEDAL_NAME_VAMPIREF1"
+msgstr "Colmillos de acero"
+
+msgid "MEDAL_NAME_VETERAN"
+msgstr "Primer piloto"
+
+msgid "MEDAL_NAME_VOLUNTEER"
+msgstr "Servicio voluntario"
+
+msgid "MEDAL_NAME_WAR_OF_ATTRITION"
+msgstr "Guerra de desgaste"
+
+msgid "MEDAL_NAME_WEIGHTY_CONTRIBUTION"
+msgstr "Contribución impresionante"
+
+msgid "MEDAL_NAME_WG_FEST_2016"
+msgstr "«Участник WG Fest 2016»"
+
+msgid "MEDAL_NAME_WG_FEST_2017"
+msgstr "«Участник WG Fest 2017»"
+
+msgid "MEDAL_NAME_WG_FEST_2018"
+msgstr "WG Fest 2018 Participant"
+
+msgid "MEDAL_NAME_WINGED_FLAME"
+msgstr "Alas en llamas"
+
+msgid "MEDAL_NAME_WINGMAN"
+msgstr "Fuego de apoyo"
+
+msgid "MEDAL_NAME_WING_LEGEND"
+msgstr "Leyenda con alas"
+
+msgid "MEDAL_NAME_WINTER_VETERAN"
+msgstr "Veterano del evento de invierno"
+
+msgid "MEDAL_NAME_XP-55"
+msgstr "Ascensión"
+
+msgid "MEDAL_NAME_YEFIMOV"
+msgstr "Medalla de Efimov"
+
+msgid "MEDAL_NAME_ZVONAREV"
+msgstr "Medalla de Zvonarev"
+
+msgid "MEDAL_STAGE_BEGELDINOV"
+msgstr ""
+"Clase I: <font color='#f2f2f2'>30 000</font> objetivos "
+"terrestres<br>Clase II: <font color='#f2f2f2'>3000</font> objetivos "
+"terrestres<br>Clase III: <font color='#f2f2f2'>300</font> objetivos "
+"terrestres<br>Clase IV: <font color='#f2f2f2'>30</font> objetivos terrestres"
+
+msgid "MEDAL_STAGE_BONG"
+msgstr ""
+"Clase I: <font color='#f2f2f2'>300</font> medallas «Destructor»<br>Clase II: "
+"<font color='#f2f2f2'>30</font> medallas «Destructor»<br>Clase III: <font "
+"color='#f2f2f2'>3</font> medallas «Destructor»"
+
+msgid "MEDAL_STAGE_BOYINGTON"
+msgstr ""
+"Clase I: <font color='#f2f2f2'>{0}</font> puntos de captura<br>Clase II: "
+"<font color='#f2f2f2'>{1}</font> puntos de captura<br>Clase III: <font "
+"color='#f2f2f2'>{2}</font> puntos de captura<br>Clase IV: <font "
+"color='#f2f2f2'>{3}</font> puntos de captura"
+
+msgid "MEDAL_STAGE_DEFENDER_PROGRESS"
+msgstr ""
+"Clase I: <font color='#f2f2f2'>21</font> confrontaciones<br>Clase II: <font "
+"color='#f2f2f2'>10</font> confrontaciones<br>Clase III: <font "
+"color='#f2f2f2'>1</font> confrontación"
+
+msgid "MEDAL_STAGE_DILLEI"
+msgstr ""
+"Clase I: <font color='#f2f2f2'>{0}</font> aviones enemigos<br>Clase II: "
+"<font color='#f2f2f2'>{1}</font> aviones enemigos<br>Clase III: <font "
+"color='#f2f2f2'>{2}</font> aviones enemigos<br>Clase IV: <font "
+"color='#f2f2f2'>{3}</font> aviones enemigos"
+
+msgid "MEDAL_STAGE_GALLAND"
+msgstr ""
+"Clase I: <font color='#f2f2f2'>300</font> medallas «As»<br>Clase II: <font "
+"color='#f2f2f2'>30</font> medallas «As»<br>Clase III: <font "
+"color='#f2f2f2'>3</font> medallas «As»"
+
+msgid "MEDAL_STAGE_GRAF"
+msgstr ""
+"Clase I: <font color='#f2f2f2'>10 000</font> aviones<br>Clase II: <font "
+"color='#f2f2f2'>1000</font> aviones<br>Clase III: <font color='#f2f2f2'>100</"
+"font> aircraft<br>Clase IV: <font color='#f2f2f2'>10</font> aviones"
+
+msgid "MEDAL_STAGE_HAMMER_PROGRESS"
+msgstr ""
+"Clase I: <font color='#f2f2f2'>21</font> confrontaciones<br>Clase II: <font "
+"color='#f2f2f2'>10</font> confrontaciones<br>Clase III: <font "
+"color='#f2f2f2'>1</font> confrontación"
+
+msgid "MEDAL_STAGE_JA_ALLY_PROGRESS"
+msgstr ""
+"Clase I: <font color='#f2f2f2'>5000</font> puntos de superioridad<br>Clase "
+"II: <font color='#f2f2f2'>1500</font> puntos de superioridad<br>Clase III: "
+"<font color='#f2f2f2'>100</font> puntos de superioridad"
+
+msgid "MEDAL_STAGE_JA_AXIS_PROGRESS"
+msgstr ""
+"Clase I: <font color='#f2f2f2'>5000</font> puntos de superioridad<br>Clase "
+"II: <font color='#f2f2f2'>1500</font> puntos de superioridad<br>Clase III: "
+"<font color='#f2f2f2'>100</font> puntos de superioridad"
+
+msgid "MEDAL_STAGE_JA_PACIFIC"
+msgstr ""
+"Clase I: <font color='#f2f2f2'>21</font> confrontaciones<br>Clase II: <font "
+"color='#f2f2f2'>10</font> confrontaciones<br>Clase III: <font "
+"color='#f2f2f2'>1</font> confrontación"
+
+msgid "MEDAL_STAGE_JA_TORATORA"
+msgstr ""
+"Clase I: <font color='#f2f2f2'>21</font> confrontaciones<br>Clase II: <font "
+"color='#f2f2f2'>10</font> confrontaciones<br>Clase III: <font "
+"color='#f2f2f2'>1</font> confrontación"
+
+msgid "MEDAL_STAGE_JOHNSON"
+msgstr ""
+"Clase I: <font color='#f2f2f2'>{0}</font> objetivos terrestres<br>Clase II: "
+"<font color='#f2f2f2'>{1}</font> objetivos terrestres<br>Clase III: <font "
+"color='#f2f2f2'>{2}</font> objetivos terrestres<br>Clase IV: <font "
+"color='#f2f2f2'>{3}</font> objetivos terrestres"
+
+msgid "MEDAL_STAGE_MEYER"
+msgstr ""
+"Clase I: <font color='#f2f2f2'>300</font> medallas «Trueno»<br>Clase II: "
+"<font color='#f2f2f2'>30</font> medallas «Trueno»<br>Clase III: <font "
+"color='#f2f2f2'>3</font> medallas «Trueno»"
+
+msgid "MEDAL_STAGE_MIHALENKOV"
+msgstr ""
+"Clase I: <font color='#f2f2f2'>{0}</font> puntos personales<br>Clase II: "
+"<font color='#f2f2f2'>{1}</font> puntos personales<br>Clase III: <font "
+"color='#f2f2f2'>{2}</font> puntos personales<br>Clase IV: <font "
+"color='#f2f2f2'>{3}</font> puntos personales"
+
+msgid "MEDAL_STAGE_POKRYSHKIN"
+msgstr ""
+"Clase I: <font color='#f2f2f2'>{0}</font> aviones de defensa aérea<br>Clase "
+"II: <font color='#f2f2f2'>{1}</font> aviones de defensa aérea<br>Clase III: "
+"<font color='#f2f2f2'>{2}</font> aviones de defensa aérea<br>Clase IV: <font "
+"color='#f2f2f2'>{3}</font> aviones de defensa aérea"
+
+msgid "TOOLTIP_ACHIEVEMENTS_PAGE_PVE"
+msgstr "Medallas y logros conseguidos en batallas"

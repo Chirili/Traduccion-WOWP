@@ -1,0 +1,642 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgid "NAMES/CZ1"
+msgstr "Kudrna"
+
+msgid "NAMES/CZ10"
+msgstr "Hakl"
+
+msgid "NAMES/CZ11"
+msgstr "Grundza"
+
+msgid "NAMES/CZ12"
+msgstr "Frank"
+
+msgid "NAMES/CZ13"
+msgstr "Fry"
+
+msgid "NAMES/CZ14"
+msgstr "Drbohlav"
+
+msgid "NAMES/CZ15"
+msgstr "Dufek"
+
+msgid "NAMES/CZ16"
+msgstr "Dluho"
+
+msgid "NAMES/CZ17"
+msgstr "Cina"
+
+msgid "NAMES/CZ18"
+msgstr "Chovanec"
+
+msgid "NAMES/CZ19"
+msgstr "Chrom"
+
+msgid "NAMES/CZ2"
+msgstr "Kruk"
+
+msgid "NAMES/CZ20"
+msgstr "k"
+
+msgid "NAMES/CZ3"
+msgstr "Krejcar"
+
+msgid "NAMES/CZ4"
+msgstr "Jana"
+
+msgid "NAMES/CZ5"
+msgstr "Janota"
+
+msgid "NAMES/CZ6"
+msgstr "Hendrych"
+
+msgid "NAMES/CZ7"
+msgstr "Hejn"
+
+msgid "NAMES/CZ8"
+msgstr "Brtek"
+
+msgid "NAMES/CZ9"
+msgstr "Halfar"
+
+msgid "NAMES/CZN1"
+msgstr "Albert"
+
+msgid "NAMES/CZN10"
+msgstr "Ctibor"
+
+msgid "NAMES/CZN11"
+msgstr "Ctirad"
+
+msgid "NAMES/CZN12"
+msgstr "Ale"
+
+msgid "NAMES/CZN13"
+msgstr "Cyril"
+
+msgid "NAMES/CZN14"
+msgstr "Dalibor"
+
+msgid "NAMES/CZN15"
+msgstr "Dalimil"
+
+msgid "NAMES/CZN16"
+msgstr "Daniel"
+
+msgid "NAMES/CZN17"
+msgstr "Drahoslav"
+
+msgid "NAMES/CZN18"
+msgstr "Duan"
+
+msgid "NAMES/CZN19"
+msgstr "Eduard"
+
+msgid "NAMES/CZN2"
+msgstr "Boris"
+
+msgid "NAMES/CZN20"
+msgstr "Emanuel"
+
+msgid "NAMES/CZN3"
+msgstr "Boivoj"
+
+msgid "NAMES/CZN4"
+msgstr "Boislav"
+
+msgid "NAMES/CZN5"
+msgstr "Betislav"
+
+msgid "NAMES/CZN6"
+msgstr "Bronislav"
+
+msgid "NAMES/CZN7"
+msgstr "enk"
+
+msgid "NAMES/CZN8"
+msgstr "eslav"
+
+msgid "NAMES/CZN9"
+msgstr "estmr"
+
+msgid "NAMES/IL1"
+msgstr "Abelman"
+
+msgid "NAMES/IL10"
+msgstr "Feldman"
+
+msgid "NAMES/IL11"
+msgstr "Fishler"
+
+msgid "NAMES/IL12"
+msgstr "Franco"
+
+msgid "NAMES/IL13"
+msgstr "Garfinkle"
+
+msgid "NAMES/IL14"
+msgstr "Geller"
+
+msgid "NAMES/IL15"
+msgstr "Glen"
+
+msgid "NAMES/IL16"
+msgstr "Gurwitz"
+
+msgid "NAMES/IL17"
+msgstr "Israel"
+
+msgid "NAMES/IL18"
+msgstr "Kaplan"
+
+msgid "NAMES/IL19"
+msgstr "Knopp"
+
+msgid "NAMES/IL2"
+msgstr "Abrams"
+
+msgid "NAMES/IL20"
+msgstr "Koslosky"
+
+msgid "NAMES/IL3"
+msgstr "Bloomberg"
+
+msgid "NAMES/IL4"
+msgstr "Cohen"
+
+msgid "NAMES/IL5"
+msgstr "David"
+
+msgid "NAMES/IL6"
+msgstr "Dillon"
+
+msgid "NAMES/IL7"
+msgstr "Edelman"
+
+msgid "NAMES/IL8"
+msgstr "Ezra"
+
+msgid "NAMES/IL9"
+msgstr "Edelman"
+
+msgid "NAMES/ILN1"
+msgstr "Aharon"
+
+msgid "NAMES/ILN10"
+msgstr "David"
+
+msgid "NAMES/ILN11"
+msgstr "Doron"
+
+msgid "NAMES/ILN12"
+msgstr "Eldad"
+
+msgid "NAMES/ILN13"
+msgstr "Elazar"
+
+msgid "NAMES/ILN14"
+msgstr "Gamliel "
+
+msgid "NAMES/ILN15"
+msgstr "Gershon "
+
+msgid "NAMES/ILN16"
+msgstr "Itamar"
+
+msgid "NAMES/ILN17"
+msgstr "Leib"
+
+msgid "NAMES/ILN18"
+msgstr "Micha"
+
+msgid "NAMES/ILN19"
+msgstr "Mordechai"
+
+msgid "NAMES/ILN2"
+msgstr "Abba"
+
+msgid "NAMES/ILN20"
+msgstr "Natan"
+
+msgid "NAMES/ILN3"
+msgstr "Amram "
+
+msgid "NAMES/ILN4"
+msgstr "Avi"
+
+msgid "NAMES/ILN5"
+msgstr "Avner"
+
+msgid "NAMES/ILN6"
+msgstr "Benyamin"
+
+msgid "NAMES/ILN7"
+msgstr "Boaz"
+
+msgid "NAMES/ILN8"
+msgstr "Calev"
+
+msgid "NAMES/ILN9"
+msgstr "Chaim"
+
+msgid "NAMES/PL1"
+msgstr "Kusociski"
+
+msgid "NAMES/PL10"
+msgstr "Rbajo"
+
+msgid "NAMES/PL11"
+msgstr "Soplica"
+
+msgid "NAMES/PL12"
+msgstr "Wysocki"
+
+msgid "NAMES/PL13"
+msgstr "Zagoba"
+
+msgid "NAMES/PL14"
+msgstr "Zajczkowski"
+
+msgid "NAMES/PL15"
+msgstr "Zieliski"
+
+msgid "NAMES/PL16"
+msgstr "Gazurek"
+
+msgid "NAMES/PL17"
+msgstr "Hodaa"
+
+msgid "NAMES/PL18"
+msgstr "Jankowski"
+
+msgid "NAMES/PL19"
+msgstr "Kamiski"
+
+msgid "NAMES/PL2"
+msgstr "Lewandowski"
+
+msgid "NAMES/PL20"
+msgstr "Kmicic"
+
+msgid "NAMES/PL3"
+msgstr "ukasiuk"
+
+msgid "NAMES/PL4"
+msgstr "Modelski"
+
+msgid "NAMES/PL5"
+msgstr "Nowowiejski"
+
+msgid "NAMES/PL6"
+msgstr "Pilecki"
+
+msgid "NAMES/PL7"
+msgstr "Billewicz"
+
+msgid "NAMES/PL8"
+msgstr "Pogonowski"
+
+msgid "NAMES/PL9"
+msgstr "Przymanowski"
+
+msgid "NAMES/PLN1"
+msgstr "Adam"
+
+msgid "NAMES/PLN10"
+msgstr "Janusz"
+
+msgid "NAMES/PLN11"
+msgstr "Jurko"
+
+msgid "NAMES/PLN12"
+msgstr "Aleksander"
+
+msgid "NAMES/PLN13"
+msgstr "Karol"
+
+msgid "NAMES/PLN14"
+msgstr "Marian"
+
+msgid "NAMES/PLN15"
+msgstr "Mariusz"
+
+msgid "NAMES/PLN16"
+msgstr "Micha"
+
+msgid "NAMES/PLN17"
+msgstr "Mieczysaw"
+
+msgid "NAMES/PLN18"
+msgstr "Piotr"
+
+msgid "NAMES/PLN19"
+msgstr "Roch"
+
+msgid "NAMES/PLN2"
+msgstr "Gerwazy"
+
+msgid "NAMES/PLN20"
+msgstr "Stanisaw"
+
+msgid "NAMES/PLN21"
+msgstr "Stefan"
+
+msgid "NAMES/PLN22"
+msgstr "Tadeusz"
+
+msgid "NAMES/PLN23"
+msgstr "Andrzej"
+
+msgid "NAMES/PLN24"
+msgstr "Walenty"
+
+msgid "NAMES/PLN25"
+msgstr "Wawrzyniec"
+
+msgid "NAMES/PLN26"
+msgstr "Wilhelm"
+
+msgid "NAMES/PLN27"
+msgstr "Witold"
+
+msgid "NAMES/PLN28"
+msgstr "Wadysaw"
+
+msgid "NAMES/PLN29"
+msgstr "Zygmunt"
+
+msgid "NAMES/PLN3"
+msgstr "Henryk"
+
+msgid "NAMES/PLN30"
+msgstr "Bogumi"
+
+msgid "NAMES/PLN4"
+msgstr "Herakliusz"
+
+msgid "NAMES/PLN5"
+msgstr "Ignacy"
+
+msgid "NAMES/PLN6"
+msgstr "Jacek"
+
+msgid "NAMES/PLN7"
+msgstr "Jan"
+
+msgid "NAMES/PLN8"
+msgstr "Jan Onufry"
+
+msgid "NAMES/PLN9"
+msgstr "Jan Teofil"
+
+msgid "NAMES/SE1"
+msgstr "berg"
+
+msgid "NAMES/SE10"
+msgstr "Nyman"
+
+msgid "NAMES/SE11"
+msgstr "Sundstrm"
+
+msgid "NAMES/SE12"
+msgstr "Lundgren"
+
+msgid "NAMES/SE13"
+msgstr "Martinsson"
+
+msgid "NAMES/SE14"
+msgstr "Nordstrm"
+
+msgid "NAMES/SE15"
+msgstr "Nyman"
+
+msgid "NAMES/SE16"
+msgstr "Persson"
+
+msgid "NAMES/SE17"
+msgstr "Sandberg"
+
+msgid "NAMES/SE18"
+msgstr "Sjgren"
+
+msgid "NAMES/SE19"
+msgstr "Sundberg"
+
+msgid "NAMES/SE2"
+msgstr "Almgren"
+
+msgid "NAMES/SE20"
+msgstr "Svensson"
+
+msgid "NAMES/SE3"
+msgstr "Lindgren"
+
+msgid "NAMES/SE4"
+msgstr "kerlund"
+
+msgid "NAMES/SE5"
+msgstr "Bergstrm"
+
+msgid "NAMES/SE6"
+msgstr "Gustafsson"
+
+msgid "NAMES/SE7"
+msgstr "Ivarsson"
+
+msgid "NAMES/SE8"
+msgstr "Johansson"
+
+msgid "NAMES/SE9"
+msgstr "Lundqvist"
+
+msgid "NAMES/SEN1"
+msgstr "Bert"
+
+msgid "NAMES/SEN10"
+msgstr "Hkan"
+
+msgid "NAMES/SEN11"
+msgstr "Harald"
+
+msgid "NAMES/SEN12"
+msgstr "Tommy"
+
+msgid "NAMES/SEN13"
+msgstr "Henrik"
+
+msgid "NAMES/SEN14"
+msgstr "Ingvar"
+
+msgid "NAMES/SEN15"
+msgstr "Jan"
+
+msgid "NAMES/SEN16"
+msgstr "Johannes"
+
+msgid "NAMES/SEN17"
+msgstr "John"
+
+msgid "NAMES/SEN18"
+msgstr "Karl-Bertil"
+
+msgid "NAMES/SEN19"
+msgstr "Kjell-ke"
+
+msgid "NAMES/SEN2"
+msgstr "Bertil"
+
+msgid "NAMES/SEN20"
+msgstr "Krister"
+
+msgid "NAMES/SEN3"
+msgstr "Birger"
+
+msgid "NAMES/SEN4"
+msgstr "Alexander"
+
+msgid "NAMES/SEN5"
+msgstr "Christian"
+
+msgid "NAMES/SEN6"
+msgstr "Emanuel"
+
+msgid "NAMES/SEN7"
+msgstr "Ernst"
+
+msgid "NAMES/SEN8"
+msgstr "Alf"
+
+msgid "NAMES/SEN9"
+msgstr "Gsta"
+
+msgid "RANKSCZ/1"
+msgstr "Plukovnk"
+
+msgid "RANKSCZ/10"
+msgstr "tbn rotmistr"
+
+msgid "RANKSCZ/2"
+msgstr "Podplukovnk"
+
+msgid "RANKSCZ/3"
+msgstr "Major"
+
+msgid "RANKSCZ/4"
+msgstr "tbn kapitn"
+
+msgid "RANKSCZ/5"
+msgstr "Kapitn"
+
+msgid "RANKSCZ/6"
+msgstr "Nadporuk"
+
+msgid "RANKSCZ/7"
+msgstr "Poruk"
+
+msgid "RANKSCZ/8"
+msgstr "Podporuk"
+
+msgid "RANKSCZ/9"
+msgstr "Prapork"
+
+msgid "RANKSIL/1"
+msgstr "Aluf mishne"
+
+msgid "RANKSIL/10"
+msgstr "Rav samal mitkadem"
+
+msgid "RANKSIL/2"
+msgstr "Sgan aluf"
+
+msgid "RANKSIL/3"
+msgstr "Rav seren"
+
+msgid "RANKSIL/4"
+msgstr "Seren"
+
+msgid "RANKSIL/5"
+msgstr "Segen rishon"
+
+msgid "RANKSIL/6"
+msgstr "Segen"
+
+msgid "RANKSIL/7"
+msgstr "Rav nagad"
+
+msgid "RANKSIL/8"
+msgstr "Rav nagad mishne"
+
+msgid "RANKSIL/9"
+msgstr "Rav samal bakhr"
+
+msgid "RANKSPL/1"
+msgstr "Pukownik"
+
+msgid "RANKSPL/10"
+msgstr "Plutonowy"
+
+msgid "RANKSPL/2"
+msgstr "Podpukownik"
+
+msgid "RANKSPL/3"
+msgstr "Major"
+
+msgid "RANKSPL/4"
+msgstr "Kapitan"
+
+msgid "RANKSPL/5"
+msgstr "Porucznik"
+
+msgid "RANKSPL/6"
+msgstr "Podporucznik"
+
+msgid "RANKSPL/7"
+msgstr "Chory"
+
+msgid "RANKSPL/8"
+msgstr "Starszy sierant"
+
+msgid "RANKSPL/9"
+msgstr "Sierant"
+
+msgid "RANKSSE/1"
+msgstr "verste"
+
+msgid "RANKSSE/10"
+msgstr "verfurir"
+
+msgid "RANKSSE/2"
+msgstr "versteljtnant"
+
+msgid "RANKSSE/3"
+msgstr "Major"
+
+msgid "RANKSSE/4"
+msgstr "Kapten"
+
+msgid "RANKSSE/5"
+msgstr "Ljtnant"
+
+msgid "RANKSSE/6"
+msgstr "Fnrik"
+
+msgid "RANKSSE/7"
+msgstr "Frvaltare"
+
+msgid "RANKSSE/8"
+msgstr "Fanjunkare"
+
+msgid "RANKSSE/9"
+msgstr "Sergeant"

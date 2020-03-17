@@ -1,0 +1,3593 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: \n"
+"Language: es\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgid "ADVANCED_CONTROLS"
+msgstr "Ajustes avanzados"
+
+msgid "AIRCRAFT_QUALITY_HIGH"
+msgstr "Alto"
+
+msgid "AIRCRAFT_QUALITY_LOW"
+msgstr "Bajo"
+
+msgid "ANISOTROPIC_16X"
+msgstr "Anisotrópico 16x"
+
+msgid "ANISOTROPIC_2X"
+msgstr "Anisotrópico 2x"
+
+msgid "ANISOTROPIC_4X"
+msgstr "Anisotrópico 4x"
+
+msgid "ANISOTROPIC_8X"
+msgstr "Anisotrópico 8x"
+
+msgid "ARCADE_CONTROL_TOGGLE"
+msgstr "Habilitar compensación al deslizarse"
+
+msgid "ARCADE_CONTROL_TOGGLE_CHECKBOX"
+msgstr "Compensación al deslizarse:"
+
+msgid "BATTLEUI/HORIZON_LOCATION_V1"
+msgstr "Centro"
+
+msgid "BATTLEUI/HORIZON_LOCATION_V2"
+msgstr "Inferior central"
+
+msgid "BATTLEUI/HORIZON_V1"
+msgstr "Variante 1"
+
+msgid "BATTLEUI/HORIZON_V2"
+msgstr "Variante 2"
+
+msgid "BATTLEUI/HORIZON_V3"
+msgstr "Variante 3"
+
+msgid "BATTLEUI/HORIZON_V4"
+msgstr "Variante 4"
+
+msgid "BATTLEUI/HORIZON_V5"
+msgstr "Variante 5"
+
+msgid "BATTLEUI/HORIZON_V6"
+msgstr "Variante 6"
+
+msgid "BATTLEUI/MAINDEVICESLOCATIONLIST_V1"
+msgstr "Centro"
+
+msgid "BATTLEUI/MAINDEVICESLOCATIONLIST_V2"
+msgstr "Inferior central"
+
+msgid "BATTLEUI/NAV_WINDOW_MAP"
+msgstr "Minimapa"
+
+msgid "BATTLEUI/NAV_WINDOW_RADAR"
+msgstr "Área de radar"
+
+msgid "BATTLEUI/PLAYER_LIST_BRIEF"
+msgstr "Corto"
+
+msgid "BATTLEUI/PLAYER_LIST_FULL"
+msgstr "Completo"
+
+msgid "BATTLEUI/SCHEMA_HEIGHT_V1"
+msgstr "Barométrico"
+
+msgid "BATTLEUI/SCHEMA_HEIGHT_V2"
+msgstr "Radar"
+
+msgid "BATTLEUI/SCHEMA_INPUT_DAMAGE_V1"
+msgstr "Centro"
+
+msgid "BATTLEUI/SCHEMA_INPUT_DAMAGE_V2"
+msgstr "Perímetro"
+
+msgid "BATTLEUI/SCHEMA_LOCATION_V1"
+msgstr "Esquina inferior izquierda"
+
+msgid "BATTLEUI/SCHEMA_LOCATION_V2"
+msgstr "Inferior central"
+
+msgid "BATTLEUI/SETTINGS_BATTLE_HEIGHT_MODE"
+msgstr "Tipo de altímetro"
+
+msgid "BATTLEUI/SETTINGS_BATTLE_INCOMING_DAMAGE"
+msgstr "Daños"
+
+msgid "BATTLEUI/SETTINGS_BATTLE_POSITION"
+msgstr "Posición"
+
+msgid "BATTLEUI/TARGET_WINDOW_V1"
+msgstr "Ventana de objetivo bloqueado"
+
+msgid "BATTLEUI/TARGET_WINDOW_V2"
+msgstr "Reflejo de visión trasera"
+
+msgid "BATTLE_SETTINGS"
+msgstr "Batalla"
+
+msgid "BILINEAR"
+msgstr "Bilineal"
+
+msgid "CAMERA_SETTINGS_FIXED_HORIZON"
+msgstr "Bloquea el horizonte"
+
+msgid "CAMERA_SETTINGS_HEADER"
+msgstr "Ajustes de cámara"
+
+msgid "CANCEL"
+msgstr "Cerrar"
+
+msgid "CANCEL_SETTINGS_BUTTON"
+msgstr "Cancelar"
+
+msgid "CMD_DEC_MOUSE_TO_CENTER"
+msgstr "Centrar el cursor"
+
+msgid "CMD_SINGLE_SNIPER"
+msgstr "Cambiar a modo francotirador"
+
+msgid "CMD_SINGLE_SNIPER_CAMERA"
+msgstr "Modo alternativo de francotirador"
+
+msgid "CONTROLS_SETTINGS"
+msgstr "Controles"
+
+msgid "CONTROLS_TEXT"
+msgstr "Controles"
+
+msgid "CONTROL_PRESET"
+msgstr "Esquema de control"
+
+msgid "CONTROL_PROFILE_ANGLE"
+msgstr "Alabeo"
+
+msgid "CONTROL_PROFILE_CAMERA_HORIZON_FIXED"
+msgstr "En el horizonte"
+
+msgid "CONTROL_PROFILE_CAMERA_PLANE_FIXED"
+msgstr "En el avión"
+
+msgid "CONTROL_PROFILE_CAMERA_TYPE"
+msgstr "Fijar cámara:"
+
+msgid "CONTROL_PROFILE_DEFAULT"
+msgstr "Estándar"
+
+msgid "CONTROL_PROFILE_FREE"
+msgstr "Libre"
+
+msgid "CONTROL_PROFILE_GAMEPAD"
+msgstr "Gamepad"
+
+msgid "CONTROL_PROFILE_GAMEPAD_CAPS"
+msgstr "GAMEPAD"
+
+msgid "CONTROL_PROFILE_GAMEPAD_DIRECT_CONTROL"
+msgstr "Gamepad"
+
+msgid "CONTROL_PROFILE_GAMEPAD_DIRECT_CONTROL_CAPS"
+msgstr "GAMEPAD"
+
+msgid "CONTROL_PROFILE_GAMEPAD_GRAPH_DESCRIPTION"
+msgstr " "
+
+msgid "CONTROL_PROFILE_GAMEPAD_NAME"
+msgstr "Preajuste del gamepad «%gamepad_name%»"
+
+msgid "CONTROL_PROFILE_JOYSTICK"
+msgstr "Joystick"
+
+msgid "CONTROL_PROFILE_JOYSTICK_CAPS"
+msgstr "JOYSTICK"
+
+msgid "CONTROL_PROFILE_JOYSTICK_NAME"
+msgstr "Preajuste del joystick «%joystick_name%»"
+
+msgid "CONTROL_PROFILE_KEYBOARD"
+msgstr "Teclado"
+
+msgid "CONTROL_PROFILE_KEYBOARD_CAPS"
+msgstr "TECLADO"
+
+msgid "CONTROL_PROFILE_MOUSE-0.2.3"
+msgstr "Ratón 0.2.3"
+
+msgid "CONTROL_PROFILE_MOUSE-0.2.4"
+msgstr "Ratón 0.2.4"
+
+msgid "CONTROL_PROFILE_MOUSE-0.5.1"
+msgstr "Ratón 0.5.1"
+
+msgid "CONTROL_PROFILE_MOUSE-0.5.1_CAPS"
+msgstr "RATÓN 0.5.1"
+
+msgid "CONTROL_PROFILE_MOUSE035"
+msgstr "Versión del ratón 0.3.5"
+
+msgid "CONTROL_PROFILE_MOUSE035_CAPS"
+msgstr "VERSIÓN DEL RATÓN 0.3.5"
+
+msgid "CONTROL_PROFILE_MOUSEJOY"
+msgstr "MouseJoy"
+
+msgid "CONTROL_PROFILE_MOUSESHOOTER"
+msgstr "Shooter Mouse"
+
+msgid "CONTROL_PROFILE_MOUSE_ADVANCED"
+msgstr "Ratón: avanzado"
+
+msgid "CONTROL_PROFILE_MOUSE_CASUAL"
+msgstr "Ratón: principiante"
+
+msgid "CONTROL_PROFILE_MOUSE_DIRECTIONAL"
+msgstr "Ratón"
+
+msgid "CONTROL_PROFILE_MOUSE_DIRECTIONAL_CAPS"
+msgstr "RATÓN"
+
+msgid "CONTROL_PROFILE_MOUSE_DIRECT_CONTROL"
+msgstr "Versión del ratón 0.4.1"
+
+msgid "CONTROL_PROFILE_MOUSE_DIRECT_CONTROL_CAPS"
+msgstr "VERSIÓN DEL RATÓN 0.4.1"
+
+msgid "CONTROL_PROFILE_MOUSE_EXPERT"
+msgstr "Ratón: experto"
+
+msgid "CONTROL_PROFILE_MOUSE_SIMPLE"
+msgstr "Ratón: principiante"
+
+msgid "CONTROL_PROFILE_MOUSE_SIMPLE_CAPS"
+msgstr "RATÓN: PRINCIPIANTE"
+
+msgid "CONTROL_PROFILE_MOUSE_TYPE"
+msgstr "Preajustes del ratón:"
+
+msgid "CONTROL_PROFILE_MOUSE_TYPE_DESCRIPTION"
+msgstr ""
+"Usa el gráfico para configurar los movimientos del ratón requeridos para que "
+"el avión alabee y siga su curso o continúe alabeando en la dirección "
+"especificada.<br>• Usa el eje vertical para ajustar el tipo de giro. Si el "
+"punto de control está en la parte superior de la parrilla, el avión realiza "
+"el alabeo y deja de alabear. Si está abajo, el avión continúa alabeando en "
+"la dirección especificada.<br>• El eje horizontal representa el ángulo entre "
+"el cursor y la dirección del avión. El lado izquierdo de la parrilla "
+"corresponde a pequeños movimientos del ratón, mientras el derecho "
+"corresponde a los grandes movimientos."
+
+msgid "CUSTOM"
+msgstr "Personalizada"
+
+msgid "DEFAULT"
+msgstr "Estándar"
+
+msgid "DEFAULT_KEYS_BUTTON"
+msgstr "Definido"
+
+msgid "FAR"
+msgstr "Lejos"
+
+msgid "FULLRES"
+msgstr "Alto"
+
+msgid "FULL_SCREEN_TOGGLE"
+msgstr "Modo pantalla completa"
+
+msgid "GAMEPAD"
+msgstr "Gamepad"
+
+msgid "GAMEPAD_AXIS_SETTINGS"
+msgstr "Ajustar ejes del gamepad"
+
+msgid "GAMEPAD_SETTINGS_HEADER"
+msgstr "Ajustes del gamepad avanzados"
+
+msgid "GAME_SETTINGS"
+msgstr "Juego"
+
+msgid "GRAPHIC_SETTINGS_ABOVE_CHECKBOXES"
+msgstr "Ajuste de gráficos"
+
+msgid "GRAPHIC_SETTINGS_PRESET"
+msgstr "Gráficos"
+
+msgid "HALFRES"
+msgstr "Bajo"
+
+msgid "HIGH"
+msgstr "Alto"
+
+msgid "INVALIDTECHNIQUE"
+msgstr "Retirar avión"
+
+msgid "JOYSTICK"
+msgstr "Joystick"
+
+msgid "JOYSTICKAND_KEYBOARD_SETTINGS_HEADER"
+msgstr "Ajustes de joystick y teclado"
+
+msgid "JOYSTICK_AXIS_SETTINGS"
+msgstr "Ajustar ejes del joystick"
+
+msgid "JOYSTICK_SETTINGS_AXIS_SETTING"
+msgstr "Ajustes del eje"
+
+msgid "JOYSTICK_SETTINGS_AXIS_SIGNAL_INDICATOR"
+msgstr "Indicador de señal del eje"
+
+msgid "JOYSTICK_SETTINGS_BOOST"
+msgstr "Activar impulsor"
+
+msgid "JOYSTICK_SETTINGS_CURRENT_AXIS"
+msgstr "Eje actual:"
+
+msgid "JOYSTICK_SETTINGS_CURVE_SETTINGS_HEADER"
+msgstr "Ajustar las curvas del joystick"
+
+msgid "JOYSTICK_SETTINGS_CURVE_SETTINGS_PATTERN_EXPONENTIAL"
+msgstr "Exponencial"
+
+msgid "JOYSTICK_SETTINGS_CURVE_SETTINGS_PATTERN_HEADER"
+msgstr "Preajuste de curvas del joystick:"
+
+msgid "JOYSTICK_SETTINGS_CURVE_SETTINGS_PATTERN_LINEAR"
+msgstr "Lineal"
+
+msgid "JOYSTICK_SETTINGS_CURVE_SETTINGS_PATTERN_PERSONAL"
+msgstr "Personalizado"
+
+msgid "JOYSTICK_SETTINGS_CURVE_SETTINGS_PATTERN_PERSONAL_EXT"
+msgstr "Personalizado avanzado"
+
+msgid "JOYSTICK_SETTINGS_DEAD_ZONE"
+msgstr "Zona muerta:"
+
+msgid "JOYSTICK_SETTINGS_GRAPH_INPUT_SIGNAL"
+msgstr "Señal de entrada (posición del joystick)"
+
+msgid "JOYSTICK_SETTINGS_HEADER"
+msgstr "Ajustes avanzados del joystick"
+
+msgid "JOYSTICK_SETTINGS_INVERT_AXIS"
+msgstr "Invertir eje"
+
+msgid "JOYSTICK_SETTINGS_JOY_POSITION"
+msgstr "Posición del joystick"
+
+msgid "JOYSTICK_SETTINGS_PITCH"
+msgstr "Cabeceo"
+
+msgid "JOYSTICK_SETTINGS_PITCH_AXIS_HEADER"
+msgstr "Eje de cabeceo"
+
+msgid "JOYSTICK_SETTINGS_PITCH_SPEED"
+msgstr "Tasa de cabeceo"
+
+msgid "JOYSTICK_SETTINGS_RESET_BUTTON"
+msgstr "Reiniciar"
+
+msgid "JOYSTICK_SETTINGS_ROLL"
+msgstr "Alabeo"
+
+msgid "JOYSTICK_SETTINGS_ROLL_AXIS_HEADER"
+msgstr "Eje de alabeo"
+
+msgid "JOYSTICK_SETTINGS_ROLL_SPEED"
+msgstr "Régimen de alabeo"
+
+msgid "JOYSTICK_SETTINGS_SENSITIVITY"
+msgstr "Sensibilidad"
+
+msgid "JOYSTICK_SETTINGS_SET_AXIS_FOR_FORCE"
+msgstr "Establece el eje de propulsión:"
+
+msgid "JOYSTICK_SETTINGS_SET_AXIS_FOR_PITCH"
+msgstr "Establece el eje de cabeceo:"
+
+msgid "JOYSTICK_SETTINGS_SET_AXIS_FOR_ROLL"
+msgstr "Establece el eje de alabeo:"
+
+msgid "JOYSTICK_SETTINGS_SET_AXIS_FOR_YAW"
+msgstr "Establece el eje de guiñada:"
+
+msgid "JOYSTICK_SETTINGS_SIGNAL_BEFORE_AFTER"
+msgstr "Señal de entrada y salida del joystick"
+
+msgid "JOYSTICK_SETTINGS_SMOOTH_CURVES"
+msgstr "Suaviza la curva"
+
+msgid "JOYSTICK_SETTINGS_THRUST"
+msgstr "Empuje"
+
+msgid "JOYSTICK_SETTINGS_THRUST_AND_BOOST"
+msgstr "Empuje e impulsor"
+
+msgid "JOYSTICK_SETTINGS_YAW"
+msgstr "Guiñada"
+
+msgid "JOYSTICK_SETTINGS_YAW_AXIS_HEADER"
+msgstr "Eje de guiñada"
+
+msgid "JOYSTICK_SETTINGS_YAW_SPEED"
+msgstr "Relación de guiñada"
+
+msgid "KEYBOARD"
+msgstr "Teclado"
+
+msgid "KEYBOARD_SENSITIVITY_TEXT"
+msgstr "Sensibilidad del teclado"
+
+msgid "KEYBOARD_SETTINGS_TEXT"
+msgstr "Ajustes del teclado"
+
+msgid "KEYBOARD_Y_INVERSION_TOGGLE"
+msgstr "Inversión vertical"
+
+msgid "KEYMAPPING/CMD_ARCADE_TURN_LEFT"
+msgstr "Girar a la izquierda"
+
+msgid "KEYMAPPING/CMD_ARCADE_TURN_RIGHT"
+msgstr "Girar a la derecha"
+
+msgid "KEYMAPPING/CMD_AUTOPILOT"
+msgstr "Nivelar avión"
+
+msgid "KEYMAPPING/CMD_BACK_VIEW"
+msgstr "Cámara posterior"
+
+msgid "KEYMAPPING/CMD_BATTLE_MODE"
+msgstr "Modo de ametrallamiento"
+
+msgid "KEYMAPPING/CMD_BOMBER_MODE"
+msgstr "Cambiar al modo de bombardeo"
+
+msgid "KEYMAPPING/CMD_BOMBING_SIGHT"
+msgstr "Visión de bombardeo"
+
+msgid "KEYMAPPING/CMD_BOMB_AND_ROCKETS_RELOAD"
+msgstr "Recargar bombas y cohetes"
+
+msgid "KEYMAPPING/CMD_CHAT_OFF"
+msgstr "Desactivar chat"
+
+msgid "KEYMAPPING/CMD_CURSOR_CAMERA"
+msgstr "Cámara libre"
+
+msgid "KEYMAPPING/CMD_DANGEROUS_TARGET"
+msgstr "Bloquear enemigo peligroso"
+
+msgid "KEYMAPPING/CMD_DECREASE_FORCE"
+msgstr "Desactivar motor y extender flaps"
+
+msgid "KEYMAPPING/CMD_DEC_MOUSE_TO_CENTER"
+msgstr "Centrar el cursor"
+
+msgid "KEYMAPPING/CMD_DEC_TARGET_FORCE"
+msgstr "Disminuir acelerador"
+
+msgid "KEYMAPPING/CMD_ENGINE_OFF"
+msgstr "Aplicar freno aéreo"
+
+msgid "KEYMAPPING/CMD_EXTRA_INPUT_MODE"
+msgstr "Especificar dirección"
+
+msgid "KEYMAPPING/CMD_F2_CHAT_COMMAND"
+msgstr "¡Afirmativo!"
+
+msgid "KEYMAPPING/CMD_F3_CHAT_COMMAND"
+msgstr "¡Negativo!"
+
+msgid "KEYMAPPING/CMD_F4_CHAT_COMMAND"
+msgstr "¡Atacando / Defendiendo el avión!"
+
+msgid "KEYMAPPING/CMD_F5_CHAT_COMMAND"
+msgstr "¡Despejad mi retaguardia!"
+
+msgid "KEYMAPPING/CMD_F6_CHAT_COMMAND"
+msgstr "¡Atacad el sector!"
+
+msgid "KEYMAPPING/CMD_F7_CHAT_COMMAND"
+msgstr "¡Defended el sector!"
+
+msgid "KEYMAPPING/CMD_F8_1_CHAT_COMMAND"
+msgstr "¡Buen trabajo!"
+
+msgid "KEYMAPPING/CMD_F8_CHAT_COMMAND"
+msgstr "¡Atacando / Defendiendo el sector!"
+
+msgid "KEYMAPPING/CMD_F9_CHAT_COMMAND"
+msgstr "¡Necesito apoyo!"
+
+msgid "KEYMAPPING/CMD_FIRE_GROUP_1"
+msgstr "Usar grupo de armas 1"
+
+msgid "KEYMAPPING/CMD_FIRE_GROUP_2"
+msgstr "Usar grupo de armas 2"
+
+msgid "KEYMAPPING/CMD_FIRE_GROUP_3"
+msgstr "Usar grupo de armas 3"
+
+msgid "KEYMAPPING/CMD_FIXED_CAMERA"
+msgstr "Cambia a cámara fija"
+
+msgid "KEYMAPPING/CMD_FLAPS_UP"
+msgstr "Extender flaps"
+
+msgid "KEYMAPPING/CMD_FRONT_VIEW"
+msgstr "Cámara delantera"
+
+msgid "KEYMAPPING/CMD_GUNNER_MODE"
+msgstr "Cambia al modo de control del artillero"
+
+msgid "KEYMAPPING/CMD_HELP"
+msgstr "Ayuda"
+
+msgid "KEYMAPPING/CMD_HIDE_SHOW_HUD"
+msgstr "Ocultar/mostrar interfaz"
+
+msgid "KEYMAPPING/CMD_INCREASE_FORCE"
+msgstr "Activar impulsor"
+
+msgid "KEYMAPPING/CMD_INC_TARGET_FORCE"
+msgstr "Incrementar acelerador"
+
+msgid "KEYMAPPING/CMD_INTERMISSION_MENU"
+msgstr "Escape"
+
+msgid "KEYMAPPING/CMD_INVERT_Y"
+msgstr "Invertir eje Y"
+
+msgid "KEYMAPPING/CMD_LAUNCH_BOMB"
+msgstr "Lanzar bomba / lanzar cohete extra"
+
+msgid "KEYMAPPING/CMD_LAUNCH_ROCKET"
+msgstr "Lanzar cohete"
+
+msgid "KEYMAPPING/CMD_LOCK_TARGET"
+msgstr "Bloquear objetivo"
+
+msgid "KEYMAPPING/CMD_LOCK_TARGET_IN_SCREEN_CENTER"
+msgstr "Bloquear objetivo centro pantalla"
+
+msgid "KEYMAPPING/CMD_MASTER_VOLUME_DEC"
+msgstr "Disminuir volumen"
+
+msgid "KEYMAPPING/CMD_MASTER_VOLUME_INC"
+msgstr "Incrementar volumen"
+
+msgid "KEYMAPPING/CMD_MINIMAP_SIZE_DEC"
+msgstr "Reducir el zoom del minimapa"
+
+msgid "KEYMAPPING/CMD_MINIMAP_SIZE_INC"
+msgstr "Ampliar el zoom del minimapa"
+
+msgid "KEYMAPPING/CMD_MINIMAP_ZOOM_IN"
+msgstr "Área de radar ampliada"
+
+msgid "KEYMAPPING/CMD_MINIMAP_ZOOM_OUT"
+msgstr "Área de radar alejada"
+
+msgid "KEYMAPPING/CMD_NEAREST_TARGET"
+msgstr "Bloquear el objetivo más próximo"
+
+msgid "KEYMAPPING/CMD_NEXT_MOUSE_PRESET"
+msgstr "Cambiar esquema de control"
+
+msgid "KEYMAPPING/CMD_NEXT_TARGET"
+msgstr "Cambiar al siguiente objetivo"
+
+msgid "KEYMAPPING/CMD_NEXT_TARGET_TEAM_OBJECT"
+msgstr "Cambiar al siguiente objetivo terrestre"
+
+msgid "KEYMAPPING/CMD_NORMAL_CAMERA"
+msgstr "Cambiar a cámara estándar"
+
+msgid "KEYMAPPING/CMD_OVERLOOK_MOD"
+msgstr "Habilitar el modo de visión suave"
+
+msgid "KEYMAPPING/CMD_PITCH_DOWN"
+msgstr "Cabecear hacia abajo"
+
+msgid "KEYMAPPING/CMD_PITCH_UP"
+msgstr "Cabecear hacia arriba"
+
+msgid "KEYMAPPING/CMD_PRIMARY_FIRE"
+msgstr "Fuego"
+
+msgid "KEYMAPPING/CMD_PUSH_TO_TALK"
+msgstr "Pulsar para hablar"
+
+msgid "KEYMAPPING/CMD_PUSH_TO_TALK_SQUAD"
+msgstr "Pulsar y hablar en batalla de escuadrilla"
+
+msgid "KEYMAPPING/CMD_ROLL_LEFT"
+msgstr "Alabear a la izquierda"
+
+msgid "KEYMAPPING/CMD_ROLL_RIGHT"
+msgstr "Alabear a la derecha"
+
+msgid "KEYMAPPING/CMD_SECONDARY_FIRE"
+msgstr "Cambiar a fuego alterno"
+
+msgid "KEYMAPPING/CMD_SHOW_CURSOR"
+msgstr "Mostrar cursor"
+
+msgid "KEYMAPPING/CMD_SHOW_MAP"
+msgstr "Mostrar minimapa"
+
+msgid "KEYMAPPING/CMD_SHOW_PLAYERS_INFO"
+msgstr "Modo de interfaz alternativa"
+
+msgid "KEYMAPPING/CMD_SHOW_RADAR"
+msgstr "Área de minimapa/radar"
+
+msgid "KEYMAPPING/CMD_SHOW_TEAMS"
+msgstr "Mostrar paneles de equipo"
+
+msgid "KEYMAPPING/CMD_SIDE_CAMERA_ALT"
+msgstr "Habilitar modificador de cámara"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_BACKWARD"
+msgstr "Cámara posterior"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_BACKWARD_LEFT"
+msgstr "Cámara izquierda y posterior"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_BACKWARD_RIGHT"
+msgstr "Cámara derecha y posterior"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_DOWN"
+msgstr "Cámara abajo"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_DOWN_LEFT"
+msgstr "Cámara izquierda y abajo"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_DOWN_RIGHT"
+msgstr "Cámara derecha y abajo"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_FORWARD"
+msgstr "Cámara delantera"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_FORWARD_LEFT"
+msgstr "Cámara izquierda y delantera"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_FORWARD_RIGHT"
+msgstr "Cámara derecha y delantera"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_LEFT"
+msgstr "Cámara izquierda"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_RIGHT"
+msgstr "Cámara derecha"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_UP"
+msgstr "Cámara arriba"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_UP_LEFT"
+msgstr "Cámara izquierda y arriba"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_UP_RIGHT"
+msgstr "Cámara derecha y arriba"
+
+msgid "KEYMAPPING/CMD_SINGLE_SNIPER_CAMERA"
+msgstr "Modo alternativo de francotirador"
+
+msgid "KEYMAPPING/CMD_SNIPER_CAMERA"
+msgstr "Cambiar a modo francotirador"
+
+msgid "KEYMAPPING/CMD_STATIC_MOD"
+msgstr "No Volver a la posición inicial de cámara"
+
+msgid "KEYMAPPING/CMD_TARGET_CAMERA"
+msgstr "Fijar al objetivo"
+
+msgid "KEYMAPPING/CMD_TARGET_POINT"
+msgstr "Centrar todas Las superficies de control"
+
+msgid "KEYMAPPING/CMD_TOGGLE_ARENA_VOICE_CHANNEL"
+msgstr "Chat de voz en equipo"
+
+msgid "KEYMAPPING/CMD_TURN_LEFT"
+msgstr "Guiñada a la izquierda"
+
+msgid "KEYMAPPING/CMD_TURN_RIGHT"
+msgstr "Guiñada a la derecha"
+
+msgid "KEYMAPPING/CMD_USE_EQUIPMENT_1"
+msgstr "Consumible 1"
+
+msgid "KEYMAPPING/CMD_USE_EQUIPMENT_2"
+msgstr "Consumible 2"
+
+msgid "KEYMAPPING/CMD_USE_EQUIPMENT_3"
+msgstr "Consumible 3"
+
+msgid "KEYMAPPING/CMD_USE_EQUIPMENT_4"
+msgstr "Consumible 4"
+
+msgid "KEYMAPPING/CMD_USE_EQUIPMENT_5"
+msgstr "Consumible 5"
+
+msgid "KEYMAPPING/CMD_WEAPON_GROUP_1"
+msgstr "Disparar con ametralladoras"
+
+msgid "KEYMAPPING/CMD_WEAPON_GROUP_2"
+msgstr "Disparar con cañones automáticos"
+
+msgid "KEYMAPPING/CMD_WEAPON_GROUP_3"
+msgstr "Grupo de armas 3"
+
+msgid "KEYMAPPING/CMD_WEAPON_GROUP_4"
+msgstr "Grupo de armas 4"
+
+msgid "KEYMAPPING/CMD_WEAPON_GROUP_ALL"
+msgstr "Dispara con todas las armas"
+
+msgid "KEYMAPPING/FREE_HORIZONTAL_CAM_GAMEPAD"
+msgstr "Mirar a derecha e izquierda"
+
+msgid "KEYMAPPING/FREE_VERTICAL_CAM_GAMEPAD"
+msgstr "Mirar arriba y abajo"
+
+msgid "LANGUAGE"
+msgstr "Idioma"
+
+msgid "LANGUAGE_NAME_EN"
+msgstr "EN"
+
+msgid "LANGUAGE_NAME_RU"
+msgstr "RU"
+
+msgid "LOW"
+msgstr "Bajo"
+
+msgid "LOWEST"
+msgstr "El más bajo"
+
+msgid "MARKER_PLANE"
+msgstr "P-9"
+
+msgid "MEDIUM"
+msgstr "Medio"
+
+msgid "MOUSE4"
+msgstr "Ratón4"
+
+msgid "MOUSE5"
+msgstr "Ratón5"
+
+msgid "MOUSEJOY"
+msgstr "MouseJoy"
+
+msgid "MOUSE_AND_KEYBOARD_SETTINGS_TEXT"
+msgstr "Ajustes de ratón y teclado"
+
+msgid "MOUSE_INVERSION_TEXT"
+msgstr "Inversión"
+
+msgid "MOUSE_MODE_BASIC"
+msgstr "Básico"
+
+msgid "MOUSE_MODE_BATTLE"
+msgstr "Batalla"
+
+msgid "MOUSE_SENSITIVITY_TEXT"
+msgstr "Sensibilidad del ratón:"
+
+msgid "MOUSE_SETTINGS_TEXT"
+msgstr "Ajustes del ratón:"
+
+msgid "MOUSE_STYLE_HOLD"
+msgstr "Mantén la tecla"
+
+msgid "MOUSE_STYLE_NO_SWITCH"
+msgstr "Desactivado"
+
+msgid "MOUSE_STYLE_SWITCH"
+msgstr "Presiona la tecla"
+
+msgid "MOUSE_Y_INVERSION_TOGGLE"
+msgstr "Inversión vertical"
+
+msgid "NEAR"
+msgstr "Cerca"
+
+msgid "OFF"
+msgstr "Desactivado"
+
+msgid "ON"
+msgstr "Activado"
+
+msgid "POINT"
+msgstr "Punto"
+
+msgid "POPULAR_GAMEPAD_LOGITECH_F310"
+msgstr "Logitech F310"
+
+msgid "POPULAR_GAMEPAD_PLAYSTATION_2"
+msgstr "Playstation"
+
+msgid "POPULAR_GAMEPAD_THRUSTMASTER_DUAL_TRIGGER_RUMBLE_FORCE"
+msgstr "Thrustmaster Dual Trigger Rumble Force"
+
+msgid "POPULAR_GAMEPAD_XBOX_360"
+msgstr "Xbox 360"
+
+msgid "POPULAR_JOYSTICK_LOGITECH_ATTACK_3_JOYSTICK"
+msgstr "Logitech Attack 3 Joystick"
+
+msgid "POPULAR_JOYSTICK_LOGITECH_EXTREME_3D_PRO"
+msgstr "Logitech Extreme 3D pro"
+
+msgid "POPULAR_JOYSTICK_SAITEK_CYBORG_V_1_FLIGHT_STICK"
+msgstr "Saitek Cyborg V.1 Flight Stick"
+
+msgid "POPULAR_JOYSTICK_THRUSTMASTER_T_1600"
+msgstr "Thrustmaster T.16000M"
+
+msgid "POPULAR_JOYSTICK_THRUSTMASTER_T_FLIGHT_STICK_X"
+msgstr "Thrustmaster T.Flight Stick X"
+
+msgid "REMAP_AXIS_TEXT"
+msgstr "Eje"
+
+msgid "REMAP_COMMAND_TEXT"
+msgstr "Comando"
+
+msgid "REMAP_KEY1_TEXT"
+msgstr "Tecla 1"
+
+msgid "REMAP_KEY2_TEXT"
+msgstr "Tecla 2"
+
+msgid "REMAP_KEY3_TEXT"
+msgstr "Tecla 3"
+
+msgid "REMAP_KEY_BUTTON"
+msgstr "Reasignar teclas"
+
+msgid "RESET_ALLKEY_BUTTON"
+msgstr "Restaurar ajustes"
+
+msgid "RESOLUTION_PRESET"
+msgstr "Resolución de pantalla"
+
+msgid "SAVE_KEYMAPPING_BUTTON"
+msgstr "OK"
+
+msgid "SAVE_SETTINGS_BUTTON"
+msgstr "OK"
+
+msgid "SETTINGS_ACCEPT"
+msgstr "Aplicar"
+
+msgid "SETTINGS_ACHIEVEMENT_NOTIFICATIONS_BATTLE"
+msgstr "Mostrar animación cuando se reciban logros en batalla"
+
+msgid "SETTINGS_ACHIEVEMENT_NOTIFICATIONS_CHAT"
+msgstr "Mostrar notificaciones de logros en el chat"
+
+msgid "SETTINGS_ACHIEVEMENT_NOTIFICATIONS_COMMON"
+msgstr "Notificaciones de logros"
+
+msgid "SETTINGS_ACTIVE"
+msgstr " "
+
+msgid "SETTINGS_ADDITIONAL"
+msgstr "Más opciones"
+
+msgid "SETTINGS_ADDITIONAL_OPTIONS"
+msgstr "Más opciones:"
+
+msgid "SETTINGS_ADVANCE_POINT"
+msgstr "Compensación frontal"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_AIRCRAFT_DURABILITY"
+msgstr "PV del avión"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_AIRCRAFT_LEVEL"
+msgstr "Nivel del avión"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_AIRCRAFT_NAME"
+msgstr "Modelo de avión"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_AIRCRAFT_NUMBER"
+msgstr "Número de equipo"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_AIRCRAFT_TYPE"
+msgstr "Tipo de avión"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_ALTERNATE_MARKER"
+msgstr "Alternativo"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_COMMON_MARKER"
+msgstr "Estándar"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_DISTANCE_TO_AIRCRAFT"
+msgstr "Distancia al objetivo"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_HP_INDICATOR"
+msgstr "Indicador de vida:"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_MESSAGE_MARKER_TYPE_WARNING"
+msgstr ""
+"¡Atención! Los marcadores estándar de este tipo revelarán los aviones "
+"visibles a una distancia de 2000 metros, y los marcadores alternativos — a "
+"cualquier distancia."
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_PLAYER_NAME"
+msgstr "Nombre del jugador"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_SIMILAR_FOR_ALL_MARKER_TYPES"
+msgstr "Aplicar a todo tipo de jugador"
+
+msgid "SETTINGS_AIR_HORIZON"
+msgstr "Indicador de posición"
+
+msgid "SETTINGS_ALIGNMENT_SPEED"
+msgstr "Tasa de nivelación"
+
+msgid "SETTINGS_ALTIMETER_DROPDOWN_MENU_VARIANT_BARO"
+msgstr "Barométrico"
+
+msgid "SETTINGS_ALTIMETER_DROPDOWN_MENU_VARIANT_BOTH"
+msgstr "Radar y barométrico"
+
+msgid "SETTINGS_ALTIMETER_DROPDOWN_MENU_VARIANT_RADIO"
+msgstr "Radar"
+
+msgid "SETTINGS_ALTMODE"
+msgstr "Al pulsar Alt"
+
+msgid "SETTINGS_ANTIALIAS"
+msgstr "Antialising:"
+
+msgid "SETTINGS_APPLY_BUTTON"
+msgstr "Aplicar"
+
+msgid "SETTINGS_ASSIGN_AXIS"
+msgstr "Назначьте ось:"
+
+msgid "SETTINGS_ATTENTION_DO_NOT_RECOMMEND_FOR_BEGINNERS"
+msgstr ""
+"¡Advertencia! Cambiar los ajustes por defecto puede dar lugar a una mayor "
+"dificultad en pilotar tu avión y puede requerir un mayor control."
+
+msgid "SETTINGS_AUTOMATIC_FLAPS"
+msgstr "Flaps automáticos"
+
+msgid "SETTINGS_AUTO_DETECTION"
+msgstr "Detección automática"
+
+msgid "SETTINGS_AVIADEVICES"
+msgstr "Instrumentos de vuelo"
+
+msgid "SETTINGS_BACKGROUND_OPTION_AIRFIELD"
+msgstr "Aeródromo"
+
+msgid "SETTINGS_BACKGROUND_OPTION_EVENT"
+msgstr "Fondo de fiesta"
+
+msgid "SETTINGS_BACKGROUND_OPTION_HANGAR"
+msgstr "Hangar"
+
+msgid "SETTINGS_BACKGROUND_OPTION_HANGAR_BEACH"
+msgstr "Playa"
+
+msgid "SETTINGS_BACKGROUND_OPTION_HANGAR_CASTLE"
+msgstr "Castillo"
+
+msgid "SETTINGS_BACKGROUND_OPTION_HANGAR_FACTORY"
+msgstr "Fábrica"
+
+msgid "SETTINGS_BASIC"
+msgstr "Controles básicos"
+
+msgid "SETTINGS_BATTLE_ADDITIONAL_INSTRUMENTS"
+msgstr "Instrumentos primarios"
+
+msgid "SETTINGS_BATTLE_AVIAGORIZONT"
+msgstr "Indicador de posición:"
+
+msgid "SETTINGS_BATTLE_AVIAGORIZONT_TYPE"
+msgstr "Tipo"
+
+msgid "SETTINGS_BATTLE_BY_DEFAULT"
+msgstr "Definido"
+
+msgid "SETTINGS_BATTLE_COMMON"
+msgstr "Paneles y bentanas"
+
+msgid "SETTINGS_BATTLE_DAMAGE_CLUSTER"
+msgstr "Panel de condición del avión"
+
+msgid "SETTINGS_BATTLE_DIN_SIGHT"
+msgstr "Retícula dinámica"
+
+msgid "SETTINGS_BATTLE_HEADER_DEFAULT"
+msgstr "Pista"
+
+msgid "SETTINGS_BATTLE_HEIGHT_MODE"
+msgstr "Tipo de altímetro:"
+
+msgid "SETTINGS_BATTLE_HEIGHT_MODE0"
+msgstr "<b>Barométrico</b><br/>Muestra la altitud sobre el nivel del mar."
+
+msgid "SETTINGS_BATTLE_HEIGHT_MODE1"
+msgstr "<b>Radar</b><br/>Muestra la altitud sobre el nivel terrestre."
+
+msgid "SETTINGS_BATTLE_HUD_BOLD_POINTS"
+msgstr "Puntos grandes"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR"
+msgstr "Color:"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR_BLACK"
+msgstr "Negro"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR_BLUE"
+msgstr "Azul"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR_COMBINED"
+msgstr "Combinado"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR_GREEN"
+msgstr "Verde"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR_LIGHTBLUE"
+msgstr "Azul claro"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR_LILAC"
+msgstr "Violeta"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR_ORANGE"
+msgstr "Naranja"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR_RED"
+msgstr "Rojo"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR_WHITE"
+msgstr "Blanco"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR_YELLOW"
+msgstr "Amarillo"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_SHAPE"
+msgstr "Silueta:"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_SHAPE_DROPDOWN_TEMPLATE"
+msgstr "Cruceta {number}"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_TRANSPARANCY"
+msgstr "Transparencia:"
+
+msgid "SETTINGS_BATTLE_HUD_DISPERSION_ANGLE"
+msgstr "Círculo de puntería:"
+
+msgid "SETTINGS_BATTLE_HUD_HEADER_CROSSHAIR"
+msgstr "Punto de mira:"
+
+msgid "SETTINGS_BATTLE_HUD_POINTER"
+msgstr "Cursor:"
+
+msgid "SETTINGS_BATTLE_HUD_SIMPLE_MODE"
+msgstr "Simple"
+
+msgid "SETTINGS_BATTLE_INCOMING_DAMAGE"
+msgstr "Indicador de dirección del daño"
+
+msgid "SETTINGS_BATTLE_INSTRUMENTS"
+msgstr "Instrumentación"
+
+msgid "SETTINGS_BATTLE_NAV_WINDOW"
+msgstr "Área de ventana de minimapa/radar"
+
+msgid "SETTINGS_BATTLE_PLAYERLIST"
+msgstr "Paneles de equipo:"
+
+msgid "SETTINGS_BATTLE_POSITION"
+msgstr "Posición"
+
+msgid "SETTINGS_BATTLE_TARGET_WINDOW"
+msgstr "Ventana de cámara adicional"
+
+msgid "SETTINGS_BATTLE_TOOLTIP_ADDITIONAL_INSTRUMENTS"
+msgstr ""
+"<b>Instrumentos primarios</b><br/>Muestra la posición del acelerador, la "
+"disponibilidad del impulsor, y la tasa de ascenso o descenso."
+
+msgid "SETTINGS_BATTLE_TOOLTIP_ALTIMETR"
+msgstr "<b>Altímetro</b><br/>Muestra la altitud del avión."
+
+msgid "SETTINGS_BATTLE_TOOLTIP_AVIAGORIZONT"
+msgstr "Muestra el cabeceo y la inclinación del avión."
+
+msgid "SETTINGS_BATTLE_TOOLTIP_AVIAGORIZONT0"
+msgstr ""
+"<b>Indicador de posición</b><br/>Muestra la posición del horizonte en "
+"relación con las alas del avión (marcadores del avión y el horizonte) y la "
+"posición del morro del avión en relación al horizonte."
+
+msgid "SETTINGS_BATTLE_TOOLTIP_AVIAGORIZONT1"
+msgstr ""
+"<b>Indicador de posición</b><br/>Muestra la posición del horizonte en "
+"relación a las alas del avión (solo el marcador horizontal), y la posición "
+"del morro del avión en relación al horizonte."
+
+msgid "SETTINGS_BATTLE_TOOLTIP_AVIAGORIZONT2"
+msgstr ""
+"<b>Indicador de posición</b><br/>Muestra la posición del horizonte en "
+"relación a las alas del avión y el morro."
+
+msgid "SETTINGS_BATTLE_TOOLTIP_AVIAGORIZONT3"
+msgstr ""
+"<b>Indicador de posición</b><br/>Muestra el alabeo del avión sobre el eje "
+"longitudinal (marcador del avión) y el cabeceo del avión (escala vertical)."
+
+msgid "SETTINGS_BATTLE_TOOLTIP_AVIAGORIZONT4"
+msgstr ""
+"<b>Indicador de posición</b><br/>Muestra la posición de las alas del avión "
+"en relación al horizonte (marcadores del horizonte) y el movimiento de "
+"cabeceo del morro del avión (escala vertical)."
+
+msgid "SETTINGS_BATTLE_TOOLTIP_AVIAGORIZONT5"
+msgstr ""
+"<b>Indicador de posición</b><br/>Muestra la posición de las alas del avión "
+"en relación al horizonte (marcadores del horizonte) y el movimiento de "
+"cabeceo del morro del avión (escala vertical)."
+
+msgid "SETTINGS_BATTLE_TOOLTIP_CRIT"
+msgstr ""
+"Muestra los impactos críticos recibidos por los objetivos fijados en la "
+"ventana de cámara adicional."
+
+msgid "SETTINGS_BATTLE_TOOLTIP_DAMAGE_CLUSTER"
+msgstr ""
+"<b>Panel de condición del avión</b><br/>Muestra el daño del avión y la "
+"tripulación."
+
+msgid "SETTINGS_BATTLE_TOOLTIP_DEFAULT"
+msgstr ""
+"Para ver la descripción, posiciona el cursor sobre la opción a la izquierda "
+"o sobre el elemento en la imagen."
+
+msgid "SETTINGS_BATTLE_TOOLTIP_DIFF"
+msgstr ""
+"Muestra cómo tu avión y el objetivo fijado difieren en las especificaciones."
+
+msgid "SETTINGS_BATTLE_TOOLTIP_NAV_WINDOW"
+msgstr ""
+"<b>Área de ventana de minimapa/radar</b><br/>Muestra el área del minimapa o "
+"el radar."
+
+msgid "SETTINGS_BATTLE_TOOLTIP_PLAYER_LIST"
+msgstr "Muestra las listas de jugadores y su estado actual en ambos equipos."
+
+msgid "SETTINGS_BATTLE_TOOLTIP_TARGET_WINDOW"
+msgstr "Muestra el objetivo bloqueado desde el punto de vista del jugador."
+
+msgid "SETTINGS_BLOCK_BUTTONS"
+msgstr "Desactivar teclas durante la batalla"
+
+msgid "SETTINGS_BORDERLESS"
+msgstr "Modo ventana sin borde"
+
+msgid "SETTINGS_BUTTON_CANCEL_LOADING_HD"
+msgstr "No ahora"
+
+msgid "SETTINGS_BUTTON_CHANGE_BUTTON"
+msgstr "Reasignar"
+
+msgid "SETTINGS_BUTTON_CLOSE"
+msgstr "OK"
+
+msgid "SETTINGS_BUTTON_COPY"
+msgstr "Copiar"
+
+msgid "SETTINGS_BUTTON_DOWNLOAD_HD"
+msgstr "Descargar"
+
+msgid "SETTINGS_BUTTON_REMAP_KEY"
+msgstr "Reasignar recla"
+
+msgid "SETTINGS_BUTTON_RESET_ALL_SETTINGS"
+msgstr "Restaurar rodos los ajustes"
+
+msgid "SETTINGS_BUTTON_RESTART_GAME"
+msgstr "Reiniciar juego"
+
+msgid "SETTINGS_BUTTON_SHOW_ALL_OPTIONS"
+msgstr "Todo"
+
+msgid "SETTINGS_CAMERA"
+msgstr "Cámara"
+
+msgid "SETTINGS_CAMERA_ALIGN_DELAY"
+msgstr "* Retraso nivelando la cámara:"
+
+msgid "SETTINGS_CAMERA_EFFECTS"
+msgstr "Efectos de cámara"
+
+msgid "SETTINGS_CAMERA_EFFECTS_CHECKBOX"
+msgstr "Habilitar efectos de cámara"
+
+msgid "SETTINGS_CAMERA_EFFECTS_CHECKBOX_TOOLTIP"
+msgstr ""
+"Habilitar el movimiento de la cámara en respuesta a lo que está ocurriendo "
+"en tu avión."
+
+msgid "SETTINGS_CAMERA_SENSITIVITY"
+msgstr "Retícula flotante"
+
+msgid "SETTINGS_CAMERA_TYPE_CHOICE_DESCRIPTION"
+msgstr "Selecciona el tipo de cámara y el control de visualización del avión."
+
+msgid "SETTINGS_CB_ACCEPT_ONLY_FRIENDS"
+msgstr "Acepta invitaciones solo de jugadores en la lista de contactos"
+
+msgid "SETTINGS_CB_CENSOR"
+msgstr "Censurar mensajes"
+
+msgid "SETTINGS_CB_ENABLE_POST_DEATH"
+msgstr "Habilitar post-efecto en modo postmortem"
+
+msgid "SETTINGS_CB_MSG_DATE"
+msgstr "Mostrar la fecha en los mensajes"
+
+msgid "SETTINGS_CB_MSG_TIME"
+msgstr "Mostrar la hora en los mensajes"
+
+msgid "SETTINGS_CB_PLAYER_CONN"
+msgstr "Notifica cuándo los usuarios se conectan/desconectan"
+
+msgid "SETTINGS_CB_SAVE_CHANNEL_WINDOW"
+msgstr "Recuerda la posición y el tamaño de las ventanas de canal"
+
+msgid "SETTINGS_CB_SAVE_OTHER_WINDOWS"
+msgstr "Recuerda la posición y tamaño de otras ventanas"
+
+msgid "SETTINGS_CB_SHOW_ICON"
+msgstr "Muestra el icono del avión"
+
+msgid "SETTINGS_CB_SHOW_LEVEL"
+msgstr "Muestra el nivel del avión"
+
+msgid "SETTINGS_CENTER"
+msgstr "Modo 1"
+
+msgid "SETTINGS_CHAPTER_MOVEMENT_CONTROL"
+msgstr "Ajustes de control"
+
+msgid "SETTINGS_CHAPTER_NAVIGATION"
+msgstr "Navegación"
+
+msgid "SETTINGS_CHAT"
+msgstr "Chat"
+
+msgid "SETTINGS_CHAT_ACCEPT_INVITES_FROM_FRIENDS"
+msgstr ""
+"Permitir solamente invitaciones a la escuadrilla de jugadores en contactos"
+
+msgid "SETTINGS_CHAT_ACCEPT_MESSAGES_FROM_FRIENDS"
+msgstr "Permitir solamente mensajes de jugadores en contactos"
+
+msgid "SETTINGS_CHAT_DISABLE_BATTLE_CHAT"
+msgstr "Desactivar chat (solamente en batallas aleatorias)"
+
+msgid "SETTINGS_CHECKBOX_ABOUT_GETTING_ONBOARDING_QUESTS"
+msgstr "Mostrar la ventana con las misiones de incorporación"
+
+msgid "SETTINGS_CHECKBOX_ABOUT_PROGRESS_ONBOARDING_QUESTS"
+msgstr "Mostrar la ventana con el progreso en las misiones de incorporación"
+
+msgid "SETTINGS_CHECKBOX_CHANGE_ADVANCE_POINT_DISPLAY_SIZE"
+msgstr "Cambiar el punto de mira de compensación en movimiento"
+
+msgid "SETTINGS_CHECKBOX_ENABLE_COLLISION_DETECTION_DESCRIPTION"
+msgstr ""
+"Habilitar avisos de voz en caso de picados peligrosos y colisión con el "
+"terreno"
+
+msgid "SETTINGS_CHECKBOX_ENABLE_COLLISION_DETECTION_SYSTEM"
+msgstr "Habilitar el sistema de aviso de proximidad al suelo"
+
+msgid "SETTINGS_CHECKBOX_RESPONSE_INCREASE"
+msgstr "Habilitar el procesamiento de controles en el cliente del juego"
+
+msgid "SETTINGS_CHECKBOX_ROTATE_PLAYER_MINIMAP_FIXED"
+msgstr "Rotar el marcador del jugador (anclado en el mapa)"
+
+msgid "SETTINGS_CHECKBOX_SAFE_ROLL_ON_LOW_ALTITUDE"
+msgstr "Limita alabeo a baja altura"
+
+msgid "SETTINGS_CHECKBOX_SCREENSHOTS"
+msgstr "Guardar capturas de pantalla"
+
+msgid "SETTINGS_CHECKBOX_SHOW_ADVANCE_POINT_BEYOND_EFFECTIVE_RANGE"
+msgstr "Habilitar el punto de compensación al estar fuera del alcance de fuego"
+
+msgid "SETTINGS_CHECKBOX_SHOW_DEVICE_BARS"
+msgstr "Indicadores de instrumentos"
+
+msgid "SETTINGS_CHECKBOX_SHOW_HP_AND_BOOST"
+msgstr "Indicadores de PV e impulsor"
+
+msgid "SETTINGS_CHECKBOX_SHOW_ROLL_HORIZON"
+msgstr "Mostrar la inclinación horizontal"
+
+msgid "SETTINGS_CHECKBOX_SHOW_ROLL_PLANE"
+msgstr "Mostrar la inclinación del avión"
+
+msgid "SETTINGS_CHECKBOX_SIGNAL_WHEN_IN_EFFECTIVE_RANGE"
+msgstr "Indicar la distancia óptima para abrir fuego"
+
+msgid "SETTINGS_CHECKBOX_SPEEDOMETER_AND_VARIOMETER"
+msgstr "Altímetro e indicador de velocidad en vuelo"
+
+msgid "SETTINGS_CHOOSE_PATTERN"
+msgstr "Ajustes avanzados"
+
+msgid "SETTINGS_CLEAR"
+msgstr "Limpiar"
+
+msgid "SETTINGS_COMMON_MEASUREMENT"
+msgstr "Sistema de medidas:"
+
+msgid "SETTINGS_COMMON_MEASUREMENT_METRIC"
+msgstr "Métrico"
+
+msgid "SETTINGS_COMMON_MEASUREMENT_ROYAL"
+msgstr "Imperial"
+
+msgid "SETTINGS_CONTEXT_ADVANCE_POINT_COLOR"
+msgstr "Color del punto de mira de compensación en movimiento:"
+
+msgid "SETTINGS_CONTEXT_BACKGROUND_CHOICE"
+msgstr "Seleccionar fondo:"
+
+msgid "SETTINGS_CONTEXT_EXTENDED_SETTING"
+msgstr "<br>Ajustes avanzados"
+
+msgid "SETTINGS_CONTEXT_GAMEPAD_SETTING_PERSONAL"
+msgstr "Personalizado"
+
+msgid "SETTINGS_CONTEXT_GRAPH_INPUT_SIGNAL"
+msgstr "Señal de entrada"
+
+msgid "SETTINGS_CONTEXT_GRAPH_OUTPUT_SIGNAL"
+msgstr "Señal de salida"
+
+msgid "SETTINGS_CONTEXT_JOYSTICK_SETTING_PERSONAL"
+msgstr "Personalizado"
+
+msgid "SETTINGS_CONTEXT_MOUSE_SETTING_PERSONAL"
+msgstr "Personalizado"
+
+msgid "SETTINGS_CONTEXT_NOT_ASSIGNED"
+msgstr "(no asignado)"
+
+msgid "SETTINGS_CONTEXT_RECOMMENDED_SETTING"
+msgstr "<br>Ajustes recomendados"
+
+msgid "SETTINGS_CONTEXT_RESTORE"
+msgstr "Restaurar"
+
+msgid "SETTINGS_DEAD_ZONE"
+msgstr "Zona muerta"
+
+msgid "SETTINGS_DECLINE_AXIS"
+msgstr "Eje desplazado"
+
+msgid "SETTINGS_DEFAULT_MODE_MOUSE"
+msgstr "Modo de ratón definido:"
+
+msgid "SETTINGS_DESCRIPTION_CAMERA_PLANE_SCREEN"
+msgstr ""
+"Aquí puedes seleccionar un preajuste para tu ratón o afinar los ajustes del "
+"ratón."
+
+msgid "SETTINGS_DESCRIPTION_YAW_PITCH_MIX_SCREEN"
+msgstr "Aquí puedes ajustar la puntería, la guiñada y el cabeceo del avión."
+
+msgid "SETTINGS_DEVICE_GAMEPAD_TYPE"
+msgstr "Tipo de gamepad:"
+
+msgid "SETTINGS_DEVICE_JOYSTICK_TYPE"
+msgstr "Tipo de joystick:"
+
+msgid "SETTINGS_DEVICE_TYPE_RECOMMENDED_SETTINGS"
+msgstr "Ajustes recomendados"
+
+msgid "SETTINGS_DEVICE_TYPE_USER_DEFINED"
+msgstr "Usuario"
+
+msgid "SETTINGS_DEVICE_TYPE_USER_SETTINGS"
+msgstr "Ajustes personalizados"
+
+msgid "SETTINGS_DISABLED"
+msgstr "desactivado"
+
+msgid "SETTINGS_DISABLE_INTRO"
+msgstr "Mostrar escena introductoria"
+
+msgid "SETTINGS_DO_NOT_SHOW_OFFLINE_PLAYERS"
+msgstr "Ocultar jugadores desconectados"
+
+msgid "SETTINGS_DROPDOWN_MENU_VARIANT_CROSSHAIR"
+msgstr "Punto de mira"
+
+msgid "SETTINGS_DROPDOWN_MENU_VARIANT_DISPERSION_AREA"
+msgstr "Visor de puntería"
+
+msgid "SETTINGS_DROPDOWN_MENU_VARIANT_IRON_SIGHT"
+msgstr "Cursor"
+
+msgid "SETTINGS_DROP_BOMBS_BOMBER_MODE"
+msgstr "Suelta las bombas en el modo bombardeo"
+
+msgid "SETTINGS_EDGE_DETECT_AA"
+msgstr "AA detectado en el borde"
+
+msgid "SETTINGS_ENABLE_SHADOWS"
+msgstr "Habilita sombras"
+
+msgid "SETTINGS_ENLARGED"
+msgstr "Expandido"
+
+msgid "SETTINGS_FIRE"
+msgstr "Fuego"
+
+msgid "SETTINGS_FLAPS"
+msgstr "Extender flaps"
+
+msgid "SETTINGS_FLIGHT"
+msgstr "Vuelo"
+
+msgid "SETTINGS_FOR_SHEME"
+msgstr "Para esquema {name}"
+
+msgid "SETTINGS_FOV_DESCRIPTION_1"
+msgstr ""
+"Ajusta el CdV cuando se aleja la cámara.<br>Cuando se acerca la cámara, el "
+"CdV es siempre de 40°.<br>Cuando no se usa el zoom, el CdV se promedia entre "
+"los valores de aumento del enfoque y disminución del enfoque."
+
+msgid "SETTINGS_FOV_DESCRIPTION_2"
+msgstr "El CdV óptimo es de unos 95º."
+
+msgid "SETTINGS_FOV_DESCRIPTION_3"
+msgstr ""
+"Cuanto más amplio es el CdV, más distorsionada aparecerá la imagen."
+"<br>Incrementar el CdV afecta al rendimiento del juego en algunas "
+"configuraciones de ordenadores."
+
+msgid "SETTINGS_FOV_HEADER"
+msgstr "Cámara del campo de visión (CdV)"
+
+msgid "SETTINGS_FOV_SLIDER_TEXT"
+msgstr "CdV con enfoque alejado al máximo:"
+
+msgid "SETTINGS_FULLSCREEN"
+msgstr "Modo pantalla completa"
+
+msgid "SETTINGS_GAMEPAD_ALT_PATTERN"
+msgstr "(alternativo)"
+
+msgid "SETTINGS_GAMEPAD_ALT_PATTERN_NAME"
+msgstr "Preajuste de control para el gamepad «{gamepad_type} (alternativo)»"
+
+msgid "SETTINGS_GAMEPAD_ASSIGN_TO_CONTROL_NAME"
+msgstr "Asignar control para «<b>%control_name%<b/>»"
+
+msgid "SETTINGS_GAMEPAD_AXIS"
+msgstr "Ejes"
+
+msgid "SETTINGS_GAMEPAD_BTN_1"
+msgstr "Gamepad 1"
+
+msgid "SETTINGS_GAMEPAD_BTN_10"
+msgstr "Gamepad 10"
+
+msgid "SETTINGS_GAMEPAD_BTN_2"
+msgstr "Gamepad 2"
+
+msgid "SETTINGS_GAMEPAD_BTN_3"
+msgstr "Gamepad 3"
+
+msgid "SETTINGS_GAMEPAD_BTN_4"
+msgstr "Gamepad 4"
+
+msgid "SETTINGS_GAMEPAD_BTN_5"
+msgstr "Gamepad 5"
+
+msgid "SETTINGS_GAMEPAD_BTN_6"
+msgstr "Gamepad 6"
+
+msgid "SETTINGS_GAMEPAD_BTN_7"
+msgstr "Gamepad 7"
+
+msgid "SETTINGS_GAMEPAD_BTN_8"
+msgstr "Gamepad 8"
+
+msgid "SETTINGS_GAMEPAD_BTN_9"
+msgstr "Gamepad 9"
+
+msgid "SETTINGS_GAMEPAD_BUTTON_PRESS"
+msgstr "<b>Pulsa para: </b>"
+
+msgid "SETTINGS_GAMEPAD_BUTTON_RESET_SETTINGS"
+msgstr "Restaurar ajustes"
+
+msgid "SETTINGS_GAMEPAD_CANCEL"
+msgstr " - cancelar"
+
+msgid "SETTINGS_GAMEPAD_CHOOSE_PATTERN"
+msgstr "Ajustes avanzados"
+
+msgid "SETTINGS_GAMEPAD_CHOSEN_PATTERN_NAME"
+msgstr "Preajuste de control para el gamepad «{gamepad_type}»"
+
+msgid "SETTINGS_GAMEPAD_CONFIRM"
+msgstr " - confirmar"
+
+msgid "SETTINGS_GAMEPAD_CONTROL_NAME"
+msgstr "<b>%control_name%</b>"
+
+msgid "SETTINGS_GAMEPAD_DEAD_ZONE"
+msgstr "Zona muerta:"
+
+msgid "SETTINGS_GAMEPAD_ERASE"
+msgstr " - eliminar"
+
+msgid "SETTINGS_GAMEPAD_GRAPH_HEADER"
+msgstr "Ajuste de respuesta de la cámara"
+
+msgid "SETTINGS_GAMEPAD_HORIZONTAL_AXIS"
+msgstr "Eje horizontal"
+
+msgid "SETTINGS_GAMEPAD_HORIZONTAL_VIEW"
+msgstr "Visión horizontal"
+
+msgid "SETTINGS_GAMEPAD_INVERT_ROLL_AXIS"
+msgstr "Invertir eje de alabeo"
+
+msgid "SETTINGS_GAMEPAD_NOT_ASSIGNED"
+msgstr "No asignado"
+
+msgid "SETTINGS_GAMEPAD_PATTERN_LIST"
+msgstr "Preajuste del gamepad:"
+
+msgid "SETTINGS_GAMEPAD_PLANE_ROLL"
+msgstr "Alabeo del avión"
+
+msgid "SETTINGS_GAMEPAD_PLANE_THRUST"
+msgstr "Empuje del motor"
+
+msgid "SETTINGS_GAMEPAD_PRESS_ANY_BUTTON"
+msgstr "Pulsa cualquier botón."
+
+msgid "SETTINGS_GAMEPAD_ROLL"
+msgstr "Alabeo"
+
+msgid "SETTINGS_GAMEPAD_SELECT"
+msgstr " - seleccionar"
+
+msgid "SETTINGS_GAMEPAD_SENSITIVITY"
+msgstr "Sensibilidad:"
+
+msgid "SETTINGS_GAMEPAD_THRUST"
+msgstr "Empuje"
+
+msgid "SETTINGS_GAMEPAD_UP_DOWN"
+msgstr "<b>Arriba/abajo</b>"
+
+msgid "SETTINGS_GAMEPAD_USER_SETTINGS"
+msgstr "Ajustes personalizados"
+
+msgid "SETTINGS_GAMEPAD_VERTICAL_AXIS"
+msgstr "Eje vertical"
+
+msgid "SETTINGS_GAMEPAD_VERTICAL_INVERSION"
+msgstr "Inversión vertical"
+
+msgid "SETTINGS_GAMEPAD_VERTICAL_VIEW"
+msgstr "Visión vertical"
+
+msgid "SETTINGS_GAMETRIX"
+msgstr "Gametrix JetSet"
+
+msgid "SETTINGS_GAMETRIX_EFFECT_STRENGTH"
+msgstr "Intensidad de los efectos"
+
+msgid "SETTINGS_GAMETRIX_STATE"
+msgstr "Estado"
+
+msgid "SETTINGS_GAME_BATTLE"
+msgstr "Ajustes de batalla"
+
+msgid "SETTINGS_GAME_CHAT"
+msgstr "Chat"
+
+msgid "SETTINGS_GAME_CINEMA_CAMERA"
+msgstr "Activar la cámara libre cinemática"
+
+msgid "SETTINGS_GAME_COMMON"
+msgstr "General"
+
+msgid "SETTINGS_GAME_FREEZE_CAMERA"
+msgstr ""
+"Bloquea la visión de cámara libre cuando se usa el botón de punto de vista "
+"de un joystick"
+
+msgid "SETTINGS_GAME_FREE_CAMERA_OPTIONS_HEADER"
+msgstr "Opciones de cámara"
+
+msgid "SETTINGS_GAME_HANGAR"
+msgstr "Ajustes del hangar"
+
+msgid "SETTINGS_GAME_MARKERS"
+msgstr "Marcadores del avión"
+
+msgid "SETTINGS_GAME_SHOW_ADVANCE_POINT"
+msgstr "Compensación frontal"
+
+msgid "SETTINGS_GAMMA"
+msgstr "Brillo:"
+
+msgid "SETTINGS_GRAPHICS_QUALITY"
+msgstr "Calidad gráfica"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_AGREE_BUTTON"
+msgstr "¡Excelente!"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_BUTTON"
+msgstr "Detección automática"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_DETECT_BUTTON"
+msgstr "Detectar"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_DISABLE_OPTION"
+msgstr "Desactivar autodetección de ajustes"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_HEADER"
+msgstr "Detección automática de ajustes gráficos"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_OK_MESSAGE"
+msgstr ""
+"Tus actuales ajustes gráficos {settings_1} te aseguran una experiencia "
+"óptima en World of Warplanes. ¡Buena caza!"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TESTING_CURRENT_SETTINGS_MESSAGE"
+msgstr "Probando los ajustes actuales..."
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TESTING_HIGHEST_SETTINGS_MESSAGE"
+msgstr "Probando los ajustes muy altos..."
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TESTING_HIGH_SETTINGS_MESSAGE"
+msgstr "Probando los ajustes altos..."
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TESTING_LOWEST_SETTINGS_MESSAGE"
+msgstr "Probando los ajustes muy bajos..."
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TESTING_LOW_SETTINGS_MESSAGE"
+msgstr "Probando los ajustes bajos..."
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TESTING_MEDIUM_SETTINGS_MESSAGE"
+msgstr "Probando los ajustes medios..."
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TESTING_RESOLUTION_MESSAGE"
+msgstr "Probando la resolución de pantalla: {resolution}…"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TOO_HIGH_MESSAGE"
+msgstr ""
+"Actualmente tienes los ajustes gráficos {settings_1} y la resolución de "
+"pantalla {resolution_1}. El cliente del juego detectó que estos ajustes no "
+"aseguran una experiencia óptima de World of Warplanes en tu ordenador."
+"<br>Sugerimos aplicar los ajustes {settings_2} y la resolución "
+"{resolution_2}."
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TOO_HIGH_RESOLUTION_ONLY_MESSAGE"
+msgstr ""
+"Actualmente tienes la resolución de pantalla {resolution_1}. El cliente del "
+"juego detectó que esta resolución no asegura una experiencia óptima de World "
+"of Warplanes en tu ordenador.<br>Sugerimos aplicar la resolución "
+"{resolution_2}."
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TOO_HIGH_SETTINGS_ONLY_MESSAGE"
+msgstr ""
+"Actualmente tienes los ajustes gráficos {settings_1}. El cliente del juego "
+"detectó que estos ajustes no aseguran una experiencia óptima de World of "
+"Warplanes en tu ordenador.<br>Sugerimos aplicar los ajustes {settings_2}."
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TOO_LOW_BOTH_MESSAGE"
+msgstr ""
+"El cliente del juego detectó que tus ajustes gráficos {settings_1} y "
+"resolución de pantalla {resolution_1} actuales pueden ser cambiados a "
+"{settings_2} y {resolution_2} sin afectar a tu experiencia de juego."
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TOO_LOW_MESSAGE"
+msgstr ""
+"El cliente del juego detectó que tus ajustes gráficos actuales {settings_1} "
+"pueden ser cambiados a {settings_2} sin afectar a tu experiencia de juego."
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TOO_LOW_RESOLUTION_MESSAGE"
+msgstr ""
+"El cliente del juego detectó que tu resolución de pantalla actual "
+"{resolution_1} puede ser cambiada a {resolution_2} sin afectar a tu "
+"experiencia de juego."
+
+msgid "SETTINGS_GRAPH_AUTODETECT_USE_MANUAL_BUTTON"
+msgstr "Establecer manualmente"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_WARNING_MESSAGE"
+msgstr ""
+"La configuración de tu ordenador ha cambiado. El juego está listo para "
+"detectar los ajustes gráficos óptimos de tu ordenador. Haz clic en "
+"«Detectar» para detectar los ajustes automáticamente."
+
+msgid "SETTINGS_GRAPH_AUTODETECT_WINDOW_HEADER"
+msgstr "Detección automática de ajustes gráficos"
+
+msgid "SETTINGS_GRAPH_SETTINGS_CONTEXT_HIGH"
+msgstr "altos"
+
+msgid "SETTINGS_GRAPH_SETTINGS_CONTEXT_HIGHEST"
+msgstr "muy altos"
+
+msgid "SETTINGS_GRAPH_SETTINGS_CONTEXT_LOW"
+msgstr "bajos"
+
+msgid "SETTINGS_GRAPH_SETTINGS_CONTEXT_LOWEST"
+msgstr "muy bajos"
+
+msgid "SETTINGS_GRAPH_SETTINGS_CONTEXT_MEDIUM"
+msgstr "medios"
+
+msgid "SETTINGS_GRAPH_SETTINGS_CONTEXT_PERSONAL"
+msgstr "personalizados"
+
+msgid "SETTINGS_GS_AIRCRAFT_QUALITY"
+msgstr "Calidad del avión"
+
+msgid "SETTINGS_GS_BACKBUFER_QUALITY"
+msgstr "Calidad del renderizado:"
+
+msgid "SETTINGS_GS_CLASSIC_TERRAIN_QUALITY"
+msgstr "Sombreado del terreno"
+
+msgid "SETTINGS_GS_FAR_PLANE"
+msgstr "Distancia del dibujado"
+
+msgid "SETTINGS_GS_FLORA_DENSITY"
+msgstr "Densidad de la dlora"
+
+msgid "SETTINGS_GS_FOOT_PRINTS"
+msgstr "Señales de perro"
+
+msgid "SETTINGS_GS_FXAA"
+msgstr "Antialising:"
+
+msgid "SETTINGS_GS_HIGH"
+msgstr "Alto"
+
+msgid "SETTINGS_GS_LOW"
+msgstr "Bajo"
+
+msgid "SETTINGS_GS_MEDIUM"
+msgstr "Medio"
+
+msgid "SETTINGS_GS_MORPH_VERTICES"
+msgstr "Vértice morphing"
+
+msgid "SETTINGS_GS_MOTIONBLUR"
+msgstr "Difuminado en movimiento:"
+
+msgid "SETTINGS_GS_MRT_DEPTH"
+msgstr "Profundidad MRT"
+
+msgid "SETTINGS_GS_OBJECT_CLIP"
+msgstr "Calidad de las siluetas:"
+
+msgid "SETTINGS_GS_OBJECT_LOD"
+msgstr "Objeto LOD:"
+
+msgid "SETTINGS_GS_PARTICLES_QUALITY"
+msgstr "Calidad de las partículas:"
+
+msgid "SETTINGS_GS_POSTFX"
+msgstr "Calidad post efecto:"
+
+msgid "SETTINGS_GS_POST_PROCESSING"
+msgstr "Post procesado"
+
+msgid "SETTINGS_GS_SHADER_VERSION_CAP"
+msgstr "Versión del sombreado"
+
+msgid "SETTINGS_GS_SHADOWS_COUNT"
+msgstr "Cantidad de las sombras"
+
+msgid "SETTINGS_GS_SHADOWS_QUALITY"
+msgstr "Calidad de las sombras:"
+
+msgid "SETTINGS_GS_SKY_LIGHT_MAP"
+msgstr "Calidad del cielo y las nubes"
+
+msgid "SETTINGS_GS_SNIPER_MODE_SWINGING_ENABLED"
+msgstr "Habilita la vibración del avión en modo francotirador"
+
+msgid "SETTINGS_GS_SPEEDTREE_QUALITY"
+msgstr "Calidad del foliaje:"
+
+msgid "SETTINGS_GS_TERRAIN_LOD"
+msgstr "Renderización del terreno"
+
+msgid "SETTINGS_GS_TERRAIN_MESH_RESOLUTION"
+msgstr "Resolución del terreno"
+
+msgid "SETTINGS_GS_TEXTURE_COMPRESSION"
+msgstr "Compresión de la textura"
+
+msgid "SETTINGS_GS_TEXTURE_FILTERING"
+msgstr "Filtrado de la textura:"
+
+msgid "SETTINGS_GS_TEXTURE_QUALITY"
+msgstr "Calidad de la textura:"
+
+msgid "SETTINGS_GS_VEHICLE_DUST_ENABLED"
+msgstr "Habilitar polvo"
+
+msgid "SETTINGS_GS_VEHICLE_TRACES_ENABLED"
+msgstr "Habilitar trazas de los vehículos"
+
+msgid "SETTINGS_GS_VOLUMETRICCLOUDS"
+msgstr "Calidad de los objetos semitransparentes:"
+
+msgid "SETTINGS_GS_WATER_QUALITY"
+msgstr "Calidad del agua:"
+
+msgid "SETTINGS_GS_WATER_SIMULATION"
+msgstr "Simulación del agua"
+
+msgid "SETTINGS_GS_WG_SHADOWS_ENABLED"
+msgstr "Sombras mejoradas"
+
+msgid "SETTINGS_HEADER_ALTERNATE_COLOR_LAYOUT"
+msgstr "Disposición de color alternativa"
+
+msgid "SETTINGS_HEADER_ALTERNATE_COLOR_MODE"
+msgstr "Modo de color alternativo"
+
+msgid "SETTINGS_HEADER_ALTIMETER"
+msgstr "Altímetro"
+
+msgid "SETTINGS_HEADER_ARMAMENT"
+msgstr "Armas y motor"
+
+msgid "SETTINGS_HEADER_BACKGROUND"
+msgstr "Fondo"
+
+msgid "SETTINGS_HEADER_BOMBS"
+msgstr "Bombas"
+
+msgid "SETTINGS_HEADER_BOOST_INDICATOR"
+msgstr "Disponibilidad del impulsor"
+
+msgid "SETTINGS_HEADER_COLLISION_DETECTION_SYSTEM"
+msgstr "Sistema de aviso de proximidad al suelo"
+
+msgid "SETTINGS_HEADER_CRITS"
+msgstr "Daño del avión"
+
+msgid "SETTINGS_HEADER_EQUIPMENT"
+msgstr "Consumibles"
+
+msgid "SETTINGS_HEADER_GENERAL"
+msgstr "General"
+
+msgid "SETTINGS_HEADER_HORIZONT"
+msgstr "Indicador de posición"
+
+msgid "SETTINGS_HEADER_KEY-SETTINGS"
+msgstr "Referencia de control"
+
+msgid "SETTINGS_HEADER_LOOK_CAMERA"
+msgstr "Ajustes de cámara"
+
+msgid "SETTINGS_HEADER_MAP_AND_RADAR"
+msgstr "Minimapa y radar"
+
+msgid "SETTINGS_HEADER_MARKER_TEMPLATE"
+msgstr "Preajuste del marcador"
+
+msgid "SETTINGS_HEADER_MINIMAP"
+msgstr "Minimapa"
+
+msgid "SETTINGS_HEADER_RADAR"
+msgstr "Área de radar"
+
+msgid "SETTINGS_HEADER_RESPONSE_INCREASE"
+msgstr "Respuesta de los controles aumentada"
+
+msgid "SETTINGS_HEADER_ROCKETS"
+msgstr "Cohetes"
+
+msgid "SETTINGS_HEADER_SET_AXIS_FOR_THRUST_AND_BOOST"
+msgstr "Establece el eje de propulsión y del impulsor:"
+
+msgid "SETTINGS_HEADER_SPEEDOMETER"
+msgstr "Indicador de velocidad en vuelo"
+
+msgid "SETTINGS_HEADER_SUPERIORITY"
+msgstr "Indicador de superioridad"
+
+msgid "SETTINGS_HEADER_TARGET_WINDOW"
+msgstr "Ventana de objetivo bloqueado"
+
+msgid "SETTINGS_HEADER_TEAM_LISTS"
+msgstr "Paneles de equipo"
+
+msgid "SETTINGS_HEADER_TRACKING_GRAPH"
+msgstr "Gráfico de ajustes avanzados del ratón"
+
+msgid "SETTINGS_HEADER_YAW_AND_PITCH"
+msgstr "Guiñada y cabeceo"
+
+msgid "SETTINGS_HEADER_YAW_PITCH"
+msgstr "Guiñada / cabeceo"
+
+msgid "SETTINGS_HIDE_ALTERNATIVE_HUD"
+msgstr "Para ver la interfaz en el modo estándar, suelta {key}"
+
+msgid "SETTINGS_HIGHT_SCALE"
+msgstr "Altímetro"
+
+msgid "SETTINGS_HORIZONTAL"
+msgstr "Sensibilidad horizontal"
+
+msgid "SETTINGS_HORIZONT_V1"
+msgstr "Indicador de posición 1"
+
+msgid "SETTINGS_HORIZONT_V2"
+msgstr "Indicador de posición 2"
+
+msgid "SETTINGS_HORIZONT_V3"
+msgstr "Indicador de posición 3"
+
+msgid "SETTINGS_HUD"
+msgstr "Interfaz de batalla"
+
+msgid "SETTINGS_INFO_ABOUT_ENEMY"
+msgstr "Detalles sobre los enemigos"
+
+msgid "SETTINGS_INFO_ABOUT_PLANE_CONSUMABLES_TIPS-ECT"
+msgstr "Detalles sobre el avión"
+
+msgid "SETTINGS_INFO_ABOUT_SECTORS-ECT"
+msgstr "Detalles sobre los marcadores de modo de juego"
+
+msgid "SETTINGS_INTERFACE_ADDITIONAL_SETTINGS"
+msgstr "Más"
+
+msgid "SETTINGS_INTERFACE_ALLIES"
+msgstr "Nuestro equipo"
+
+msgid "SETTINGS_INTERFACE_BATTLE_INTERFACE"
+msgstr "Interfaz de batalla:"
+
+msgid "SETTINGS_INTERFACE_BATTLE_INTERFACE_TYPE"
+msgstr "Tipo de interfaz de batalla:"
+
+msgid "SETTINGS_INTERFACE_BATTLE_INTERFACE_TYPE_COMMON"
+msgstr "Estándar"
+
+msgid "SETTINGS_INTERFACE_BATTLE_INTERFACE_TYPE_MINIMAL"
+msgstr "Mínimo"
+
+msgid "SETTINGS_INTERFACE_BATTLE_INTERFACE_TYPE_STANDART"
+msgstr "Estándar"
+
+msgid "SETTINGS_INTERFACE_BATTLE_INTERFACE_TYPE_TANK"
+msgstr "World of Tanks"
+
+msgid "SETTINGS_INTERFACE_CROSSHAIR"
+msgstr "Punto de mira"
+
+msgid "SETTINGS_INTERFACE_DESTROYED"
+msgstr "Destruidos"
+
+msgid "SETTINGS_INTERFACE_ENEMIES"
+msgstr "Enemigos"
+
+msgid "SETTINGS_INTERFACE_HEADER"
+msgstr "Interfaz"
+
+msgid "SETTINGS_INTERFACE_MARKERS"
+msgstr "Marcadores"
+
+msgid "SETTINGS_INTERFACE_TARGET"
+msgstr "Objetivos"
+
+msgid "SETTINGS_INTERFACE_WING_PARTHERS"
+msgstr "Compañeros de ala"
+
+msgid "SETTINGS_INTRO_SCENE"
+msgstr "Escena introductoria"
+
+msgid "SETTINGS_INVERT_AXIS"
+msgstr "Invertir eje"
+
+msgid "SETTINGS_JOYSTICK_AXIS"
+msgstr "Ejes"
+
+msgid "SETTINGS_JOYSTICK_BTN_1"
+msgstr "Joystick 1"
+
+msgid "SETTINGS_JOYSTICK_BTN_10"
+msgstr "Joystick 10"
+
+msgid "SETTINGS_JOYSTICK_BTN_2"
+msgstr "Joystick 2"
+
+msgid "SETTINGS_JOYSTICK_BTN_3"
+msgstr "Joystick 3"
+
+msgid "SETTINGS_JOYSTICK_BTN_4"
+msgstr "Joystick 4"
+
+msgid "SETTINGS_JOYSTICK_BTN_5"
+msgstr "Joystick 5"
+
+msgid "SETTINGS_JOYSTICK_BTN_6"
+msgstr "Joystick 6"
+
+msgid "SETTINGS_JOYSTICK_BTN_7"
+msgstr "Joystick 7"
+
+msgid "SETTINGS_JOYSTICK_BTN_8"
+msgstr "Joystick 8"
+
+msgid "SETTINGS_JOYSTICK_BTN_9"
+msgstr "Joystick 9"
+
+msgid "SETTINGS_JOYSTICK_BUTTON_RESET_SETTINGS"
+msgstr "Restaurar ajustes"
+
+msgid "SETTINGS_JOYSTICK_CAMERA_FLEXIBILITY"
+msgstr "* Inercia de la cámara:"
+
+msgid "SETTINGS_JOYSTICK_CAMERA_LAG"
+msgstr "* Respuesta al cabeceo:"
+
+msgid "SETTINGS_JOYSTICK_CHOOSE_PATTERN"
+msgstr "Ajustes avanzados"
+
+msgid "SETTINGS_JOYSTICK_CHOSEN_PATTERN_NAME"
+msgstr "Preajuste de control para el joystick «{joystick_type}»"
+
+msgid "SETTINGS_JOYSTICK_CURVE_FIX"
+msgstr "Bloquear eje X"
+
+msgid "SETTINGS_JOYSTICK_CURVE_HEADER"
+msgstr "Ajustar ejes"
+
+msgid "SETTINGS_JOYSTICK_CURVE_PITCH"
+msgstr "Cabeceo"
+
+msgid "SETTINGS_JOYSTICK_CURVE_PITCH_SPEED"
+msgstr "Tasa de cabeceo"
+
+msgid "SETTINGS_JOYSTICK_CURVE_PLACE"
+msgstr "Posición del joystick"
+
+msgid "SETTINGS_JOYSTICK_CURVE_POWER"
+msgstr "Potencia del motor"
+
+msgid "SETTINGS_JOYSTICK_CURVE_ROLL"
+msgstr "Alabear"
+
+msgid "SETTINGS_JOYSTICK_CURVE_ROLL_SPEED"
+msgstr "Régimen de alabeo"
+
+msgid "SETTINGS_JOYSTICK_CURVE_SMOOTH"
+msgstr "Antialiasing:"
+
+msgid "SETTINGS_JOYSTICK_CURVE_YAW"
+msgstr "Guiñada"
+
+msgid "SETTINGS_JOYSTICK_CURVE_YAW_SPEED"
+msgstr "Relación de guiñada"
+
+msgid "SETTINGS_JOYSTICK_HORIZONTAL_VIEW"
+msgstr "Visión horizontal"
+
+msgid "SETTINGS_JOYSTICK_HUT_SPEED"
+msgstr "Velocidad botón del joystick:"
+
+msgid "SETTINGS_JOYSTICK_INVERT_PITCH_AXIS"
+msgstr "Invertir eje de cabeceo"
+
+msgid "SETTINGS_JOYSTICK_NOISE_CORRECTION"
+msgstr "Reducción de ruido"
+
+msgid "SETTINGS_JOYSTICK_PATTERN_LIST"
+msgstr "Preajuste del joystick:"
+
+msgid "SETTINGS_JOYSTICK_SIGNAL_ADJUSTMENT"
+msgstr "Corrección de señal"
+
+msgid "SETTINGS_JOYSTICK_SNIPER_MODE_SENSITIVITY"
+msgstr "Sensibilidad modo francotirador:"
+
+msgid "SETTINGS_JOYSTICK_THRESHOLD"
+msgstr "Umbral del joystick:"
+
+msgid "SETTINGS_JOYSTICK_THRUST_BOOST_ADJUSTMENT"
+msgstr "Ajustar empuje e impulsor"
+
+msgid "SETTINGS_JOYSTICK_USER_SETTINGS"
+msgstr "Ajustes personalizados"
+
+msgid "SETTINGS_JOYSTICK_VERTICAL_INVERSION"
+msgstr "Inversión vertical"
+
+msgid "SETTINGS_JOYSTICK_VERTICAL_VIEW"
+msgstr "Visión vertical"
+
+msgid "SETTINGS_KEYBOARD"
+msgstr "Teclado"
+
+msgid "SETTINGS_KEYBOARD_MAP"
+msgstr "Referencia de control"
+
+msgid "SETTINGS_LABEL_5N1_SOUND"
+msgstr "5.1"
+
+msgid "SETTINGS_LABEL_NEWLY_ASSIGNED"
+msgstr "Nueva tecla:"
+
+msgid "SETTINGS_LABEL_NOW_ASSIGNED"
+msgstr "Tecla actual:"
+
+msgid "SETTINGS_LABEL_SOUND_MODE"
+msgstr "Modo de sonido"
+
+msgid "SETTINGS_LABEL_STEREO_SOUND"
+msgstr "Estéreo"
+
+msgid "SETTINGS_LABEL_TEXTURE_QUALITY"
+msgstr "Calidad de la textura"
+
+msgid "SETTINGS_LANGUAGE"
+msgstr "Idioma"
+
+msgid "SETTINGS_LAUNCHER_OPTION_HD_TEXTURES"
+msgstr "Texturas en HD de alta calidad"
+
+msgid "SETTINGS_LEFT"
+msgstr "Modo 3"
+
+msgid "SETTINGS_LOOK_CAMERA_FIXED"
+msgstr "Cámara fija"
+
+msgid "SETTINGS_LOOK_CAMERA_FREE"
+msgstr "Cámara libre"
+
+msgid "SETTINGS_LOOK_CAMERA_FREE_DESCRIPTION"
+msgstr "Cámara libre rotatoria no bloqueada en el horizonte"
+
+msgid "SETTINGS_M8_CHECKBOX_ENABLE_FLIP"
+msgstr "Habilitar maniobra Split S"
+
+msgid "SETTINGS_M8_CHECKBOX_FIXED_HORIZONT"
+msgstr "Nivelar avión"
+
+msgid "SETTINGS_MARKERS_1-SCOPE"
+msgstr "Прицел 1"
+
+msgid "SETTINGS_MARKERS_2-SCOPE"
+msgstr "Прицел 2"
+
+msgid "SETTINGS_MARKERS_3-SCOPE"
+msgstr "Прицел 3"
+
+msgid "SETTINGS_MARKERS_4-SCOPE"
+msgstr "Прицел 4"
+
+msgid "SETTINGS_MARKERS_5-SCOPE"
+msgstr "Прицел 5"
+
+msgid "SETTINGS_MARKERS_AA_RADIUS"
+msgstr "Радиусы ПВО"
+
+msgid "SETTINGS_MARKERS_ALLY_PLACE_OF_DEATH"
+msgstr "Место смерти союзника"
+
+msgid "SETTINGS_MARKERS_ALL_POINTS"
+msgstr "Общая сумма заработанных очков"
+
+msgid "SETTINGS_MARKERS_ALTIMETER_HIGHT_SCALE"
+msgstr "Altímetro"
+
+msgid "SETTINGS_MARKERS_ALTIMETER_TYPE"
+msgstr "Тип альтиметра"
+
+msgid "SETTINGS_MARKERS_ALTMODE"
+msgstr "По Alt"
+
+msgid "SETTINGS_MARKERS_ALWAYS"
+msgstr "Всегда"
+
+msgid "SETTINGS_MARKERS_AMOUNT_AND_CALIBER_WEAPONS"
+msgstr "Количество и калибр орудий"
+
+msgid "SETTINGS_MARKERS_AMOUNT_BOOST_AT_THIS_MOMENT"
+msgstr "Количество единиц форсажа (текущее значение)"
+
+msgid "SETTINGS_MARKERS_AMOUNT_BOOST_IN_MAX"
+msgstr "Количество единиц форсажа (максимальное значение)"
+
+msgid "SETTINGS_MARKERS_AMOUNT_HP_AT_THIS_MOMENT"
+msgstr "Количество единиц прочности (текущее значение)"
+
+msgid "SETTINGS_MARKERS_AMOUNT_HP_IN_MAX"
+msgstr "Количество единиц прочности (максимальное значение)"
+
+msgid "SETTINGS_MARKERS_AMOUNT_POINTS"
+msgstr "Количество заработанных очков"
+
+msgid "SETTINGS_MARKERS_APPLY_ALL"
+msgstr "Aplicar a todos los tipos"
+
+msgid "SETTINGS_MARKERS_APPLY_TO_CLASS"
+msgstr "Aplicar ajustes a los tipos de avión:"
+
+msgid "SETTINGS_MARKERS_ARROWS_DEFENDERS"
+msgstr "Стрелки защитников"
+
+msgid "SETTINGS_MARKERS_ARROWS_PLANE"
+msgstr "Стрелки самолётов"
+
+msgid "SETTINGS_MARKERS_ARROW_IN_CENTER_AND_EDGES_SCREEN"
+msgstr "Стрелки в центре и по краям экрана"
+
+msgid "SETTINGS_MARKERS_BANNERS"
+msgstr "Плашки достижений"
+
+msgid "SETTINGS_MARKERS_BATTLELOG_NUMERAL"
+msgstr "Боевой лог: цифры"
+
+msgid "SETTINGS_MARKERS_BATTLELOG_TEXTS"
+msgstr "Боевой лог: тексты"
+
+msgid "SETTINGS_MARKERS_BATTLE_COMANDS"
+msgstr "Боевые команды"
+
+msgid "SETTINGS_MARKERS_BATTLE_EVENTS"
+msgstr "Боевые события"
+
+msgid "SETTINGS_MARKERS_BATTLE_RECOMENDATIONS"
+msgstr "Боевые рекомендации"
+
+msgid "SETTINGS_MARKERS_BATTLE_RECOMENDATIONS_ICONS"
+msgstr "Боевые рекомендации: иконки"
+
+msgid "SETTINGS_MARKERS_BIG_CALIBER_GUN"
+msgstr "Крупнокалиберная пушка"
+
+msgid "SETTINGS_MARKERS_BIG_SIZE"
+msgstr "Большой"
+
+msgid "SETTINGS_MARKERS_BLOCK_CURRENT_SECTOR_HEADER"
+msgstr "Текущая территория"
+
+msgid "SETTINGS_MARKERS_BLOCK_INFO_ABOUT_PLANE_HEADER"
+msgstr "Detalles del avión"
+
+msgid "SETTINGS_MARKERS_BLOCK_MARKERS_NEAR_CORNER_ON_MONITOR_HEADER"
+msgstr "Указатели на самолёты"
+
+msgid "SETTINGS_MARKERS_BLOCK_MARKERS_RADAR_SETTINGS_HEADER"
+msgstr "Настройки радара"
+
+msgid "SETTINGS_MARKERS_BLOCK_MINIMAP_HEADER"
+msgstr "Minimapa"
+
+msgid "SETTINGS_MARKERS_BLOCK_PERSONAL_BATTLE_ACTIONS_HEADER"
+msgstr "Личные боевые действия"
+
+msgid "SETTINGS_MARKERS_BLOCK_SCALE_INFLUENCE_HEADER"
+msgstr "Шкала ресурсов"
+
+msgid "SETTINGS_MARKERS_BLOCK_SENSORS_ABOUT_ALTITUDE_SPEED_BOOST_HP_HEADER"
+msgstr "Датчики: авиаприборы и прочность"
+
+msgid "SETTINGS_MARKERS_BLOCK_SPEED_CONNECTION_AND_TIPS_HEADER"
+msgstr "Скорость соединения и подсказки"
+
+msgid "SETTINGS_MARKERS_BLOCK_SYSTEM_MESSAGES_HEADER"
+msgstr "Система оповещений"
+
+msgid "SETTINGS_MARKERS_BLOCK_TIMER_LESS_THAN"
+msgstr "Таймер свойства (меньше 10 с)"
+
+msgid "SETTINGS_MARKERS_BLOCK_TIMER_SECTOR"
+msgstr "Таймер блокировки комплекса (меньше 10 с)"
+
+msgid "SETTINGS_MARKERS_BOMBS"
+msgstr "Bombas"
+
+msgid "SETTINGS_MARKERS_BOMBS_AMOUNT_IN_SALVO"
+msgstr "Количество бомб в залпе"
+
+msgid "SETTINGS_MARKERS_BOMB_AND_ROCKETS"
+msgstr "Bombas y cohetes"
+
+msgid "SETTINGS_MARKERS_BOMB_AND_ROCKETS_AMOUNT"
+msgstr "Количество бомб и ракет в залпе"
+
+msgid "SETTINGS_MARKERS_BOMB_AND_ROCKETS_KEYS"
+msgstr "Клавиши сброса бомб и ракет"
+
+msgid "SETTINGS_MARKERS_BOMB_AND_ROCKET_TYPE"
+msgstr "Тип бомб и ракет"
+
+msgid "SETTINGS_MARKERS_BOMB_TYPE"
+msgstr "Тип бомб"
+
+msgid "SETTINGS_MARKERS_BOOST"
+msgstr "Форсаж"
+
+msgid "SETTINGS_MARKERS_BOOST_IN_WORK"
+msgstr "Форсаж при использовании"
+
+msgid "SETTINGS_MARKERS_BY_ALLY"
+msgstr "Союзниками"
+
+msgid "SETTINGS_MARKERS_BY_ENEMY"
+msgstr "Противниками"
+
+msgid "SETTINGS_MARKERS_BY_ME"
+msgstr "Мной"
+
+msgid "SETTINGS_MARKERS_BY_MY_WING_PARTNER"
+msgstr "Моим звеньевым"
+
+msgid "SETTINGS_MARKERS_CAMERA_POSITION"
+msgstr "Положение камеры"
+
+msgid "SETTINGS_MARKERS_CAPTURE_POINTS"
+msgstr "Очки Захвата"
+
+msgid "SETTINGS_MARKERS_CD_TIMER_BOMBS"
+msgstr "Таймер перезарядки бомб"
+
+msgid "SETTINGS_MARKERS_CD_TIMER_BOMBS_ROKETS"
+msgstr "Таймер перезарядки бомб и ракет"
+
+msgid "SETTINGS_MARKERS_CHECKBOX_DISTANCE_CHOOSE_TARGET"
+msgstr "Дистанция «Выбор цели»"
+
+msgid "SETTINGS_MARKERS_CHECKBOX_DISTANCE_FAR_AWAY"
+msgstr "Дистанция «Далеко»"
+
+msgid "SETTINGS_MARKERS_CHECKBOX_DISTANCE_SHOOTING"
+msgstr "Дистанция «Ведение огня»"
+
+msgid "SETTINGS_MARKERS_CHECKBOX_SHOW_DEFENDERS"
+msgstr "Показывать защитников при обнаружении союзниками"
+
+msgid "SETTINGS_MARKERS_CIRCLE_MOVEMENT_ARROWS"
+msgstr "Окружность движения стрелок"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_ALWAYS_OPAQUE"
+msgstr "Siempre opaco"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_ALWAYS_SHOW"
+msgstr "Mostrar siempre"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_BAR"
+msgstr "Barra"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_BAR_NUMBER"
+msgstr "Barra con puntos"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_BAR_PERCENT"
+msgstr "Barra con porcentaje"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_DONT_SHOW"
+msgstr "No mostrar"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_EQUAL_OPACITY"
+msgstr "Siempre semiopaco"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_FROM_GROUND"
+msgstr "Relativo al nivel del suelo"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_FROM_MY_PLANE_BARO"
+msgstr "Barométrico (en relación a mi avión)"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_FROM_MY_PLANE_RADIO"
+msgstr "Radar (en relación a mi avión)"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_HUGE"
+msgstr "Muy largo"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_LARGE"
+msgstr "Largo"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_NORMAL"
+msgstr "Estándar"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_NUMBER"
+msgstr "Puntos"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_PERCENT"
+msgstr "Porcentaje"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_REF_PLANE"
+msgstr "En relación a mi avión"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_TINY"
+msgstr "Pequeño"
+
+msgid "SETTINGS_MARKERS_COMPLEX_BORDER"
+msgstr "Границы комплекса"
+
+msgid "SETTINGS_MARKERS_COMPLEX_INFLUENCE"
+msgstr "Доходность комплекса"
+
+msgid "SETTINGS_MARKERS_COMPLEX_PROPERTY_BLOCKING"
+msgstr "Блокировка свойства комплекса"
+
+msgid "SETTINGS_MARKERS_COMPLEX_TACTICAL_MARCERS_IN_WORLD_HEADER"
+msgstr "Тактические маркеры в мире"
+
+msgid "SETTINGS_MARKERS_CONSUMABLES_AMOUNT"
+msgstr "Количество единиц снаряжения"
+
+msgid "SETTINGS_MARKERS_CONSUMABLES_INACTIVE"
+msgstr "Снаряжение (неактивное)"
+
+msgid "SETTINGS_MARKERS_CONSUMABLES_KEYS"
+msgstr "Клавиши снаряжения"
+
+msgid "SETTINGS_MARKERS_CONTEXT_ALTITUDE_TYPE"
+msgstr "Tipo de indicación de la altitud"
+
+msgid "SETTINGS_MARKERS_CONTEXT_CLASS_ICON"
+msgstr "Icono del tipo de avión"
+
+msgid "SETTINGS_MARKERS_CONTEXT_CLASS_ICON_SIZE"
+msgstr "Tamaño del icono del tipo de avión"
+
+msgid "SETTINGS_MARKERS_CONTEXT_MARKER_OPACITY"
+msgstr "Opacidad del marcador"
+
+msgid "SETTINGS_MARKERS_CONTEXT_MARKER_STAT"
+msgstr "Parámetros del marcador"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECTS"
+msgstr "Objetivos terrestres"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_AA_PART"
+msgstr "Icono de cañones AA"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_ARMORED_PART"
+msgstr "Icono de sección blindada"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_HEALTH"
+msgstr "PV del objetivo terrestre"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_HEALTH_TYPE"
+msgstr "Tipo de indicador de PV"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_ICON"
+msgstr "Icono de objetivo terrestre"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_ICON_SIZE"
+msgstr "Tamaño del icono de objetivo terrestre"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_MARKER_OPACITY"
+msgstr "Opacidad del marcador"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_NAME"
+msgstr "Nombre del objetivo terrestre"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_RANGE"
+msgstr "Distancia al objetivo terrestre"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_UNARMORED_PART"
+msgstr "Icono de sección no blindada"
+
+msgid "SETTINGS_MARKERS_CONTEXT_PLANES"
+msgstr "Aviones"
+
+msgid "SETTINGS_MARKERS_CONTEXT_PLANE_ALTITUDE"
+msgstr "Altitud del avión"
+
+msgid "SETTINGS_MARKERS_CONTEXT_PLANE_DISTANCE"
+msgstr "Distancia al avión"
+
+msgid "SETTINGS_MARKERS_CONTEXT_PLANE_HEALTH"
+msgstr "PV del avión"
+
+msgid "SETTINGS_MARKERS_CONTEXT_PLANE_HEALTH_TYPE"
+msgstr "Tipo de indicador de PV"
+
+msgid "SETTINGS_MARKERS_CONTEXT_PLANE_LEVEL"
+msgstr "Nivel del avión"
+
+msgid "SETTINGS_MARKERS_CONTEXT_PLANE_MODEL"
+msgstr "Modelo de avión"
+
+msgid "SETTINGS_MARKERS_CONTEXT_PLAYERS"
+msgstr "Jugadores:"
+
+msgid "SETTINGS_MARKERS_CONTEXT_PLAYER_NAME"
+msgstr "Nombre del jugador"
+
+msgid "SETTINGS_MARKERS_CONTEXT_SQUAD"
+msgstr "Escuadrilla"
+
+msgid "SETTINGS_MARKERS_CONTEXT_TARGET"
+msgstr "Objetivo"
+
+msgid "SETTINGS_MARKERS_CONTEXT_TARGETS"
+msgstr "Objetivos:"
+
+msgid "SETTINGS_MARKERS_DEFENDERS_IN_ZONE"
+msgstr "Защитники в зоне выбора цели"
+
+msgid "SETTINGS_MARKERS_DEFENDERS_OUT_OF_ZONE"
+msgstr "Защитники вне зоны выбора цели"
+
+msgid "SETTINGS_MARKERS_DEFINE_MARKERS_MODE"
+msgstr "Modo marcador:"
+
+msgid "SETTINGS_MARKERS_DESCRIPTION_HUD"
+msgstr ""
+"Aquí puedes ajustar la apariencia y visualización de los elementos en la "
+"interfaz de batalla."
+
+msgid "SETTINGS_MARKERS_DESCRIPTION_PROPERTY"
+msgstr "Описание свойства"
+
+msgid "SETTINGS_MARKERS_DEV_VER"
+msgstr "Дев версия настроек"
+
+msgid "SETTINGS_MARKERS_DIAMETER_NUMBER_AREA"
+msgstr "Цифры радиуса видимой области"
+
+msgid "SETTINGS_MARKERS_DISPLAY_RANGE"
+msgstr "Distancia de visualización, m:"
+
+msgid "SETTINGS_MARKERS_DISPLAY_RANGE_FT"
+msgstr "Distancia de visualización, ft:"
+
+msgid "SETTINGS_MARKERS_DISTANCE_TO_AIRCRAFT"
+msgstr "Distancia al avión"
+
+msgid "SETTINGS_MARKERS_DISTANCE_TO_COMPLEX"
+msgstr "Расстояние до комплекса"
+
+msgid "SETTINGS_MARKERS_EFFECT_TIMER"
+msgstr "Таймер начисления очков"
+
+msgid "SETTINGS_MARKERS_FAST_COMMAND"
+msgstr "Atajos del chat"
+
+msgid "SETTINGS_MARKERS_FIRE_DISTANCE"
+msgstr "Alcance de fuego"
+
+msgid "SETTINGS_MARKERS_FLIGHT_DIRECTION"
+msgstr "Направления полёта"
+
+msgid "SETTINGS_MARKERS_FPS_PING_PACKET_LOSS"
+msgstr "FPS, Ping, Packet loss"
+
+msgid "SETTINGS_MARKERS_GAME_EVENT_AND_MESSAGES"
+msgstr "Игровые события и оповещения"
+
+msgid "SETTINGS_MARKERS_GROUND_OBJECTS"
+msgstr "Наземные объекты"
+
+msgid "SETTINGS_MARKERS_HEADER_APPLY_SETTINGS"
+msgstr "Aplicar ajustes"
+
+msgid "SETTINGS_MARKERS_HEAVY_GUN"
+msgstr "Тяжёлая пушка"
+
+msgid "SETTINGS_MARKERS_HIGHT_CEILING"
+msgstr "Потолок высоты"
+
+msgid "SETTINGS_MARKERS_HIGHT_NUMBER"
+msgstr "Счётчик высоты"
+
+msgid "SETTINGS_MARKERS_HP_DETAILED"
+msgstr "Полоска прочности (подробная)"
+
+msgid "SETTINGS_MARKERS_I"
+msgstr "Я"
+
+msgid "SETTINGS_MARKERS_ICONS_CLASSES_DEFENDERS"
+msgstr "Иконки классов защитников"
+
+msgid "SETTINGS_MARKERS_ICONS_CLASSES_PLANE"
+msgstr "Иконки классов самолётов"
+
+msgid "SETTINGS_MARKERS_ICON_COMPLEX_BLOKED"
+msgstr "Иконка блокировки комплекса"
+
+msgid "SETTINGS_MARKERS_ICON_COMPLEX_UNDER_ATTACK"
+msgstr "Иконка «Комплекс под атакой»"
+
+msgid "SETTINGS_MARKERS_ICON_DEFENDER_EDGES"
+msgstr "Иконки самолётов защитников по краям"
+
+msgid "SETTINGS_MARKERS_ICON_EVENT"
+msgstr "Иконка события"
+
+msgid "SETTINGS_MARKERS_ICON_MESSAGES_FOR_SCALES"
+msgstr "Иконки и подписи к шкалам"
+
+msgid "SETTINGS_MARKERS_ICON_PLAYERS_PLANE_EDGES"
+msgstr "Иконки самолётов игроков по краям"
+
+msgid "SETTINGS_MARKERS_ICON_PLAYER_PLANE"
+msgstr "Стрелка самолёта игрока"
+
+msgid "SETTINGS_MARKERS_ICON_PROPERTY"
+msgstr "Иконка свойства"
+
+msgid "SETTINGS_MARKERS_ICON_SECTOR_EDGES"
+msgstr "Иконки территорий по краям"
+
+msgid "SETTINGS_MARKERS_ICON_WING_BOMBERS_EDGES"
+msgstr "Иконка звена бомбардировщиков по краям"
+
+msgid "SETTINGS_MARKERS_INFLUENCE_POINTS"
+msgstr "Ресурсы"
+
+msgid "SETTINGS_MARKERS_IN_CENTER"
+msgstr "По центру"
+
+msgid "SETTINGS_MARKERS_IN_USE_IN_CD"
+msgstr "При использовании и во время восстановления"
+
+msgid "SETTINGS_MARKERS_KEY_FOR_BOMB_DROP"
+msgstr "Клавиша сброса бомб"
+
+msgid "SETTINGS_MARKERS_KILL_DEFENDER"
+msgstr "Уничтожение защитников"
+
+msgid "SETTINGS_MARKERS_MASHINEGUN"
+msgstr "Пулемёт"
+
+msgid "SETTINGS_MARKERS_MEDIUM_SIZE"
+msgstr "Средний"
+
+msgid "SETTINGS_MARKERS_MESSAGES_DIAMETER_AREA"
+msgstr "Подпись «Радиус видимой области»"
+
+msgid "SETTINGS_MARKERS_MESSAGE_APPLY_SETTINGS"
+msgstr ""
+"Tus ajustes para el preajuste {template_name_list} serán reemplazados por "
+"los ajustes actuales.<br><font size='6'><br></font>¿Aplicar cambios?"
+
+msgid "SETTINGS_MARKERS_MESSAGE_APPLY_SETTINGS_LIST"
+msgstr ""
+"Tus ajustes para los preajustes: {template_name_list}serán reemplazados por "
+"los ajustes actuales.<br><font size='6'><br></font>¿Aplicar cambios?"
+
+msgid "SETTINGS_MARKERS_MINIMUM"
+msgstr "Mínimo"
+
+msgid "SETTINGS_MARKERS_MODE_ALT"
+msgstr "Alternativo (con la tecla {key} pulsada)"
+
+msgid "SETTINGS_MARKERS_MODE_BASIC"
+msgstr "Básico"
+
+msgid "SETTINGS_MARKERS_MY_WING_PARTNER"
+msgstr "Мой звеньевой"
+
+msgid "SETTINGS_MARKERS_NAME_COMPLEX"
+msgstr "Название комплекса"
+
+msgid "SETTINGS_MARKERS_NAME_PLANE"
+msgstr "Nombre del avión"
+
+msgid "SETTINGS_MARKERS_NAME_PLAYER"
+msgstr "Nombre del jugador"
+
+msgid "SETTINGS_MARKERS_NEVER"
+msgstr "Никогда"
+
+msgid "SETTINGS_MARKERS_ON_EDGES_SCREEN"
+msgstr "По краям экрана"
+
+msgid "SETTINGS_MARKERS_OVERHEATING_SCALE"
+msgstr "Шкала перегрева орудий"
+
+msgid "SETTINGS_MARKERS_OVERHEATING_SCALE_ICON"
+msgstr "Иконка шкалы перегрева орудий"
+
+msgid "SETTINGS_MARKERS_PLANES_MODEL"
+msgstr "Модели самолётов"
+
+msgid "SETTINGS_MARKERS_PLANE_WEAPONS"
+msgstr "Орудия самолёта"
+
+msgid "SETTINGS_MARKERS_PLAYERS_ARROW"
+msgstr "Игроки (стрелки)"
+
+msgid "SETTINGS_MARKERS_PLAYERS_ICON_CLASS"
+msgstr "Игроки (иконки класса)"
+
+msgid "SETTINGS_MARKERS_POINTS_PER_TICK"
+msgstr "Будет начислено в тик"
+
+msgid "SETTINGS_MARKERS_POINT_HP_RESTORE"
+msgstr "Точка восстановления прочности"
+
+msgid "SETTINGS_MARKERS_QUICKFIRE_GUN"
+msgstr "Скорострельная пушка"
+
+msgid "SETTINGS_MARKERS_RADAR_SIZE"
+msgstr "Размер"
+
+msgid "SETTINGS_MARKERS_RADAR_ZOOM"
+msgstr "Приближение радара"
+
+msgid "SETTINGS_MARKERS_RADIUS_ENEMY_DETECTION"
+msgstr "Граница перехода в дистанцию выбора цели"
+
+msgid "SETTINGS_MARKERS_RADIUS_POINT_HP_RESTORE"
+msgstr "Радиус точки восстановления"
+
+msgid "SETTINGS_MARKERS_RANGE_OF_VIEW"
+msgstr "Радиус радара"
+
+msgid "SETTINGS_MARKERS_RESET_TO_DEFAULT"
+msgstr "Reiniciar a por defecto"
+
+msgid "SETTINGS_MARKERS_ROTATE_MAP_PIN_PLAYER"
+msgstr "Вращать карту, маркер игрока закреплён"
+
+msgid "SETTINGS_MARKERS_ROTATE_PLAYER_PIN_MAP"
+msgstr "Вращать маркер игрока, карта закреплена"
+
+msgid "SETTINGS_MARKERS_SCALE"
+msgstr "Масштаб"
+
+msgid "SETTINGS_MARKERS_SCALE_FOR_AVAILABLE_BOMB"
+msgstr "Шкала доступных для сброса бомб"
+
+msgid "SETTINGS_MARKERS_SCALE_HP_BOOST"
+msgstr "Шкалы прочности и форсажа"
+
+msgid "SETTINGS_MARKERS_SCALE_PLANE_HEALTH"
+msgstr "Шкала прочности самолёта"
+
+msgid "SETTINGS_MARKERS_SCOPE"
+msgstr "Punto de mira"
+
+msgid "SETTINGS_MARKERS_SECTOR_MESSAGES"
+msgstr "Надпись «Текущая территория»"
+
+msgid "SETTINGS_MARKERS_SELECTED_TARGET"
+msgstr "Выбранная цель"
+
+msgid "SETTINGS_MARKERS_SENSORS_DIGITAL_GLASSES"
+msgstr "Цифровые показатели датчиков"
+
+msgid "SETTINGS_MARKERS_SHOW"
+msgstr "Отображать"
+
+msgid "SETTINGS_MARKERS_SHOW_ALTERNATIVE_HUD"
+msgstr "Para ver la interfaz en el modo alternativo, pulsa y mantén {key}"
+
+msgid "SETTINGS_MARKERS_SHOW_BOOST"
+msgstr "Отображать форсаж"
+
+msgid "SETTINGS_MARKERS_SKILL_PILOT_INACTIVE"
+msgstr "Умения пилота (неактивные)"
+
+msgid "SETTINGS_MARKERS_SMALL_SIZE"
+msgstr "Pequeño"
+
+msgid "SETTINGS_MARKERS_SPEED_NUMBER"
+msgstr "Счётчик скорости"
+
+msgid "SETTINGS_MARKERS_SPEED_SCALE"
+msgstr "Indicador de velocidad"
+
+msgid "SETTINGS_MARKERS_STALL_SPEED"
+msgstr "Velocidad en pérdida"
+
+msgid "SETTINGS_MARKERS_START_POINT_RESPAWN"
+msgstr "Стартовая точка (респаун)"
+
+msgid "SETTINGS_MARKERS_TACTICAL_MARKER_COMPEX"
+msgstr "Тактический маркер комплекса"
+
+msgid "SETTINGS_MARKERS_TARGET_DISTANCE"
+msgstr "Distancia al objetivo"
+
+msgid "SETTINGS_MARKERS_TEMPLATE_NAME"
+msgstr "Preajuste: {template_name}"
+
+msgid "SETTINGS_MARKERS_TEXT_BOOST"
+msgstr "Надпись «Форсаж»"
+
+msgid "SETTINGS_MARKERS_TEXT_HIGHT_CEILING"
+msgstr "Надпись «Потолок высоты»"
+
+msgid "SETTINGS_MARKERS_TEXT_PLANE_HEALTH"
+msgstr "Надпись «Прочность самолёта»"
+
+msgid "SETTINGS_MARKERS_TEXT_STALL_SPEED"
+msgstr "Надпись «Скорость сваливания»"
+
+msgid "SETTINGS_MARKERS_TIMER_COMPLEX_BLOKED"
+msgstr "Таймер блокировки комплекса"
+
+msgid "SETTINGS_MARKERS_TIMER_PROPERTY"
+msgstr "Таймер свойства"
+
+msgid "SETTINGS_MARKERS_TIPS_HOTKEYS"
+msgstr "Подсказки по горячим клавишам"
+
+msgid "SETTINGS_MARKERS_TIPS_HOT_KEYS"
+msgstr "Подсказки по горячим клавишам"
+
+msgid "SETTINGS_MARKERS_TIP_FOR_NEED_TO_DO"
+msgstr "Подсказка о требуемом действии"
+
+msgid "SETTINGS_MARKERS_TO_SEE_ALT_CONFIG"
+msgstr "Para ver los marcadores en modo alternativo, mantén"
+
+msgid "SETTINGS_MARKERS_TO_SEE_BASE_CONFIG"
+msgstr "Para ver los marcadores en modo básico, suelta"
+
+msgid "SETTINGS_MARKERS_TYPE_ALTIMETER"
+msgstr "Tipo de altímetro"
+
+msgid "SETTINGS_MARKERS_VECTOR_INFLUENCE_COMPLEX"
+msgstr "Вектор влияния комплекса"
+
+msgid "SETTINGS_MARKERS_VIEW_MARKERS"
+msgstr "Previsualización del marcador"
+
+msgid "SETTINGS_MARKERS_WING_BOMBERS"
+msgstr "Звено бомбардировщиков"
+
+msgid "SETTINGS_MARKERS_ZOOM_CLOSE"
+msgstr "Cerca"
+
+msgid "SETTINGS_MARKERS_ZOOM_FAR"
+msgstr "Lejos"
+
+msgid "SETTINGS_MARKERS_ZOOM_MEDIUM"
+msgstr "Medio"
+
+msgid "SETTINGS_MAXIMAL"
+msgstr "Máximo"
+
+msgid "SETTINGS_MESSAGES_DESCRIPTION_CHANGE"
+msgstr ""
+"Para configurar la interfaz de batalla, posa el cursor sobre y selecciona "
+"las opciones en la izquierda."
+
+msgid "SETTINGS_MESSAGE_BUTTON_ALREADY_ASSIGNED"
+msgstr ""
+"{button} ya está asignado a {function}. Haz clic en {apply_button} para "
+"reasignar."
+
+msgid "SETTINGS_MESSAGE_CAN_USE_HD"
+msgstr ""
+"El cliente del juego descubrió que tu ordenador puede usar texturas de alta "
+"calidad. Puedes descargarlas ahora (unos 6 GB)."
+
+msgid "SETTINGS_MESSAGE_CAN_USE_HD_DOWNLOAD_BUTTON"
+msgstr ""
+"Se han detectado y aplicado automáticamente nuevos ajustes gráficos. Para "
+"comenzar a jugar con la mejor calidad gráfica, reinicia el juego y cambia el "
+"tipo de cliente a HD. Tras descargar la actualización, podrás cambiar la "
+"calidad gráfica en el cliente del juego."
+
+msgid "SETTINGS_MESSAGE_CHANGE_AXIS_CONFIRM"
+msgstr ""
+"«{button_name}» está actualmente asignado a «{action_name}». ¿Reasignas el "
+"eje?"
+
+msgid "SETTINGS_MESSAGE_CHANGE_BUTTON_CONFIRM"
+msgstr ""
+"La tecla «{button_name}» está actualmente asignada a «{action_name}». "
+"¿Reasignas la tecla?"
+
+msgid "SETTINGS_MESSAGE_CLICK_BUTTON_TO_ASSIGN"
+msgstr "Pulsa la tecla que quieres asignar para esta acción."
+
+msgid "SETTINGS_MESSAGE_CROSSHAIR_TUNES_NOT_VAILABLE_FOR_OLD_SCHEME"
+msgstr ""
+"¡Atención! Los ajustes de la retícula están disponibles solo para tipos de "
+"interfaz de batalla mínimos y de WoT."
+
+msgid "SETTINGS_MESSAGE_HD_DOWNLOAD_INSTRUCTION"
+msgstr ""
+"La selección de la mejor calidad gráfica requiere la descarga de las "
+"texturas en HD. Para comenzar a jugar con la mejor calidad gráfica, reinicia "
+"el juego y cambia el tipo de cliente a HD. Tras descargar la actualización, "
+"podrás cambiar la calidad gráfica en el cliente del juego."
+
+msgid "SETTINGS_MESSAGE_HD_UNAVAILABLE_NEED_64BIT"
+msgstr ""
+"Las texturas en alta calidad no están disponibles para tu sistema operativo "
+"actual (disponible solamente para Windows en 64 bits)."
+
+msgid "SETTINGS_MESSAGE_NEED_64BIT_FOR_HD"
+msgstr ""
+"Las texturas en alta calidad solamente están disponibles para Windows en 64 "
+"bits."
+
+msgid "SETTINGS_MESSAGE_NEED_DOWNLOAD_AND_RESTART_FOR_HD"
+msgstr ""
+"Seleccionar las texturas de alta calidad requiere descargar las texturas en "
+"HD y reiniciar el juego."
+
+msgid "SETTINGS_MESSAGE_NEED_LOAD_HD_DOWNLOAD_BUTTON"
+msgstr ""
+"Seleccionar las texturas de alta calidad requiere descargar las texturas en "
+"HD. Haz clic en {download_button} para cerrar el cliente del juego y "
+"comenzar a descargar e instalar las texturas en HD."
+
+msgid "SETTINGS_MESSAGE_NEED_RESTART_FOR_CHANGE_TEXTURES"
+msgstr "Reinicia el juego y cambia la calidad de las texturas."
+
+msgid "SETTINGS_MESSAGE_NEED_RESTART_FOR_HD"
+msgstr "Seleccionar las texturas de alta calidad requiere reiniciar el juego."
+
+msgid "SETTINGS_MESSAGE_NEW_ASSIGN_IS_SAME"
+msgstr "Esta tecla ya está asignada a esta acción."
+
+msgid "SETTINGS_MESSAGE_OPTION_AVAILABLE_ON_COMMON_PROFILE_ONLY"
+msgstr "Esos ajustes están ahora disponibles solo para la interfaz estándar."
+
+msgid "SETTINGS_MESSAGE_PARTLY_UNAVAILABLE_FOR_32BIT"
+msgstr ""
+"¡Atención! Algunos ajustes no están disponibles para Windows en 32 bits."
+
+msgid "SETTINGS_MESSAGE_REPLACE_WITH_PATTERN_NAME"
+msgstr ""
+"¡Atención!<br><font size='6'><br></font>Estás a punto de cambiar tus ajustes "
+"de control personalizados. Serán reemplazados por los ajustes del preajuste "
+"«{pattern_name}».<br><font size='6'><br></font>¿Guardar cambios?"
+
+msgid "SETTINGS_MESSAGE_SETTINGS_BANDED_TO_CONTROL_PROFILE"
+msgstr ""
+"¡Atención! Esos ajustes están asociados con el esquema de control {name} y "
+"pueden cambiar si seleccionas otro."
+
+msgid "SETTINGS_MESSAGE_SETTINGS_BOUND_TO_CONTROL_PROFILE"
+msgstr ""
+"¡Atención! Los ajustes pueden cambiar si seleccionas otro esquema de control."
+
+msgid "SETTINGS_MESSAGE_SETTINGS_CHANGE_WARNING"
+msgstr ""
+"¡Atención! Seleccionar otro esquema de control puede cambiar algunos ajustes "
+"en Batalla > General, Batalla > Interfaz, y Batalla > Retícula."
+
+msgid "SETTINGS_MESSAGE_SETTINGS_TO_DEFAULTS_CONFIRMATION"
+msgstr "¿Restaurar el esquema actual de control a por defecto?"
+
+msgid "SETTINGS_MINIMAL"
+msgstr "Mínimo"
+
+msgid "SETTINGS_MISSING"
+msgstr "Modo 2"
+
+msgid "SETTINGS_MOUSE"
+msgstr "Ratón"
+
+msgid "SETTINGS_MOUSE_HEADER_MIXING"
+msgstr "Prioridad del teclado:"
+
+msgid "SETTINGS_MOUSE_MIXING_ALWAYS"
+msgstr "Ratón y teclado"
+
+msgid "SETTINGS_MOUSE_MIXING_BATTLECAM_ONLY"
+msgstr "Combinado"
+
+msgid "SETTINGS_MOUSE_MIXING_HALF"
+msgstr "Teclado"
+
+msgid "SETTINGS_MOUSE_PATTERN_FIXED_HORIZON"
+msgstr "Horizonte fijado"
+
+msgid "SETTINGS_MOUSE_PATTERN_FOLLOW_PLANE"
+msgstr "Tras el avión"
+
+msgid "SETTINGS_MOUSE_PATTERN_MOVING_HORIZON"
+msgstr "Horizonte en movimiento"
+
+msgid "SETTINGS_MOUSE_PATTERN_PERSONAL"
+msgstr "Personalizado"
+
+msgid "SETTINGS_MOUSE_PATTERN_SELECTOR"
+msgstr "Preajuste del ratón:"
+
+msgid "SETTINGS_MOUSE_SETTINGS_CHOSEN_TYPE"
+msgstr "Preajuste del ratón actual:"
+
+msgid "SETTINGS_MOUSE_VERTICAL_INVERSION"
+msgstr "Invertir ratón verticalmente"
+
+msgid "SETTINGS_MOUSE_X_INVERSION_TOGGLE"
+msgstr "Inversión horizontal"
+
+msgid "SETTINGS_MOVE_JOYSTICK_TO_ASSIGN_AXIS"
+msgstr "Mueve el joystick a lo largo del eje requerido."
+
+msgid "SETTINGS_MOVE_TO_ASSIGN"
+msgstr "Establecer el eje de control."
+
+msgid "SETTINGS_NAVIGATION"
+msgstr "Área de minimapa/radar"
+
+msgid "SETTINGS_NEW_BUTTON"
+msgstr "Nueva tecla"
+
+msgid "SETTINGS_OLD_BUTTON"
+msgstr "Tecla actual:"
+
+msgid "SETTINGS_OLD_FOV_CHECKBOX"
+msgstr "CdV antiguo"
+
+msgid "SETTINGS_OLD_FOV_CHECKBOX_TOOLTIP"
+msgstr ""
+"Restaura el campo de visión de la cámara en batalla usado antes de la "
+"versión 1.3."
+
+msgid "SETTINGS_OPTION_BANK_SWITCH"
+msgstr "Auto alabear en turnos"
+
+msgid "SETTINGS_OPTION_MAP_OR_RADAR"
+msgstr "Minimapa/radar"
+
+msgid "SETTINGS_PLANE_TYPE_ASSAULT"
+msgstr "Avión de ataque"
+
+msgid "SETTINGS_PLANE_TYPE_FIGHTER"
+msgstr "Caza"
+
+msgid "SETTINGS_PLANE_TYPE_HEAVY_FIGHTER"
+msgstr "Caza pesado"
+
+msgid "SETTINGS_PLANE_TYPE_NAVY"
+msgstr "Caza polivalente"
+
+msgid "SETTINGS_PLAYER_HEALTH_INDICATION_VARIANT_HP"
+msgstr "Puntos"
+
+msgid "SETTINGS_PLAYER_HEALTH_INDICATION_VARIANT_PERCENT"
+msgstr "Porcentaje"
+
+msgid "SETTINGS_PRESS_A_KEY"
+msgstr "Asigna una tecla:"
+
+msgid "SETTINGS_RADAR"
+msgstr "Radar"
+
+msgid "SETTINGS_RADAR_DESCRIPTION"
+msgstr ""
+"Un radar tiene capacidades funcionales extendidas en comparación con las "
+"capacidades de un minimapa y ofrece una gran ayuda a los aviones que se "
+"enfrentan en duelos aéreos."
+
+msgid "SETTINGS_RECOMENDED"
+msgstr "Solamente ajustes básicos"
+
+msgid "SETTINGS_REPLAY_AUTO_DELETE_REPLAYS_DESCRIPTION"
+msgstr ""
+"Borrar todas las repeticiones más antiguas que el número seleccionado de "
+"días."
+
+msgid "SETTINGS_REPLAY_AUTO_DELETE_REPLAYS_OVER"
+msgstr "Borrar automáticamente las repeticiones de hace"
+
+msgid "SETTINGS_REPLAY_AUTO_DELETE_REPLAYS_OVER_DAYS"
+msgstr "días"
+
+msgid "SETTINGS_REPLAY_CAPTURE_BATTLES_DESCRIPTION"
+msgstr "Guardar repeticiones de las batallas para verlas después."
+
+msgid "SETTINGS_REPLAY_CAPTURE_BATTLES_HEADER"
+msgstr "Repeticiones de las batallas"
+
+msgid "SETTINGS_REPLAY_CAPTURE_BATTLES_MESSAGE"
+msgstr "Guardar repeticiones de las batallas"
+
+msgid "SETTINGS_REPLAY_CAPTURE_BATTLES_TESTMODE"
+msgstr "(Modo de prueba)"
+
+msgid "SETTINGS_REPLAY_CONTEXT_ENTER_FILE_PATH"
+msgstr "Selecciona una carpeta para guardar los archivos de reproducción"
+
+msgid "SETTINGS_REPLAY_MESSAGE_ENTER_FILE_PATH"
+msgstr "Selecciona una carpeta para guardar los archivos de reproducción"
+
+msgid "SETTINGS_REPLAY_PATH_OPTION_CHOOSE"
+msgstr "Seleccionar"
+
+msgid "SETTINGS_REPLAY_PATH_OPTION_CREATE"
+msgstr "Crear"
+
+msgid "SETTINGS_ROLL_INDICATOR"
+msgstr "Indicador de ladeo"
+
+msgid "SETTINGS_ROTATE_RADAR-MINIMAP"
+msgstr "Rotar el mapa (marcador del jugador anclado)"
+
+msgid "SETTINGS_SCREENSHOTS_SAVE_IN_FOLDER"
+msgstr "Ruta a la carpeta de las capturas de pantalla"
+
+msgid "SETTINGS_SCREEN_RESOLUTION"
+msgstr "Resolución de pantalla"
+
+msgid "SETTINGS_SENSITIVITY"
+msgstr "Sensibilidad:"
+
+msgid "SETTINGS_SETTINGS_HEADER_SETTINGS_TO_DEFAULTS_CONFIRMATION"
+msgstr "Restaurar ajustes"
+
+msgid "SETTINGS_SHOOTING_REAR_GUNNER_MODE"
+msgstr "Dispara en el modo de control del artillero"
+
+msgid "SETTINGS_SHOW"
+msgstr "Mostrar"
+
+msgid "SETTINGS_SHOW_ALL"
+msgstr "Todos los controles"
+
+msgid "SETTINGS_SHOW_AVIAHORIZON"
+msgstr "Mostrar el indicador de posición"
+
+msgid "SETTINGS_SHOW_BATTLE_RECOMENDATIONS"
+msgstr "Recomendaciones de batalla"
+
+msgid "SETTINGS_SHOW_FPS_PING"
+msgstr "FPS, ping, pérdida de paquetes"
+
+msgid "SETTINGS_SHOW_IGNORED"
+msgstr "Mostrar jugadores ignorados"
+
+msgid "SETTINGS_SHOW_TIPS_HOTKEYS"
+msgstr "Consejos sobre las teclas rápidas"
+
+msgid "SETTINGS_SMALL"
+msgstr "Reducido"
+
+msgid "SETTINGS_SNIPER_MODE"
+msgstr "Modo francotirador"
+
+msgid "SETTINGS_SOUND"
+msgstr "Volumen"
+
+msgid "SETTINGS_SOUNDS_AMBIENT"
+msgstr "Ambiente:"
+
+msgid "SETTINGS_SOUNDS_ARENA"
+msgstr "Música:"
+
+msgid "SETTINGS_SOUNDS_EFFECTS"
+msgstr "Efectos:"
+
+msgid "SETTINGS_SOUNDS_INTERFACE"
+msgstr "Efectos de sonido de la interfaz:"
+
+msgid "SETTINGS_SOUNDS_MASTER_VOLUME"
+msgstr "Nivel de volumen general:"
+
+msgid "SETTINGS_SOUNDS_VEHICLES"
+msgstr "Avión:"
+
+msgid "SETTINGS_SOUNDS_VOICE"
+msgstr "Mensajes de voz:"
+
+msgid "SETTINGS_SOUND_INTERFACE_VOLUME"
+msgstr "Efectos de sonido de la interfaz:"
+
+msgid "SETTINGS_SOUND_MIC_ACTIVATION"
+msgstr "Pulsar para hablar"
+
+msgid "SETTINGS_SOUND_PLAYERS_NOTIFICATIONS"
+msgstr "Notificaciones de otros jugadores"
+
+msgid "SETTINGS_SOUND_VIVOX"
+msgstr "Test Vivox"
+
+msgid "SETTINGS_SOUND_VIVOX_BUTTON_CAPTURE_DEVICES_REFRESH"
+msgstr "Actualizar dispositivos"
+
+msgid "SETTINGS_SOUND_VIVOX_BUTTON_TEST_START"
+msgstr "Iniciar test"
+
+msgid "SETTINGS_SOUND_VIVOX_BUTTON_TEST_STOP"
+msgstr "Finalizar test"
+
+msgid "SETTINGS_SOUND_VIVOX_FADE_VOLUME"
+msgstr "Volumen general de ambiente durante el chat:"
+
+msgid "SETTINGS_SOUND_VIVOX_MASTER_VOLUME"
+msgstr "Volumen del chat de voz:"
+
+msgid "SETTINGS_SOUND_VIVOX_MIC_SENSITIVITY"
+msgstr "Umbral de activación del micrófono:"
+
+msgid "SETTINGS_SPEAKERS_MODE"
+msgstr "Modo altavoces"
+
+msgid "SETTINGS_SPEED_POINTER"
+msgstr "Velocidad del cursor"
+
+msgid "SETTINGS_SPEED_SCALE"
+msgstr "Indicador de velocidad"
+
+msgid "SETTINGS_STANDART"
+msgstr "Estándar"
+
+msgid "SETTINGS_STANDART_MODE"
+msgstr "Modo estándar"
+
+msgid "SETTINGS_STICK"
+msgstr "Configuración del joystick"
+
+msgid "SETTINGS_STYLE_SWITCH_MOUSE"
+msgstr "Estilo de cambio:"
+
+msgid "SETTINGS_SUPERMOUSE_"
+msgstr "Ratón 0.5.1"
+
+msgid "SETTINGS_SUPERMOUSE_ATTARCTION_FORCE"
+msgstr "Tipo de giro"
+
+msgid "SETTINGS_SUPERMOUSE_ATTRACTION_ZONE_RADIUS"
+msgstr "Ángulo entre el cursor del ratón y la dirección del avión"
+
+msgid "SETTINGS_SUPERMOUSE_BUTTON_ADDITIONAL_OPTIONS"
+msgstr "Ajustes avanzados del ratón"
+
+msgid "SETTINGS_SUPERMOUSE_BUTTON_RESET_SETTINGS"
+msgstr "Restaurar ajustes"
+
+msgid "SETTINGS_SUPERMOUSE_CHECKBOX_AUTOMATIC_FLAPS"
+msgstr "Flaps automáticos"
+
+msgid "SETTINGS_SUPERMOUSE_CHECKBOX_SAFE_ROLL_ON_LOW_ALTITUDE"
+msgstr "Limitar alabeo a baja altura"
+
+msgid "SETTINGS_SUPERMOUSE_CHEKBOX_VERTICAL_INVERSION"
+msgstr "Inversión vertical"
+
+msgid "SETTINGS_SUPERMOUSE_HEADER_ADDITIONAL_SETTINGS"
+msgstr "Ajustes avanzados del ratón"
+
+msgid "SETTINGS_SUPERMOUSE_TRACKING_ZONE"
+msgstr "Zona efectiva:"
+
+msgid "SETTINGS_SUPERMOUSE_TRACKING_ZONE_SOZE"
+msgstr "Tamaño de la zona efectiva:"
+
+msgid "SETTINGS_SWITCHER"
+msgstr "Modo conmutador"
+
+msgid "SETTINGS_SWITCH_MODE_MOUSE"
+msgstr "Cambiar entre modos"
+
+msgid "SETTINGS_TEAM_VOICE_CHAT_ACTIVATION"
+msgstr "Habilitar/deshabilitar el chat de voz en equipo"
+
+msgid "SETTINGS_TEAM_VOICE_CHAT_ENABLE"
+msgstr "Usar chat de voz en equipo automáticamente"
+
+msgid "SETTINGS_TILT_SCALE"
+msgstr "Indicador de cabeceo"
+
+msgid "SETTINGS_TOGGLE_ALTERNATE_COLOR_MODE"
+msgstr "Cambiar a modo de color alternativo"
+
+msgid "SETTINGS_TOGGLE_ALTERNATE_COLOR_MODE_DESCRIPTION"
+msgstr "Modo daltónico: se reemplaza el color rojo por el violeta."
+
+msgid "SETTINGS_TOGGLE_ASSAULT_MODE"
+msgstr "Modo de ametrallamiento"
+
+msgid "SETTINGS_TOGGLE_SNIPER_MODE_DESCRIPTION"
+msgstr "Modo que habilita una versión alargada del objetivo."
+
+msgid "SETTINGS_TOOLTIP_ALTIMETER"
+msgstr ""
+"Indica la altitud a la cual el motor de tu avión rinde al máximo, i.e. "
+"alcanza la máxima velocidad en vuelo y maniobrabilidad."
+
+msgid "SETTINGS_TOOLTIP_ARMAMENT"
+msgstr ""
+"Muestra el nivel de calentamiento de las armas, los cohetes y bombas "
+"disponibles y un indicador dinámico de la disponibilidad del impulsor."
+
+msgid "SETTINGS_TOOLTIP_CRITS"
+msgstr ""
+"Muestra el daño crítico de los módulos del avión y las heridas de los "
+"tripulantes."
+
+msgid "SETTINGS_TOOLTIP_DEVICES_CROSSHAIR"
+msgstr ""
+"Muestra el área a donde van los proyectiles cuando disparas con cañones o "
+"ametralladoras."
+
+msgid "SETTINGS_TOOLTIP_DEVICES_RADAR_NO_HEADER"
+msgstr "Muestra la posición de los demás aviones en relación al tuyo."
+
+msgid "SETTINGS_TOOLTIP_EQUIPMENT"
+msgstr "Muestra los consumibles disponibles."
+
+msgid "SETTINGS_TOOLTIP_HEADER_HP_INDICATOR"
+msgstr "Indicador de PV"
+
+msgid "SETTINGS_TOOLTIP_HP_INDICATOR"
+msgstr "Muestra los PV actuales del avión."
+
+msgid "SETTINGS_TOOLTIP_MINI-MAP"
+msgstr "Muestra la posición de jugadores y objetos en el mapa."
+
+msgid "SETTINGS_TOOLTIP_SPEEDOMETER"
+msgstr ""
+"Indica la velocidad en vuelo óptima para la maniobrabilidad máxima del avión "
+"(en altitud óptima)."
+
+msgid "SETTINGS_TOOLTIP_SUPERIORITY"
+msgstr ""
+"Muestra el progreso de la batalla para cada equipo. Un equipo que consigue "
+"una superioridad del 100 % gana la batalla."
+
+msgid "SETTINGS_TOUGH_HANDLE"
+msgstr "Atraer el cursor al centro"
+
+msgid "SETTINGS_TRIPLE_BUFFERING"
+msgstr "Triple buffering"
+
+msgid "SETTINGS_USER_MARKER_TEMPLATE_ASSAULT"
+msgstr "Avión de ataque (personalizado)"
+
+msgid "SETTINGS_USER_MARKER_TEMPLATE_EXPLANATION"
+msgstr "Personalizado"
+
+msgid "SETTINGS_USER_MARKER_TEMPLATE_FIGHTER"
+msgstr "Caza (personalizado)"
+
+msgid "SETTINGS_USER_MARKER_TEMPLATE_HEAVY_FIGHTER"
+msgstr "Caza pesado (personalizado)"
+
+msgid "SETTINGS_USER_MARKER_TEMPLATE_NAVY"
+msgstr "Caza polivalente (personalizado)"
+
+msgid "SETTINGS_VERTICAL"
+msgstr "Sensibilidad vertical"
+
+msgid "SETTINGS_VOICE_CHAT"
+msgstr "Chat de voz"
+
+msgid "SETTINGS_VOICE_CHAT_ENABLE"
+msgstr "Habilitar el chat de voz"
+
+msgid "SETTINGS_VOICE_CHAT_MICROPHONE"
+msgstr "Micrófono:"
+
+msgid "SETTINGS_VOICE_CHAT_PTT"
+msgstr "Establecer pulsa para hablar"
+
+msgid "SETTINGS_VOLUME_MOTOR"
+msgstr "Motor:"
+
+msgid "SETTINGS_VOLUME_SHOTS"
+msgstr "Fuego:"
+
+msgid "SETTINGS_VSYNC"
+msgstr "Sincronización vertical"
+
+msgid "SETTINGS_WARNING_DESCRIPTION_FOR_EXP_PLAYERS"
+msgstr "¡Atención! Las opciones avanzadas son para jugadores experimentados."
+
+msgid "SETTINGS_WIDESCREEN"
+msgstr "Modo de pantalla amplia"
+
+msgid "SETTINGS_WINDOWED"
+msgstr "Modo Ventana"
+
+msgid "SETTINGS_WINDOW_CONFIRMATION_ALL_SETTINGS_RESTORE_MESSAGE"
+msgstr "¿Restaurar todos los ajustes a por defecto?"
+
+msgid "SETTINGS_WINDOW_CONFIRMATION_SAVE_SETTINGS_MESSAGE"
+msgstr "¿Guardar ajustes antes de salir?"
+
+msgid "SETTINGS_WINDOW_CONFIRMATION_SHEME_SETTINGS_RESTORE_MESSAGE"
+msgstr ""
+"¿Restaurar todos los ajustes para el esquema actual de control a por defecto?"
+
+msgid "SETTINGS_WINDOW_CONFIRMATION_ULTRALOW_SETTINGS"
+msgstr ""
+"Los ajustes gráficos muy bajos reducen significativamente la calidad de "
+"imagen.<br><font size='6'><br></font>¿Aplicar ajustes gráficos muy bajos?"
+
+msgid "SETTINGS_WINDOW_SAVE_CONTROLS_HEADER"
+msgstr "Guardar Ajustes"
+
+msgid "SETTINGS_WINDOW_SAVE_CONTROLS_MESSAGE"
+msgstr "¿Guardas los ajustes actuales del esquema de control?"
+
+msgid "SHADER_MODEL_2"
+msgstr "Versión 2"
+
+msgid "SHADER_MODEL_3"
+msgstr "Versión 3"
+
+msgid "SIMPLE_CONTROLS"
+msgstr "Ajustes básicos"
+
+msgid "SOUND_CONFIGURATION"
+msgstr "Configuración"
+
+msgid "SOUND_LEVEL_TEXT"
+msgstr "Volumen"
+
+msgid "SOUND_QUALITY_SETTINGS_CONTEXT"
+msgstr "Calidad del sonido:"
+
+msgid "SOUND_QUALITY_SETTINGS_HEADER"
+msgstr "Calidad del sonido"
+
+msgid "SOUND_QUALITY_SETTINGS_HIGH"
+msgstr "Alto (64)"
+
+msgid "SOUND_QUALITY_SETTINGS_LOW"
+msgstr "Bajo (16)"
+
+msgid "SOUND_QUALITY_SETTINGS_MEDIUM"
+msgstr "Medio (32)"
+
+msgid "SOUND_QUALITY_SETTINGS_TURN_OFF"
+msgstr "Silenciar"
+
+msgid "SOUND_SETTINGS"
+msgstr "Sonido"
+
+msgid "SOUND_TYPE"
+msgstr "Tipo de dispositivo:"
+
+msgid "SOUND_TYPE_DEFAULT"
+msgstr "Definido"
+
+msgid "SOUND_TYPE_HEADPHONES"
+msgstr "Auriculares"
+
+msgid "SOUND_TYPE_LAPTOP"
+msgstr "Ordenador portátil"
+
+msgid "SUPERMOUSE_CAMERA_ALIGNING"
+msgstr "* Zona de alineación de cámara:"
+
+msgid "SUPERMOUSE_CAMERA_FLEXIBILITY"
+msgstr "Inercia de cámara:"
+
+msgid "SUPERMOUSE_CAMERA_SPEED"
+msgstr "* Régimen de alabeo de cámara:"
+
+msgid "SUPERMOUSE_EQUALIZER_FORCE"
+msgstr "Tasa de nivelación:"
+
+msgid "SUPERMOUSE_EQUALIZER_ZONE_SIZE"
+msgstr "Tamaño de la zona de nivelación:"
+
+msgid "SUPERMOUSE_PLANE_LEAD_OPTION_HORIZON"
+msgstr "Desactivado"
+
+msgid "SUPERMOUSE_PLANE_LEAD_OPTION_SMOOTHED"
+msgstr "Suavizado"
+
+msgid "SUPERMOUSE_PLANE_LEAD_OPTION_UNSMOOTHED"
+msgstr "No suavizado"
+
+msgid "SUPERMOUSE_PLANE_LEAD_RADIOBUTTON"
+msgstr "* Ajuste del rastreo del objetivo"
+
+msgid "SUPERMOUSE_ROLL_SPEED"
+msgstr "Aceleración de alabeo:"
+
+msgid "SUPERMOUSE_ROTATION_ZONE_DEPTH"
+msgstr "Altura de maniobra Split S:"
+
+msgid "SURROUND_SOUND"
+msgstr "Sonido envolvente"
+
+msgid "TERRAIN_SHADER_MODEL_0"
+msgstr "Versión 0"
+
+msgid "TERRAIN_SHADER_MODEL_1"
+msgstr "Versión 1"
+
+msgid "TERRAIN_SHADER_MODEL_1_NO_SPECULAR"
+msgstr "Versión 1.1"
+
+msgid "TERRAIN_SHADER_MODEL_2"
+msgstr "Versión 2"
+
+msgid "TOOLTIP_JOYSTICK_SETTINGS_PITCH"
+msgstr "Rotación del avión alrededor del eje lateral"
+
+msgid "TOOLTIP_JOYSTICK_SETTINGS_ROLL"
+msgstr "Rotación del avión alrededor del eje longitudinal"
+
+msgid "TOOLTIP_JOYSTICK_SETTINGS_THRUST"
+msgstr "Control del empuje del motor"
+
+msgid "TOOLTIP_JOYSTICK_SETTINGS_YAW"
+msgstr "Rotación del avión alrededor del eje vertical"
+
+msgid "TOOLTIP_SETTINGS_GAMEPAD_HORIZONTAL_AXIS"
+msgstr "Rotación del avión en el plano horizontal"
+
+msgid "TOOLTIP_SETTINGS_GAMEPAD_HORIZONTAL_VIEW"
+msgstr "Control de cámara en el plano horizontal"
+
+msgid "TOOLTIP_SETTINGS_GAMEPAD_ROLL"
+msgstr "Rotación del avión alrededor del eje longitudinal"
+
+msgid "TOOLTIP_SETTINGS_GAMEPAD_THRUST"
+msgstr "Control del empuje del motor"
+
+msgid "TOOLTIP_SETTINGS_GAMEPAD_VERTICAL_VIEW"
+msgstr "Control de cámara en el plano vertical"
+
+msgid "TOOLTIP_SETTINGS_JOYSTICK_HORIZONTAL_VIEW"
+msgstr "Control de cámara en el plano horizontal"
+
+msgid "TOOLTIP_SETTINGS_JOYSTICK_VERTICAL_AXIS"
+msgstr "Rotación del avión en el plano vertical"
+
+msgid "TOOLTIP_SETTINGS_JOYSTICK_VERTICAL_VIEW"
+msgstr "Control de cámara en el plano vertical"
+
+msgid "TOOLTIP_TEAM_VOICE_CHAT_ACTIVATION"
+msgstr ""
+"Asignar una tecla para habilitar/deshabilitar el chat de voz en equipo."
+
+msgid "TOOLTIP_TEAM_VOICE_CHAT_ENABLE"
+msgstr "Ingresar en el chat de voz automáticamente en una batalla estándar."
+
+msgid "TRILINEAR"
+msgstr "Trilineal"
+
+msgid "VERYFAR"
+msgstr "Muy lejos"
+
+msgid "VERYHIGH"
+msgstr "Muy alto"
+
+msgid "VERYLOW"
+msgstr "Muy bajo"
+
+msgid "VERYNEAR"
+msgstr "Muy cerca"

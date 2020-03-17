@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-15 10:00+0300\n"
+"Last-Translator: <>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: \n"
+"Language: es\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgid "CAPTCHA"
+msgstr "Защита от ботов"
+
+msgid "CHINA_MIGRATION"
+msgstr "Необходима миграция"
+
+msgid "CURFEW_BAN"
+msgstr "Комендантский час"
+
+msgid "DAILY_LIMIT_EXCEEDED"
+msgstr "Вы превысили суточный лимит проведённого времени в игре"
+
+msgid "EDITING"
+msgstr "Аккаунт заблокирован для редактирования"
+
+msgid "LOGIN_PRIORITY_CHEAT"
+msgstr "Подозрение в жульничестве при входе в игру"
+
+msgid "PARENTAL_CONTROL"
+msgstr "Вы не можете войти в игру из-за настроек родительского контроля"
+
+msgid "PARENT_CONTROL_DAILY"
+msgstr "Вы превысили суточный лимит проведённого времени в игре"
+
+msgid "PARENT_CONTROL_WEEKLY"
+msgstr "Вы превысили недельный лимит проведённого времени в игре"
+
+msgid "PORTAL_DELETION_REQUEST"
+msgstr "Из портала выставлен запрос на удаление"
+
+msgid "SELF_CONTROL_DAILY"
+msgstr "Вы превысили суточный лимит проведённого времени в игре"
+
+msgid "SELF_CONTROL_WEEKLY"
+msgstr "Вы превысили недельный лимит проведённого времени в игре"
+
+msgid "TEAM_KILL"
+msgstr "Aliado destruido"
+
+msgid "WEEKLY_LIMIT_EXCEEDED"
+msgstr "Вы превысили недельный лимит проведённого времени в игре"
+
+msgid "suspended"
+msgstr ""
+"Se va a borrar esta cuenta. Puedes cancelar la solicitud de borrado en tu "
+"página de Gestión de cuenta."
+
+msgid "unsuspending"
+msgstr ""
+"Se está restaurando esta cuenta tras su borrado. Cuando se complete el "
+"proceso de restauración recibirás una notificación por correo electrónico."

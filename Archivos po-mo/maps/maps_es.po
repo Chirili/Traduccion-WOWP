@@ -1,0 +1,2129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: \n"
+"Language: es\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgid "01_NOVOROSSIYSK"
+msgstr "Puerto"
+
+msgid "02_EL_HALLOUF"
+msgstr "El Halluf"
+
+msgid "03_OCEAN"
+msgstr "Océano Pacífico"
+
+msgid "04_NATIONAL_PARK"
+msgstr "Parque nacional"
+
+msgid "05_LIGHTHOUSE"
+msgstr "Faro"
+
+msgid "06_TUTORIAL"
+msgstr "Mapa de entrenamiento"
+
+msgid "07_BAY"
+msgstr "Bahía"
+
+msgid "08_ASIAN_BORDER"
+msgstr "Frontera asiática"
+
+msgid "09_ARCTIC"
+msgstr "Región Ártica"
+
+msgid "10_EASTERN_FRONT"
+msgstr "Frente Oriental"
+
+msgid "11_PLATEAU"
+msgstr "Meseta"
+
+msgid "12_FJORDS"
+msgstr "Fiordos"
+
+msgid "13_HARBOR"
+msgstr "Puerto"
+
+msgid "14_ADRIATIC"
+msgstr "Adriático"
+
+msgid "16_FORTRESS"
+msgstr "Fortaleza"
+
+msgid "17_WINTER_WAR"
+msgstr "Guerra de Invierno"
+
+msgid "18_CONVOY"
+msgstr "Base aérea oculta"
+
+msgid "20_CANYON_"
+msgstr "Cañón"
+
+msgid "23_PROVINCE"
+msgstr "Provincia"
+
+msgid "24_OBSERVATORY"
+msgstr "Observatorio"
+
+msgid "26_NATIONAL_PARK_2"
+msgstr "Parque nacional"
+
+msgid "27_GIANT_DAM"
+msgstr "Presa"
+
+msgid "32_EL_HALLOUF_2"
+msgstr "El Halluf"
+
+msgid "37_ARCTIC_NY"
+msgstr "Laponia"
+
+msgid "40_EL_HALLOUF_3"
+msgstr "El Halluf"
+
+msgid "MAP_CAPS_NAME_HUD_ADRIATIC"
+msgstr "EL CAMINO A ROMA:"
+
+msgid "MAP_CAPS_NAME_HUD_ARCTIC"
+msgstr "MISIÓN PERIFÉRICA:"
+
+msgid "MAP_CAPS_NAME_HUD_ASIAN_BORDER"
+msgstr "FRONTERA ASIÁTICA:"
+
+msgid "MAP_CAPS_NAME_HUD_EASTERN_FRONT"
+msgstr "CUMBRE FRÍA:"
+
+msgid "MAP_CAPS_NAME_HUD_EL_HALLOUF"
+msgstr "ARENAS ARDIENTES:"
+
+msgid "MAP_CAPS_NAME_HUD_FJORDS"
+msgstr "CABEZA DE PUENTE SEPTENTRIONAL:"
+
+msgid "MAP_CAPS_NAME_HUD_FORTRES"
+msgstr "ANTIGUA FORTALEZA:"
+
+msgid "MAP_CAPS_NAME_HUD_HARBOR"
+msgstr "PUERTA DEL MAR:"
+
+msgid "MAP_CAPS_NAME_HUD_LIGHTHOUSE"
+msgstr "ALBIÓN:"
+
+msgid "MAP_CAPS_NAME_HUD_OBSERVATORY"
+msgstr "GAMBITO ALPINO:"
+
+msgid "MAP_CAPS_NAME_HUD_OCEAN"
+msgstr "ARCHIPIÉLAGO:"
+
+msgid "MAP_CAPS_NAME_HUD_PLATEAU"
+msgstr "MESETA:"
+
+msgid "MAP_CAPS_NAME_HUD_WINTER_WAR"
+msgstr "REGIÓN ÁRTICA:"
+
+msgid "MAP_CAPS_SUBNAME_05_LIGHTHOUSE_1"
+msgstr "BAZA"
+
+msgid "MAP_CAPS_SUBNAME_05_LIGHTHOUSE_11_ESC"
+msgstr "TRUENO ONDULANTE"
+
+msgid "MAP_CAPS_SUBNAME_05_LIGHTHOUSE_2"
+msgstr "VOLUNTAD DE HIERRO"
+
+msgid "MAP_CAPS_SUBNAME_05_LIGHTHOUSE_3"
+msgstr "ARGUMENTO DEFINITIVO"
+
+msgid "MAP_CAPS_SUBNAME_05_LIGHTHOUSE_4"
+msgstr "NUDO GORDIANO"
+
+msgid "MAP_CAPS_SUBNAME_05_LIGHTHOUSE_5"
+msgstr "EQUILIBRIO DE FUERZAS"
+
+msgid "MAP_CAPS_SUBNAME_05_LIGHTHOUSE_6"
+msgstr "ALAS DE GUERRA"
+
+msgid "MAP_CAPS_SUBNAME_05_LIGHTHOUSE_8"
+msgstr "ESFERA DE INFLUENCIA"
+
+msgid "MAP_CAPS_SUBNAME_05_LIGHTHOUSE_9_ADD"
+msgstr "ATAQUE COSTERO"
+
+msgid "MAP_CAPS_SUBNAME_09_ARCTIC_1"
+msgstr "GÉLIDO SILENCIO"
+
+msgid "MAP_CAPS_SUBNAME_09_ARCTIC_2"
+msgstr "ONDA DE CHOQUE"
+
+msgid "MAP_CAPS_SUBNAME_09_ARCTIC_3"
+msgstr "TIEMPOS DUROS"
+
+msgid "MAP_CAPS_SUBNAME_09_ARCTIC_4"
+msgstr "PERÍMETRO"
+
+msgid "MAP_CAPS_SUBNAME_09_ARCTIC_5"
+msgstr "TIERRA INCÓGNITA"
+
+msgid "MAP_CAPS_SUBNAME_09_ARCTIC_6"
+msgstr "COSTA NEVADA"
+
+msgid "MAP_CAPS_SUBNAME_09_ARCTIC_7_ADD"
+msgstr "FRÍA REALIDAD"
+
+msgid "MAP_CAPS_SUBNAME_09_ARCTIC_9_ESC"
+msgstr "DESAFÍO FORMIDABLE"
+
+msgid "MAP_CAPS_SUBNAME_10_EASTERN_FRONT_1"
+msgstr "MUROS DE PIEDRA"
+
+msgid "MAP_CAPS_SUBNAME_10_EASTERN_FRONT_2"
+msgstr "PRUEBA DE FUEGO"
+
+msgid "MAP_CAPS_SUBNAME_10_EASTERN_FRONT_3"
+msgstr "PIEDRA ANGULAR DEL CONTROL"
+
+msgid "MAP_CAPS_SUBNAME_10_EASTERN_FRONT_4"
+msgstr "GEMA DE LA MONTAÑA"
+
+msgid "MAP_CAPS_SUBNAME_10_EASTERN_FRONT_5_ESC"
+msgstr "VERDADERA VOCACIÓN"
+
+msgid "MAP_CAPS_SUBNAME_10_EASTERN_FRONT_6_INV"
+msgstr "INTENTO ARRIESGADO"
+
+msgid "MAP_CAPS_SUBNAME_10_EASTERN_FRONT_7"
+msgstr "VIENTO PERFORANTE"
+
+msgid "MAP_CAPS_SUBNAME_12_FJORDS_2"
+msgstr "ESTRELLA POLAR"
+
+msgid "MAP_CAPS_SUBNAME_12_FJORDS_3"
+msgstr "RUPTURA"
+
+msgid "MAP_CAPS_SUBNAME_12_FJORDS_4"
+msgstr "CIELOS HELADOS"
+
+msgid "MAP_CAPS_SUBNAME_12_FJORDS_5"
+msgstr "VALHALLA"
+
+msgid "MAP_CAPS_SUBNAME_12_FJORDS_6"
+msgstr "REDENCIÓN"
+
+msgid "MAP_CAPS_SUBNAME_12_FJORDS_7"
+msgstr "SILENCIO SEPULCRAL"
+
+msgid "MAP_CAPS_SUBNAME_12_FJORDS_8"
+msgstr "PÁJAROS DE PRESA"
+
+msgid "MAP_CAPS_SUBNAME_12_FJORDS_9_ADD"
+msgstr "AVALANCHA DE ACERO"
+
+msgid "MAP_CAPS_SUBNAME_13_HARBOR"
+msgstr "BATALLA POR EL PUERTO"
+
+msgid "MAP_CAPS_SUBNAME_13_HARBOR_3"
+msgstr "ASEDIO"
+
+msgid "MAP_CAPS_SUBNAME_13_HARBOR_4"
+msgstr "CONTRATAQUE"
+
+msgid "MAP_CAPS_SUBNAME_13_HARBOR_5_ESC"
+msgstr "BASTIÓN"
+
+msgid "MAP_CAPS_SUBNAME_13_HARBOR_7_LOW_ATT"
+msgstr "MURO DE FUEGO"
+
+msgid "MAP_CAPS_SUBNAME_13_HARBOR_7_MID_ATT "
+msgstr "MURO DE FUEGO"
+
+msgid "MAP_CAPS_SUBNAME_14_ADRIATIC_1"
+msgstr "LLAMADA DEL DEBER"
+
+msgid "MAP_CAPS_SUBNAME_14_ADRIATIC_10_ESC"
+msgstr "CULMINACIÓN"
+
+msgid "MAP_CAPS_SUBNAME_14_ADRIATIC_2"
+msgstr "CONFRONTACIÓN"
+
+msgid "MAP_CAPS_SUBNAME_14_ADRIATIC_4"
+msgstr "AVANZADILLA"
+
+msgid "MAP_CAPS_SUBNAME_14_ADRIATIC_5"
+msgstr "RUPTURA"
+
+msgid "MAP_CAPS_SUBNAME_14_ADRIATIC_6"
+msgstr "ASCENSIÓN"
+
+msgid "MAP_CAPS_SUBNAME_14_ADRIATIC_7"
+msgstr "TRAMPA"
+
+msgid "MAP_CAPS_SUBNAME_14_ADRIATIC_8_ADD"
+msgstr "OFENSIVA"
+
+msgid "MAP_CAPS_SUBNAME_17_WINTER_WAR_1"
+msgstr "GUERRA DE INVIERNO"
+
+msgid "MAP_CAPS_SUBNAME_17_WINTER_WAR_10_INV"
+msgstr "INCURSIÓN NOCTURNA"
+
+msgid "MAP_CAPS_SUBNAME_17_WINTER_WAR_2"
+msgstr "COLINAS ANCESTRALES"
+
+msgid "MAP_CAPS_SUBNAME_17_WINTER_WAR_3"
+msgstr "FUEGO Y HIELO"
+
+msgid "MAP_CAPS_SUBNAME_17_WINTER_WAR_4"
+msgstr "EXPANSIÓN IMPLACABLE"
+
+msgid "MAP_CAPS_SUBNAME_17_WINTER_WAR_5"
+msgstr "NOTICIAS ALARMANTES"
+
+msgid "MAP_CAPS_SUBNAME_55_EL_HALLOUF_1"
+msgstr "VANGUARDIA"
+
+msgid "MAP_CAPS_SUBNAME_55_EL_HALLOUF_11_ESC"
+msgstr "HACIA EL SOL"
+
+msgid "MAP_CAPS_SUBNAME_55_EL_HALLOUF_2"
+msgstr "HORA DECISIVA"
+
+msgid "MAP_CAPS_SUBNAME_55_EL_HALLOUF_4"
+msgstr "SIROCO"
+
+msgid "MAP_CAPS_SUBNAME_55_EL_HALLOUF_5"
+msgstr "INVASIÓN"
+
+msgid "MAP_CAPS_SUBNAME_55_EL_HALLOUF_8"
+msgstr "EL CONFÍN DEL MUNDO"
+
+msgid "MAP_CAPS_SUBNAME_55_EL_HALLOUF_9_ADD"
+msgstr "ATAQUE EN EL DESIERTO"
+
+msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_1"
+msgstr "CONFRONTACIÓN"
+
+msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_10_ADD"
+msgstr "RÍO ANCESTRAL"
+
+msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_1_ESC"
+msgstr "CATACLISMO"
+
+msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_2"
+msgstr "EFECTO SORPRESA"
+
+msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_20_ADD"
+msgstr "CRESTA ESMERALDA"
+
+msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_4"
+msgstr "CRESTA ESMERALDA"
+
+msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_6"
+msgstr "LÍNEA DEL FRENTE"
+
+msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_8"
+msgstr "PUNTO DE INFLEXIÓN"
+
+msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_9"
+msgstr "MEDIDAS PREVENTIVAS"
+
+msgid "MAP_CAPS_SUBNAME_69_OCEAN_1"
+msgstr "GOLPE DECISIVO"
+
+msgid "MAP_CAPS_SUBNAME_69_OCEAN_2"
+msgstr "ESCOLLO"
+
+msgid "MAP_CAPS_SUBNAME_69_OCEAN_3"
+msgstr "REPRESALIA"
+
+msgid "MAP_CAPS_SUBNAME_69_OCEAN_4"
+msgstr "RECONOCIMIENTO POR FUEGO"
+
+msgid "MAP_CAPS_SUBNAME_69_OCEAN_5_ADD"
+msgstr "ISLAS PERLADAS"
+
+msgid "MAP_CAPS_SUBNAME_69_OCEAN_7_ESC"
+msgstr "PRUEBA DE RESISTENCIA"
+
+msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY"
+msgstr "NIEVE Y CENIZAS"
+
+msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY_13_INV"
+msgstr "GUARNICIÓN OLVIDADA"
+
+msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY_2"
+msgstr "TIERRA INCÓGNITA"
+
+msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY_3"
+msgstr "VERTICAL"
+
+msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY_4"
+msgstr "COLISIÓN"
+
+msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY_5"
+msgstr "DÍA DEL JUICIO"
+
+msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY_6"
+msgstr "DESFILADERO"
+
+msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY_7"
+msgstr "EL MOMENTO DE LA VERDAD"
+
+msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY_8"
+msgstr "EDELWEISS"
+
+msgid "MAP_CAPS_SUBNAME_75_FORTRESS_2"
+msgstr "MANIOBRA DE FLANQUEO"
+
+msgid "MAP_CAPS_SUBNAME_75_FORTRESS_4"
+msgstr "ZONA DE PELIGRO"
+
+msgid "MAP_CAPS_SUBNAME_75_FORTRESS_6_MID_ATT"
+msgstr "ALTERNATIVA"
+
+msgid "MAP_CAPS_SUBNAME_75_FORTRESS_7_ATT"
+msgstr "LINEA DEL FRENTE"
+
+msgid "MAP_CAPS_SUBNAME_75_FORTRES_3"
+msgstr "ENEMIGO A LAS PUERTAS"
+
+msgid "MAP_CAPS_SUBNAME_76_PLATEAU_1"
+msgstr "ATAQUE SORPRESA"
+
+msgid "MAP_CAPS_SUBNAME_76_PLATEAU_10"
+msgstr "VALLE MALDITO"
+
+msgid "MAP_CAPS_SUBNAME_76_PLATEAU_11"
+msgstr "FORTALEZA ABANDONADA"
+
+msgid "MAP_CAPS_SUBNAME_76_PLATEAU_12"
+msgstr "CIELO ARDIENT"
+
+msgid "MAP_HUD_DESCRIPTION_10_EASTERN_FRONT_6_INV"
+msgstr "El enemigo construyó una posición casi inexpugnable en las alturas dominantes en los "
+"fiordos de Noruega. Todos los pasos hacia el continente por tierra son controlado por artillería "
+"y cubierto con confiables fortalezas con bateriasantiaereas. Sin embargo, los cañones estrechos han "
+"quedado desprotegidos. El Comandante tiene un plan audaz: atraviesa los cañones y alcanza el punto "
+"de apoyo desde dos flancos al mismo tiempo."
+
+msgid "MAP_HUD_DESCRIPTION_10_EASTERN_FRONT_7"
+msgstr "Una operación desesperada por el centro del desfiladero nos permitió crear un punto de apoyo "
+"temporal. Sin embargo, inmediatamente se vio amenazado cuando el enemigo lo cerró desde ambos flancos "
+"con fuego de artillería. Es imperativo que la aviación destruya las posiciones enemigas y garantice la "
+"captura de objetos industriales cercanos."
+
+msgid "MAP_CAPS_SUBNAME_76_PLATEAU_2"
+msgstr "CIELO ARDIENTE"
+
+msgid "MAP_CAPS_SUBNAME_76_PLATEAU_3"
+msgstr "HORA DECISIVA"
+
+msgid "MAP_CAPS_SUBNAME_76_PLATEAU_4"
+msgstr "MOMENTO CRUCIAL"
+
+msgid "MAP_CAPS_SUBNAME_76_PLATEAU_5"
+msgstr "ARMA DE VENGANZA"
+
+msgid "MAP_CAPS_SUBNAME_76_PLATEAU_6"
+msgstr "COLISIÓN"
+
+msgid "MAP_CAPS_SUBNAME_76_PLATEAU_7_ADD"
+msgstr "EXPANSIÓN"
+
+msgid "MAP_CAPS_SUBNAME_76_PLATEAU_9_ESC"
+msgstr "JUEGOS DEFINITIVOS"
+
+msgid "MAP_CAPS_SUBNAME_77_FORTRESS_2"
+msgstr "DÍA DEL JUICIO"
+
+msgid "MAP_HUD_DESCRIPTION_05_LIGHTHOUSE_1"
+msgstr "Un complejo industrial en la costa de Gran Bretaña cubierto firmemente"
+"por dos centros de mando que sirven como estaciones de alerta temprana."
+"Controlando un espacio aéreo que abarca muchos kilómetros isla adentro,"
+"pueden lanzar una fuerza aérea y repeler cualquier ataque. "
+"¡Estas instalaciones no pueden caer en manos enemigas!"
+
+msgid "MAP_HUD_DESCRIPTION_05_LIGHTHOUSE_11_ESC"
+msgstr "La única posibilidad de derrotar al enemigo en la cruenta batalla "
+"por el control de los cielos británicos reside en la destrucción de las "
+"instalaciones de producción y los barracones que mantienen a flote a la "
+"Royal Air Force. Para lograr su objetivo, el enemigo emplea incursiones "
+"de bombarderos masivas de los aeródromos cercanos sobre la costa opuesta "
+"del estrecho. Cada una de estas incursiones debe ser interceptada y destruida; "
+"de lo contrario, el reino se verá indefenso ante las tropas enemigas que aterricen"
+" en el estrecho."
+
+msgid "MAP_HUD_DESCRIPTION_05_LIGHTHOUSE_2"
+msgstr "El precario equilibro en la dilatada batalla por Gran Bretaña depende "
+"en gran manera de una gran base aérea situada directamente en la costa. Proporciona "
+"cobertura para una gran fábrica en el norte y un puesto de mando aislado en la isla. "
+"Si se perdiera, esta base aérea abriría un pasaje seguro para el enemigo, "
+"permitiendo incursionar profundamente en el interior del reino."
+
+msgid "MAP_HUD_DESCRIPTION_05_LIGHTHOUSE_3"
+msgstr "Las incursiones nocturnas enemigas bajo cobertura de las inclemencias del tiempo "
+"han alcanzado su objetivo: el centro de mando está fuera de servicio. Para defender la base "
+"aérea avanzada contra un posible desembarco anfibio, las guarniciones cercanas han visto "
+"reforzados sus dotaciones de artillería. Necesitan una cobertura segura. De lo contrario, "
+"si cayesen en manos enemigas sería un arma formidable capaz de destruir la base."
+
+msgid "MAP_HUD_DESCRIPTION_05_LIGHTHOUSE_4"
+msgstr "Un gran complejo industrial situado en la costa cubierto por guarniciones en la parte "
+"terrestre y por un pequeño escuadrón de cazas y una estación de piquete de radar con un centro "
+"de mando por la parte marítima. El complejo es clave para la fabricación de maquinaria y el "
+"suministro de la defensa del reino. Debe mantenerse a cualquier precio el control sobre estas "
+"instalaciones industriales."
+
+msgid "MAP_HUD_DESCRIPTION_05_LIGHTHOUSE_5"
+msgstr "Los duros combates por un complejo industrial a orillas del mar han dejado en ruinas "
+"la mayoría de las instalaciones defensivas. Se ha asignado a la fuerza aérea la misión de "
+"defender esta estratégica posición. Una vez se obtenga el control de los cielos sobre el "
+"centro de mando y la fábrica emplazados en la isla, el grupo personales debe repeler todas "
+"las incursiones enemigas."
+
+msgid "MAP_HUD_DESCRIPTION_05_LIGHTHOUSE_6"
+msgstr "Los combates aéreos que se han desarrollado sobre los cielos de la costa británica "
+"han puesto en peligro las instalaciones militares e industriales. Su pérdida supondrá un duro "
+"revés para la capacidad defensiva del reino, porque solo los suministros continuados de las "
+"fábricas permiten a las tropas defenderse contra una fuerza enemiga superior."
+
+msgid "MAP_HUD_DESCRIPTION_05_LIGHTHOUSE_8"
+msgstr "Una batalla continua se concentra sobre los cielos sobre la base aérea que cubre el"
+"estrecho, en la cual se enfrentan los mejores ases de ambos bandos en conflicto. La base "
+"aérea está rodeada de una cadena de fortificaciones que la protegen de ataques anfibios. "
+"La pérdida de este bastión significaría una pérdida instantánea de iniciativa para los "
+"escuadrones atacantes y la pérdida de los cielos que cubren Gran Bretaña."
+
+msgid "MAP_HUD_DESCRIPTION_05_LIGHTHOUSE_9_ADD"
+msgstr "La misión de defender los largos kilómetros de línea costera de Gran Bretaña recae "
+"sobre cientos de pilotos de aviones de caza y ataque. La costa está fortificada con numerosos "
+"bastiones que, bajo cobertura de una potente defensa antiaérea, proporcionan reconocimiento, "
+"mando y logística, así como soporte de mantenimiento de los aviones para el grupo de combate. "
+"No será tarea fácil el abrirse paso a través de esta línea defensiva."
+
+msgid "MAP_HUD_DESCRIPTION_09_ARCTIC_1"
+msgstr "Un enclave industrial escondido en una inaccesible costa helada será un valioso activo "
+"para el ejército que lo controle. Sin embargo, no será tarea fácil el desalojar al enemigo de "
+"este enclave: las aproximaciones a la costa por mar y tierra están protegidas por guarniciones "
+"y el espacio aéreo está patrullado por fuerzas aéreas provenientes del aeródromo situado en el valle."
+
+msgid "MAP_HUD_DESCRIPTION_09_ARCTIC_2"
+msgstr "Un aeródromo avanzado en la costa de Groenlandia puede convertirse en una cabeza de puente "
+"para desplegar una campaña a gran escala en el norte de Europa y Escandinavia. El control sobre "
+"este aeródromo es necesario para poder asegurar la retaguardia contra ataques aéreos enemigos y "
+"de cohetes. La operación debe completarse en unas horas: las bases militares a los pies de las "
+"colinas no deberían tener tiempo para desplegar un contraataque."
+
+msgid "MAP_HUD_DESCRIPTION_09_ARCTIC_3"
+msgstr "De acuerdo con el informe fotográfico de reconocimiento aéreo, el enemigo ha reforzado "
+"significativamente sus fuerzas en la zona del aeródromo e incrementado su potencial transformándolo "
+"en una gran base aérea. Sin embargo, su potencial logístico no ha sido suficiente como para crear un "
+"sistema de defensa completo en la zona del puerto y la cresta de las montañas. Esto proporciona una "
+"posibilidad de capturar una cabeza de puente empleando un ataque sorpresa."
+
+msgid "MAP_HUD_DESCRIPTION_09_ARCTIC_4"
+msgstr "Una operación exitosa nos ha permitido capturar una base aérea situada en el valle costero. El "
+"enemigo se ha retirado y consolidado sobre dos flancos preparados tomando posiciones en las montañas y "
+"la costa y lanzando el ataque desde las bases militares equipadas con sistemas lanzacohetes. Esto inmoviliza "
+"el cuerpo de ejército y sitúa bajo amenaza a nuestros suministros por mar. Las posiciones enemigas deben ser "
+"destruidas o capturadas de inmediato."
+
+msgid "MAP_HUD_DESCRIPTION_09_ARCTIC_5"
+msgstr "Unas grandes instalaciones industriales militares en la costa de Groenlandia son una de las "
+"posiciones clave del enemigo en el norte de Europa. Las instalaciones deben ponerse fuera de operación "
+"por todos los medios: si no conseguimos el control de las instalaciones, nos consolidamos y ajustamos "
+"la producción de manera que satisfaga nuestras necesidades, el último recurso será destruir las "
+"instalaciones industriales y los principales recursos militares."
+
+msgid "MAP_HUD_DESCRIPTION_09_ARCTIC_6"
+msgstr "La cabeza de puente septentrional del enemigo supone un gran peligro. Una potente base "
+"aérea con depósitos de combustible y talleres de reparaciones rodeado de varias guarniciones "
+"permite a los aviones enemigos patrullar los estrechos marinos y la costa, lo que obstaculiza "
+"el suministro del cuerpo de ejército por mar y previene el desembarco de las tropas. Incursiones "
+"profundas de bombarderos contienen el avance de los aliados. ¡Esta base aérea debe ser capturada "
+"a cualquier coste!"
+
+msgid "MAP_HUD_DESCRIPTION_09_ARCTIC_7_ADD"
+msgstr "Finalmente se han puesto en movimiento los engranajes de la operación encaminada a la "
+"ruptura del frente y la destrucción del enclave industrial militar enemigo en el norte de Europa. "
+"El grupo aéreo que despegó al alba ha alcanzado con éxito la costa de Groenlandia y está tomando "
+"ventaja del asalto sorpresa, atacando la fuerza aérea interceptora."
+
+msgid "MAP_HUD_DESCRIPTION_09_ARCTIC_9_ESC"
+msgstr "La poderosa guarnición enemiga está defendiendo y evitando con éxito que la primera "
+"línea avance estratégicamente mas profundo en la isla. Privar al enemigo de su fuerza es "
+"imposible mientras que estén proporcionando recursos y refuerzos a sus puntos de apoyo. Solo "
+"hay una salida: una incursión masiva de bombarderos por la retaguardia del enemigo, rompiendo "
+"así las fortificaciones enemigas y aislando a la fuerza de la guarnición de su apoyo."
+
+msgid "MAP_HUD_DESCRIPTION_10_EASTERN_FRONT_1"
+msgstr "El complejo minero en los fiordos costeros de Noruega es de gran interés para ambos "
+"lados del conflicto. El control sobre él proporcionará a la industria los recursos necesarios "
+"para aumentar significativamente el potencial militar. El complejo está defendido por dos guarniciones "
+"en las estribaciones y un gran comando en el centro en la meseta central. Deben ser suprimidos y las "
+"plantas mineras deben ser tomadas."
+
+msgid "MAP_HUD_DESCRIPTION_10_EASTERN_FRONT_2"
+msgstr "El punto de apoyo defensivo en los inexpugnables fiordos noruegos es capaz de repeler "
+"cualquier ataque por tierra en las profundidades de Escandinavia. Controlar el punto de "
+"apoyo garantiza la seguridad de toda la región. La misión de la fuerza expedicionaria es "
+"eliminar o capturar dos grandes bases militares y la cadena de guarniciones ocultas de "
+"forma segura en la cordillera."
+
+msgid "MAP_HUD_DESCRIPTION_10_EASTERN_FRONT_3"
+msgstr "La variedad de fortificaciones en las laderas de la cordillera domina los fiordos cercanos. "
+"Las posiciones establecidas allí permiten controlar las vías de aproximación por tierra, numerosos "
+"estrechos, y el espacio aéreo hasta la Región Ártica. Esta área fortificada debe ser capturada."
+
+msgid "MAP_HUD_DESCRIPTION_10_EASTERN_FRONT_4"
+msgstr "El complejo industrial ubicado en una de las pocas mesetas en medio de miles de picos "
+"Noruegos de los cuales se extraen metales raros de la tierra, que son de importancia "
+"critica para la defensa de la industria. Sin embargo, capturar este complejo no será "
+"una tarea fácil: está defendido por un fuerte centro de comando que está coordinando el "
+"apoyo aéreo y la base militar, capaz de repeler cualquier ataque en tierra con fuego de artillería."
+
+msgid "MAP_HUD_DESCRIPTION_10_EASTERN_FRONT_5_ESC"
+msgstr "El enemigo ha tenido tiempo de sobra para consolidarse en las laderas de los despiadados "
+"fiordos helados. El mando frontal considera inaceptable la transición a una guerra de trincheras, "
+"por lo que las tropas deben atravesar este difícil terreno de la forma más rápida posible. A estos "
+"efectos, hay que romper la línea de fortalezas y aislarla de su abastecimiento mediante una incursión "
+"de bombarderos masiva en plena retaguardia enemiga. No obstante, sin el apoyo de los cazas, los "
+"bombarderos no podrán penetrar el extenso sistema de defensa del enemigo."
+
+msgid "MAP_HUD_DESCRIPTION_13_HARBOR_7_LOW_ATT"
+msgstr "Las batallas aéreas sobre la ciudad portuaria más grande ya han durado un par de dias. "
+"Los cazas luchan en cielos soleados, y por la noche, las posiciones son sometidas a bombardeos despiadados. "
+"Las fuerzas de ambos lados están cerca del agotamiento, y uno de ellos pronto no podrá continuar la lucha."
+
+msgid "MAP_HUD_DESCRIPTION_13_HARBOR_7_MID_ATT "
+msgstr "Las batallas aéreas sobre la ciudad portuaria más grande ya han durado un par de dias. "
+"Los cazas luchan en cielos soleados, y por la noche, las posiciones son sometido a bombardeos despiadados. "
+"Las fuerzas de ambos lados están cerca del agotamiento, y uno de ellos pronto será incapaz de continuar "
+"la lucha."
+
+msgid "MAP_HUD_DESCRIPTION_12_FJORDS"
+msgstr "El éxito de la operación noruega ha puesto fin al prolongado conflicto, lo que supone un reto para "
+"el ejército del aire al completo. El único aeródromo operativo en la zona se ha transformado en una base "
+"aérea y se ha convertido en el punto de interés principal de ambos bandos contendientes. Su rápida captura "
+"podría proporcionar significativos beneficios tácticos sobre el enemigo."
+
+msgid "MAP_HUD_DESCRIPTION_12_FJORDS_2"
+msgstr "En el distrito de Trondheim se suceden los continuos combates aéreos. El despliegue a gran escala de "
+"vehículos terrestres resulta imposible a causa del terreno montañoso. Por ello, el apoyo aéreo es ahora más "
+"crucial que nunca. Algunas instalaciones en la zona han sido destruidas por bombardeos y ataques de cohetes, "
+"aunque la pista se ha reconstruido. Esta vez la batalla se libra por el control del único complejo industrial "
+"que queda en pie."
+
+msgid "MAP_HUD_DESCRIPTION_12_FJORDS_3"
+msgstr "A finales de julio nuestras tropas intentan volver a tomar el control del distrito de Trondheim. "
+"Al planear la operación, el cuartel general se enfrenta a un duro dilema: efectuar un ataque principal "
+"sobre el centro de mando enemigo o centrarse en la captura de la base militar fortificada. Ninguna de "
+"estas opciones garantiza el éxito, pero ambas pueden garantizar la victoria."
+
+msgid "MAP_HUD_DESCRIPTION_12_FJORDS_4"
+msgstr "El avance de la fuerza a través de los helados fiordos se ha enlentecido tras encontrar una "
+"resistencia desesperada. Los complejos industriales en la zona están gravemente dañados y los aviones "
+"enemigos patrullan todo el territorio. Para permitir que los grupos de asalto se adentren en el territorio "
+"del complejo industrial, es necesario asegurar un corredor de seguridad aéreo tomando el control del centro "
+"de mando en el norte y consolidando el aeródromo avanzado en la hondonada."
+
+msgid "MAP_HUD_DESCRIPTION_12_FJORDS_5"
+msgstr "Incapaces de mantener los complejos industriales en lo profundo de los fiordos noruegos, la fuerza "
+"enemiga en retirada ha decidido destruirlos. Sin embargo, los complejos pueden poseer recursos valiosos e "
+"incluso información sobre proyectos secretos, así que es necesario prevenir que el enemigo los destruya. "
+"La situación se ha vuelto complicada debido a que la zona está cubierta por una base militar equipada con "
+"lanzadores de cohetes y un centro de mando que coordina las incursiones aéreas."
+
+msgid "MAP_HUD_DESCRIPTION_12_FJORDS_6"
+msgstr "Varios días de combates han agotado las fuerzas de ambos bandos, pero se ha conseguido el resultado "
+"esperado: se han capturado los depósitos industriales. La misión principal de la fase de operaciones actual "
+"es consolidarse completamente en el norte capturando y desarrollando instalaciones aéreas y tomando el control "
+"del centro de mando en las montañas, lo que permitirá coordinar incursiones aéreas con profundidad sobre la "
+"retaguardia enemiga."
+
+msgid "MAP_HUD_DESCRIPTION_12_FJORDS_7"
+msgstr "Gracias a los resultados recientemente obtenidos, se ha resumido el avance. Inteligencia informa que "
+"hay una oportunidad de facilitar significativamente el redespliegue de tropas y el suministro a la zona de "
+"operaciones. Para tomar ventaja de esta oportunidad, es necesario capturar una gran base aérea que ha sido "
+"descubierta en las proximidades. Las instalaciones industriales en sus cercanías ayudarán a reabastecer "
+"recursos así como acomodar una parte significativa de la maquinaria y personal militar."
+
+msgid "MAP_HUD_DESCRIPTION_12_FJORDS_8"
+msgstr "Tras reagruparse, reparar su maquinaria y traer reservas de suministros, las tropas se han "
+"preparado para el avance final. Tras perder un número significativo de instalaciones clave, el enemigo "
+"se retira. Queda enfrente un último esfuerzo final: redesplegar la unidad avanzada a su nueva base aérea "
+"y capturar las instalaciones cercanas. Una vez ahí consolidadas, las tropas podrán cortar la fuerza enemiga "
+"por la mitad, contra el mar en el norte y contra la cadena montañosa en el sur."
+
+msgid "MAP_HUD_DESCRIPTION_12_FJORDS_9_ADD"
+msgstr "Unas difíciles condiciones meteorológicas y algunos problemas logísticos no permiten que el cuerpo "
+"expedicionario libre una larga guerra de trincheras en los pasos montañosos de los Alpes suizos. La cadena "
+"montañosa debería ser cruzada cuanto antes. El grupo de combate redesplegado en la línea del frente debe suprimir "
+"la resistencia enemiga, conseguir la superioridad aérea y tomar el control sobre las instalaciones industriales."
+
+msgid "MAP_HUD_DESCRIPTION_13_HARBOR"
+msgstr "De acuerdo a los informes de inteligencia, una gran fuerza naval enemiga se aproxima al puerto, "
+"mientras que la fuerza aérea enemiga está lista para lanzar su primer ataque.<br>Toma el control sobre el puerto "
+"y las instalaciones estratégicas adyacentes. Puedes obligar al enemigo que se retire y prevenir que capture el "
+"almacén industrial situado en el puerto neutralizando la fuerza aérea enemiga y repeliendo el ataque."
+
+msgid "MAP_HUD_DESCRIPTION_13_HARBOR_3"
+msgstr "La flota enemiga bloquea la salida del puerto en el que varios acorazados se encuentran en reparación. "
+"Los aviones enemigos han lanzado grandes ataques sobre nuestro cuartel general intentado perturbar nuestra "
+"coordinación defensiva. Misión del grupo de combate: contener a los aviones enemigos y evitar la captura de "
+"la planta industrial situada cerca del puerto, aprovechando las pistas en la costa."
+
+msgid "MAP_HUD_DESCRIPTION_13_HARBOR_4"
+msgstr "Hace unos minutos, los buques enemigos han bombardeado el puerto y destruido completamente su base "
+"industrial. La fuerza aérea enemiga ha entrado en combate activo en la costa. Se ha debido filtrar al enemigo "
+"información sobre el inminente contraataque, que ha usado para ganar ventaja.<br>Necesitas tomar el control de "
+"los objetivos terrestres que quedan en pie y conseguir una superioridad aérea decisiva."
+
+msgid "MAP_HUD_DESCRIPTION_13_HARBOR_5_ESC"
+msgstr "La operación concebida para alejar al enemigo de sus posiciones fortificadas requerirá que las tropas "
+"aterricen desde el mar y concentren fuerzas en la costa. A estos efectos, la posición que cubre las aproximaciones "
+"por tierra con artillería debe ser aislada de su abastecimiento de retaguardia y destruida. Esta misión se le asignará "
+"al regimiento de bombarderos, mientras el escuadrón tendrá la tarea de escoltar y defender a dichos bombarderos."
+
+msgid "MAP_HUD_DESCRIPTION_14_ADRIATIC_1"
+msgstr "La cabeza de puente en la costa italiana es de vital importancia para un avance sobre el centro de Europa. "
+"Una base aérea convenientemente situada y oculta a las incursiones enemigas está protegida de manera efectiva. La "
+"fuerza aérea allí desplegada es capaz de proporcionar apoyo tanto en operaciones terrestres como en patrullar "
+"numerosas islas y estrechos."
+
+msgid "MAP_HUD_DESCRIPTION_14_ADRIATIC_10_ESC"
+msgstr "El potente complejo industrial militar de la costa del Adriático está protegido del mar por grandes fortalezas. "
+"Su potencia de fuego es más que suficiente para que aterrizar en el mar sea imposible. No parece factible capturar "
+"el complejo sin pérdidas considerables, por lo que debería ser aniquilado. Los bombarderos redesplegados desde el "
+"Frente Occidental deben penetrar las defensas enemigas y destruir el complejo. Nuestra misión es escoltar y proteger "
+"a los bombarderos."
+
+msgid "MAP_HUD_DESCRIPTION_14_ADRIATIC_2"
+msgstr "Durante las duras batallas por el control sobre el complejo minero, ha sido destruida una parte significativa "
+"de las fortificaciones que lo cubrían de los ataques navales. Esto ha puesto las posiciones defensivas costeras bajo "
+"fuego y como resultado el enemigo ha tenido que redesplegar con urgencia su fuerza aérea a la zona de operaciones y poner "
+"en servicio la base aérea en la meseta. Nuestra misión es capturarla, cortando los refuerzos al enemigo."
+
+msgid "MAP_HUD_DESCRIPTION_14_ADRIATIC_4"
+msgstr "La ruptura de las fuerzas terrestres a lo largo de los pasos montañosos que llevan a la costa adriática nos ha "
+"proporcionado una oportunidad de cortar los suministros enemigos de material militar y arrojar al enemigo al mar. La "
+"destrucción de este enclave permitirá a las fuerzas aliadas redesplegar las tropas de Europa Continental y tomar el "
+"control de Italia."
+
+msgid "MAP_HUD_DESCRIPTION_14_ADRIATIC_5"
+msgstr "El profundo avance de la fuerza aliada en el corazón de Italia se ha complicado por batallas constantes en "
+"ciudades y la necesidad de sobrepasar numerosas fortificaciones enemigas. Para romper a través de las posiciones "
+"enemigas se requiere un potente apoyo aéreo. La misión del grupo de combate es capturar la base aérea en la costa "
+"oriental, consolidar y prepararse para las incursiones en la línea del frente."
+
+msgid "MAP_HUD_DESCRIPTION_14_ADRIATIC_6"
+msgstr "Romper hacia el complejo minero en la costa del mar Adriático desde el mar es casi imposible: está demasiado "
+"fortificado. Los bombardeos nocturnos y el apoyo de la artillería naval han suprimido las baterías de cañones AA en "
+"la costa y forzado al enemigo a retirarse a la base aérea en la meseta. Ahora el grupo de combate debe atacar desde "
+"el mar y capturar todos los objetivos clave en la zona."
+
+msgid "MAP_HUD_DESCRIPTION_14_ADRIATIC_7"
+msgstr "La instalación minera en la costa del Adriático suministra materia prima a las fábricas enemigas a lo largo "
+"de toda Europa. La importancia estratégica de la instalación se ve acentuada por su defensa: las aproximaciones por "
+"tierra y mar están protegidas por guarniciones y los principales centros de mando enemigos están prestos a llamar "
+"inmediatamente apoyo aéreo."
+
+msgid "MAP_HUD_DESCRIPTION_14_ADRIATIC_8_ADD"
+msgstr "Los bien defendidos enclaves enemigos en la costa montañosa suponen una seria amenaza. Una penetración rápida "
+"en el corazón de Italia es imposible: esto dejaría un flanco abierto a un contraataque desde posiciones preparadas. El "
+"complejo industrial y la base aérea que lo protege deben ser tomados o destruidos."
+
+msgid "MAP_HUD_DESCRIPTION_17_WINTER_WAR_1"
+msgstr "Una población perdida en la tundra está situada cerca de un depósito clave de metales de tierras raras. El "
+"complejo está defendido por un pequeño aeródromo y varios blocaos. El control sobre esta población perdida del "
+"Ártico no solo suministraría a la industria con los recursos necesarios, sino también proporcionaría una oportunidad "
+"de patrullar el mar de Barents y los cielos sobre la península escandinava."
+
+msgid "MAP_HUD_DESCRIPTION_17_WINTER_WAR_10_INV"
+msgstr "Una pequeña ciudad industrial en las profundidades de la tundra está protegida de forma segura del "
+"mar con potentes baterías de defensa aérea y un regimiento de aviación de comabate. En el sur, las fortificaciones "
+"no son tan fuertes y consisten solo en posiciones de artillería. Un lugar perfecto para un golpe inesperado desde "
+"atrás que debería dejar a los defensores desprevenidos."
+
+msgid "MAP_HUD_DESCRIPTION_17_WINTER_WAR_2"
+msgstr "La incursión nocturna puso fuera de servicio la pista del aeródromo y de esta manera puso en "
+"igual condición a ambas fuerzas. Sin embargo, las fortificaciones terrestres siguen impidiendo nuestro "
+"avance hacia el centro de la población. Es necesario suprimir la resistencia y tomar el control de las guarniciones "
+"en las afueras de la población para abrir el camino hacia el complejo industrial."
+
+msgid "MAP_HUD_DESCRIPTION_17_WINTER_WAR_3"
+msgstr "Un ataque súbito contra el pequeño complejo industrial polar ha degenerado en un asedio a gran escala. "
+"En uno de los flancos, el cuerpo de zapadores ha desplegado un sistema de cohetes que ayudará a penetrar hacia "
+"el pueblo. Las vastas extensiones de tundra a su alrededor hacen vulnerable esta posición y por ello ha recaído "
+"en la fuerza aérea la misión de cubrir los lanzacohetes."
+
+msgid "MAP_HUD_DESCRIPTION_17_WINTER_WAR_4"
+msgstr "Durante las duras batallas se ha conseguido romper uno de los flancos que cubren las aproximaciones al "
+"complejo industrial minero de tierras raras. La misión del grupo de combate para la próxima incursión nocturna "
+"es la de proporcionar cobertura y tomar el control de los cielos. Una vez ahí consolidados se abrirá una oportunidad "
+"para desalojar al enemigo de sus posiciones en las afueras de la población."
+
+msgid "MAP_HUD_DESCRIPTION_17_WINTER_WAR_5"
+msgstr "El centro de mando al oeste de las instalaciones de la industria bélica oculto en lo más profundo de "
+"la tundra de la península de Kola se emplea intensivamente para coordinar incursiones y patrullas aéreas en "
+"los mares de Barents y Blanco, así como sobre los cielos de la península escandinava. Debe ser capturado o "
+"destruido a cualquier precio."
+
+msgid "MAP_HUD_DESCRIPTION_55_EL_HALLOUF_1"
+msgstr "Tras un intercambio de ataques, ambas fuerzas se retiraron a reagruparse y reemplazar las bajas. "
+"Los acuartelamientos destruidos por las incursiones aéreas perdieron su valor. El mando decidió cambiar de "
+"táctica y seleccionar los aeródromos de agrupamiento como objetivos principales de su ataque. El control de "
+"estos aeródromos supondría contribuir a una captura acelerada del complejo industrial."
+
+msgid "MAP_HUD_DESCRIPTION_55_EL_HALLOUF_11_ESC"
+msgstr "El complejo industrial situado entre las dunas de arena de África y conquistado en feroces batallas "
+"se encuentra bajo amenaza. Inteligencia informa de que el enemigo ha redesplegado una gran cantidad de bombarderos "
+"en el frente y va a romper nuestra línea de defensa y a destruir las instalaciones industriales de la retaguardia. "
+"Si el enemigo tiene éxito, el cuerpo perderá su movilidad y la oportunidad de desplazarse con libertad por el frente. "
+"Esta incursión debe ser interceptada; los bombarderos, destruidos; y los aviones escolta, aislados de su formación"
+" y derribados."
+
+msgid "MAP_HUD_DESCRIPTION_55_EL_HALLOUF_2"
+msgstr "La feroz resistencia del enemigo ha obligado al mando a llevar a cabo una incursión de bombardeo "
+"sobre las posiciones clave en la zona. Varios focos de incendio han puesto fuera de servicio el sector "
+"minero y el aeródromo de agrupación. Sin embargo, el cuerpo de ingenieros ha conseguido poner operativa "
+"la base militar en el sur que dará apoyo a un avance sobre el enemigo y desplegar un aeródromo avanzado "
+"que acercará a los aviones a la línea del frente."
+
+msgid "MAP_HUD_DESCRIPTION_55_EL_HALLOUF_4"
+msgstr "Tras las primeras fútiles batallas, los dos ejércitos enemigos se han atrincherado. "
+"Gracias a los esfuerzos de una unidad de ingenieros, los acuartelamientos que protegían la "
+"región se han convertido en bases militares que deben capturarse y mantenerse. Sin embargo, el objetivo "
+"primario del grupo de combate sigue siendo asegurar el control sobre el complejo industrial."
+
+msgid "MAP_HUD_DESCRIPTION_55_EL_HALLOUF_5"
+msgstr "Una pequeña región al borde del desierto se ha convertido en un campo de batalla. Dos ejércitos "
+"luchan por el control sobre el complejo industrial y aeródromos donde se almacenan las reservas de "
+"combustible necesarias para continuar la ofensiva. Los acuartelamientos a ambos lados del complejo "
+"se han diseñado para defender la región, aunque su despliegue no se ha completado todavía."
+
+msgid "MAP_HUD_DESCRIPTION_55_EL_HALLOUF_7"
+msgstr " "
+
+msgid "MAP_HUD_DESCRIPTION_55_EL_HALLOUF_8"
+msgstr "La operación que garantizaba un suministro de recursos al ejército en caso de una rápida captura "
+"del complejo minero amenaza con convertirse en un infierno bajo el abrasador sol africano. El complejo está bien "
+"fortificado y dos bases militares están equipadas con lanzadores de cohetes que atacan regularmente la fuerza de "
+"avance. La única forma de salir es lanzar un ataque aéreo y forzar al enemigo a retirarse bajo la amenaza de una "
+"granizada de acero."
+
+msgid "MAP_HUD_DESCRIPTION_55_EL_HALLOUF_9_ADD"
+msgstr "La fuerza que controlaba el complejo industrial estaba esperando ansiosamente un ataque inminente por el "
+"cuerpo expedicionario que se avanzaba. Para defender el objetivo estratégico, un grupo de aviones se ha redesplegado "
+"a dos bases aéreas cercanas. Sin embargo, la escala masiva de la incursión se ha convertido en una desagradable "
+"sorpresa para el enemigo debilitado por la prolongada guerra en África."
+
+msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_1"
+msgstr "La única ruta posible para desplegar tropas en Birmania pasa a través del valle en la frontera con la "
+"India. En un intento de tomar bajo control esta zona clave, los bandos enfrentados han entrado en hostilidades "
+"y destruido todo a su paso. El objetivo del grupo de combate es asistir en la captura de instalaciones estratégicas "
+"del valle y protegerlas hasta que llegue la fuerza principal."
+
+msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_10_ADD"
+msgstr "El avance del cuerpo expedicionario en el corazón de Asia ha sido virtualmente detenido: es imposible "
+"cruzar los pasos de montaña fortificados bajo constantes ataques aéreos desde bases expertamente ocultas. El "
+"mando ha decidido jugar un gambito: un grupo aéreo redesplegado en la cresta montañosa explorará la posición "
+"enemiga y destruirá las instalaciones enemigas, aproximándose bajo la cobertura de una densa niebla."
+
+msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_1_ESC"
+msgstr "La ruptura del frente más allá de la cordillera hasta la costa de la Bahía de Bengala prácticamente "
+"se detuvo debido a las robustas fortificaciones establecidas por el enemigo en las laderas y en los desfiladeros. "
+"Destruir sus posiciones con artillería y atacar el terreno con fuerzas aéreas no parece posible: el conocimiento "
+"del terreno ofrece al enemigo la oportunidad de mantener y abastecer sus posiciones con recursos utilizando "
+"los senderos de las montañas. El mando ha tomado una decisión radical: la ruptura del frente se asegurará mediante "
+"bombardeos masivos de las fortificaciones y los depósitos de retaguardia."
+
+msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_2"
+msgstr "Mientras asaltaba la cresta, la fuerza de avance ha capturado las instalaciones de producción en el valle "
+"y el centro de mando escondido en la hondonada. Las bases militares que defienden la zona están derruidas y no queda "
+"ningún lugar del que pueda proceder el apoyo. La fuerza defensora ha restaurado apresuradamente las pistas de "
+"aterrizaje en las cercanías y está lista para un contraataque y cualquier intento enemigo de escapar del desfiladero."
+
+msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_3"
+msgstr "La lucha por el valle en la frontera birmana está llegando a su apogeo. Las bases aéreas están inoperativas "
+"a causa de las feroces batallas, que entorpecen el despliegue de aviones de refuerzo en las zonas de operaciones. "
+"El grupo de combate y la reserva restante han recibido la orden de ayudar en la captura de las bases militares y "
+"tomar el control de las instalaciones industriales locales con el apoyo de las instalaciones capturadas."
+
+msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_4"
+msgstr "Las hostilidades en el valle de Birmania han sufrido una gran escalada. El napalm ha causado grandes "
+"incendios que se han extendido sobre instalaciones industriales y han detenido completamente las operaciones. "
+"Las fuerzas oponentes han conseguido consolidar los flancos restaurando los aeródromos y estableciendo guarniciones. "
+"La zona principal de avance para ambas fuerzas en pugna es el puesto avanzado con un centro de mando situado en "
+"el delta del río."
+
+msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_5"
+msgstr "Los combates en el valle de Birmania han aumentado de magnitud de forma drástica. "
+"El napalm causó grandes incendios que se han expandido sobre las instalaciones industriales "
+"y han paralizado completamente las operaciones. Mientras tanto, las bases militares y aéreas "
+"han alcanzado su máxima operatividad. La zona principal de avance para ambos bandos es la avanzadilla "
+"con un centro de mando situado en el delta del río."
+
+msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_6"
+msgstr "Una feroz confrontación ha arruinado las instalaciones de procesamiento y las fortificaciones "
+"en el norte del valle y solo la agresiva resistencia ha ayudado a retener la base aérea. Mientras tanto, "
+"la planta minera en el sur ha restaurado el suministro al enemigo. Ha quedado claro que cualquier avance y "
+"desarrollo subsiguiente de la operación es imposible sin destruir el centro de mando en el desfiladero."
+
+msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_7"
+msgstr " "
+
+msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_8"
+msgstr "La lucha por el valle en la frontera birmana está llegando a un punto crítico. Las bases aéreas "
+"se han vuelto inoperativas como resultado de las feroces batallas, lo que hace problemático el desplegar "
+"aviones de refuerzo en la zona de operaciones. El grupo de combate y la reserva restante han recibido la "
+"orden de asistir en la captura de bases militares y tomar el control sobre las instalaciones industriales "
+"de la región con el apoyo de las instalaciones capturadas."
+
+msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_9"
+msgstr "Los ataques aéreos nocturnos que destruyeron las bases militares en el desfiladero han proporcionado "
+"un respiro muy necesitado a ambos bandos enfrentados. Las instalaciones industriales así como los aeródromos "
+"y centros de mando vuelven a estar operativos. Se ha alcanzado un precario equilibrio. Solo un ataque súbito "
+"sobre las posiciones enemigas donde menos se espere podrá inclinar la balanza."
+
+msgid "MAP_HUD_DESCRIPTION_69_OCEAN"
+msgstr "Finalmente, se ha confirmado que la base de suministros está situada en la región, dentro de un complejo "
+"industrial en una de las islas del archipiélago en el océano Pacífico. Las bases aéreas en las islas cercanas "
+"proporcionan cobertura aérea al puerto, mientras que los potentes sistemas de radar del centro de mando "
+"previenen un ataque sorpresa."
+
+msgid "MAP_HUD_DESCRIPTION_69_OCEAN_1"
+msgstr "Se ha descubierto uno de los últimos enclaves del enemigo en una pequeña isla de un archipiélago: una "
+"guarnición se ha consolidado en las ruinas de una refinería bombardeada. Consigue la superioridad aérea sobre "
+"la refinería y asegúrate de que nuestra fuerza principal de desembarco penetra en las defensas enemigas. El "
+"aeródromo de agrupación superviviente en el cercano atolón permitirá un rápido reagrupamiento y las instalaciones "
+"de mando proporcionarán control y asistencia."
+
+msgid "MAP_HUD_DESCRIPTION_69_OCEAN_2"
+msgstr "Nuestros primeros ataques han cumplido su objetivo: la base de suministros está en ruinas y llevará un "
+"tiempo reconstruirla.<br>Ahora una segunda oleada de aviones deben consolidar el éxito. Misión del grupo de "
+"combate: conseguir la superioridad aérea, tomar control de los aeródromos y centros de mando y expulsar a los "
+"restos del ejército enemigo de la región."
+
+msgid "MAP_HUD_DESCRIPTION_69_OCEAN_3"
+msgstr "Durante las duras batallas por un archipiélago en el océano Pacífico, las bases enemigas en las islas "
+"quedaron destruidas.<br>El siguiente objetivo es tomar control del complejo industrial y el puerto de mercancías "
+"contiguo. Además, el foco se debe dirigir a los centros de mando situados en ambos flancos del puerto. Capturando "
+"y manteniendo los centros de mando, se podría decidir el resultado."
+
+msgid "MAP_HUD_DESCRIPTION_69_OCEAN_4"
+msgstr "Finalmente se ha confirmado que hay una base de suministros localizada en la región, dentro de un complejo "
+"industrial en una de las islas del archipiélago en el océano Pacífico. Los aeródromos en las islas cercanas "
+"proporcionan cobertura aérea para el puerto, mientras que la fuerza defensiva se coordina desde el cuartel "
+"general específicamente equipado."
+
+msgid "MAP_HUD_DESCRIPTION_69_OCEAN_5_ADD"
+msgstr "Una breve mejora del tiempo ha permitido finalmente al grupo de combate lanzar una incursión masiva "
+"sobre el complejo minero enemigo en el centro de un remoto archipiélago. La súbita aparición de una gran "
+"fuerza aérea ha tomado a la guarnición por sorpresa y apenas ha podido hacer despegar a un puñado de aviones."
+
+msgid "MAP_HUD_DESCRIPTION_69_OCEAN_7_ESC"
+msgstr "Las posiciones fortificadas del enemigo en los islotes del archipiélago son el último obstáculo que "
+"impide el tránsito de la flota al teatro de operaciones principal. Destruirlas obligará al enemigo a retirarse. "
+"La misión del escuadrón es escoltar a la incursión de bombarderos masiva desde los aeródromos del sur y "
+"garantizar el paso seguro de los bombarderos a los objetivos cruciales estratégicamente."
+
+msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY"
+msgstr "Una situación inestable en Europa Occidental requiere una intervención militar urgente. "
+"El enemigo ha conseguido organizar una sólida defensa en las laderas de la cordillera alpina y han cortado "
+"el único corredor de la región. El éxito de la primera fase de la operación depende de la capacidad de tomar "
+"el control de esta parte estratégica de la línea del frente."
+
+msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY_1"
+msgstr "El enemigo ha evitado nuestros ataques iniciales, pero no puede aguantar mucho tiempo sin acceso "
+"a sus suministros. Una base militar cerca de una población alpina se ha convertido en el objetivo para "
+"ambos bandos. Sus sólidas fortificaciones proporcionan el control sobre los centros de mando ocultos en "
+"las montañas y las zonas industriales en los bancos rivereños."
+
+msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY_11_ADD"
+msgstr "La campaña militar en Europa está aumentando el tempo y comenzando a requerir más recursos de "
+"ambos bandos en liza. Los ataques en retaguardia en las instalaciones industriales se están haciendo "
+"cada vez más frecuentes. Se ha designado como nuevo objeto un gran complejo industrial en Noruega. "
+"El grupo de combate debe suprimir la resistencia enemiga y lanzar un ataque tan potente como sea "
+"posible sobre las instalaciones de producción."
+
+msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY_13_INV"
+msgstr "El plan para un avance hacia Europa Occidental, sin pasar por la Cordillera Alpina, "
+"no parece realista, y el enemigo entiende completamente esto. Bien equipado con posiciones "
+"en las laderas de la cresta cubren el único camino a través de la cordillera. El punto de "
+"apoyo está protegido por cañones AA y cazas. Sin embargo, No tenemos otra opción: "
+"la defensa enemiga debe ser eliminada."
+
+msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY_2"
+msgstr "Tras consolidarse en las laderas alpinas y sin posibilidad de subsiguientes avances, "
+"las fuerzas oponentes han pasado a una fase de guerra de trincheras. Las grandes bases aéreas "
+"atacan constantemente las posiciones enemigas con oleadas de aviones, mientras que los centros "
+"de mando ocultos en las montañas lanzan incursiones de bombardeo día y noche. Solo los ataques "
+"profundos sobre la retaguardia enemiga pueden inclinar la balanza."
+
+msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY_3"
+msgstr "La destrucción de la guarnición en la hondonada ha abierto el camino para un avance "
+"profundo sobre territorio enemigo. Sin embargo, la única carretera disponible se encuentra "
+"bajo ataque constante de los bombarderos y aviones de ataque. La única manera de cubrir esta "
+"carretera es bloquear los aviones enemigos enfrentándose a ellos en batalla y dejándolos sin "
+"espacio para maniobrar ocupando posiciones tácticas en las bases aéreas y centros de mando."
+
+msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY_4"
+msgstr "La ofensiva en los Alpes requiere una gran cantidad de recursos y los complejos "
+"industriales con depósitos de combustible descubiertos en las montañas han resultado de "
+"utilidad. Sin embargo, el apresurado ataque ha fallado: la base militar en la hondonada "
+"cubre las instalaciones estratégicas. La misión del grupo de combate es consolidar los "
+"aeródromos de agrupación en la zona, neutralizar o capturar la base militar y a continuación "
+"tomar el control sobre el depósito industrial."
+
+msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY_5"
+msgstr "Los complejos industriales situados en las rocas alpinas son usados por el enemigo "
+"para fabricar y dar apoyo a la maquinaria de combate, así como llevar a cabo investigación "
+"avanzada. Captura o destruye los complejos durante la operación, infligiendo un duro golpe "
+"al enemigo. Los aeródromos de agrupación están listos para acomodar un escuadrón y preparados "
+"para penetrar las defensas enemigas."
+
+msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY_6"
+msgstr "La feroz resistencia del enemigo que ha tomado el control de la base militar en la "
+"hondonada impide a nuestras fuerzas cruzar el desfiladero y penetrar profundamente en el "
+"territorio enemigo. Los ataques de artillería lanzados desde la base imposibilitan el uso "
+"de los aeródromos cercanos. El mando ha asignado una misión prioritaria: capturar la base "
+"militar por cualquier medio. Sé precavido al entrar en combate: tendrás que hacerlo desde "
+"detrás de la cadena montañosa."
+
+msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY_7"
+msgstr "La batalla por la base militar ha durado varios días, pero solo ha proporcionado "
+"un éxito insignificante: los lanzadores de cohetes fueron destruidos. El camino hacia los "
+"complejos industriales está ahora abierto, pero el enemigo ha traído grandes fuerzas para "
+"defenderlos. Para tomar el control de las instalaciones industriales y capturar los muy "
+"necesitados recursos, los pilotos tendrán que emplear todas sus habilidades en batalla."
+
+msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY_8"
+msgstr "Tras varios días de lucha, el enemigo ha perdido sus fortificaciones en las montañas. "
+"Ahora dependen de su aviación que les ofrece una oportunidad de penetrar en los Alpes. La misión "
+"principal de la operación es capturar la base aérea y el centro de mando para traer refuerzos y "
+"solicitar el apoyo de los bombarderos. Los depósitos en el oeste pueden almacenar combustible y "
+"resultarse útiles al cruzar el desfiladero."
+
+msgid "MAP_HUD_DESCRIPTION_75_FORTRESS_1"
+msgstr "Los exitosos contrataques han permitido recuperar el terreno perdido en la línea del frente. "
+"Se ha vuelto a desatar un combate por la superioridad aérea en los cielos sobre la antigua fortaleza. "
+"El enemigo trata de parar el avance de nuestras fuerzas por cualquier medio.<br>Misión del grupo de "
+"combate: apoyar la captura del centro de mando en la curva del río y asistir a continuación a la captura "
+"y la defensa de las zonas contiguas."
+
+msgid "MAP_HUD_DESCRIPTION_75_FORTRESS_2"
+msgstr "Los ejércitos que se habían retirado para reagruparse han reabastecido sus suministros, "
+"han reparado sus vehículos y han relanzado un contraataque para capturar el centro de mando perdido "
+"en el meandro del río.<br>El control sobre el centro de mando y las guarniciones de los flancos es "
+"clave para realizar cualquier otro avance, mientras que el aeródromo avanzado en el río proporcionará "
+"una ventaja táctica y nos permitirá lanzar ataques aéreos en la retaguardia enemiga."
+
+msgid "MAP_HUD_DESCRIPTION_75_FORTRESS_3"
+msgstr "A principios de octubre, dos ejércitos se enfrentan en una batalla por las zonas altas "
+"sobre el río.<br>Se han construido aeródromos avanzados a ambos lados del río y se ha establecido "
+"un cuartel de campo entre los aeródromos y la curva del río. El control de estas zonas ofrecería "
+"a las fuerzas terrestres un punto de ventaja en las ruinas de la fortaleza y una oportunidad de "
+"consolidar las posiciones."
+
+msgid "MAP_HUD_DESCRIPTION_75_FORTRESS_4"
+msgstr "El centro de mando en el meandro del río ha sido destruido, pero las bases militares cercanas "
+"siguen operativas y contienen el avance. Solo el control de estas bases permitirá al cuerpo de "
+"ingenieros entrar en la zona y comenzar a recuperar la cabeza de puente. El despliegue de una "
+"fuerza aérea táctica en el aeródromo avanzado proporcionará una ventaja táctica y facilitará la "
+"tarea de conseguir la superioridad aérea."
+
+msgid "MAP_HUD_DESCRIPTION_75_FORTRESS_6_MID_ATT"
+msgstr "Cualquier comandante envidiaría el equipamiento de la cabeza del puente . En el cielo "
+"sobre la antigua fortaleza, convertida en guarnición, un verdadero huracán de acero y plomo comienza. "
+"Solo las pérdidas irrecuperables para uno de los lados los obligarán a retirarse"
+
+msgid "MAP_HUD_DESCRIPTION_75_FORTRESS_7_ATT"
+msgstr "El fuego concentrado de artillería desde posiciones protegidas previene que las fuerzas "
+"terrestres puedan llegar a la cabeza del puente. Está cubierto de manera confiable por aviones "
+"aviones, pero el mando confía en la superioridad de nuestros ASES bajo la manga. Todos los "
+"aviones deben ser destruiosa y debemos tomar sus posiciones"
+
+msgid "MAP_HUD_DESCRIPTION_76_PLATEAU_1"
+msgstr "Aunque las fuerzas expedicionarias que encabezaban la carga han conseguido neutralizar "
+"los centros de mando enemigos, lo que ha trastornado sus defensas, un intento desesperado "
+"de capturar la base militar en el fondo de la planicie rocosa ha fracasado. Se ha perdido "
+"el elemento sorpresa y un rápido ataque preventivo se ha convertido en una operación militar "
+"a gran escala."
+
+msgid "MAP_HUD_DESCRIPTION_76_PLATEAU_10"
+msgstr "Largas y continuas batallas, así como la artillería y los bombardeos condujeron "
+"a enormes destrucciónes en el Área de Operación. Solo quedan pequeñas guarniciones, "
+"bajo la amenaza constante de ataques aéreos dirigidos por los Centros de Comando en "
+"las tierras bajas de la meseta. Estos Centros de Comando deben ser capturados o "
+"destruidos, de lo contrario la operación puede verse comprometida."
+
+msgid "MAP_HUD_DESCRIPTION_76_PLATEAU_11"
+msgstr "Aunque las fuerzas expedicionarias que lideraron la carga lograron neutralizar "
+"centros de comando enemigos, que interrumpieron sus defensas, en un intento de última "
+"hora por capturar la base militar que se encontraba en el fondo de la planicie rocosael "
+"cual no tuvo exito. El elemento sorpresa se perdió y se produjo un rápido ataque preventivo "
+"convertido en una operación militar en toda regla."
+
+msgid "MAP_HUD_DESCRIPTION_76_PLATEAU_12"
+msgstr "La base militar en el fondo de la planicie rocosa sigue siendo una nuez dura de romper. "
+"Dejar un objeto así en la retaguardia de las tropas que avanzan sería una locura, por lo que "
+"las fuerzas expedicionarias tuvieron que detener su ofensiva. Si no se resuelve, este problema "
+"llevaría a toda la operación militar a al borde del colapso. El cuartel general de la Fuerza de "
+"Defensa entendió esto como  una situación perfectamente buena, por lo que todas las fuerzas de "
+"reserva disponibles fueron llevadas a la meseta."
+
+msgid "MAP_HUD_DESCRIPTION_76_PLATEAU_2"
+msgstr "La base militar en el fondo de la planicie rocosa seguía siendo un hueso duro de roer. "
+"Dejar una instalación así en la retaguardia del avance hubiera sido una locura, así que las "
+"fuerzas expedicionarias han tenido que detener su ofensiva. Si no se soluciona este problema, "
+"toda la operación militar podría quedar al borde del colapso. El cuartel general de la Fuerza "
+"de Defensa ha entendido perfectamente la situación, por lo que todas las fuerzas de reserva se "
+"dirigen a la meseta."
+
+msgid "MAP_HUD_DESCRIPTION_76_PLATEAU_3"
+msgstr "Los devastadores ataques aéreos han arruinado el centro de mando y han dejado a las fuerzas "
+"en conflicto descoordinadas y sin posibilidad de solicitar apoyo. Bajo estas circunstancias se "
+"requiere retomar la iniciativa: el ejército que emplee las mejores tácticas y elija bien sus "
+"prioridades saldrá victorioso de la confrontación."
+
+msgid "MAP_HUD_DESCRIPTION_76_PLATEAU_4"
+msgstr "Durante la batalla por el control de la base militar en el fondo de la meseta fueron "
+"dañados gravemente los lanzadores de cohetes situados en el territorio de la base. Esto abrió "
+"la posibilidad de reagruparse y elegir otra estrategia para ambos bandos. Sin embargo, ha "
+"resultado imposible el concentrar la fuerza: las frecuentes incursiones de los bombarderos "
+"pesados dificultan el avance."
+
+msgid "MAP_HUD_DESCRIPTION_76_PLATEAU_5"
+msgstr "El avance de la fuerza expedicionaria se ha frenado, impedida por la difícil misión de "
+"capturar la base militar oculta a salvo en el fondo y rodeada de rocas. Si se captura, la base "
+"se podrá usar para romper las posiciones enemigas. Si se pierde, la base pondrá bajo fuego el "
+"avance de la fuerza aliada terrestre."
+
+msgid "MAP_HUD_DESCRIPTION_76_PLATEAU_6"
+msgstr "Tras restaurar la operatividad del complejo industrial y reagruparse, la fuerza "
+"expedicionaria se ha preparado para avanzar. Mientras tanto, el enemigo ha incrementado "
+"la frecuencia de las incursiones de bombardeo y consolidado en el centro de mando septentrional. "
+"El mando ha asignado a la fuerza expedicionaria la misión de romper el frente y dejar al "
+"enemigo sin apoyo de bombarderos de manera que la fuerza expedicionaria no se vea privada "
+"de sus suministros."
+
+msgid "MAP_HUD_DESCRIPTION_76_PLATEAU_7_ADD"
+msgstr "Las instalaciones industriales militares, ocultas por el complejo terreno y protegidas "
+"por una cadena de guarniciones, han demostrado ser un hueso duro de roer para el cuerpo expedicionario. "
+"En lugar de continuar la lucha, el mando ha decidido tomar una decisión drástica: lanzar una masiva "
+"incursión aérea que debería desalojar al enemigo de sus posiciones y asegurar el avance de las tropas."
+
+msgid "MAP_HUD_DESCRIPTION_76_PLATEAU_9_ESC"
+msgstr "El acceso del cuerpo expedicionario al espacio operativo está bloqueado por un estrecho "
+"pasadizo que atraviesa la cordillera, salpicado de puntos de fuego y grandes fortalezas enemigas. "
+"Un ataque frontal por parte de las fuerzas terrestres parece imposible. El mando ha confiado la "
+"tarea de romper el frente de fortificaciones al regimiento de bombarderos, que realizará una "
+"incursión al atardecer. Nuestra tarea es garantizarles un paso seguro a través de las defensas "
+"antiaéreas del enemigo."
+
+msgid "MAP_HUD_DESCRIPTION_77_FORTRESS_2"
+msgstr " "
+
+msgid "MAP_HUD_LORE_DESCRIPTION_05_LIGHTHOUSE_1"
+msgstr "Condado de Kent, costa británica. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_05_LIGHTHOUSE_11_ESC"
+msgstr "Condado de Kent, costa británica. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_05_LIGHTHOUSE_2"
+msgstr "Condado de Kent, costa británica. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_05_LIGHTHOUSE_3"
+msgstr "Condado de Kent, costa británica. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_05_LIGHTHOUSE_4"
+msgstr "Condado de Kent, costa británica. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_05_LIGHTHOUSE_5"
+msgstr "Condado de Kent, costa británica. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_05_LIGHTHOUSE_6"
+msgstr "Condado de Kent, costa británica. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_05_LIGHTHOUSE_8"
+msgstr "Condado de Kent, costa británica. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_05_LIGHTHOUSE_9_ADD"
+msgstr "Condado de Kent, costa británica. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_1"
+msgstr "Costa de Groenlandia. Amanecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_2"
+msgstr "Costa de Groenlandia. Amanecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_3"
+msgstr "Costa de Groenlandia. Amanecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_4"
+msgstr "Costa de Groenlandia. Amanecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_5"
+msgstr "Costa de Groenlandia. Amanecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_6"
+msgstr "Costa de Groenlandia. Amanecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_7_ADD"
+msgstr "Costa de Groenlandia. Amanecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_9_ESC"
+msgstr "Costa de Groenlandia. Amanecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_10_EASTERN_FRONT_1"
+msgstr "Suroeste noruego. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_10_EASTERN_FRONT_2"
+msgstr "Suroeste noruego. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_10_EASTERN_FRONT_3"
+msgstr "Suroeste noruego. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_10_EASTERN_FRONT_4"
+msgstr "Suroeste noruego. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_10_EASTERN_FRONT_5_ESC"
+msgstr "Suroeste noruego. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_10_EASTERN_FRONT_6_INV"
+msgstr "Suroeste noruego. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_10_EASTERN_FRONT_7"
+msgstr "Suroeste noruego. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS"
+msgstr "Noruega, distrito de Trondheim. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_2"
+msgstr "Noruega, distrito de Trondheim. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_3"
+msgstr "Noruega, distrito de Trondheim. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_4"
+msgstr "Noruega, distrito de Trondheim. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_5"
+msgstr "Noruega, distrito de Trondheim. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_6"
+msgstr "Noruega, distrito de Trondheim. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_7"
+msgstr "Noruega, distrito de Trondheim. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_8"
+msgstr "Noruega, distrito de Trondheim. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_9_ADD"
+msgstr "Suiza, Europa Occidental. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_13_HARBOR"
+msgstr "Costa del mar Negro. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_13_HARBOR_3"
+msgstr "Costa del mar Negro. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_13_HARBOR_4"
+msgstr "Costa del mar Negro. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_13_HARBOR_5_ESC"
+msgstr "Costa del mar Negro. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_13_HARBOR_7_LOW_ATT"
+msgstr "Costa del mar Negro. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_13_HARBOR_7_MID_ATT "
+msgstr "Costa del mar Negro. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_1"
+msgstr "Italia central, costa. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_10_ESC"
+msgstr "Italia central, costa. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_2"
+msgstr "Italia central, costa. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_4"
+msgstr "Italia central, costa. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_5"
+msgstr "Italia central, costa. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_6"
+msgstr "Italia central, costa. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_7"
+msgstr "Italia central, costa. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_8_ADD"
+msgstr "Italia central, costa. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_17_WINTER_WAR_1"
+msgstr "Península de Kola, frente septentrional. Noche."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_17_WINTER_WAR_10_INV"
+msgstr "Península de Kola, frente septentrional. Noche."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_17_WINTER_WAR_2"
+msgstr "Península de Kola, frente septentrional. Noche."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_17_WINTER_WAR_3"
+msgstr "Península de Kola, frente septentrional. Noche."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_17_WINTER_WAR_4"
+msgstr "Península de Kola, frente septentrional. Noche."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_17_WINTER_WAR_5"
+msgstr "Península de Kola, frente septentrional. Noche."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_1"
+msgstr "África del Norte. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_11_ESC"
+msgstr "África del Norte. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_2"
+msgstr "África del Norte. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_4"
+msgstr "África del Norte. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_5"
+msgstr "África del Norte. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_7"
+msgstr "África del Norte. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_8"
+msgstr "África del Norte. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_9_ADD"
+msgstr "África del Norte. Atardecer."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_1"
+msgstr "Birmania, sudeste asiático. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_10_ADD"
+msgstr "Birmania, sudeste asiático. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_1_ESC"
+msgstr "Birmania, sudeste asiático. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_2"
+msgstr "Birmania, sudeste asiático. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_3"
+msgstr "Birmania, sudeste asiático. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_4"
+msgstr "Birmania, sudeste asiático. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_5"
+msgstr "Birmania, sudeste asiático. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_6"
+msgstr "Birmania, sudeste asiático. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_7"
+msgstr "Birmania, sudeste asiático. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_8"
+msgstr "Birmania, sudeste asiático. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_9"
+msgstr "Birmania, sudeste asiático. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_69_OCEAN"
+msgstr "Océano Pacífico, Melanesia. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_69_OCEAN_1"
+msgstr "Océano Pacífico, Melanesia. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_69_OCEAN_2"
+msgstr "Océano Pacífico, Melanesia. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_69_OCEAN_3"
+msgstr "Océano Pacífico, Melanesia. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_69_OCEAN_4"
+msgstr "Océano Pacífico, Melanesia. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_69_OCEAN_5_ADD"
+msgstr "Océano Pacífico, Melanesia. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_69_OCEAN_7_ESC"
+msgstr "Océano Pacífico, Melanesia. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY"
+msgstr "Suiza, Europa Occidental. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_1"
+msgstr "Suiza, Europa Occidental. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_11_ADD"
+msgstr "Noruega, distrito de Trondheim. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_13_INV"
+msgstr "Suiza, Europa Occidental. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_2"
+msgstr "Suiza, Europa Occidental. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_3"
+msgstr "Suiza, Europa Occidental. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_4"
+msgstr "Suiza, Europa Occidental. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_5"
+msgstr "Suiza, Europa Occidental. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_6"
+msgstr "Suiza, Europa Occidental. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_7"
+msgstr "Suiza, Europa Occidental. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_8"
+msgstr "Suiza, Europa Occidental. Mediodía."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_75_FORTRESS_1"
+msgstr "Ucrania, frente oriental. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_75_FORTRESS_2"
+msgstr "Ucrania, Frente Oriental. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_75_FORTRESS_3"
+msgstr "Ucrania, frente oriental. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_75_FORTRESS_4"
+msgstr "Ucrania, Frente Oriental. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_75_FORTRESS_6_MID_ATT"
+msgstr "Ucrania, Frente Oriental. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_75_FORTRESS_7_ATT"
+msgstr "Ucrania, Frente Oriental. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_1"
+msgstr "Colorado, sudoeste de los EE. UU. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_10"
+msgstr "Colorado, sudoeste de los EE. UU. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_11"
+msgstr "Colorado, sudoeste de los EE. UU. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_12"
+msgstr "Colorado, sudoeste de los EE. UU. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_2"
+msgstr "Colorado, sudoeste de los EE. UU. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_3"
+msgstr "Colorado, sudoeste de los EE. UU. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_4"
+msgstr "Colorado, sudoeste de los EE. UU. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_5"
+msgstr "Colorado, sudoeste de los EE. UU. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_6"
+msgstr "Colorado, sudoeste de los EE. UU. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_7_ADD"
+msgstr "Colorado, sudoeste de los EE. UU. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_9_ESC"
+msgstr "Colorado, sudoeste de los EE. UU. Crepúsculo."
+
+msgid "MAP_HUD_LORE_DESCRIPTION_77_FORTRESS_2"
+msgstr "Ucrania, Frente Oriental. Crepúsculo."
+
+msgid "MAP_NAME_HUD_ADRIATIC"
+msgstr "El camino a Roma:"
+
+msgid "MAP_NAME_HUD_ARCTIC"
+msgstr "Misión periférica:"
+
+msgid "MAP_NAME_HUD_ASIAN_BORDER"
+msgstr "Frontera asiática:"
+
+msgid "MAP_NAME_HUD_EASTERN_FRONT"
+msgstr "Cumbre fría:"
+
+msgid "MAP_NAME_HUD_EL_HALLOUF"
+msgstr "Arenas candentes:"
+
+msgid "MAP_NAME_HUD_FJORDS"
+msgstr "Cabeza de puente septentrional:"
+
+msgid "MAP_NAME_HUD_FORTRES"
+msgstr "Antigua fortaleza:"
+
+msgid "MAP_NAME_HUD_HARBOR"
+msgstr "Puerta del mar:"
+
+msgid "MAP_NAME_HUD_LIGHTHOUSE"
+msgstr "Albión:"
+
+msgid "MAP_NAME_HUD_OBSERVATORY"
+msgstr "Gambito alpino:"
+
+msgid "MAP_NAME_HUD_OCEAN"
+msgstr "Archipiélago:"
+
+msgid "MAP_NAME_HUD_PLATEAU"
+msgstr "Meseta:"
+
+msgid "MAP_NAME_HUD_WINTER_WAR"
+msgstr "Región Ártica:"
+
+msgid "MAP_NAME_LOBBY_ADRIATIC"
+msgstr "El camino a Roma"
+
+msgid "MAP_NAME_LOBBY_ARCTIC"
+msgstr "Misión periférica"
+
+msgid "MAP_NAME_LOBBY_ASIAN_BORDER"
+msgstr "Frontera asiática"
+
+msgid "MAP_NAME_LOBBY_EASTERN_FRONT"
+msgstr "Cumbre fría"
+
+msgid "MAP_NAME_LOBBY_EL_HALLOUF"
+msgstr "Arenas candentes"
+
+msgid "MAP_NAME_LOBBY_FJORDS"
+msgstr "Cabeza de puente septentrional"
+
+msgid "MAP_NAME_LOBBY_FORTRES"
+msgstr "Antigua fortaleza"
+
+msgid "MAP_NAME_LOBBY_HARBOR"
+msgstr "Puerta del mar"
+
+msgid "MAP_NAME_LOBBY_LIGHTHOUSE"
+msgstr "Albión"
+
+msgid "MAP_NAME_LOBBY_OBSERVATORY"
+msgstr "Gambito alpino"
+
+msgid "MAP_NAME_LOBBY_OCEAN"
+msgstr "Archipiélago"
+
+msgid "MAP_NAME_LOBBY_PLATEAU"
+msgstr "Meseta"
+
+msgid "MAP_NAME_LOBBY_WINTER_WAR"
+msgstr "Región ártica"
+
+# Nombres descriptivos del mapa albion
+
+msgid "MAP_SUBNAME_05_LIGHTHOUSE_1"
+msgstr "Baza"
+
+msgid "MAP_SUBNAME_05_LIGHTHOUSE_11_ESC"
+msgstr "Tormenta de truenos (Escoltar bombarderos)"
+
+msgid "MAP_SUBNAME_05_LIGHTHOUSE_2"
+msgstr "Voluntad de hierro"
+
+msgid "MAP_SUBNAME_05_LIGHTHOUSE_3"
+msgstr "Argumento definitivo"
+
+msgid "MAP_SUBNAME_05_LIGHTHOUSE_4"
+msgstr "Nudo gordiano (Desgaste)"
+
+msgid "MAP_SUBNAME_05_LIGHTHOUSE_4_1"
+msgstr "Nudo gordiano"
+
+msgid "MAP_SUBNAME_05_LIGHTHOUSE_5"
+msgstr "Equilibrio de fuerzas"
+
+msgid "MAP_SUBNAME_05_LIGHTHOUSE_6"
+msgstr "Alas de guerra"
+
+msgid "MAP_SUBNAME_05_LIGHTHOUSE_8"
+msgstr "Esfera de influencia"
+
+msgid "MAP_SUBNAME_05_LIGHTHOUSE_9_ADD"
+msgstr "Ataque costero (Invasión)"
+
+# Nombres descriptivos del mapa mision periferica
+msgid "MAP_SUBNAME_09_ARCTIC_1"
+msgstr "Gélido silencio"
+
+msgid "MAP_SUBNAME_09_ARCTIC_2"
+msgstr "Onda de choque"
+
+msgid "MAP_SUBNAME_09_ARCTIC_3"
+msgstr "Tiempos duros"
+
+msgid "MAP_SUBNAME_09_ARCTIC_4"
+msgstr "Perímetro"
+
+msgid "MAP_SUBNAME_09_ARCTIC_5"
+msgstr "Tierra incógnita"
+
+msgid "MAP_SUBNAME_09_ARCTIC_6"
+msgstr "Costa nevada (Desgaste)"
+
+msgid "MAP_SUBNAME_09_ARCTIC_6_1"
+msgstr "Costa nevada"
+
+msgid "MAP_SUBNAME_09_ARCTIC_7_ADD"
+msgstr "Fría realidad (Invasión)"
+
+msgid "MAP_SUBNAME_09_ARCTIC_9_ESC"
+msgstr "Desafío formidable (Escoltar bombarderos)"
+
+# Nombres descriptivos del mapa cumbre fría
+
+msgid "MAP_SUBNAME_10_EASTERN_FRONT_1"
+msgstr "Muros de piedra"
+
+msgid "MAP_SUBNAME_10_EASTERN_FRONT_2"
+msgstr "Prueba de fuego"
+
+msgid "MAP_SUBNAME_10_EASTERN_FRONT_3"
+msgstr "Piedra angular del control"
+
+msgid "MAP_SUBNAME_10_EASTERN_FRONT_4"
+msgstr "Gema de la montaña"
+
+msgid "MAP_SUBNAME_10_EASTERN_FRONT_5_ESC"
+msgstr "Verdadera vocación (Escoltar bombarderos)"
+
+msgid "MAP_SUBNAME_10_EASTERN_FRONT_6_INV"
+msgstr "Intento arriesgado (Invasión)"
+
+msgid "MAP_SUBNAME_10_EASTERN_FRONT_7"
+msgstr "Viento penetrante"
+
+# Nombres descriptivos del mapa fiordos
+msgid "MAP_SUBNAME_12_FJORDS_2"
+msgstr "Estrella polar"
+
+msgid "MAP_SUBNAME_12_FJORDS_3"
+msgstr "Ruptura"
+
+msgid "MAP_SUBNAME_12_FJORDS_4"
+msgstr "Cielos helados"
+
+msgid "MAP_SUBNAME_12_FJORDS_5"
+msgstr "Valhalla"
+
+msgid "MAP_SUBNAME_12_FJORDS_6"
+msgstr "Redención"
+
+msgid "MAP_SUBNAME_12_FJORDS_7"
+msgstr "Silencio sepulcral"
+
+msgid "MAP_SUBNAME_12_FJORDS_8"
+msgstr "Pájaros de presa"
+
+msgid "MAP_SUBNAME_12_FJORDS_9_ADD"
+msgstr "Avalancha de acero (Invasión)"
+
+#Nombres descriptivos del mapa puertas del mar
+msgid "MAP_SUBNAME_13_HARBOR"
+msgstr "Batalla por el puerto"
+
+msgid "MAP_SUBNAME_13_HARBOR_3"
+msgstr "Asedio"
+
+msgid "MAP_SUBNAME_13_HARBOR_4"
+msgstr "Contrataque"
+
+msgid "MAP_SUBNAME_13_HARBOR_5_ESC"
+msgstr "Bastión (Escoltar bombarderos)"
+
+msgid "MAP_SUBNAME_13_HARBOR_7_LOW_ATT"
+msgstr "Muro de fuego (Desgaste)"
+
+msgid "MAP_SUBNAME_13_HARBOR_7_MID_ATT"
+msgstr "Muro de fuego (Desgaste)"
+
+#Nombres descriptivos del mapa camino a roma
+msgid "MAP_SUBNAME_14_ADRIATIC_1"
+msgstr "Llamada del deber"
+
+msgid "MAP_SUBNAME_14_ADRIATIC_10_ESC"
+msgstr "Culminación(Escoltar bombarderos)"
+
+msgid "MAP_SUBNAME_14_ADRIATIC_2"
+msgstr "Confrontación"
+
+msgid "MAP_SUBNAME_14_ADRIATIC_4"
+msgstr "Avanzadilla"
+
+msgid "MAP_SUBNAME_14_ADRIATIC_5"
+msgstr "Ruptura"
+
+msgid "MAP_SUBNAME_14_ADRIATIC_6"
+msgstr "Ascensión"
+
+msgid "MAP_SUBNAME_14_ADRIATIC_7"
+msgstr "Trampa (Desgaste)"
+
+msgid "MAP_SUBNAME_14_ADRIATIC_7_1"
+msgstr "Trampa"
+
+msgid "MAP_SUBNAME_14_ADRIATIC_8_ADD"
+msgstr "Ofensiva (Invasión)"
+
+# region artica
+msgid "MAP_SUBNAME_17_WINTER_WAR_1"
+msgstr "Guerra de Invierno"
+
+msgid "MAP_SUBNAME_17_WINTER_WAR_10_INV"
+msgstr "Incursión nocturna (Invasión)"
+
+msgid "MAP_SUBNAME_17_WINTER_WAR_2"
+msgstr "Colinas ancestrales"
+
+msgid "MAP_SUBNAME_17_WINTER_WAR_3"
+msgstr "Fuego y hielo"
+
+msgid "MAP_SUBNAME_17_WINTER_WAR_4"
+msgstr "Expansión implacable"
+
+msgid "MAP_SUBNAME_17_WINTER_WAR_5"
+msgstr "Noticias alarmantes"
+
+
+# Nombres descriptivos del mapa arenas candentes
+
+msgid "MAP_SUBNAME_55_EL_HALLOUF_1"
+msgstr "Vanguardia"
+
+msgid "MAP_SUBNAME_55_EL_HALLOUF_11_ESC"
+msgstr "Hacia el sol (Escoltar Bombarderos)"
+
+msgid "MAP_SUBNAME_55_EL_HALLOUF_2"
+msgstr "La hora decisiva"
+
+msgid "MAP_SUBNAME_55_EL_HALLOUF_4"
+msgstr "Siroco"
+
+msgid "MAP_SUBNAME_55_EL_HALLOUF_5"
+msgstr "Invasión"
+
+msgid "MAP_SUBNAME_55_EL_HALLOUF_8"
+msgstr "El confín del mundo (Desgaste)"
+
+msgid "MAP_SUBNAME_55_EL_HALLOUF_8_1"
+msgstr "El confín del mundo"
+
+msgid "MAP_SUBNAME_55_EL_HALLOUF_9_ADD"
+msgstr "Ataque en el desierto (Invasión)"
+
+# Nombres descriptivos del mapa frontera asiatica
+msgid "MAP_SUBNAME_62_ASIAN_BORDER_1"
+msgstr "Confrontation"
+
+msgid "MAP_SUBNAME_62_ASIAN_BORDER_10_ADD"
+msgstr "Río ancestral (Invasion)"
+
+msgid "MAP_SUBNAME_62_ASIAN_BORDER_1_ESC"
+msgstr "Cataclismo (Escoltar bombarderos)"
+
+msgid "MAP_SUBNAME_62_ASIAN_BORDER_2"
+msgstr "Efecto sorpresa (Desgaste)"
+
+msgid "MAP_SUBNAME_62_ASIAN_BORDER_20_ADD"
+msgstr "Cresta esmeralda"
+
+msgid "MAP_SUBNAME_62_ASIAN_BORDER_2_1"
+msgstr "Efecto sorpresa"
+
+msgid "MAP_SUBNAME_62_ASIAN_BORDER_4"
+msgstr "Cresta esmeralda"
+
+msgid "MAP_SUBNAME_62_ASIAN_BORDER_6"
+msgstr "Línea del frente"
+
+msgid "MAP_SUBNAME_62_ASIAN_BORDER_8"
+msgstr "Punto de inflexión"
+
+msgid "MAP_SUBNAME_62_ASIAN_BORDER_9"
+msgstr "Medidas preventivas"
+
+# Nombres descriptivos del mapa archipiélago
+
+msgid "MAP_SUBNAME_69_OCEAN_1"
+msgstr "Golpe decisivo"
+
+msgid "MAP_SUBNAME_69_OCEAN_2"
+msgstr "Escollo"
+
+msgid "MAP_SUBNAME_69_OCEAN_3"
+msgstr "Represalia"
+
+msgid "MAP_SUBNAME_69_OCEAN_4"
+msgstr "Fuego de reconocimiento (Desgaste)"
+
+msgid "MAP_SUBNAME_69_OCEAN_4_1"
+msgstr "Fuego de reconocimiento"
+
+msgid "MAP_SUBNAME_69_OCEAN_5_ADD"
+msgstr "Islas perladas (Invasión)"
+
+msgid "MAP_SUBNAME_69_OCEAN_7_ESC"
+msgstr "Prueba de resistencia (Escoltar bombarderos)"
+
+# Nombres descriptivos del mapa gambito alpino
+msgid "MAP_SUBNAME_73_OBSERVATORY"
+msgstr "Nieve y cenizas"
+
+msgid "MAP_SUBNAME_73_OBSERVATORY_13_INV"
+msgstr "Guarnición olvidada (Invasión)"
+
+msgid "MAP_SUBNAME_73_OBSERVATORY_2"
+msgstr "Tierra incógnita"
+
+msgid "MAP_SUBNAME_73_OBSERVATORY_3"
+msgstr "Vertical"
+
+msgid "MAP_SUBNAME_73_OBSERVATORY_4"
+msgstr "Colisión"
+
+msgid "MAP_SUBNAME_73_OBSERVATORY_5"
+msgstr "Día del juicio"
+
+msgid "MAP_SUBNAME_73_OBSERVATORY_6"
+msgstr "Desfiladero"
+
+msgid "MAP_SUBNAME_73_OBSERVATORY_7"
+msgstr "Momento de la verdad (Desgaste)"
+
+msgid "MAP_SUBNAME_73_OBSERVATORY_7_1"
+msgstr "Momento de la verdad"
+
+msgid "MAP_SUBNAME_73_OBSERVATORY_8"
+msgstr "Edelweiss"
+
+# Nombres descriptivos del mapa fortaleza antigua
+msgid "MAP_SUBNAME_75_FORTRESS_2"
+msgstr "Maniobra de flanqueo"
+
+msgid "MAP_SUBNAME_75_FORTRESS_3"
+msgstr "Enemigo a las puertas"
+
+msgid "MAP_SUBNAME_75_FORTRESS_4"
+msgstr "Zona de peligro"
+
+msgid "MAP_SUBNAME_75_FORTRESS_6_MID_ATT"
+msgstr "Alternativa (Desgaste)"
+
+msgid "MAP_SUBNAME_75_FORTRESS_7_ATT"
+msgstr "Primera línea (Desgaste)"
+
+
+# Nombres descriptivos del mapa meseta
+msgid "MAP_SUBNAME_76_PLATEAU_1"
+msgstr "Ataque sorpresa"
+
+msgid "MAP_SUBNAME_76_PLATEAU_10"
+msgstr "Valle Maldito (Desgaste)"
+
+msgid "MAP_SUBNAME_76_PLATEAU_11"
+msgstr "Fortaleza abandonada"
+
+msgid "MAP_SUBNAME_76_PLATEAU_12"
+msgstr "Cielo ardiente"
+
+msgid "MAP_SUBNAME_76_PLATEAU_2"
+msgstr "Tormenta de arena (Escoltar bombarderos)"
+
+msgid "MAP_SUBNAME_76_PLATEAU_3"
+msgstr "La hora decisiva"
+
+msgid "MAP_SUBNAME_76_PLATEAU_4"
+msgstr "Momento crucial"
+
+msgid "MAP_SUBNAME_76_PLATEAU_5"
+msgstr "Arma de venganza (Desgaste)"
+
+msgid "MAP_SUBNAME_76_PLATEAU_5_1"
+msgstr "Arma de venganza"
+
+msgid "MAP_SUBNAME_76_PLATEAU_6"
+msgstr "Colisión"
+
+msgid "MAP_SUBNAME_76_PLATEAU_7_ADD"
+msgstr "Expansión (Invasión)"
+
+msgid "MAP_SUBNAME_76_PLATEAU_9_ESC"
+msgstr "Todo en juego (Escoltar bombarderos)"
+
+msgid "MAP_UNDEFINED"
+msgstr "No especificado"
+
+msgid "OBJECT_BATTLESHIP"
+msgstr "Carros de combate"
+
+msgid "OBJECT_BRIDGE"
+msgstr "Puente"
+
+msgid "OBJECT_NAME_AEROSTAT"
+msgstr "Globo"
+
+msgid "OBJECT_NAME_AIRCRAFT_CARRIER"
+msgstr "Portaaviones"
+
+msgid "OBJECT_NAME_B4"
+msgstr "Artillería"
+
+msgid "OBJECT_NAME_BARRELS"
+msgstr "Barriles de combustible"
+
+msgid "OBJECT_NAME_BATTLE TRAIN"
+msgstr "Tren blindado"
+
+msgid "OBJECT_NAME_BOATS"
+msgstr "Barcos pequeños"
+
+msgid "OBJECT_NAME_CANNON"
+msgstr "Cañón automático"
+
+msgid "OBJECT_NAME_CONVOY"
+msgstr "Convoy"
+
+msgid "OBJECT_NAME_DEPOT"
+msgstr "Fortificación"
+
+msgid "OBJECT_NAME_DOCK"
+msgstr "Muelle"
+
+msgid "OBJECT_NAME_FAU_1"
+msgstr "Cohete V-1"
+
+msgid "OBJECT_NAME_FLAK40"
+msgstr "Flak 42"
+
+msgid "OBJECT_NAME_FUEL TANK"
+msgstr "Tanque de gasolina"
+
+msgid "OBJECT_NAME_FUEL_STORAGE"
+msgstr "Depósito de gasolina"
+
+msgid "OBJECT_NAME_HEADQUARTERS"
+msgstr "Cuartel general"
+
+msgid "OBJECT_NAME_HOUSE"
+msgstr "Blocaos"
+
+msgid "OBJECT_NAME_LCT"
+msgstr "Transporte"
+
+msgid "OBJECT_NAME_MISSILE"
+msgstr "Cohete V-2"
+
+msgid "OBJECT_NAME_MOBILE_HEADQUARTERS"
+msgstr "Cuartel general móvil"
+
+msgid "OBJECT_NAME_OBSERVER"
+msgstr "Puesto de observación"
+
+msgid "OBJECT_NAME_OIL TANK"
+msgstr "Tanque de gasolina"
+
+msgid "OBJECT_NAME_OIL TANKS"
+msgstr "Tanques de gasolina"
+
+msgid "OBJECT_NAME_RADAR"
+msgstr "Radar"
+
+msgid "OBJECT_NAME_RLS STOREHOUSE"
+msgstr "Taller de mantenimiento"
+
+msgid "OBJECT_NAME_SHIP"
+msgstr "Barco pequeño"
+
+msgid "OBJECT_NAME_STOREHOUSE"
+msgstr "Estación de combustible"
+
+msgid "OBJECT_NAME_SUBMARINE"
+msgstr "Submarino"
+
+msgid "OBJECT_NAME_TANKS"
+msgstr "Carros de combate"
+
+msgid "OBJECT_NAME_TRUCKS"
+msgstr "Convoy"
+
+msgid "OBJECT_NAME_TURRET1"
+msgstr "Cañón AA"
+
+msgid "OBJECT_NAME_TURRET_13MM"
+msgstr "Cañón AA"
+
+msgid "OBJECT_NAME_TURRET_20MM"
+msgstr "Cañón AA"
+
+msgid "OBJECT_NAME_TURRET_7MM"
+msgstr "Cañón AA"
+
+msgid "OBJECT_NAME_TURRET_AA"
+msgstr "Cañón AA"
+
+msgid "OBJECT_NAME_WAREHOUSE"
+msgstr "Depósito de municiones"
+
+msgid "TRAINING_ROOMS_23_PROVINCE_DESCRIPTION"
+msgstr "Provincia ofrece una batalla por la dominación de una ciudad sobre una meseta "
+"y sus densamente poblados alrededores. El terreno difícil con acantilados y gargantas "
+"estorba la ofensiva por ambos lados. Para romper el punto muerto, ambos equipos confían "
+"en sus fuerzas aéreas."
+
+msgid "TRAINING_ROOMS_24_OBSERVATORY_DESCRIPTION"
+msgstr "Observatorio ofrece una batalla por el control de la única vía pública para el "
+"despliegue de tropas con un número de vías acuíferas y carreteras. Picos de alta montaña "
+"y gargantas dificultan el avance de las tropas a lo largo de estrechos caminos. Un equipo "
+"dejó de avanzar y comenzó a reforzar sus posiciones, mientras el otro equipo decidió "
+"continuar el ataque antes de que el enemigo pueda convertir su red de gargantas en "
+"fortalezas inatacables."
+
+msgid "TRAINING_ROOMS_27_GIANT_DAM_DESCRIPTION"
+msgstr "Presa ofrece una batalla por el dominio de una presa hidroeléctrica. El equipo "
+"que capture la presa puede controlar el suministro de electricidad de todas las localidades "
+"del valle o ahogar al enemigo volando la presa del lago en caso de derrota. El terreno "
+"proporciona las mismas posibilidades a todos los tipos de aviones."
+
+msgid "TRAINING_ROOMS_ADRIATIC_DESCRIPTION"
+msgstr "Adriático presenta una operación terrestre en el Mediterráneo. Un equipo trata de "
+"limpiar el terreno elevado de enemigos y proporcionar cobertura para el desembarco en la "
+"playa de fuerzas amigas. El otro equipo trata de mantener las posiciones capturadas hasta "
+"que todas sus tropas sean evacuadas por mar."
+
+msgid "TRAINING_ROOMS_ARCTIC_NY_DESCRIPTION"
+msgstr "Laponia es un mapa especial para el modo de juego «Lucha con bolas de nieve»."
+
+msgid "TRAINING_ROOMS_ARIZONA_DESCRIPTION"
+msgstr "Meseta ofrece una batalla aérea entre los viejos cañones de América Central. "
+"La punta de lanza de una fuerza expedicionaria capturó un campamento a los pies de una "
+"zona rocosa sin incidentes, pero fue contraatacada por el enemigo. Ambos equipos tratan "
+"de retomar las posiciones capturadas, destruyendo todos los campamentos y puestos de "
+"observación detectados en el camino."
+
+msgid "TRAINING_ROOMS_BURMA_DESCRIPTION"
+msgstr "Frontera Asiática ofrece un conflicto fronterizo por las alturas y el único valle "
+"negociable para el despliegue de tropas en el estuario del río. El equipo defensor centra "
+"sus esfuerzos en detener al enemigo levantando defensas a lo largo de sus rutas de avance. "
+"El equipo atacante causa devastación y destrucción mientras se abre camino en las profundidades "
+"del territorio enemigo."
+
+msgid "TRAINING_ROOMS_CANYON_DESCRIPTION"
+msgstr "Cañón ofrece una batalla por la única carretera disponible en la región que corre "
+"a través de una garganta. El terreno montañoso, el clima húmedo y las nubes bajas han "
+"forzado a los oponentes a suspender la ofensiva y consolidarse en terreno elevado en "
+"anticipación a la victoria aérea."
+
+msgid "TRAINING_ROOMS_CONVOY_DESCRIPTION"
+msgstr "Base aérea oculta ofrece una batalla aérea sobre el mar entre icebergs y acantilados. "
+"El equipo atacante trata de desorganizar al personal y el equipamiento de evacuación de una "
+"base aérea secreta en los campos de hielo. El equipo defensor trata de hundir la flota enemiga "
+"y evitar que los atacantes se hagan con valiosa tecnología de la base."
+
+msgid "TRAINING_ROOMS_ELHALLUF_DESCRIPTION"
+msgstr "El Halluf ofrece una ofensiva en una región desértica atravesada por lagos y ríos "
+"montañosos. La batalla se despliega desde una base aérea en un lado y un depósito de "
+"combustible en el otro. Un equipo trata de limpiar de enemigos la meseta y alcanzar "
+"el valioso combustible y los vehículos de apoyo. El otro equipo trata de expulsar al "
+"enemigo de la base aérea localizada cerca de la cascada."
+
+msgid "TRAINING_ROOMS_FJORDS_DESCRIPTION"
+msgstr "Fiordos ofrece una batalla entre dos flotas en aguas profundas y estrechas "
+"rodeadas de escarpados acantilados. El terreno montañoso prohíbe el uso de vehículos "
+"terrestres, así que la asistencia desde el aire es extremadamente importante. Un equipo "
+"se abre camino hacia la presa, mientras el otro trata de evitar que el enemigo alcance "
+"una posición estratégica."
+
+msgid "TRAINING_ROOMS_FORTRESS_DESCRIPTION"
+msgstr "Fortaleza ofrece una batalla por la dominación de un territorio alrededor de un "
+"antiguo baluarte. El paisaje está diseccionado por una vía de agua, que fluye hacia tierras "
+"llanas y vastas extensiones montuosas. Un equipo apoya el avance de sus vehículos hacia el "
+"pueblo localizado en el centro. El otro equipo intenta mantener a las fuerzas enemigas "
+"hasta que lleguen refuerzos."
+
+msgid "TRAINING_ROOMS_GREENLAND_DESCRIPTION"
+msgstr "Región Ártica ofrece un asalto a una base costera fortificada en un valle con un "
+"géiser y los restos de una flota en unas orillas cercanas cubiertas por la nieve. El equipo "
+"atacante, apoyado por un grupo de barcos de guerra, realiza intentos regulares para destruir "
+"los buques restantes. El equipo defensor trata de rechazar al enemigo y evitar que aplaste "
+"a la flota."
+
+msgid "TRAINING_ROOMS_HARBOR_DESCRIPTION"
+msgstr "Puerto ofrece una batalla por una ciudad adyacente a un puerto marítimo. El equipo "
+"defensor trata de evitar que el enemigo alcance localizaciones estratégicas en el astillero y "
+"que entre en la ciudad. El equipo atacante, apoyado por un robusto fuego naval, trata de expandir "
+"su punto de apoyo para lanzar una ofensiva terrestre."
+
+msgid "TRAINING_ROOMS_LIGHTHOUSE_DESCRIPTION"
+msgstr "Faro ofrece una batalla por una meseta que es el adelanto de un desembarco a gran "
+"escala en el continente. El equipo defensor trata de alcanzar la posible cabeza de playa "
+"que es la única localización posible para el despliegue de tropas. El equipo atacante se "
+"enfrasca en una lucha continua por la superioridad en la región, ya que una gran operación "
+"naval se encuentra amenazada sin asegurarse la victoria en el aire."
+
+msgid "TRAINING_ROOMS_MAP_PLACE"
+msgstr "Disposición del mapa"
+
+msgid "TRAINING_ROOMS_NATIONAL_PARK_2_DESCRIPTION"
+msgstr "Parque nacional presenta una batalla en medio de pintorescas mesetas de granito y "
+"profundos cañones. El avance en la línea del frente se ha detenido debido al difícil terreno. "
+"La superioridad aérea es la clave para alcanzar el terreno elevado y avanzar a lo largo de "
+"la orilla del río en el centro del valle."
+
+msgid "TRAINING_ROOMS_PACIFIC_DESCRIPTION"
+msgstr "Océano Pacífico es una batalla marítima por una base naval que sirve como "
+"importante punto de transferencia en esta parte del Pacífico. Ambos equipos mantienen "
+"sus flotas en el sector y tratan de evitar que el otro consiga la superioridad, mientras "
+"al mismo tiempo tratan de retomar los puntos de apoyo capturados en las islas."
+
+msgid "TRAINING_ROOMS_PARK_DESCRIPTION"
+msgstr "Parque nacional ofrece una batalla por un área pintoresca de montañas de granito "
+"rodeadas de profundos cañones y cubiertas de antiguos bosques. El equipo defensor trata de "
+"evitar la captura de un aeropuerto y otras instalaciones cercanas. El equipo atacante trata "
+"de establecer su propia red de suministros para apoyar a las fuerzas terrestres que avanzan "
+"en la región."
+
+msgid "TRAINING_ROOMS_PORT_DESCRIPTION"
+msgstr "Puerto es un mapa para aviones de nivel inicial y medio. La población portuaria está "
+"situada en las orillas de una bahía albergando una vasta flota de buques de guerra. Un alto "
+"risco de montaña divide el puerto de un tramo de terreno montañoso y rutas ocultas entre dos "
+"aeropuertos."
+
+msgid "TRAINING_ROOMS_SAN_FRANCISCO_DESCRIPTION"
+msgstr "Bahía ofrece una batalla de encuentro sobre un área densamente poblada. Los enemigos "
+"luchan por la oportunidad de transportar sus tropas a través de la bahía usando el único puente "
+"operacional. Ambos equipos tratan de cumplir con este objetivo, desembarcando sus tropas en "
+"puertos y empeñando tanto a la aviación como los barcos en combate activo."
+
+msgid "TRAINING_ROOMS_STALINGRAD_DESCRIPTION"
+msgstr "Frente Oriental ofrece una batalla de encuentro entre dos ejércitos divididos por el "
+"lecho helado de un río. El enemigo penetra en las defensas del otro equipo y trata de consolidarse "
+"en la otra orilla del río con éxito variado. Ambos equipos tratan de apoyar a sus fuerzas y evitar "
+"que el enemigo retome las posiciones capturadas."
+
+msgid "TRAINING_ROOMS_WINTER_WAR_DESCRIPTION"
+msgstr "Guerra de Invierno ofrece una batalla aérea por el control de una ciudad centros "
+"industriales cercanos. Uno de los equipos mantiene la línea a lo largo del río dividiendo "
+"en dos el paisaje y moviendo sus reservas desde posiciones defensivas en profundidad. El "
+"otro equipo trata de consolidar las posiciones capturadas y flanquear al enemigo sobre el "
+"área helada."
+

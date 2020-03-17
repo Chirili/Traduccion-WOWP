@@ -1,0 +1,613 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Warplanes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 10:00+0300\n"
+"Last-Translator: v_tytarchuk <v_tytarchuk@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: \n"
+"Language: es\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgid "SKILL_DESCRIPTION_EQUIPMENT_DURABILITY_AND_ANTICRIT_MODS"
+msgstr ""
+"Incrementa el efecto positivo del equipamiento montado sobre <font "
+"color='#f2f2f2'>la durabilidad y la resistencia al daño crítico</font> en un "
+"<font color='#8dbb44'>40 %</font>."
+
+msgid "SKILL_DESCRIPTION_EQUIPMENT_FIRERANGE_TURRET_MODS"
+msgstr ""
+"Incrementa el <font color='#f2f2f2'>alcance de disparo</font> de una torreta "
+"en un <font color='#8dbb44'>20 %</font>."
+
+msgid "SKILL_DESCRIPTION_EQUIPMENT_MANEUVER_AND_SPEED_MODS"
+msgstr ""
+"Incrementa el efecto positivo del equipamiento montado en <font "
+"color='#f2f2f2'>la maniobrabilidad y velocidad del avión</font> en un <font "
+"color='#8dbb44'>40 %</font>."
+
+msgid "SKILL_DESCRIPTION_GUNNER_KILLER"
+msgstr ""
+"El artillero concentra el fuego en <font color='#f2f2f2'>el avión enemigo "
+"con menos puntos de vida</font>."
+
+msgid "SKILL_DESCRIPTION_GUNNER_LONGRANGE"
+msgstr ""
+"Incrementa el <font color='#f2f2f2'>alcance de disparo</font> de una torreta "
+"en un <font color='#8dbb44'>10 %</font>."
+
+msgid "SKILL_DESCRIPTION_GUNNER_NIMBLE"
+msgstr ""
+"Reduce el <font color='#f2f2f2'>tiempo en apuntar</font> de una torreta en "
+"un <font color='#8dbb44'>50 %</font>."
+
+msgid "SKILL_DESCRIPTION_GUNNER_PROTECTOR"
+msgstr ""
+"Reduce el daño de un avión enemigo al que el artillero está disparando un "
+"<font color='#8dbb44'>30 %</font>."
+
+msgid "SKILL_DESCRIPTION_GUNNER_PUNISHER"
+msgstr ""
+"El artillero concentra el fuego en <font color='#f2f2f2'>las secciones más "
+"vulnerables de un avión enemigo</font>. La posibilidad de que una torreta "
+"cause daño crítico aumenta significativamente."
+
+msgid "SKILL_DESCRIPTION_GUNNER_SIGHTRANGE"
+msgstr ""
+"Aumenta el <font color='#f2f2f2'>rango al cual los aviones enemigos son "
+"detectados</font> en un <font color='#8dbb44'>10 %</font>.<br>El efecto es "
+"acumulativo sobre el efecto de la habilidad del piloto <font "
+"color='#f2f2f2'>«Ojo de águila»</font>."
+
+msgid "SKILL_DESCRIPTION_GUNNER_TOUGH"
+msgstr ""
+"Reduce la <font color='#f2f2f2'>posibilidad de sufrir heridas</font> de un "
+"artillero un <font color='#8dbb44'>20 %</font>."
+
+msgid "SKILL_DESCRIPTION_GUNNER_VOLLEY"
+msgstr ""
+"Aumenta la <font color='#f2f2f2'>longitud de la ráfaga</font> de una torreta "
+"un <font color='#8dbb44'>50 %</font>."
+
+msgid "SKILL_DESCRIPTION_LAST_DASH"
+msgstr ""
+"<font color='#f2f2f2'>Repara todo el daño crítico</font>, cura todas las "
+"heridas de la tripulación, proporciona resistencia a las heridas al piloto e "
+"incrementa la <font color='#f2f2f2'>maniobrabilidad</font> y <font "
+"color='#f2f2f2'>potencia del motor</font> en un <font color='#8dbb44'>10 %</"
+"font>cuando el avión pierde un 50 % de sus puntos de vida. La habilidad se "
+"activa automáticamente una vez por batalla y permanece en activo hasta el "
+"final de la batalla."
+
+msgid "SKILL_DESCRIPTION_LONG_AGILITY"
+msgstr ""
+"Mejora la salud de los miembros de la tripulación y su resistencia a las "
+"heridas.<br>El efecto se incrementa con el nivel de la habilidad."
+
+msgid "SKILL_DESCRIPTION_LONG_BOMBER"
+msgstr ""
+"Mejora la precisión cuando lanzas cohetes o sueltas bombas.<br>La habilidad "
+"no tiene efecto sobre la precisión de las ametralladoras y los cañones "
+"automáticos.<br>El efecto se incrementa con el nivel de la habilidad."
+
+msgid "SKILL_DESCRIPTION_LONG_EAGLE_EYE"
+msgstr ""
+"Incrementa el alcance del fuego de los artilleros sobre los aviones enemigos."
+"<br>La habilidad no tiene efecto en las armas principales.<br>El efecto se "
+"incrementa con el nivel de la habilidad."
+
+msgid "SKILL_DESCRIPTION_LONG_ENGINE_SPECIALIST"
+msgstr ""
+"Mejora la aceleración del avión cuando vuela recto o impulsándose.<br>El "
+"efecto se incrementa con el nivel de la habilidad."
+
+msgid "SKILL_DESCRIPTION_LONG_FIRE_FIGHTING"
+msgstr ""
+"Mejora la capacidad de extinción de incendios incluso sin un extintor de "
+"incendios.<br>El efecto se incrementa con el nivel de la habilidad.<br>El "
+"nivel efectivo de la habilidad es promediado entre la tripulación entera."
+
+msgid "SKILL_DESCRIPTION_LONG_LONG_SIGHT"
+msgstr ""
+"Extiende el alcance al cual los aviones enemigos pueden ser detectados por "
+"este miembro de la tripulación.<br>El efecto se incrementa con el nivel de "
+"la habilidad."
+
+msgid "SKILL_DESCRIPTION_LONG_MEMORY"
+msgstr ""
+"Incrementa la distancia a la que dejas de ver los aviones enemigos "
+"avistados<br>dentro del campo de visión.<br>El efecto se incrementa con el "
+"nivel de la habilidad."
+
+msgid "SKILL_DESCRIPTION_LONG_SHARP_SHOOTER"
+msgstr ""
+"Mejora la precisión del fuego de los artilleros sobre los aviones enemigos."
+"<br>La habilidad no tiene efecto sobre las armas principales.<br>El efecto "
+"se incrementa con el nivel de la habilidad."
+
+msgid "SKILL_DESCRIPTION_LONG_SNIPER"
+msgstr ""
+"Mejora la precisión de las ametralladoras y los cañones automáticos.<br>La "
+"habilidad no tiene efecto sobre la precisión cuando se lanzan cohetes o "
+"sueltan bombas.<br>El efecto se incrementa con el nivel de la habilidad."
+
+msgid "SKILL_DESCRIPTION_LONG_TUTOR"
+msgstr ""
+"Incrementa la experiencia por batalla para todos los miembros de la "
+"tripulación, incluyendo al artillero.<br>El efecto se incrementa con el "
+"nivel de la habilidad."
+
+msgid "SKILL_DESCRIPTION_LONG_VETERAN"
+msgstr ""
+"Mejora la controlabilidad y maniobrabilidad de un avión dañado.<br>El efecto "
+"se incrementa con el nivel de la habilidad."
+
+msgid "SKILL_DESCRIPTION_LONG_WEAPON_SPECIALIST"
+msgstr ""
+"Habilita al artillero a disparar ráfagas más largas.<br>La habilidad no "
+"tiene efecto en las armas principales.<br>El efecto se incrementa con el "
+"nivel de la habilidad."
+
+msgid "SKILL_DESCRIPTION_LONG_WIDE_SHOOTER"
+msgstr ""
+"Habilita al artillero a disparar en ángulos mayores.<br>La habilidad no "
+"tiene efecto en las armas principales.<br>El efecto se incrementa con el "
+"nivel de la habilidad."
+
+msgid "SKILL_DESCRIPTION_MASTER_PLANE_BF_109E_3"
+msgstr ""
+"Incrementa la <font color='#f2f2f2'>velocidad en vuelo y daño</font> en un "
+"<font color='#8dbb44'>10 %</font>. Surte efecto solo en el <font "
+"color='#f2f2f2'>Bf 109 E-3</font>."
+
+msgid "SKILL_DESCRIPTION_MASTER_PLANE_HAWKER_PV-3"
+msgstr ""
+"Aumenta la <font color='#f2f2f2'>maniobrabilidad</font> en un <font "
+"color='#8dbb44'>5 %</font> y el <font color='#f2f2f2'>daño</font> en un "
+"<font color='#8dbb44'>10 %</font>. Solo tiene efecto en el <font "
+"color='#f2f2f2'>Hawker P.V.3</font>. El piloto a bordo de este avión lleva "
+"una <font color='#f2f2f2'>máscara de reno festiva</font>."
+
+msgid "SKILL_DESCRIPTION_MASTER_PLANE_SPITFIRE_MK_IA"
+msgstr ""
+"Incrementa la <font color='#f2f2f2'>maniobrabilidad y daño</font> en un "
+"<font color='#8dbb44'>10 %</font>. Surte efecto solo en el <font "
+"color='#f2f2f2'>Spitfire Mk Ia</font>."
+
+msgid "SKILL_DESCRIPTION_MIDDLE_AGILITY"
+msgstr ""
+"Mejora la salud y resistencia a las heridas del miembro de la tripulación."
+
+msgid "SKILL_DESCRIPTION_MIDDLE_BOMBER"
+msgstr "Mejora la precisión cuando se lanzan cohetes o sueltan bombas."
+
+msgid "SKILL_DESCRIPTION_MIDDLE_EAGLE_EYE"
+msgstr "Incrementa el alcance del fuego del artillero en los aviones enemigos."
+
+msgid "SKILL_DESCRIPTION_MIDDLE_ENGINE_SPECIALIST"
+msgstr "Mejora la aceleración del avión cuando vuela recto o impulsándose."
+
+msgid "SKILL_DESCRIPTION_MIDDLE_FIRE_FIGHTING"
+msgstr ""
+"Mejora las habilidades de extinción de incendios incluso sin un extintor de "
+"incendios."
+
+msgid "SKILL_DESCRIPTION_MIDDLE_LONG_SIGHT"
+msgstr ""
+"Extiende el alcance al cual los aviones enemigos pueden ser detectados por "
+"este miembro de la tripulación."
+
+msgid "SKILL_DESCRIPTION_MIDDLE_MEMORY"
+msgstr ""
+"Incrementa la distancia máxima en la que los aviones enemigos permanecen "
+"detectados."
+
+msgid "SKILL_DESCRIPTION_MIDDLE_SHARP_SHOOTER"
+msgstr ""
+"Mejora la precisión del fuego del artillero sobre los aviones enemigos."
+
+msgid "SKILL_DESCRIPTION_MIDDLE_SNIPER"
+msgstr "Mejora la precisión de las ametralladoras y cañones automáticos."
+
+msgid "SKILL_DESCRIPTION_MIDDLE_TUTOR"
+msgstr ""
+"Incrementa la experiencia por batalla de todos los miembros de la "
+"tripulación, incluyendo el artillero."
+
+msgid "SKILL_DESCRIPTION_MIDDLE_VETERAN"
+msgstr "Mejora la controlabilidad y maniobrabilidad de un avión dañado."
+
+msgid "SKILL_DESCRIPTION_MIDDLE_WEAPON_SPECIALIST"
+msgstr "Habilita al artillero a disparar ráfagas más largas."
+
+msgid "SKILL_DESCRIPTION_MIDDLE_WIDE_SHOOTER"
+msgstr "Habilita al artillero a disparar en ángulos mayores."
+
+msgid "SKILL_DESCRIPTION_PILOT_BATTLETRIED"
+msgstr ""
+"Reduce la <font color='#f2f2f2'>posibilidad de ser herido</font> de un "
+"piloto un <font color='#8dbb44'>20 %</font>. Mejora la <font "
+"color='#f2f2f2'>controlabilidad de un avión</font> un <font "
+"color='#8dbb44'>25 %</font> cuando las alas, cola y fuselaje del avión están "
+"críticamente dañados."
+
+msgid "SKILL_DESCRIPTION_PILOT_BRIGHT_STAR"
+msgstr ""
+"Aumenta la <font color='#f2f2f2'>distancia a la que se detectan los aviones "
+"enemigos</font> en un <font color='#8dbb44'>40 %</font> y la <font "
+"color='#f2f2f2'>distancia a la que el avión es detectado por los aviones "
+"enemigos</font> en un <font color='#d93d00'>10 %</font>."
+
+msgid "SKILL_DESCRIPTION_PILOT_EQUIP_ARMOR"
+msgstr ""
+"Incrementa el efecto positivo del equipamiento montado sobre <font "
+"color='#f2f2f2'>la durabilidad y la resistencia al daño crítico</font> en un "
+"<font color='#8dbb44'>40 %</font>."
+
+msgid "SKILL_DESCRIPTION_PILOT_EQUIP_FLIGHT"
+msgstr ""
+"Incrementa el efecto positivo del equipamiento montado en <font "
+"color='#f2f2f2'>la maniobrabilidad y velocidad del avión</font> en un <font "
+"color='#8dbb44'>40 %</font>."
+
+msgid "SKILL_DESCRIPTION_PILOT_EXPLOSIVE_CHARACTER"
+msgstr ""
+"Aumenta el <font color='#f2f2f2'>daño causado por bombas y cohetes</font> y "
+"su <font color='#f2f2f2'>área de efecto</font> en un <font "
+"color='#8dbb44'>15 %</font>. Si el avión es destruido al colisionar con el "
+"terreno o con un objetivo terrestre, explota e inflige daño en un área "
+"equivalente al doble de la cantidad máxima de puntos de vida del avión."
+
+msgid "SKILL_DESCRIPTION_PILOT_FASTER_THAN_WIND"
+msgstr ""
+"Aumenta el <font color='#f2f2f2'>empuje del motor</font> en un <font "
+"color='#8dbb44'>2 %</font> y la <font color='#f2f2f2'>duración del impulso</"
+"font> en un <font color='#8dbb44'>10 %</font>. Mejora significativamente la "
+"aceleración y el ascenso del avión."
+
+msgid "SKILL_DESCRIPTION_PILOT_FIREDURATION"
+msgstr ""
+"Reduce la <font color='#f2f2f2'>duración y daño del fuego</font> un <font "
+"color='#8dbb44'>20 %</font>."
+
+msgid "SKILL_DESCRIPTION_PILOT_FTW_KNOWENGINE_II"
+msgstr ""
+"Aumenta el <font color='#f2f2f2'>empuje del motor y la velocidad punta</"
+"font> un <font color='#8dbb44'>2 %</font>. El efecto se acumula con el "
+"efecto de la habilidad <font color='#f2f2f2'>«Alas de águila»</font>."
+
+msgid "SKILL_DESCRIPTION_PILOT_KNOWENGINE_I"
+msgstr ""
+"Aumenta el <font color='#f2f2f2'>empuje del motor</font> un <font "
+"color='#8dbb44'>3 %</font>. Mejora significativamente la aceleración del "
+"avión."
+
+msgid "SKILL_DESCRIPTION_PILOT_KNOWENGINE_II"
+msgstr ""
+"Aumenta el <font color='#f2f2f2'>empuje del motor y la velocidad punta</"
+"font> un <font color='#8dbb44'>2 %</font>. El efecto se acumula con el "
+"efecto de la habilidad <font color='#f2f2f2'>«Gurú del motor I»</font>."
+
+msgid "SKILL_DESCRIPTION_PILOT_MARKSMAN_I"
+msgstr ""
+"Reduce la <font color='#f2f2f2'>dispersión</font> de las armas frontales un "
+"<font color='#8dbb44'>5 %</font>. Aumenta significativamente la posibilidad "
+"de impactar en un objetivo."
+
+msgid "SKILL_DESCRIPTION_PILOT_MARKSMAN_II"
+msgstr ""
+"Reduce la <font color='#f2f2f2'>dispersión</font> de las armas frontales un "
+"<font color='#8dbb44'>5 %</font> y aumenta la <font "
+"color='#f2f2f2'>precisión de los disparos</font> en los objetivos "
+"maniobreros activos un <font color='#8dbb44'>10 %</font>. El efecto se "
+"acumula con el de la habilidad <font color='#f2f2f2'>«Tirador de "
+"precisión I»</font>."
+
+msgid "SKILL_DESCRIPTION_PILOT_PILOTAGE"
+msgstr ""
+"Aumenta la <font color='#f2f2f2'>maniobrabilidad</font> en todos los ejes un "
+"<font color='#8dbb44'>2 %</font>. Aumenta significativamente la ventaja en "
+"el combate cercano maniobrero."
+
+msgid "SKILL_DESCRIPTION_PILOT_ROCKETKILLER"
+msgstr ""
+"Aumenta significativamente la <font color='#f2f2f2'>posibilidad de impactar "
+"directamente</font> en un avión con <font color='#f2f2f2'>cohetes</font>."
+
+msgid "SKILL_DESCRIPTION_PILOT_SHELLMASTER"
+msgstr ""
+"Aumenta el <font color='#f2f2f2'>daño causado por bombas y cohetes</font> y "
+"su <font color='#f2f2f2'>radio de daño</font> un <font color='#8dbb44'>15 %</"
+"font>."
+
+msgid "SKILL_DESCRIPTION_PILOT_SIGHTRANGE"
+msgstr ""
+"Aumenta el <font color='#f2f2f2'>alcance al cual se detectan los aviones "
+"enemigos</font> en un <font color='#8dbb44'>10 %</font>.<br>El efecto es "
+"acumulativo sobre el efecto de la habilidad del artillero <font "
+"color='#f2f2f2'>«Vigilancia»</font>."
+
+msgid "SKILL_DESCRIPTION_PILOT_SKY_FURY"
+msgstr ""
+"En un ataque frontal, la piloto dispara a las secciones más vulnerables del "
+"avión enemigo. Mejora la <font color='#f2f2f2'>probabilidad de causar daños "
+"críticos e incendios</font> y aumenta el <font color='#f2f2f2'>daño causado "
+"en un ataque frontal</font> en un <font color='#8dbb44'>20 %</font>."
+
+msgid "SKILL_DESCRIPTION_PILOT_SOME_LIKE_IT_HOT"
+msgstr ""
+"Los disparos continuos del armamento frontal que impactan en secciones no "
+"blindadas de los objetivos terrestres <font color='#f2f2f2'>incendian el "
+"objetivo terrestre</font>."
+
+msgid "SKILL_DESCRIPTION_PILOT_S_BLOODLUST"
+msgstr ""
+"Reduce el <font color='#f2f2f2'>recalentamiento del arma</font> un <font "
+"color='#8dbb44'>25 %</font> y aumenta la <font color='#f2f2f2'>precisión del "
+"fuego</font> un <font color='#8dbb44'>10 %</font> tras destruir un avión "
+"enemigo. Efectivo durante 10 segundos."
+
+msgid "SKILL_DESCRIPTION_PILOT_S_BOOMZOOM"
+msgstr ""
+"Aumenta la <font color='#f2f2f2'>posibilidad de incendiar un avión enemigo y "
+"causar daño crítico</font> un <font color='#8dbb44'>50 %</font> cuando se "
+"realiza un picado y se ataca con las armas frontales. Surte efecto cuando la "
+"velocidad del avión se aproxima a la velocidad máxima en picado y el ángulo "
+"de elevación supera el 45°."
+
+msgid "SKILL_DESCRIPTION_PILOT_S_CRUISEFLIGHT"
+msgstr ""
+"Aumenta el <font color='#f2f2f2'>alcance de visión en</font> un <font "
+"color='#8dbb44'>20 %</font> y el <font color='#f2f2f2'>empuje del motor y la "
+"velocidad punta</font> un <font color='#8dbb44'>3 %</font> cuando el avión "
+"no recibe daño durante 20 segundos. El efecto se pierde una vez el avión "
+"hace blanco en un objetivo enemigo o recibe daño."
+
+msgid "SKILL_DESCRIPTION_PILOT_S_DIEHARD"
+msgstr ""
+"Repara <font color='#f2f2f2'>todo el daño crítico</font> y cura a todos los "
+"tripulantes heridos, reduce el <font color='#f2f2f2'>recalentamiento del "
+"motor y las armas</font> un <font color='#8dbb44'>50 %</font>, y aumenta la "
+"<font color='#f2f2f2'>maniobrabilidad</font> y el <font "
+"color='#f2f2f2'>empuje del motor</font> un <font color='#8dbb44'>5 %</font> "
+"cuando el avión pierde el 70 % de sus puntos de vida. La habilidad se activa "
+"automáticamente una vez por incursión."
+
+msgid "SKILL_DESCRIPTION_PILOT_S_EVASIONMANUVER"
+msgstr ""
+"Reduce el <font color='#f2f2f2'>daño recibido</font> y la <font "
+"color='#f2f2f2'>posibilidad de recibir daño crítico </font> y de que hieran "
+"al piloto un <font color='#8dbb44'>25 %</font> cuando se maniobra de manera "
+"activa. Consigue y mantén una gran velocidad angular en los ejes de "
+"elevación y alabeo para activar la habilidad."
+
+msgid "SKILL_DESCRIPTION_PILOT_S_FIREMANUVER"
+msgstr ""
+"<font color='#f2f2f2'>Extingue el fuego</font> al maniobrar de manera "
+"activa. Consigue y mantén una gran velocidad angular en cualquier eje para "
+"extinguir el fuego."
+
+msgid "SKILL_DESCRIPTION_PILOT_S_HAWKERFLIGHT"
+msgstr ""
+"Aumenta el <font color='#f2f2f2'>alcance de visión en</font> un <font "
+"color='#8dbb44'>20 %</font> y el <font color='#f2f2f2'>empuje del motor y la "
+"velocidad punta</font> un <font color='#8dbb44'>5 %</font> cuando el avión "
+"no recibe daño durante 20 segundos. El efecto se pierde cuando el avión hace "
+"blanco en un objetivo enemigo o recibe daño. El avión deja una estela "
+"festiva cuando esta habilidad está activada. Si el piloto lleva un <font "
+"color='#f2f2f2'>Hawker P.V.3</font>, el avión deja una <font "
+"color='#f2f2f2'>estela festiva</font> cuando esta habilidad está activada."
+
+msgid "SKILL_DESCRIPTION_PILOT_VALKYRIE"
+msgstr ""
+"Los cohetes y bombas lanzados en un picado causan <font color='#f2f2f2'>el "
+"doble de daño a los objetivos terrestres</font>. Tiene efecto cuando la "
+"velocidad del avión se aproxima a la velocidad máxima en picado y el ángulo "
+"de ataque supera los 45º."
+
+msgid "SKILL_DESCRIPTION_SHORT_AGILITY"
+msgstr "Mejora de la salud {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_BOMBER"
+msgstr "Precisión de bombas y cohetes {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_EAGLE_EYE"
+msgstr "Alcance de fuego del artillero {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_ENGINE_SPECIALIST"
+msgstr "Potencia del motor {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_FIRE_FIGHTING"
+msgstr "Habilidades de extinción de incendios {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_LONG_SIGHT"
+msgstr "Alcance de visión {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_MEMORY"
+msgstr "Distancia de pérdida del objetivo {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_SHARP_SHOOTER"
+msgstr "Precisión de la torreta {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_SNIPER"
+msgstr "Precisión de ametralladoras y cañones automáticos {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_TUTOR"
+msgstr "Experiencia recibida {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_VETERAN"
+msgstr "Control de un avión dañado {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_WEAPON_SPECIALIST"
+msgstr "Ráfagas más largas de la torreta {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_WIDE_SHOOTER"
+msgstr "Ángulo de fuego de la torreta {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_STEEP_PEAK"
+msgstr ""
+"Incrementa el <font color='#f2f2f2'>daño</font> en un <font "
+"color='#8dbb44'>10 %</font> y la <font color='#f2f2f2'>posibilidad de "
+"incendiar un avión enemigo y causar daño crítico</font> un <font "
+"color='#8dbb44'>50 %</font> cuando se realiza un picado y se ataca con las "
+"armas frontales. Surte efecto cuando la velocidad del avión se aproxima a la "
+"velocidad máxima en picado y el ángulo de elevación supera el 45°."
+
+msgid "SKILL_NAME_AGILITY"
+msgstr "Aguante"
+
+msgid "SKILL_NAME_BOMBER"
+msgstr "Bombardero"
+
+msgid "SKILL_NAME_EAGLE_EYE"
+msgstr "Largo acance"
+
+msgid "SKILL_NAME_ENGINE_SPECIALIST"
+msgstr "Gurú del motor"
+
+msgid "SKILL_NAME_FIRE_FIGHTING"
+msgstr "Extinción de incendios"
+
+msgid "SKILL_NAME_GUNNER_KILLER"
+msgstr "El eslabón más débil"
+
+msgid "SKILL_NAME_GUNNER_LONGRANGE"
+msgstr "Experto en balística"
+
+msgid "SKILL_NAME_GUNNER_NIMBLE"
+msgstr "Reflejos rápidos"
+
+msgid "SKILL_NAME_GUNNER_PROTECTOR"
+msgstr "Fuego defensivo"
+
+msgid "SKILL_NAME_GUNNER_PUNISHER"
+msgstr "Artillero de precisión"
+
+msgid "SKILL_NAME_GUNNER_SIGHTRANGE"
+msgstr "Vigilancia"
+
+msgid "SKILL_NAME_GUNNER_TOUGH"
+msgstr "Aguante"
+
+msgid "SKILL_NAME_GUNNER_VOLLEY"
+msgstr "Armero"
+
+msgid "SKILL_NAME_LAST_DASH"
+msgstr "Pasada final"
+
+msgid "SKILL_NAME_LONG_SIGHT"
+msgstr "Visibilidad mejorada"
+
+msgid "SKILL_NAME_MASTER_PLANE_BF_109E_3"
+msgstr "As del Bf 109 E-3"
+
+msgid "SKILL_NAME_MASTER_PLANE_HAWKER_PV-3"
+msgstr "As del Hawker P.V.3"
+
+msgid "SKILL_NAME_MASTER_PLANE_SPITFIRE_MK_IA"
+msgstr "As del Spitfire Mk Ia"
+
+msgid "SKILL_NAME_MEMORY"
+msgstr "Rastreador"
+
+msgid "SKILL_NAME_PILOT_BATTLETRIED"
+msgstr "Probado en batalla"
+
+msgid "SKILL_NAME_PILOT_BRIGHT_STAR"
+msgstr "Estrella resplandeciente"
+
+msgid "SKILL_NAME_PILOT_EQUIP_ARMOR"
+msgstr "Experto en protección"
+
+msgid "SKILL_NAME_PILOT_EQUIP_FLIGHT"
+msgstr "Experto en aerodinámica"
+
+msgid "SKILL_NAME_PILOT_EXPLOSIVE_CHARACTER"
+msgstr "Supernova"
+
+msgid "SKILL_NAME_PILOT_FASTER_THAN_WIND"
+msgstr "Alas de águila"
+
+msgid "SKILL_NAME_PILOT_FIREDURATION"
+msgstr "Resistencia al fuego"
+
+msgid "SKILL_NAME_PILOT_FTW_KNOWENGINE_II"
+msgstr "Gurú del motor II"
+
+msgid "SKILL_NAME_PILOT_KNOWENGINE_I"
+msgstr "Gurú del motor I"
+
+msgid "SKILL_NAME_PILOT_KNOWENGINE_II"
+msgstr "Gurú del motor II"
+
+msgid "SKILL_NAME_PILOT_MARKSMAN_I"
+msgstr "Tirador de precisión I"
+
+msgid "SKILL_NAME_PILOT_MARKSMAN_II"
+msgstr "Tirador de precisión II"
+
+msgid "SKILL_NAME_PILOT_PILOTAGE"
+msgstr "Experto en acrobacias"
+
+msgid "SKILL_NAME_PILOT_ROCKETKILLER"
+msgstr "Experto en cohetes"
+
+msgid "SKILL_NAME_PILOT_SHELLMASTER"
+msgstr "Experto en demolición"
+
+msgid "SKILL_NAME_PILOT_SIGHTRANGE"
+msgstr "Ojo de águila"
+
+msgid "SKILL_NAME_PILOT_SKY_FURY"
+msgstr "Furia celestial"
+
+msgid "SKILL_NAME_PILOT_SOME_LIKE_IT_HOT"
+msgstr "Femme fatale"
+
+msgid "SKILL_NAME_PILOT_S_BLOODLUST"
+msgstr "Subidón de adrenalina"
+
+msgid "SKILL_NAME_PILOT_S_BOOMZOOM"
+msgstr "Golpe de depredador"
+
+msgid "SKILL_NAME_PILOT_S_CRUISEFLIGHT"
+msgstr "Vuelo de crucero"
+
+msgid "SKILL_NAME_PILOT_S_DIEHARD"
+msgstr "Resistencia"
+
+msgid "SKILL_NAME_PILOT_S_EVASIONMANUVER"
+msgstr "Objetivo evasivo"
+
+msgid "SKILL_NAME_PILOT_S_FIREMANUVER"
+msgstr "Bombero"
+
+msgid "SKILL_NAME_PILOT_S_HAWKERFLIGHT"
+msgstr "Mensajero festivo"
+
+msgid "SKILL_NAME_PILOT_VALKYRIE"
+msgstr "Furia de la valquiria"
+
+msgid "SKILL_NAME_SHARP_SHOOTER"
+msgstr "Francotirador"
+
+msgid "SKILL_NAME_SNIPER"
+msgstr "Tirador de primera"
+
+msgid "SKILL_NAME_STEEP_PEAK"
+msgstr "Pasada de ataque"
+
+msgid "SKILL_NAME_TUTOR"
+msgstr "Tutor"
+
+msgid "SKILL_NAME_VETERAN"
+msgstr "Veterano"
+
+msgid "SKILL_NAME_WEAPON_SPECIALIST"
+msgstr "Armero"
+
+msgid "SKILL_NAME_WIDE_SHOOTER"
+msgstr "Barrido de fuego"

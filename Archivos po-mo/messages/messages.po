@@ -1,0 +1,1451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "CHAT_LOBBY_DISABLED_MESSAGE"
+msgstr "Chat disabled for {time} due to {reason}"
+
+msgid "CHAT_LOBBY_ENABLED_MESSAGE"
+msgstr "Chat enabled"
+
+msgid "CHINA_MESSAGE_QUEST_REFUND_FOR_RENT_PERIOD"
+msgstr ""
+"As far as you have {aircraft_name} purchased already, you get a refund for "
+"this aircraft rent period as this mission reward:<font color='#a9a7a7' "
+"size='14'>{days} d.</font>"
+
+msgid "CHINA_MESSAGE_QUEST_REWARD_50_PERCENT_FULL_CREW"
+msgstr "50% {full_crew_icon} proficiency level crew for {aircraft_name}"
+
+msgid "CHINA_MESSAGE_QUEST_REWARD_50_PERCENT_PILOT"
+msgstr "50% {crew_member_icon} proficiency level crew for {aircraft_name}"
+
+msgid "CHINA_MESSAGE_QUEST_REWARD_EXTENDED_RENT"
+msgstr ""
+"Extended rent of {aircraft_name} for: <font color='#a9a7a7' size='14'>{days} "
+"d.</font>"
+
+msgid "CHINA_MESSAGE_QUEST_REWARD_RENT_AIRCRAFT_FOR_DAYS"
+msgstr ""
+"{aircraft_name} for rent for <font color='#a9a7a7' size='14'>{days} d.</font>"
+
+msgid "CHINA_MESSAGE_RENT_AIRCRAFT_FOR_DAYS"
+msgstr ""
+"For the rent period of: <font color='#a9a7a7' size='14'>{days} d.</font>"
+
+msgid "CHINA_MESSAGE_RENT_AIRCRAFT_PURCHASED_REFUND"
+msgstr ""
+"Aircraft {name} was purchased. You have been refunded for remaining rent "
+"period: <font color='#a9a7a7' size='14'>{days} d.</font>"
+
+msgid "CHINA_MESSAGE_RENT_AIRCRAFT_TOP_PART"
+msgstr "You have rented the following aircraft:"
+
+msgid "COMPONENT_NAME_ERROR"
+msgstr "error occurred."
+
+msgid "COMPONENT_NAME_EXPLORATION_FAILED"
+msgstr ": error attempting to research."
+
+msgid "COMPONENT_NAME_HEADER_AIRCRAFT_MAINTENANSE"
+msgstr "Service {aircraft_name}"
+
+msgid "COMPONENT_NAME_HEADER_DRAW"
+msgstr "Draw {aircraft_name}!"
+
+msgid "COMPONENT_NAME_HEADER_LOST"
+msgstr "Defeat {aircraft_name}!"
+
+msgid "COMPONENT_NAME_LABEL_ACHIEVEMENTS_UNLOCKED"
+msgstr "Achievements:"
+
+msgid "COMPONENT_NAME_LABEL_AMMO"
+msgstr "Ammunition"
+
+msgid "COMPONENT_NAME_LABEL_EXPLORATION"
+msgstr "Research:"
+
+msgid "COMPONENT_NAME_LABEL_EXPLORED"
+msgstr "Researched:"
+
+msgid "COMPONENT_NAME_LABEL_INSTALLATION"
+msgstr "Mounted:"
+
+msgid "COMPONENT_NAME_LABEL_MAINTENANSE_EXPENSES"
+msgstr "Service:"
+
+msgid "COMPONENT_NAME_LABEL_PENALTY"
+msgstr "Penalty:"
+
+msgid "COMPONENT_NAME_LABEL_PROLONG"
+msgstr "Extended:"
+
+msgid "COMPONENT_NAME_LABEL_PURCHASE"
+msgstr "Purchased:"
+
+msgid "COMPONENT_NAME_LABEL_REPAIR"
+msgstr "Repairs:"
+
+msgid "COMPONENT_NAME_LABEL_REWARD"
+msgstr "Award:"
+
+msgid "COMPONENT_NAME_LABEL_SELL"
+msgstr "Sold:"
+
+msgid "COMPONENT_NAME_LABEL_TOTAL_REWARD"
+msgstr "Received:"
+
+msgid "COMPONENT_NAME_LABEL_UNINSTALLED"
+msgstr "Demounted:"
+
+msgid "COMPONENT_NAME_LABEL_UNTIL"
+msgstr "until"
+
+msgid "COMPONENT_NAME_PLAYER_INVITED_TO_WING"
+msgstr "is invited to the Flight."
+
+msgid "COMPONENT_NAME_PLAYER_INVITES_YOU_TO_WING"
+msgstr "invited you to the Flight."
+
+msgid "COMPONENT_NAME_PLAYER_JOINED_WING"
+msgstr "joined the Flight."
+
+msgid "COMPONENT_NAME_PLAYER_LEFT_WING"
+msgstr "left the Flight."
+
+msgid "COMPONENT_NAME_PURCHASE_FAILED"
+msgstr ": error attempting to purchase."
+
+msgid "COMPONENT_NAME_SELL_FAILED"
+msgstr ": error attempting to sell."
+
+msgid "COMPONENT_NAME_SUFFIX_DAYS"
+msgstr "{days} d"
+
+msgid "COMPONENT_NAME_SUFFIX_HOURS"
+msgstr "{hours} hours"
+
+msgid "COMPONENT_NAME_SUFFIX_MINUTES"
+msgstr "{minutes} min"
+
+msgid "COMPONENT_NAME_TEXT_PREMIUM_DEDUCTED"
+msgstr "Premium days deducted:"
+
+msgid "COMPONENT_NAME_TEXT_PREMIUM_EXPIRES_IN"
+msgstr "Premium Account expires in:"
+
+msgid "COMPONENT_NAME_TEXT_PREMIUM_PROLONGED"
+msgstr "Premium Account extended for:"
+
+msgid "COMPONENT_NAME_TEXT_SCREENSHOT_SAVED"
+msgstr "Screenshot saved to:"
+
+msgid "COMPONENT_NAME_WELCOME_TO_SERVER"
+msgstr "Welcome to {server_name} server!"
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:ACCOUNT_WAS_RESTORED"
+msgstr "Your account was successfully recovered."
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:ANOTHER_PERIPHERY"
+msgstr "Server error: your session on another server is incomplete."
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:CHECKOUT_ERROR"
+msgstr "Error receiving player details. Please try again."
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:CONNECTION_CLOSED"
+msgstr "Server connection lost."
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:CONNECTION_LOST"
+msgstr "Server connection lost."
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_UNKNOWN"
+msgstr ""
+"The current game session was interrupted. Your Wargaming.net ID was used to "
+"log into another game."
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WEB"
+msgstr ""
+"The current game session was interrupted. You have been disconnected from "
+"the server through the game portal."
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WOT"
+msgstr ""
+"The current game session was interrupted. Your Wargaming.net ID was used to "
+"log into World of Tanks."
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WOTBLITZ"
+msgstr ""
+"The current game session was interrupted. Your Wargaming.net ID was used to "
+"log into World of Tanks Blitz."
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WOTG"
+msgstr ""
+"The current game session was interrupted. Your Wargaming.net ID was used to "
+"log into World of Tanks Generals."
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WOWS"
+msgstr ""
+"The current game session was interrupted. Your Wargaming.net ID was used to "
+"log into World of Warships."
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WWP"
+msgstr ""
+"The current game session was interrupted. Your Wargaming.net ID was used to "
+"log into World of Warplanes‎."
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:SERVER_REBOOTING"
+msgstr "Server restart in progress... Please wait..."
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:SERVER_SHUTDOWN"
+msgstr "Server temporarily unavailable. Please try again later."
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:SERVER_SHUT_DOWN"
+msgstr "Restarting game server..."
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:SESSION_TRACKER_KICK"
+msgstr ""
+"Your Wargaming.net ID was used to log into another game. Current game "
+"session was interrupted."
+
+msgid "DISCONNECT/BAN"
+msgstr "Access to the game is forbidden."
+
+msgid "DISCONNECT/BAN_PERIOD"
+msgstr "Access to the game is forbidden until: "
+
+msgid "DISCONNECT/CONNECTION_LOST"
+msgstr "You have been disconnected from the server. Try logging in again."
+
+msgid "DISCONNECT/KICK"
+msgstr "You have been disconnected by the administration."
+
+msgid "DISCONNECT_ENTER_BUTTON"
+msgstr "OK"
+
+msgid "DISCONNECT_TITLE"
+msgstr "Connection Interrupted"
+
+msgid "ELITE_AIRCRAFT_DESCRIPTION"
+msgstr ""
+"Elite status is given to aircraft with all available modules and technical "
+"branches researched.<br/>Experience earned on Elite aircraft can be "
+"converted to Free Experience."
+
+msgid "ELITE_AIRCRAFT_HEADER"
+msgstr "Elite Status Acquired!"
+
+msgid "ELITE_AIRCRAFT_MESSAGE"
+msgstr "{name} acquired Elite status."
+
+msgid "LOBBY_BUBBLE_FREE_XP_CONVERTED"
+msgstr "{number} XP successfully converted to Free Experience."
+
+msgid "LOBBY_BUBBLE_GOLD_EXCHANGE_SUCCESFULL"
+msgstr "Gold exchanged successfully."
+
+msgid "LOBBY_BUBBLE_TOKENS_EXCHANGE_SUCCESFULL"
+msgstr "Tokens exchanged successfully."
+
+msgid "LOBBY_HEADER_AMMO_REFILL"
+msgstr "Resupply ammunition:"
+
+msgid "LOBBY_HEADER_AMMO_REFILL_FAILED"
+msgstr "Failed to resupply ammunition."
+
+msgid "LOBBY_HEADER_BOMBS_REFILL"
+msgstr "Resupply bombs:"
+
+msgid "LOBBY_HEADER_BOMBS_REFILL_FAILED"
+msgstr "Failed to resupply bombs."
+
+msgid "LOBBY_HEADER_BOUGHT"
+msgstr "Financial transaction"
+
+msgid "LOBBY_HEADER_CONSUMABLES_REFILL"
+msgstr "Resupply consumables: {name}"
+
+msgid "LOBBY_HEADER_CONSUMABLES_REFILL_FAILED"
+msgstr "Failed to resupply consumable."
+
+msgid "LOBBY_HEADER_DAILY_WIN"
+msgstr "Financial transaction"
+
+msgid "LOBBY_HEADER_DEDUCT"
+msgstr "Wipe"
+
+msgid "LOBBY_HEADER_DRAW"
+msgstr "Draw {aircraft}!"
+
+msgid "LOBBY_HEADER_HELLO"
+msgstr "Dear"
+
+msgid "LOBBY_HEADER_INVESTIGATED"
+msgstr "Researched"
+
+msgid "LOBBY_HEADER_LOSE"
+msgstr "Defeat {aircraft}!"
+
+msgid "LOBBY_HEADER_PREMIUM"
+msgstr "Premium Account"
+
+msgid "LOBBY_HEADER_REBOOT"
+msgstr "Restarting server:"
+
+msgid "LOBBY_HEADER_REPAIR"
+msgstr "Repairs: {aircraft}"
+
+msgid "LOBBY_HEADER_ROCKETS_REFILL"
+msgstr "Resupply rockets:"
+
+msgid "LOBBY_HEADER_ROCKETS_REFILL_FAILED"
+msgstr "Failed to resupply rockets."
+
+msgid "LOBBY_HEADER_SCREENSHOT"
+msgstr "New Screenshot"
+
+msgid "LOBBY_HEADER_SET_MODULES"
+msgstr "Purchased for {plane_name}"
+
+msgid "LOBBY_HEADER_WIN"
+msgstr "Victory {aircraft}!"
+
+msgid "LOBBY_MSG_AIRCRAFT"
+msgstr "Aircraft:"
+
+msgid "LOBBY_MSG_AIRCRAFT_BOUGHT"
+msgstr "Aircraft {aircraft} purchased."
+
+msgid "LOBBY_MSG_AIRCRAFT_DEDUCT"
+msgstr "Wiped: {aircraft}."
+
+msgid "LOBBY_MSG_AIRCRAFT_INVESTIGATED"
+msgstr "Aircraft {aircraft} researched."
+
+msgid "LOBBY_MSG_AIRCRAFT_REPAIR"
+msgstr "Aircraft repaired."
+
+msgid "LOBBY_MSG_AIRCRAFT_REPAIR_FREE_PVE"
+msgstr "Aircraft repaired for free."
+
+msgid "LOBBY_MSG_AIRCRAFT_SELL"
+msgstr "Aircraft {aircraft} sold."
+
+msgid "LOBBY_MSG_AMMO_REFILL"
+msgstr "Ammunition resupplied."
+
+msgid "LOBBY_MSG_AMMO_REFILL_FAILED"
+msgstr "Not enough funds."
+
+msgid "LOBBY_MSG_AMMO_REFILL_FREE_PVE"
+msgstr "Ammunition resupplied for free."
+
+msgid "LOBBY_MSG_BATTLE"
+msgstr "Battle:"
+
+msgid "LOBBY_MSG_BOMBS_REFILL_FAILED"
+msgstr "Not enough funds."
+
+msgid "LOBBY_MSG_CONSUMABLES_REFILL_FAILED"
+msgstr "Not enough funds."
+
+msgid "LOBBY_MSG_CONSUMABLES_REFILL_FREE_PVE"
+msgstr "Consumables resupplied for free."
+
+msgid "LOBBY_MSG_CREDITS"
+msgstr "{credits} credits"
+
+msgid "LOBBY_MSG_CREDITS_RECEIVED"
+msgstr "Credits received:"
+
+msgid "LOBBY_MSG_DAILY_WIN"
+msgstr "Bonus"
+
+msgid "LOBBY_MSG_DAILY_WIN_1"
+msgstr "Daily bonus for victory (1/5):"
+
+msgid "LOBBY_MSG_DAILY_WIN_2"
+msgstr "Daily bonus for victory (2/5):"
+
+msgid "LOBBY_MSG_DAILY_WIN_3"
+msgstr "Daily bonus for victory (3/5):"
+
+msgid "LOBBY_MSG_DAILY_WIN_4"
+msgstr "Daily bonus for victory (4/5):"
+
+msgid "LOBBY_MSG_DAILY_WIN_5"
+msgstr "Daily bonus for victory (5/5):"
+
+msgid "LOBBY_MSG_DAMAGED_AIRCRAFT"
+msgstr "aircraft damaged"
+
+msgid "LOBBY_MSG_DAMAGED_TEAM_OBJECTS"
+msgstr "targets damaged"
+
+msgid "LOBBY_MSG_DESTROYED_AIRCRAFT"
+msgstr "aircraft destroyed"
+
+msgid "LOBBY_MSG_DESTROYED_TEAM_OBJECTS"
+msgstr "targets destroyed"
+
+msgid "LOBBY_MSG_DESTROYED_TURRENTS"
+msgstr "AA guns destroyed"
+
+msgid "LOBBY_MSG_DETECTED_AIRCRAFT"
+msgstr "aircraft detected"
+
+msgid "LOBBY_MSG_DISCOVERED_TEAM_OBJECTS"
+msgstr "targets detected"
+
+msgid "LOBBY_MSG_EXP"
+msgstr "{exp} XP"
+
+msgid "LOBBY_MSG_GOLD"
+msgstr "{gold} gold"
+
+msgid "LOBBY_MSG_HELLO"
+msgstr ""
+"Welcome to World of Warplanes!<br><font size='6'><br></font>Good luck and "
+"good hunting!"
+
+msgid "LOBBY_MSG_LESSON_PASSED"
+msgstr "Lesson completed!"
+
+msgid "LOBBY_MSG_MODULE_INVESTIGATED"
+msgstr "Module {module_name} researched."
+
+msgid "LOBBY_MSG_PENALTY"
+msgstr "Penalty"
+
+msgid "LOBBY_MSG_PENALTY_CREDITS"
+msgstr "{credits} credits"
+
+msgid "LOBBY_MSG_PENALTY_EXP"
+msgstr "{exp} XP"
+
+msgid "LOBBY_MSG_PENALTY_EXP_FREE"
+msgstr "{exp} free XP"
+
+msgid "LOBBY_MSG_PENALTY_EXP_PLANE"
+msgstr "{exp} aircraft XP"
+
+msgid "LOBBY_MSG_PENALTY_GOLD"
+msgstr "{gold} gold"
+
+msgid "LOBBY_MSG_PENALTY_TICKETS"
+msgstr "{tickets}"
+
+msgid "LOBBY_MSG_PENALTY_TOKENS"
+msgstr "{gold} tokens"
+
+msgid "LOBBY_MSG_PREMIUM_BOUGHT"
+msgstr "Premium Account purchased. Expiration date: {time}."
+
+msgid "LOBBY_MSG_PREMIUM_EXPIRED"
+msgstr "Premium Account expired."
+
+msgid "LOBBY_MSG_PREMIUM_EXTENDED"
+msgstr "Premium Account extended. Expiration date: {time}."
+
+msgid "LOBBY_MSG_ROCKETS_REFILL_FAILED"
+msgstr "Not enough funds."
+
+msgid "LOBBY_MSG_SCREENSHOT"
+msgstr "Screenshot saved to: {adress}"
+
+msgid "LOBBY_MSG_SET_CONFIGURATION"
+msgstr "Configuration {module_name} purchased."
+
+msgid "LOBBY_MSG_SET_MODULES"
+msgstr "Module {module_name} purchased."
+
+msgid "LOBBY_MSG_SQUAD_LIMIT_EXCEEDED"
+msgstr "You have exceeded the maximum allowed number of players in the Flight."
+
+msgid "LOBBY_MSG_TITLE_PENALTY"
+msgstr "Fine for damaging allies:"
+
+msgid "LOBBY_MSG_TITLE_REWARD"
+msgstr "Award:"
+
+msgid "LOBBY_MSG_TITLE_STATS"
+msgstr "Results:"
+
+msgid "LOBBY_MSG_TOKENS"
+msgstr "{gold} tokens"
+
+msgid "LOBBY_SPEND_CREDITS"
+msgstr "Credits spent:"
+
+msgid "LOGIN_LEGACY_CANCEL"
+msgstr "Cancel"
+
+msgid "LOGIN_LEGACY_CHECK"
+msgstr "I accept"
+
+msgid "LOGIN_LEGACY_CONTINUE"
+msgstr "Accept"
+
+msgid "LOGIN_LEGACY_OK"
+msgstr "OK"
+
+msgid "MEDAL_GAIN_BONUS"
+msgstr "Received for {name}:"
+
+msgid "MESSAGES_AIRCRAFT_AND_HANGARSLOT_BOUGHT"
+msgstr "Aircraft {name} and a slot in Hangar purchased."
+
+msgid "MESSAGES_ALL_EQUIPMENTS_AND_CONSUMABLES_UNINSTALLED_COMPENSATION_TEXT_1"
+msgstr ""
+"All equipment and consumables were demounted from the aircraft and sent to "
+"Depot. Equipment characteristics changed."
+
+msgid "MESSAGES_ALL_EQUIPMENTS_AND_CONSUMABLES_UNINSTALLED_COMPENSATION_TEXT_2"
+msgstr ""
+"<br><font size='6'><br></font>Equipment and consumables that have no "
+"equivalents in the new aircraft progression system were removed. Their cost "
+"was compensated in credits.<br><font size='6'><br></font>Ammunition belts "
+"were transformed into the corresponding \"<font color='#{1}'>Ammunition</"
+"font>\" consumables.<br><font size='6'><br></font>Bombs and rockets were "
+"removed. Their cost was also compensated in credits."
+
+msgid "MESSAGES_ATTACK_ENDED"
+msgstr "Attack has ended!"
+
+msgid "MESSAGES_BONUS_GOLD_NY"
+msgstr "Gold bonus:"
+
+msgid "MESSAGES_BUTTON_GET_PLANE"
+msgstr "Get Aircraft"
+
+msgid "MESSAGES_COMPENSATION"
+msgstr "Compensation:"
+
+msgid "MESSAGES_CONGRATULATION_YOU_CAN_GET_PLANE"
+msgstr "Congratulations! You can claim your aircraft."
+
+msgid "MESSAGES_CONSUMABLES_NAMES_SOLD"
+msgstr "Consumable {module_name} sold."
+
+msgid "MESSAGES_CONSUMABLES_NAMES_UNLOADED"
+msgstr "Сonsumable {module_name} sent to the Depot."
+
+msgid "MESSAGES_CONSUMABLE_PURCHASED"
+msgstr "Consumable {module_name} purchased."
+
+msgid "MESSAGES_CONSUMABLE_PURCHASED_FOR_AMOUNT"
+msgstr "Consumable {module_name} ({amount}) purchased."
+
+msgid "MESSAGES_DIRECTIVE_ACTIVATED"
+msgstr "Operation Order Activated"
+
+msgid "MESSAGES_DIRECTIVE_DEACTIVATED"
+msgstr "Operation Order Deactivated"
+
+msgid "MESSAGES_DIRECTIVE_DEDUCT"
+msgstr "Operation order removed."
+
+msgid "MESSAGES_DIRECTIVE_IN_INVENTORY"
+msgstr "Operation order is available in the Inventory."
+
+msgid "MESSAGES_DIRECTIVE_PURCHASED"
+msgstr "Operation order purchased."
+
+msgid "MESSAGES_DIRECTIVE_RECEIVED"
+msgstr "Operation Order Added to Your Account"
+
+msgid "MESSAGES_DIRECTIVE_SOLD"
+msgstr "Operation order sold."
+
+msgid "MESSAGES_DIR_ACTIVATION_HEADER"
+msgstr "Activate Operation Order"
+
+msgid "MESSAGES_DIR_ACTIVATION_TEXT"
+msgstr "Operation order for {aircraft_name} activated."
+
+msgid "MESSAGES_DIR_CANT_BE_PROLONGED_FOR_H"
+msgstr ""
+"The operation order time cannot be extended: the event is in its final stage."
+
+msgid "MESSAGES_DIR_DEDUCTED_HEADER"
+msgstr "Remove Operation Order"
+
+msgid "MESSAGES_DIR_DEDUCTED_TEXT"
+msgstr "Operation order for {aircraft_name} removed."
+
+msgid "MESSAGES_DIR_GAINED_TEXT"
+msgstr "Operation order for {aircraft_name} added to the account."
+
+msgid "MESSAGES_DIR_GAIN_HEADER"
+msgstr "Add Operation Order"
+
+msgid "MESSAGES_DIR_ON_PLANE_DONE"
+msgstr ""
+"Congratulations! The operation order for the {aircraft_name} was executed."
+
+msgid "MESSAGES_DIR_ON_PLANE_DONE_WO_CONGR"
+msgstr "Operation order for the {aircraft_name} was executed!"
+
+msgid "MESSAGES_DIR_ON_PLANE_RECEIVED"
+msgstr "Operation order for {aircraft_name} received."
+
+msgid "MESSAGES_DIR_PROGRESSION_HEADER"
+msgstr "Execute Operation Order"
+
+msgid "MESSAGES_DIR_PROLONGED_FOR_H"
+msgstr "Operation order for {aircraft_name} extended by {time} h."
+
+msgid "MESSAGES_DIR_QUESTS_HEADER"
+msgstr "Operation Order Missions"
+
+msgid "MESSAGES_DIR_QUEST_TIME_OVER"
+msgstr "The time for executing the operation orders has expired."
+
+msgid "MESSAGES_DIR_REFUSE_HEADER"
+msgstr "Decline Operation Order"
+
+msgid "MESSAGES_DIR_REFUSE_TEXT"
+msgstr "You declined the operation orders."
+
+msgid "MESSAGES_EQUIPMENTS_NAME_SOLD"
+msgstr "Equipment {module_name} sold."
+
+msgid "MESSAGES_EQUIPMENT_CALIBRATION"
+msgstr "Equipment {module_name} calibration attempt"
+
+msgid "MESSAGES_EQUIPMENT_CALIBRATION_CANCELED"
+msgstr "Equipment {module_name} calibration canceled."
+
+msgid "MESSAGES_EQUIPMENT_CALIBRATION_DONE"
+msgstr "Equipment {module_name} calibrated."
+
+msgid "MESSAGES_EQUIPMENT_CALIBRATION_HEADER"
+msgstr "Calibrate Equipment"
+
+msgid "MESSAGES_EQUIPMENT_DISMANTLE_DONE"
+msgstr "Equipment {module_name} disassembled into Materials."
+
+msgid "MESSAGES_EQUIPMENT_DISMANTLE_HEADER"
+msgstr "Disassemble Equipment"
+
+msgid "MESSAGES_EQUIPMENT_PURCHASED_FOR_AMOUNT"
+msgstr "Equipment {module_name} ({amount}) purchased."
+
+msgid "MESSAGES_EQUIPMENT_REBUILD"
+msgstr "Equipment {module_name} reassembly attempt"
+
+msgid "MESSAGES_EQUIPMENT_REBUILD_CANCELED"
+msgstr "Equipment {module_name} reassembly canceled."
+
+msgid "MESSAGES_EQUIPMENT_REBUILD_DONE"
+msgstr "Equipment {module_name} reassembled."
+
+msgid "MESSAGES_EQUIPMENT_REBUILD_HEADER"
+msgstr "Reassemble Equipment"
+
+msgid "MESSAGES_EQUIPMENT_UPGRADED"
+msgstr "Equipment {module_name} enhanced."
+
+msgid "MESSAGES_EXCLUSIVE_CAMO"
+msgstr "Unique paint scheme"
+
+msgid "MESSAGES_EXCLUSIVE_EMBLEM"
+msgstr "Unique emblem"
+
+msgid "MESSAGES_FACTORY_NEW_PLANE_STATE_COMPLECTATION_INSTALLED"
+msgstr "<font color='#{1}'>Stock configuration</font> mounted."
+
+msgid "MESSAGES_FAST_TRAINING_PILOT"
+msgstr "Quick Crew Member Training"
+
+msgid "MESSAGES_GET_PLANE_FOR_FREE"
+msgstr "You can get the aircraft for free!"
+
+msgid "MESSAGES_MAINTENANCE_DONE"
+msgstr "Aircraft serviced."
+
+msgid "MESSAGES_MAP_CLEANED_DESCRIPTION"
+msgstr ""
+"The salvage party has collected all valuable Materials from the battlefield."
+
+msgid "MESSAGES_MAP_CLEANED_HEADER"
+msgstr "Battlefield cleared!"
+
+msgid "MESSAGES_MODULE_NAMES_SOLD"
+msgstr "Modules {module_name} sold."
+
+msgid "MESSAGES_MODULE_NAME_SOLD"
+msgstr "Module {module_name} sold."
+
+msgid "MESSAGES_NEW_QUESTS_AVAILABLE"
+msgstr "New missions are available."
+
+msgid "MESSAGES_PLANE_MODULE_PURCHASED_AND_INSTALLED"
+msgstr "Module {module_name} purchased and mounted."
+
+msgid "MESSAGES_PLANE_RESEARCHED"
+msgstr "Aircraft researched."
+
+msgid "MESSAGES_PROGRESS_QUESTS_RESET"
+msgstr "Mission progress reset."
+
+msgid "MESSAGES_RECIEVED_ACHIEVEMENT_WG_FEST"
+msgstr ""
+"На память о посещении фестиваля WG Fest вы получаете уникальный памятный "
+"знак."
+
+msgid "MESSAGES_RECIEVED_GIFT_SECRET_SANTA"
+msgstr ""
+"{username}, happy holidays! You have received a <font color='#color'>gift</"
+"font>!"
+
+msgid "MESSAGES_RESET_SKILLS_PILOT"
+msgstr "Reset Crew Member Skills"
+
+msgid "MESSAGES_RETRAINING_PILOT"
+msgstr "Retrain Crew Member"
+
+msgid "MESSAGES_SECRET_SANTA_2017"
+msgstr "Santa's Bag"
+
+msgid "MESSAGES_SECRET_SANTA_COMPENSATION"
+msgstr ""
+"Pilot! <font color='#'>Santa's bag</font> has been opened. All presents "
+"found have been added to your account."
+
+msgid "MESSAGES_SETUP_MODULES"
+msgstr "Mount Modules"
+
+msgid "MESSAGES_SPECIAL_PLANE_STATE_COMPLECTATION_INSTALLED"
+msgstr "The \"<font color='#{1}'>Specialist</font>\" configuration mounted."
+
+msgid "MESSAGES_SPECIAL_PLANE_STATE_COMPLECTATION_PURCHASED_AND_INSTALLED"
+msgstr ""
+"The \"<font color='#{1}'>Specialist</font>\" configuration purchased and "
+"mounted."
+
+msgid "MESSAGES_THIS_IS_ALL_YOURS"
+msgstr "The purchased item was added to your account."
+
+msgid "MESSAGES_TROPHY_COMPENSATION"
+msgstr ""
+"Pilot! The Supply crate was opened. All items found have been added to your "
+"account."
+
+msgid "MESSAGES_UNIQUE_EMBLEM"
+msgstr "Exclusive nose art"
+
+msgid "MESSAGE_ACHIEVEMENT"
+msgstr "Achievement:"
+
+msgid "MESSAGE_AMMO_REFILLED_HEADER"
+msgstr "Resupply Ammunition:"
+
+msgid "MESSAGE_AMMO_REFILLED_TEXT"
+msgstr "Ammunition resupplied."
+
+msgid "MESSAGE_CAMO_EXPIRES"
+msgstr "This paint scheme has expired!"
+
+msgid "MESSAGE_CANNOT_SELL_DAMAGED_PLANE"
+msgstr "Unable to sell.<br>First repair aircraft {name}."
+
+msgid "MESSAGE_CONTEXT_APPEARANCE"
+msgstr "Paint Shop"
+
+msgid "MESSAGE_ERROR_TEXT"
+msgstr "Error!"
+
+msgid "MESSAGE_EVENT_ENDED"
+msgstr "Event finished"
+
+msgid "MESSAGE_EVENT_STARTED"
+msgstr "Event started"
+
+msgid "MESSAGE_MODULES_EXPLORED_SUCCESSFULLY"
+msgstr "Modules {name} researched."
+
+msgid "MESSAGE_MODULE_EXPLORED_SUCCESSFULLY"
+msgstr "Module {name} researched."
+
+msgid "MESSAGE_MODULE_INSTALLED_SUCCESSFULLY"
+msgstr "Module {module_name} mounted."
+
+msgid "MESSAGE_MODULE_PURCHASED_SUCCESSFULLY"
+msgstr "Module {name} purchased."
+
+msgid "MESSAGE_MODULE_UNINSTALLED_SUCCESSFULLY"
+msgstr "Module {module} demounted."
+
+msgid "MESSAGE_NO_PLACES"
+msgstr "Not enough bunks in the Barracks."
+
+msgid "MESSAGE_TYPE_POPUP_LOBBY_GOLD_RECEIVED"
+msgstr "Gold received"
+
+msgid "MESSAGE_TYPE_POPUP_LOBBY_TOKENS_RECEIVED"
+msgstr "Tokens received"
+
+msgid "MESSAGE_WING_DESTROYED"
+msgstr ""
+"The Flight is dismissed: the player is already a member of another Flight."
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED"
+msgstr "Received for the {number} destroyed aircraft in a day:"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED_NUMBER_1"
+msgstr "first"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED_NUMBER_10"
+msgstr "tenth"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED_NUMBER_2"
+msgstr "second"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED_NUMBER_3"
+msgstr "third"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED_NUMBER_4"
+msgstr "fourth"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED_NUMBER_5"
+msgstr "fifth"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED_NUMBER_6"
+msgstr "sixth"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED_NUMBER_7"
+msgstr "seventh"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED_NUMBER_8"
+msgstr "eighth"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED_NUMBER_9"
+msgstr "ninth"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED"
+msgstr "Received for the {number} destroyed ground target in a day:"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_1"
+msgstr "first"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_10"
+msgstr "tenth"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_2"
+msgstr "second"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_3"
+msgstr "third"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_4"
+msgstr "fourth"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_5"
+msgstr "fifth"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_6"
+msgstr "sixth"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_7"
+msgstr "seventh"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_8"
+msgstr "eighth"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_9"
+msgstr "ninth"
+
+msgid "OPENBETA_DAILY_BONUS_LABEL_TOKENS"
+msgstr "tokens."
+
+msgid "OPENBETA_DAILY_BONUS_WIN"
+msgstr "Received for the {number} victory in a day:"
+
+msgid "OPENBETA_DAILY_BONUS_WIN_NUMBER_1"
+msgstr "first"
+
+msgid "OPENBETA_DAILY_BONUS_WIN_NUMBER_10"
+msgstr "tenth"
+
+msgid "OPENBETA_DAILY_BONUS_WIN_NUMBER_2"
+msgstr "second"
+
+msgid "OPENBETA_DAILY_BONUS_WIN_NUMBER_3"
+msgstr "third"
+
+msgid "OPENBETA_DAILY_BONUS_WIN_NUMBER_4"
+msgstr "fourth"
+
+msgid "OPENBETA_DAILY_BONUS_WIN_NUMBER_5"
+msgstr "fifth"
+
+msgid "OPENBETA_DAILY_BONUS_WIN_NUMBER_6"
+msgstr "sixth"
+
+msgid "OPENBETA_DAILY_BONUS_WIN_NUMBER_7"
+msgstr "seventh"
+
+msgid "OPENBETA_DAILY_BONUS_WIN_NUMBER_8"
+msgstr "eighth"
+
+msgid "OPENBETA_DAILY_BONUS_WIN_NUMBER_9"
+msgstr "ninth"
+
+msgid "PLAYERS_IN_THE_QUEUE"
+msgstr "Players in queue:"
+
+msgid "POPUP_COMMON_FREE_EXP"
+msgstr "WoWP and WoT Free Experience has been unified!"
+
+msgid "POPUP_FORWARD_BUTTON"
+msgstr "Game On!"
+
+msgid "POPUP_LEGACY"
+msgstr "End User License Agreement"
+
+msgid "POPUP_PRE_RELEASE"
+msgstr "World of Warplanes Public Test"
+
+msgid "POPUP_RELEASE"
+msgstr "World of Warplanes Release"
+
+msgid "POPUP_WINDOW_CLOSE"
+msgstr "Close"
+
+msgid "SYSTEM_MESSAGES_BARRACKS_EXPANTION"
+msgstr "Enlarging Barracks (bunks: {number}):"
+
+msgid "SYSTEM_MESSAGES_NATION_SWAP_COMPLETED"
+msgstr "Nation changed."
+
+msgid "SYSTEM_MESSAGES_SHOP_MESSAGE_NOT_ENOUGH_CREDITS_FOR_CONSUMABLES"
+msgstr "Not enough credits to resupply consumables."
+
+msgid "SYSTEM_MESSAGES_SHOP_MESSAGE_NOT_ENOUGH_GOLD-CREDITS_FOR_CONSUMABLES"
+msgstr "Not enough gold and credits to resupply consumables."
+
+msgid "SYSTEM_MESSAGES_SHOP_MESSAGE_NOT_ENOUGH_GOLD_FOR_CONSUMABLES"
+msgstr "Not enough gold to resupply consumables."
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_AMOUNT_PURCHASED_SUCCESSFULLY"
+msgstr "{module_name} boosters purchased."
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_CATEGORY_CREDITS_PROFIT"
+msgstr "Bonus to credits:"
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_CATEGORY_EXP_PROFIT"
+msgstr "Bonus to aircraft XP:"
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_DURING_MAINT_BONUS_SUSPENDED"
+msgstr ""
+"The effect of boosters was suspended for the maintenance period and restored "
+"after the maintenance was completed."
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_PROFIT"
+msgstr "Received for the period the booster was active:"
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_SOLD_SUCCESSFULLY"
+msgstr "{module_name} boosters sold."
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_TIME_LEFT"
+msgstr "Time left:"
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLE_ACTIVATED"
+msgstr "The \"{module_name}\" booster activated."
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLE_BONUS_ENDED"
+msgstr "The \"{module_name}\" booster expired."
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLE_PURCHASED_AND_ACTIVATED"
+msgstr "\"{module_name}\" booster purchased and activated."
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLE_PURCHASED_SUCCESSFULLY"
+msgstr "\"{module_name}\" booster purchased."
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLE_SOLD_SUCCESSFULLY"
+msgstr "\"{module_name}\" booster sold."
+
+msgid "SYSTEM_MESSAGE_ALBION_EVENT_BEGAN"
+msgstr "The <font color='#{color}'>Skies of Albion</font> event is underway!"
+
+msgid "SYSTEM_MESSAGE_ALBION_EVENT_END"
+msgstr "The <font color='#{color}'>Skies of Albion</font> event is over!"
+
+msgid "SYSTEM_MESSAGE_ALL_CREW_LEARNED_BASICS"
+msgstr "All {plane_name} crew members' proficiency is trained to 100%."
+
+msgid "SYSTEM_MESSAGE_ALL_CREW_LEARNED_SKILL"
+msgstr "All {plane_name} crew members have trained skill {skill_name} to 100%."
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_1_MONTH"
+msgstr "<font color='white'>{plane_name}</font>: 1 month"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_1_YEAR"
+msgstr "<font color='white'>{plane_name}</font>: 1 year"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_2_YEARS"
+msgstr "<font color='white'>{plane_name}</font>: 2 years"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_3_MONTHS"
+msgstr "<font color='white'>{plane_name}</font>: 3 months"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_3_YEARS"
+msgstr "<font color='white'>{plane_name}</font>: 3 years"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_4_YEARS"
+msgstr "<font color='white'>{plane_name}</font>: 4 years"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_5_YEARS"
+msgstr "<font color='white'>{plane_name}</font>: 5 or more years"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_6_MONTHS"
+msgstr "<font color='white'>{plane_name}</font>: 6 months"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_9_MONTHS"
+msgstr "<font color='white'>{plane_name}</font>: 9 months"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_ABOVE_YEAR"
+msgstr "Over 1 year since the date of purchase"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_BONUS"
+msgstr "Bonus:"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_BONUSES"
+msgstr "Bonuses:"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_DATE"
+msgstr "Date of purchase:"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_EVENT_DATE"
+msgstr "Anniversary celebration starts on:"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_HEADER_FEW"
+msgstr "Aircraft Anniversary"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_HEADER_ONE"
+msgstr "Anniversary"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_REWARD_FREE_EXP"
+msgstr "Bonus to Free Experience for the first victory:"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_REWARD_FREE_EXP_PLANE"
+msgstr "Bonus to Free Experience for the first victory:"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_REWARD_X2_EXP"
+msgstr "Bonus to XP for {number} victories:"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_REWARD_X2_EXP_CRED"
+msgstr "Bonus to XP and credits for {number} victories:"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_REWARD_X2_EXP_CRED_PLANE"
+msgstr "Bonus to XP and credits for {number} victories:"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_REWARD_X2_EXP_PLANE"
+msgstr "Bonus to XP for {number} victories:"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_REWARD_X3_EXP_CRED"
+msgstr "Bonus to XP and credits for {number} victories:"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_REWARD_X3_EXP_CRED_PLANE"
+msgstr "Bonus to XP and credits for {number} victories:"
+
+msgid "SYSTEM_MESSAGE_CAMO_EXPIRES_IN"
+msgstr "Paint scheme expires on"
+
+msgid "SYSTEM_MESSAGE_CAMO_PLANE"
+msgstr "Paint scheme for the {plane_name}"
+
+msgid "SYSTEM_MESSAGE_CANDYS_COLLECTED"
+msgstr "Collected:"
+
+msgid "SYSTEM_MESSAGE_CHOOSE_HANGAR_HOLIDAY"
+msgstr "Change"
+
+msgid "SYSTEM_MESSAGE_COMPENSATION_FOR_VARIABLE_NAME_PLANE"
+msgstr ""
+"Compensation has been added to your account as you already have the "
+"{variable_name} in your Hangar:"
+
+msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_ALBION_OPERATION_OFF"
+msgstr ""
+"Supply crates that you did not open during the <font color='#'>Skies of "
+"Albion</font> event have been opened automatically. All prizes from the "
+"Supply crates have been added to your account."
+
+msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_EVENT_OFF"
+msgstr ""
+"Supply crates that you did not open during the event have been converted to "
+"standard Supply crates."
+
+msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_JA_TR_OFF"
+msgstr ""
+"Supply crates that you did not open during the <font color='#{color}'>"
+"\"Japanese Threat\"</font> event have been opened automatically. All prizes "
+"from the Supply crates have been added to your account."
+
+msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_NO_CAMP_OFF"
+msgstr ""
+"Supply crates that you did not open during the <font color='#{color}'>Battle "
+"for Thor's Hammer</font> event have been opened automatically. All prizes "
+"from the Supply crates have been added to your account."
+
+msgid "SYSTEM_MESSAGE_COMPONENT_DEVICES"
+msgstr "Flight Instruments:"
+
+msgid "SYSTEM_MESSAGE_COMPONENT_ELECTRONICS"
+msgstr "Radio Electronics:"
+
+msgid "SYSTEM_MESSAGE_COMPONENT_GEARS"
+msgstr "Mechanical Parts:"
+
+msgid "SYSTEM_MESSAGE_COMPONENT_GUNS"
+msgstr "Weapon Parts:"
+
+msgid "SYSTEM_MESSAGE_COMPONENT_HULL"
+msgstr "Airframe Elements:"
+
+msgid "SYSTEM_MESSAGE_COMPONENT_STURDY"
+msgstr "Heat-Resistant Parts:"
+
+msgid "SYSTEM_MESSAGE_CONTEXT_INCLUDING"
+msgstr "Including:"
+
+msgid "SYSTEM_MESSAGE_CONTEXT_RESEARCHED"
+msgstr "Researched:"
+
+msgid "SYSTEM_MESSAGE_CREW_MEMBER_CHOSE_SKILL"
+msgstr ""
+"{plane_name} {crew_member} has started training for skill {skill_name}."
+
+msgid "SYSTEM_MESSAGE_CREW_MEMBER_DROPPED_SKILLS"
+msgstr "{plane_name} {crew_member} can train for new skills."
+
+msgid "SYSTEM_MESSAGE_CREW_MEMBER_LEARNED_BASICS"
+msgstr "{plane_name} {crew_member}'s proficiency is trained to 100%."
+
+msgid "SYSTEM_MESSAGE_CREW_MEMBER_LEARNED_SKILL"
+msgstr "{plane_name} {crew_member} has trained skill {skill_name} to 100%."
+
+msgid "SYSTEM_MESSAGE_CREW_MEMBER_RECRUITED"
+msgstr "{plane_name} {crew_member} is recruited."
+
+msgid "SYSTEM_MESSAGE_CREW_NEW_SKILLS_AVAILABLE"
+msgstr "New skills are available!"
+
+msgid "SYSTEM_MESSAGE_DEDUCTED"
+msgstr "Deducted:"
+
+msgid "SYSTEM_MESSAGE_DEERPILOT_ON_HAWKER"
+msgstr ""
+"Pilot <font color='#{ffd57e}'>Rudolph Hawker</font> for the Premium <font "
+"color='#{ffd57e}'>Hawker P.V.3</font>"
+
+msgid "SYSTEM_MESSAGE_DETAILED_INFO_UNAVAILABLE"
+msgstr "Details unavailable."
+
+msgid "SYSTEM_MESSAGE_DIRECTIVE_DURING_MAINT_BONUS_SUSPENDED"
+msgstr ""
+"The {aircraft_name} operation order was suspended for the maintenance period "
+"and restored after the maintenance was completed."
+
+msgid "SYSTEM_MESSAGE_DISCOUNT_PLANES"
+msgstr "{number}% discount on the {plane_name}"
+
+msgid "SYSTEM_MESSAGE_DISMISS_CREW"
+msgstr "Dismiss"
+
+msgid "SYSTEM_MESSAGE_EMBLEM_ANY"
+msgstr "Emblem for any aircraft"
+
+msgid "SYSTEM_MESSAGE_EMBLEM_CHINA"
+msgstr "Emblem for a Chinese aircraft"
+
+msgid "SYSTEM_MESSAGE_EMBLEM_GERMANY"
+msgstr "Emblem for a German aircraft"
+
+msgid "SYSTEM_MESSAGE_EMBLEM_JAPAN"
+msgstr "Emblem for a Japanese aircraft"
+
+msgid "SYSTEM_MESSAGE_EMBLEM_UK"
+msgstr "Emblem for a U.K. aircraft"
+
+msgid "SYSTEM_MESSAGE_EMBLEM_USA"
+msgstr "Emblem for a U.S. aircraft"
+
+msgid "SYSTEM_MESSAGE_EMBLEM_USSR"
+msgstr "Emblem for a U.S.S.R. aircraft"
+
+msgid "SYSTEM_MESSAGE_ERROR_HEADER"
+msgstr "Error"
+
+msgid "SYSTEM_MESSAGE_EXCLUSIVE_CAMO_EMBLEM_DECOR"
+msgstr "Unique paint scheme (+5% to top speed), nose art, and emblem"
+
+msgid "SYSTEM_MESSAGE_FAST_TRAINING_OFF"
+msgstr "Accelerated training disabled"
+
+msgid "SYSTEM_MESSAGE_FAST_TRAINING_ON"
+msgstr "Accelerated training enabled"
+
+msgid "SYSTEM_MESSAGE_FR_EXTRA_GIFT"
+msgstr "Extra Bonus"
+
+msgid "SYSTEM_MESSAGE_FR_PACK_SUCCESSFUL_PURCHASE"
+msgstr ""
+"Bundle of the <font color='#{color}'>{plane_name1}</font> and <font "
+"color='#{color}'>{plane_name2}</font> aircraft purchased."
+
+msgid "SYSTEM_MESSAGE_FR_PACK_UNIQUE_CAMO_EMBLEM"
+msgstr ""
+"Unique paint scheme, nose art, and emblem for the <font "
+"color='#{color}'>{plane_name1}</font> and <font "
+"color='#{color}'>{plane_name2}</font> aircraft"
+
+msgid "SYSTEM_MESSAGE_GOLD_ACCESS_DENIED"
+msgstr ""
+"Payment service temporarily unavailable. You are not able to use your gold "
+"and Free Experience. Server will be restored soon."
+
+msgid "SYSTEM_MESSAGE_GOLD_ACCESS_GRANTED"
+msgstr ""
+"WG Wallet successfully synchronized. All of your gold and Free Experience "
+"are now available."
+
+msgid "SYSTEM_MESSAGE_GOLD_ACCOUNT_SYNCHRONISED"
+msgstr "WG Wallet successfully synchronized."
+
+msgid "SYSTEM_MESSAGE_GOLD_OPERATION_IMPOSSIBLE"
+msgstr ""
+"Operation impossible. All of your gold will be available after WG Wallet is "
+"restored automatically."
+
+msgid "SYSTEM_MESSAGE_GOLD_RECOVERING_ACCOUNT"
+msgstr ""
+"All of your gold will be available after WG Wallet is restored automatically."
+
+msgid "SYSTEM_MESSAGE_GOLD_UNAVAILABLE_REFILL_FOR_CREDITS"
+msgstr ""
+"Temporarily unable to resupply using gold.<br>Resupplied using credits."
+
+msgid "SYSTEM_MESSAGE_GUNNER_DISMISS"
+msgstr "Gunner {crew_name} dismissed"
+
+msgid "SYSTEM_MESSAGE_HANGAR_HOLIDAY"
+msgstr ""
+"Pilot, a festive background has been applied. You can change the background "
+"in the Game tab of the Settings screen."
+
+msgid "SYSTEM_MESSAGE_HANGAR_HOLIDAY_1"
+msgstr ""
+"Pilot, you can change the festive background to the Premium background in "
+"the Game tab of the Settings screen."
+
+msgid "SYSTEM_MESSAGE_HEADER_DETAILED_INFO"
+msgstr "Details"
+
+msgid "SYSTEM_MESSAGE_HEADER_HANGAR_HOLIDAY"
+msgstr "Festive Background"
+
+msgid "SYSTEM_MESSAGE_HEADER_PILOT"
+msgstr "Pilot!"
+
+msgid "SYSTEM_MESSAGE_HEADER_PRIZES"
+msgstr "Prizes"
+
+msgid "SYSTEM_MESSAGE_HEADER_WIN"
+msgstr "Victory {aircraft_name}!"
+
+msgid "SYSTEM_MESSAGE_LABEL_AMMO_REFILL"
+msgstr "Ammunition resupply"
+
+msgid "SYSTEM_MESSAGE_LABEL_CAMO_DECALS"
+msgstr "Paint schemes and decorations"
+
+msgid "SYSTEM_MESSAGE_LABEL_MOUNTED"
+msgstr "Mounted:"
+
+msgid "SYSTEM_MESSAGE_LABEL_PREMIUM_DAYS"
+msgstr "Premium days"
+
+msgid "SYSTEM_MESSAGE_LABEL_PURCHASED"
+msgstr "Purchased:"
+
+msgid "SYSTEM_MESSAGE_LABEL_UNLOADED"
+msgstr "Sent to Depot:"
+
+msgid "SYSTEM_MESSAGE_MODULE_DESTROYED_MSGTEXT"
+msgstr "Equipment {module_name} destroyed."
+
+msgid "SYSTEM_MESSAGE_MODULE_INSTALLED_MSGTEXT"
+msgstr "Equipment {module_name} mounted."
+
+msgid "SYSTEM_MESSAGE_MODULE_PURCHASED_MSGTEXT"
+msgstr "Equipment {module_name} purchased."
+
+msgid "SYSTEM_MESSAGE_MODULE_UNINSTALLED_MSGTEXT"
+msgstr "Equipment {module_name} demounted."
+
+msgid "SYSTEM_MESSAGE_NEW_QUEST_AVAILABLE"
+msgstr "New mission available!"
+
+msgid "SYSTEM_MESSAGE_NOW_CREW_TRAINING_FASTER"
+msgstr "Now the crew will be trained more quickly."
+
+msgid "SYSTEM_MESSAGE_NOW_EXP_COLLECT_ON_PLANE"
+msgstr "Now experience will be allocated to the aircraft."
+
+msgid "SYSTEM_MESSAGE_PACK_SLOT_SUCCESSFUL_PURCHASE"
+msgstr "Slots ({number}) in the Hangar purchased."
+
+msgid "SYSTEM_MESSAGE_PILOT_DISMISS"
+msgstr "Pilot {crew_name} dismissed"
+
+msgid "SYSTEM_MESSAGE_PLACE_IN_RATING"
+msgstr "Rating position:"
+
+msgid "SYSTEM_MESSAGE_PLANE_RECIEVED_IN_HANGAR"
+msgstr "Aircraft received and available in Hangar."
+
+msgid "SYSTEM_MESSAGE_PREMIUM_EXPIRES_IN"
+msgstr "Premium Account expires in {time}"
+
+msgid "SYSTEM_MESSAGE_QUESTS_FOR_PLANE_ACTIVATED"
+msgstr "Personal mission for the {aircraft_name} activated."
+
+msgid "SYSTEM_MESSAGE_QUESTS_FOR_PLANE_DEACTIVATED"
+msgstr "Personal mission for the {aircraft_name} deactivated."
+
+msgid "SYSTEM_MESSAGE_QUESTS_NEW_QUESTS_AVAILABLE"
+msgstr "New missions available:"
+
+msgid "SYSTEM_MESSAGE_QUESTS_OUTDATED_COMPLETED"
+msgstr "Expired missions completed."
+
+msgid "SYSTEM_MESSAGE_QUESTS_QUEST_COMPLETED"
+msgstr "\"{quest}\" mission completed!"
+
+msgid "SYSTEM_MESSAGE_QUESTS_QUEST_PROGRESS"
+msgstr "\"{quest}\" mission progress"
+
+msgid "SYSTEM_MESSAGE_QUESTS_SEVERAL_COMPLETED"
+msgstr "Missions completed:"
+
+msgid "SYSTEM_MESSAGE_QUEST_COMPENSATION"
+msgstr ""
+"Pilot! You have already received the \"{name}\" mission and it cannot be "
+"completed again. The mission cost has been compensated."
+
+msgid "SYSTEM_MESSAGE_ROSTELECOM_BONUS"
+msgstr ""
+"The following items were added to your account according to the \"Igrovoy"
+"\" (\"Gamer’s\") plan:"
+
+msgid "SYSTEM_MESSAGE_ROSTELECOM_BONUS_DEDUCTED"
+msgstr ""
+"The following items were deducted from your account due to the deactivation "
+"of the \"Igrovoy\" (\"Gamer’s\") plan:"
+
+msgid "SYSTEM_MESSAGE_SHOW_ALL"
+msgstr "Display All"
+
+msgid "SYSTEM_MESSAGE_TOTAL_ACCOUNT_BALANCE"
+msgstr "Total added to account:"
+
+msgid "SYSTEM_MESSAGE_TROPHYS_COLON"
+msgstr "Supplies:"
+
+msgid "SYSTEM_MESSAGE_TROPHY_OPENED"
+msgstr "Supply crate opened!"
+
+msgid "SYSTEM_MESSAGE_UNIVERSAL_EVENT_BEGAN"
+msgstr "The {event_name} event started!"
+
+msgid "SYSTEM_MESSAGE_UNIVERSAL_EVENT_END"
+msgstr "The {event_name} event ended!"
+
+msgid "SYSTEM_MESSAGE_VERY_GOOD"
+msgstr "You have proved yourself an excellent pilot. Keep it up!"
+
+msgid "SYSTEM_MESSAGE_WING_BATTLE_ERROR_TEXT"
+msgstr ""
+"Failed to enter the battle. Please select another aircraft or create the "
+"Flight again."
+
+msgid "SYSTEM_MESSAGE_WING_BUTTON_ACCEPT_INVITATION"
+msgstr "Join"
+
+msgid "SYSTEM_MESSAGE_WING_DESTROYED"
+msgstr "The Flight has been dismissed."
+
+msgid "SYSTEM_MESSAGE_WING_INVITATION_ACCEPTED"
+msgstr "Invitation accepted."
+
+msgid "SYSTEM_MESSAGE_WING_INVITATION_DECLINED"
+msgstr "Invitation declined."
+
+msgid "SYSTEM_MESSAGE_WING_INVITATION_HEADER"
+msgstr "Flight Invitation"
+
+msgid "SYSTEM_MESSAGE_WING_PLAYER_EXCLUDED"
+msgstr "You have been excluded from the Flight."
+
+msgid "SYSTEM_MESSAGE_WING_PLAYER_INVITES_YOU_TO_WING"
+msgstr "{name} invites you to join a Flight."
+
+msgid "SYSTEM_MESSAGE_WING_PLAYER_INVITES_YOU_TO_WING_ALT"
+msgstr "Player {name} invites you to join a Flight."
+
+msgid "SYSTEM_MESSAGE_WING_PLAYER_JOINED_WING"
+msgstr "Player {name} has joined the Flight."
+
+msgid "SYSTEM_MESSAGE_WING_PLAYER_LEAVE"
+msgstr "You have left the Flight."
+
+msgid "SYSTEM_MESSAGE_WING_PLAYER_LEFT_WING"
+msgstr "Player {name} has left the Flight."
+
+msgid "SYSTEM_MESSAGE_WING_YOU_JOINED_WING"
+msgstr "You have joined the Flight."
+
+msgid "SYSTEM_MESSAGE_XP_OPERATION_IMPOSSIBLE"
+msgstr ""
+"Operation impossible. All of your Free Experience will be available after WG "
+"Wallet is restored automatically."
+
+msgid "SYSTEM_MESSAGE_XP_RECOVERING_ACCOUNT"
+msgstr ""
+"All of your Free Experience will be available after WG Wallet is restored "
+"automatically."
+
+msgid "SYSTEM_MESSAGE_YOU_COLLECTED_ENOUGH_GET_THIS_GIFT"
+msgstr "You have collected enough candy to get this gift!"
+
+msgid "SYSTEM_MESSAGE_YOU_COLLECTED_ENOUGH_GET_THIS_SUPERGIFT"
+msgstr "You have collected enough candy to get the top gift!"
+
+msgid "SYSTEM_SERVER_ERROR_TRY_AGAIN"
+msgstr "Error receiving details. Please try again."
+
+msgid "VOIP_MESSAGE_HEADER"
+msgstr "Voice Chat"
+
+msgid "VOIP_SERVICE_DOWN"
+msgstr "Voice chat temporarily unavailable."
+
+msgid "WING_MESSAGE_ADD_FRIEND"
+msgstr "Player {name} is added to your Friends list."
+
+msgid "WING_MESSAGE_PLAYER_IN_WING_SEND_INVITE_ANOTHER_PLAYER"
+msgstr ""
+"Player {name} is already a member of another Flight. Select another player "
+"from the list."
+
+msgid "WING_MESSAGE_YOU_DONT_CAN_INVITE_OFFLINE_PLAYER"
+msgstr "You cannot invite an offline player to Flight."

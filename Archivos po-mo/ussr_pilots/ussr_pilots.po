@@ -1,0 +1,3596 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"PO-Revision-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: WoT Translator <noreply@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "NAMES/RUS1"
+msgstr "Ivanov"
+
+msgid "NAMES/RUS10"
+msgstr "Nikolayev"
+
+msgid "NAMES/RUS100"
+msgstr "Ipatov"
+
+msgid "NAMES/RUS1000"
+msgstr "Tychina"
+
+msgid "NAMES/RUS1001"
+msgstr "Apasov"
+
+msgid "NAMES/RUS1002"
+msgstr "Balitskiy"
+
+msgid "NAMES/RUS1003"
+msgstr "Bender"
+
+msgid "NAMES/RUS1004"
+msgstr "Baranenko"
+
+msgid "NAMES/RUS1005"
+msgstr "Belichenko"
+
+msgid "NAMES/RUS1006"
+msgstr "Bogillo"
+
+msgid "NAMES/RUS1007"
+msgstr "Boyko"
+
+msgid "NAMES/RUS1008"
+msgstr "Bratkov"
+
+msgid "NAMES/RUS1009"
+msgstr "Buglak"
+
+msgid "NAMES/RUS101"
+msgstr "Serov"
+
+msgid "NAMES/RUS1010"
+msgstr "Volchkov"
+
+msgid "NAMES/RUS1011"
+msgstr "Galenko"
+
+msgid "NAMES/RUS1012"
+msgstr "Gvozdev"
+
+msgid "NAMES/RUS1013"
+msgstr "Gnatenko"
+
+msgid "NAMES/RUS1014"
+msgstr "Gorbunov"
+
+msgid "NAMES/RUS1015"
+msgstr "Gorobets"
+
+msgid "NAMES/RUS1016"
+msgstr "Gladskiy"
+
+msgid "NAMES/RUS1017"
+msgstr "Gryzin"
+
+msgid "NAMES/RUS1018"
+msgstr "Davidyuk"
+
+msgid "NAMES/RUS1019"
+msgstr "Demchenko"
+
+msgid "NAMES/RUS102"
+msgstr "Blokhin"
+
+msgid "NAMES/RUS1020"
+msgstr "Dubovoy"
+
+msgid "NAMES/RUS1021"
+msgstr "Dudkin"
+
+msgid "NAMES/RUS1022"
+msgstr "Duz"
+
+msgid "NAMES/RUS1023"
+msgstr "Zherlitsyn"
+
+msgid "NAMES/RUS1024"
+msgstr "Zaets"
+
+msgid "NAMES/RUS1025"
+msgstr "Zenkovich"
+
+msgid "NAMES/RUS1026"
+msgstr "Zinchenko"
+
+msgid "NAMES/RUS1027"
+msgstr "Ignatov"
+
+msgid "NAMES/RUS1028"
+msgstr "Ilyushin"
+
+msgid "NAMES/RUS1029"
+msgstr "Kaydun"
+
+msgid "NAMES/RUS103"
+msgstr "Pogudin"
+
+msgid "NAMES/RUS1030"
+msgstr "Kalinichenko"
+
+msgid "NAMES/RUS1031"
+msgstr "Kasyanenko"
+
+msgid "NAMES/RUS1032"
+msgstr "Kachan"
+
+msgid "NAMES/RUS1033"
+msgstr "Kozhushchenko"
+
+msgid "NAMES/RUS1034"
+msgstr "Kolbnev"
+
+msgid "NAMES/RUS1035"
+msgstr "Kontsevich"
+
+msgid "NAMES/RUS1036"
+msgstr "Korniyenko"
+
+msgid "NAMES/RUS1037"
+msgstr "Kray"
+
+msgid "NAMES/RUS1038"
+msgstr "Kulbich"
+
+msgid "NAMES/RUS1039"
+msgstr "Kucheruk"
+
+msgid "NAMES/RUS104"
+msgstr "Shuvalov"
+
+msgid "NAMES/RUS1040"
+msgstr "Legenkiy"
+
+msgid "NAMES/RUS1041"
+msgstr "Lisovitskiy"
+
+msgid "NAMES/RUS1042"
+msgstr "Markelov"
+
+msgid "NAMES/RUS1043"
+msgstr "Maroz"
+
+msgid "NAMES/RUS1044"
+msgstr "Muskeyev"
+
+msgid "NAMES/RUS1045"
+msgstr "Nesin"
+
+msgid "NAMES/RUS1046"
+msgstr "Pavlenko"
+
+msgid "NAMES/RUS1047"
+msgstr "Plekhanov"
+
+msgid "NAMES/RUS1048"
+msgstr "Ponomarenko"
+
+msgid "NAMES/RUS1049"
+msgstr "Popenko"
+
+msgid "NAMES/RUS105"
+msgstr "Korobov"
+
+msgid "NAMES/RUS1050"
+msgstr "Prishlyak"
+
+msgid "NAMES/RUS1051"
+msgstr "Rebrov"
+
+msgid "NAMES/RUS1052"
+msgstr "Reshetnikov"
+
+msgid "NAMES/RUS1053"
+msgstr "Rivny"
+
+msgid "NAMES/RUS1054"
+msgstr "Rodivilov"
+
+msgid "NAMES/RUS1055"
+msgstr "Rodyakhin"
+
+msgid "NAMES/RUS1056"
+msgstr "Rubashyov"
+
+msgid "NAMES/RUS1057"
+msgstr "Salmin"
+
+msgid "NAMES/RUS1058"
+msgstr "Sidorenko"
+
+msgid "NAMES/RUS1059"
+msgstr "Sipko"
+
+msgid "NAMES/RUS106"
+msgstr "Belskiy"
+
+msgid "NAMES/RUS1060"
+msgstr "Starostenko"
+
+msgid "NAMES/RUS1061"
+msgstr "Telego"
+
+msgid "NAMES/RUS1062"
+msgstr "Tenditny"
+
+msgid "NAMES/RUS1063"
+msgstr "Titarchuk"
+
+msgid "NAMES/RUS1064"
+msgstr "Uznichenko"
+
+msgid "NAMES/RUS1065"
+msgstr "Usoltsev"
+
+msgid "NAMES/RUS1066"
+msgstr "Fesenko"
+
+msgid "NAMES/RUS1067"
+msgstr "Filonichev"
+
+msgid "NAMES/RUS1068"
+msgstr "Khamatov"
+
+msgid "NAMES/RUS1069"
+msgstr "Khmelnichenko"
+
+msgid "NAMES/RUS107"
+msgstr "Yusupov"
+
+msgid "NAMES/RUS1070"
+msgstr "Chulkov"
+
+msgid "NAMES/RUS1071"
+msgstr "Shalyonny"
+
+msgid "NAMES/RUS1072"
+msgstr "Shcherbin"
+
+msgid "NAMES/RUS1073"
+msgstr "Yaroshenko"
+
+msgid "NAMES/RUS108"
+msgstr "Listov"
+
+msgid "NAMES/RUS109"
+msgstr "Semyonov"
+
+msgid "NAMES/RUS11"
+msgstr "Makarov"
+
+msgid "NAMES/RUS110"
+msgstr "Kornilov"
+
+msgid "NAMES/RUS111"
+msgstr "Arosyev"
+
+msgid "NAMES/RUS112"
+msgstr "Belkin"
+
+msgid "NAMES/RUS113"
+msgstr "Borovikov"
+
+msgid "NAMES/RUS114"
+msgstr "Bykov"
+
+msgid "NAMES/RUS115"
+msgstr "Baranov"
+
+msgid "NAMES/RUS116"
+msgstr "Bystritskiy"
+
+msgid "NAMES/RUS117"
+msgstr "Borodin"
+
+msgid "NAMES/RUS118"
+msgstr "Baklanov"
+
+msgid "NAMES/RUS119"
+msgstr "Barkov"
+
+msgid "NAMES/RUS12"
+msgstr "Sergeyev"
+
+msgid "NAMES/RUS120"
+msgstr "Belyaev"
+
+msgid "NAMES/RUS121"
+msgstr "Berezhnoy"
+
+msgid "NAMES/RUS122"
+msgstr "Bestuzhev"
+
+msgid "NAMES/RUS123"
+msgstr "Matveyev"
+
+msgid "NAMES/RUS124"
+msgstr "Vasin"
+
+msgid "NAMES/RUS125"
+msgstr "Veresayev"
+
+msgid "NAMES/RUS126"
+msgstr "Gushchin"
+
+msgid "NAMES/RUS127"
+msgstr "Denisov"
+
+msgid "NAMES/RUS128"
+msgstr "Vasilyev"
+
+msgid "NAMES/RUS129"
+msgstr "Vnukov"
+
+msgid "NAMES/RUS13"
+msgstr "Nikitin"
+
+msgid "NAMES/RUS130"
+msgstr "Volin"
+
+msgid "NAMES/RUS131"
+msgstr "Vavilov"
+
+msgid "NAMES/RUS132"
+msgstr "Vaneyev"
+
+msgid "NAMES/RUS133"
+msgstr "Vorobyov"
+
+msgid "NAMES/RUS134"
+msgstr "Dyomin"
+
+msgid "NAMES/RUS135"
+msgstr "Degtyaryov"
+
+msgid "NAMES/RUS136"
+msgstr "Derzhavin"
+
+msgid "NAMES/RUS137"
+msgstr "Dobrynev"
+
+msgid "NAMES/RUS138"
+msgstr "Konev"
+
+msgid "NAMES/RUS139"
+msgstr "Kramskoy"
+
+msgid "NAMES/RUS14"
+msgstr "Anisimov"
+
+msgid "NAMES/RUS140"
+msgstr "Konyukhov"
+
+msgid "NAMES/RUS141"
+msgstr "Votyakov"
+
+msgid "NAMES/RUS142"
+msgstr "Shpakov"
+
+msgid "NAMES/RUS143"
+msgstr "Shpagin"
+
+msgid "NAMES/RUS144"
+msgstr "Shpak"
+
+msgid "NAMES/RUS145"
+msgstr "Sudayev"
+
+msgid "NAMES/RUS146"
+msgstr "Kalashnikov"
+
+msgid "NAMES/RUS147"
+msgstr "Myshkin"
+
+msgid "NAMES/RUS148"
+msgstr "Nalivayko"
+
+msgid "NAMES/RUS149"
+msgstr "Nebaba"
+
+msgid "NAMES/RUS15"
+msgstr "Platonov"
+
+msgid "NAMES/RUS150"
+msgstr "Grechko"
+
+msgid "NAMES/RUS151"
+msgstr "Ustinov"
+
+msgid "NAMES/RUS152"
+msgstr "Savitskiy"
+
+msgid "NAMES/RUS153"
+msgstr "Tereshkov"
+
+msgid "NAMES/RUS154"
+msgstr "Lugovoy"
+
+msgid "NAMES/RUS155"
+msgstr "Zhivets"
+
+msgid "NAMES/RUS156"
+msgstr "Sitnikov"
+
+msgid "NAMES/RUS157"
+msgstr "Kovalyov"
+
+msgid "NAMES/RUS158"
+msgstr "Mukhin"
+
+msgid "NAMES/RUS159"
+msgstr "Obukhov"
+
+msgid "NAMES/RUS16"
+msgstr "Kirillov"
+
+msgid "NAMES/RUS160"
+msgstr "Gridnyov"
+
+msgid "NAMES/RUS161"
+msgstr "Gurskiy"
+
+msgid "NAMES/RUS162"
+msgstr "Tivunov"
+
+msgid "NAMES/RUS163"
+msgstr "Pevtsov"
+
+msgid "NAMES/RUS164"
+msgstr "Telitsyn"
+
+msgid "NAMES/RUS165"
+msgstr "Komissarov"
+
+msgid "NAMES/RUS166"
+msgstr "Prokurorov"
+
+msgid "NAMES/RUS167"
+msgstr "Kapustin"
+
+msgid "NAMES/RUS168"
+msgstr "Isayev"
+
+msgid "NAMES/RUS169"
+msgstr "Grushin"
+
+msgid "NAMES/RUS17"
+msgstr "Kharitonov"
+
+msgid "NAMES/RUS170"
+msgstr "Rublyov"
+
+msgid "NAMES/RUS171"
+msgstr "Kopeykin"
+
+msgid "NAMES/RUS172"
+msgstr "Lunev"
+
+msgid "NAMES/RUS173"
+msgstr "Zhukov"
+
+msgid "NAMES/RUS174"
+msgstr "Nikiforov"
+
+msgid "NAMES/RUS175"
+msgstr "Zvonaryov"
+
+msgid "NAMES/RUS176"
+msgstr "Pervak"
+
+msgid "NAMES/RUS177"
+msgstr "Petukhov"
+
+msgid "NAMES/RUS178"
+msgstr "Plyushkin"
+
+msgid "NAMES/RUS179"
+msgstr "Kuroyedov"
+
+msgid "NAMES/RUS18"
+msgstr "Pavlov"
+
+msgid "NAMES/RUS180"
+msgstr "Dyakonov"
+
+msgid "NAMES/RUS181"
+msgstr "Dyachenko"
+
+msgid "NAMES/RUS182"
+msgstr "Bogolyubov"
+
+msgid "NAMES/RUS183"
+msgstr "Chernov"
+
+msgid "NAMES/RUS184"
+msgstr "Reznikov"
+
+msgid "NAMES/RUS185"
+msgstr "Gruzdev"
+
+msgid "NAMES/RUS186"
+msgstr "Nechiporenko"
+
+msgid "NAMES/RUS187"
+msgstr "Nepeyvoda"
+
+msgid "NAMES/RUS188"
+msgstr "Shablyuka"
+
+msgid "NAMES/RUS189"
+msgstr "Sinebryukhov"
+
+msgid "NAMES/RUS19"
+msgstr "Nesterov"
+
+msgid "NAMES/RUS190"
+msgstr "Kochubey"
+
+msgid "NAMES/RUS191"
+msgstr "Krivonos"
+
+msgid "NAMES/RUS192"
+msgstr "Lyulka"
+
+msgid "NAMES/RUS193"
+msgstr "Bulba"
+
+msgid "NAMES/RUS194"
+msgstr "Sirko"
+
+msgid "NAMES/RUS195"
+msgstr "Myasoyed"
+
+msgid "NAMES/RUS196"
+msgstr "Podoprigora"
+
+msgid "NAMES/RUS197"
+msgstr "Nezovibatko"
+
+msgid "NAMES/RUS198"
+msgstr "Perebeynos"
+
+msgid "NAMES/RUS199"
+msgstr "Zakrividoroga"
+
+msgid "NAMES/RUS2"
+msgstr "Petrov"
+
+msgid "NAMES/RUS20"
+msgstr "Arsenyev"
+
+msgid "NAMES/RUS200"
+msgstr "Sorokopud"
+
+msgid "NAMES/RUS201"
+msgstr "Vyrvikhvost"
+
+msgid "NAMES/RUS202"
+msgstr "Starokon"
+
+msgid "NAMES/RUS203"
+msgstr "Tyagniryadno"
+
+msgid "NAMES/RUS204"
+msgstr "Ryabokon"
+
+msgid "NAMES/RUS205"
+msgstr "Opanasenko"
+
+msgid "NAMES/RUS206"
+msgstr "Shevchenko"
+
+msgid "NAMES/RUS207"
+msgstr "Petrenko"
+
+msgid "NAMES/RUS208"
+msgstr "Nesterenko"
+
+msgid "NAMES/RUS209"
+msgstr "Netudykhata"
+
+msgid "NAMES/RUS21"
+msgstr "Alekseyev"
+
+msgid "NAMES/RUS210"
+msgstr "Sinebrukh"
+
+msgid "NAMES/RUS211"
+msgstr "Beloshtan"
+
+msgid "NAMES/RUS212"
+msgstr "Kalivod"
+
+msgid "NAMES/RUS213"
+msgstr "Leshchenko"
+
+msgid "NAMES/RUS214"
+msgstr "Shchur"
+
+msgid "NAMES/RUS215"
+msgstr "Ryabov"
+
+msgid "NAMES/RUS216"
+msgstr "Gorobets"
+
+msgid "NAMES/RUS217"
+msgstr "Stepanenko"
+
+msgid "NAMES/RUS218"
+msgstr "Zakharchenko"
+
+msgid "NAMES/RUS219"
+msgstr "Vitrenko"
+
+msgid "NAMES/RUS22"
+msgstr "Stepanov"
+
+msgid "NAMES/RUS220"
+msgstr "Goncharov"
+
+msgid "NAMES/RUS221"
+msgstr "Goncharenko"
+
+msgid "NAMES/RUS222"
+msgstr "Bondarenko"
+
+msgid "NAMES/RUS223"
+msgstr "Rybalko"
+
+msgid "NAMES/RUS224"
+msgstr "Serdyuk"
+
+msgid "NAMES/RUS225"
+msgstr "Krivoruchenko"
+
+msgid "NAMES/RUS226"
+msgstr "Gerasimovich"
+
+msgid "NAMES/RUS227"
+msgstr "Gerasimov"
+
+msgid "NAMES/RUS228"
+msgstr "Gerasimenko"
+
+msgid "NAMES/RUS229"
+msgstr "Akulich"
+
+msgid "NAMES/RUS23"
+msgstr "Fyodorov"
+
+msgid "NAMES/RUS230"
+msgstr "Yankovskiy"
+
+msgid "NAMES/RUS231"
+msgstr "Klimovskiy"
+
+msgid "NAMES/RUS232"
+msgstr "Martinovich"
+
+msgid "NAMES/RUS233"
+msgstr "Litvin"
+
+msgid "NAMES/RUS234"
+msgstr "Golovenko"
+
+msgid "NAMES/RUS235"
+msgstr "Golovach"
+
+msgid "NAMES/RUS236"
+msgstr "Bliznyuk"
+
+msgid "NAMES/RUS237"
+msgstr "Babushkin"
+
+msgid "NAMES/RUS238"
+msgstr "Belobokov"
+
+msgid "NAMES/RUS239"
+msgstr "Zubkov"
+
+msgid "NAMES/RUS24"
+msgstr "Fedotov"
+
+msgid "NAMES/RUS240"
+msgstr "Zbruyev"
+
+msgid "NAMES/RUS241"
+msgstr "Zvyagintsev"
+
+msgid "NAMES/RUS242"
+msgstr "Kokoryov"
+
+msgid "NAMES/RUS243"
+msgstr "Korneyev"
+
+msgid "NAMES/RUS244"
+msgstr "Korenev"
+
+msgid "NAMES/RUS245"
+msgstr "Kovalchuk"
+
+msgid "NAMES/RUS246"
+msgstr "Krasnov"
+
+msgid "NAMES/RUS247"
+msgstr "Troshin"
+
+msgid "NAMES/RUS248"
+msgstr "Trofimov"
+
+msgid "NAMES/RUS249"
+msgstr "Sukhov"
+
+msgid "NAMES/RUS25"
+msgstr "Kharlamov"
+
+msgid "NAMES/RUS250"
+msgstr "Sukhorukov"
+
+msgid "NAMES/RUS251"
+msgstr "Polynyev"
+
+msgid "NAMES/RUS252"
+msgstr "Pisarenko"
+
+msgid "NAMES/RUS253"
+msgstr "Kozlov"
+
+msgid "NAMES/RUS254"
+msgstr "Tsvetov"
+
+msgid "NAMES/RUS255"
+msgstr "Matrosov"
+
+msgid "NAMES/RUS256"
+msgstr "Soldatov"
+
+msgid "NAMES/RUS257"
+msgstr "Privalov"
+
+msgid "NAMES/RUS258"
+msgstr "Poluyan"
+
+msgid "NAMES/RUS259"
+msgstr "Pivovarov"
+
+msgid "NAMES/RUS26"
+msgstr "Borisov"
+
+msgid "NAMES/RUS260"
+msgstr "Shulga"
+
+msgid "NAMES/RUS261"
+msgstr "Panasyuk"
+
+msgid "NAMES/RUS262"
+msgstr "Fomenko"
+
+msgid "NAMES/RUS263"
+msgstr "Sukhotskiy"
+
+msgid "NAMES/RUS264"
+msgstr "Bundelev"
+
+msgid "NAMES/RUS265"
+msgstr "Kostyukov"
+
+msgid "NAMES/RUS266"
+msgstr "Mandrik"
+
+msgid "NAMES/RUS267"
+msgstr "Sivchik"
+
+msgid "NAMES/RUS268"
+msgstr "Voynitskiy"
+
+msgid "NAMES/RUS269"
+msgstr "Bibik"
+
+msgid "NAMES/RUS27"
+msgstr "Aleksandrov"
+
+msgid "NAMES/RUS270"
+msgstr "Aniskov"
+
+msgid "NAMES/RUS271"
+msgstr "Golub"
+
+msgid "NAMES/RUS272"
+msgstr "Maltsev"
+
+msgid "NAMES/RUS273"
+msgstr "Malkov"
+
+msgid "NAMES/RUS274"
+msgstr "Moroz"
+
+msgid "NAMES/RUS275"
+msgstr "Morozov"
+
+msgid "NAMES/RUS276"
+msgstr "Sidorovich"
+
+msgid "NAMES/RUS277"
+msgstr "Zhuk"
+
+msgid "NAMES/RUS278"
+msgstr "Vorogushin"
+
+msgid "NAMES/RUS279"
+msgstr "Murashko"
+
+msgid "NAMES/RUS28"
+msgstr "Davydov"
+
+msgid "NAMES/RUS280"
+msgstr "Mayevskiy"
+
+msgid "NAMES/RUS281"
+msgstr "Ovechkin"
+
+msgid "NAMES/RUS282"
+msgstr "Shvets"
+
+msgid "NAMES/RUS283"
+msgstr "Bolshakov"
+
+msgid "NAMES/RUS284"
+msgstr "Soroka"
+
+msgid "NAMES/RUS285"
+msgstr "Konanovich"
+
+msgid "NAMES/RUS286"
+msgstr "Chizhov"
+
+msgid "NAMES/RUS287"
+msgstr "Solomin"
+
+msgid "NAMES/RUS288"
+msgstr "Kuntsevich"
+
+msgid "NAMES/RUS289"
+msgstr "Adamovich"
+
+msgid "NAMES/RUS29"
+msgstr "Zakharov"
+
+msgid "NAMES/RUS290"
+msgstr "Novogrodskiy"
+
+msgid "NAMES/RUS291"
+msgstr "Tugay"
+
+msgid "NAMES/RUS292"
+msgstr "Yushkevich"
+
+msgid "NAMES/RUS293"
+msgstr "Tyshkevich"
+
+msgid "NAMES/RUS294"
+msgstr "Sinyakov"
+
+msgid "NAMES/RUS295"
+msgstr "Klimuk"
+
+msgid "NAMES/RUS296"
+msgstr "Shevchuk"
+
+msgid "NAMES/RUS297"
+msgstr "Matusevich"
+
+msgid "NAMES/RUS298"
+msgstr "Kalinovskiy"
+
+msgid "NAMES/RUS299"
+msgstr "Petrovskiy"
+
+msgid "NAMES/RUS3"
+msgstr "Sidorov"
+
+msgid "NAMES/RUS30"
+msgstr "Menshikov"
+
+msgid "NAMES/RUS300"
+msgstr "Malinovskiy"
+
+msgid "NAMES/RUS301"
+msgstr "Krasavin"
+
+msgid "NAMES/RUS302"
+msgstr "Gubar"
+
+msgid "NAMES/RUS303"
+msgstr "Belchikov"
+
+msgid "NAMES/RUS304"
+msgstr "Ryzhkov"
+
+msgid "NAMES/RUS305"
+msgstr "Kolobanov"
+
+msgid "NAMES/RUS306"
+msgstr "Krivorogov"
+
+msgid "NAMES/RUS307"
+msgstr "Vyazemskiy"
+
+msgid "NAMES/RUS308"
+msgstr "Lopukhin"
+
+msgid "NAMES/RUS309"
+msgstr "Pukhov"
+
+msgid "NAMES/RUS31"
+msgstr "Golitsyn"
+
+msgid "NAMES/RUS310"
+msgstr "Peshkov"
+
+msgid "NAMES/RUS311"
+msgstr "Chyorny"
+
+msgid "NAMES/RUS312"
+msgstr "Bely"
+
+msgid "NAMES/RUS313"
+msgstr "Kluev"
+
+msgid "NAMES/RUS314"
+msgstr "Shushkevich"
+
+msgid "NAMES/RUS315"
+msgstr "Sokolov"
+
+msgid "NAMES/RUS316"
+msgstr "Orlov"
+
+msgid "NAMES/RUS317"
+msgstr "Moskovitin"
+
+msgid "NAMES/RUS318"
+msgstr "Chistyakov"
+
+msgid "NAMES/RUS319"
+msgstr "Ryabtsevich"
+
+msgid "NAMES/RUS32"
+msgstr "Krotov"
+
+msgid "NAMES/RUS320"
+msgstr "Shumeyko"
+
+msgid "NAMES/RUS321"
+msgstr "Samokhvalov"
+
+msgid "NAMES/RUS322"
+msgstr "Tyurin"
+
+msgid "NAMES/RUS323"
+msgstr "Klyshko"
+
+msgid "NAMES/RUS324"
+msgstr "Kudrya"
+
+msgid "NAMES/RUS325"
+msgstr "Rymar"
+
+msgid "NAMES/RUS326"
+msgstr "Spivak"
+
+msgid "NAMES/RUS327"
+msgstr "Stelmakh"
+
+msgid "NAMES/RUS328"
+msgstr "Troitskiy"
+
+msgid "NAMES/RUS329"
+msgstr "Tretyak"
+
+msgid "NAMES/RUS33"
+msgstr "Kotov"
+
+msgid "NAMES/RUS330"
+msgstr "Dolin"
+
+msgid "NAMES/RUS331"
+msgstr "Polskikh"
+
+msgid "NAMES/RUS332"
+msgstr "Timoshenko"
+
+msgid "NAMES/RUS333"
+msgstr "Kulik"
+
+msgid "NAMES/RUS334"
+msgstr "Grishchenko"
+
+msgid "NAMES/RUS335"
+msgstr "Mishchenko"
+
+msgid "NAMES/RUS336"
+msgstr "Tishchenko"
+
+msgid "NAMES/RUS337"
+msgstr "Grin"
+
+msgid "NAMES/RUS338"
+msgstr "Mishchuk"
+
+msgid "NAMES/RUS339"
+msgstr "Gorbatov"
+
+msgid "NAMES/RUS34"
+msgstr "Voronov"
+
+msgid "NAMES/RUS340"
+msgstr "Skorobogatov"
+
+msgid "NAMES/RUS341"
+msgstr "Polishchuk"
+
+msgid "NAMES/RUS342"
+msgstr "Okov"
+
+msgid "NAMES/RUS343"
+msgstr "Brozovskiy"
+
+msgid "NAMES/RUS344"
+msgstr "Kibachich"
+
+msgid "NAMES/RUS345"
+msgstr "Kizhevatov"
+
+msgid "NAMES/RUS346"
+msgstr "Kuzmin"
+
+msgid "NAMES/RUS347"
+msgstr "Kuzin"
+
+msgid "NAMES/RUS348"
+msgstr "Ipatyev"
+
+msgid "NAMES/RUS349"
+msgstr "Iyevlev"
+
+msgid "NAMES/RUS35"
+msgstr "Kamenskiy"
+
+msgid "NAMES/RUS350"
+msgstr "Illarionov"
+
+msgid "NAMES/RUS351"
+msgstr "Ignatov"
+
+msgid "NAMES/RUS352"
+msgstr "Ignatenko"
+
+msgid "NAMES/RUS353"
+msgstr "Ilyukhin"
+
+msgid "NAMES/RUS354"
+msgstr "Lipatov"
+
+msgid "NAMES/RUS355"
+msgstr "Lugov"
+
+msgid "NAMES/RUS356"
+msgstr "Lozovskiy"
+
+msgid "NAMES/RUS357"
+msgstr "Ligachyov"
+
+msgid "NAMES/RUS358"
+msgstr "Larin"
+
+msgid "NAMES/RUS359"
+msgstr "Laptev"
+
+msgid "NAMES/RUS36"
+msgstr "Zubov"
+
+msgid "NAMES/RUS360"
+msgstr "Lukin"
+
+msgid "NAMES/RUS361"
+msgstr "Likhachyov"
+
+msgid "NAMES/RUS362"
+msgstr "Zaduyviter"
+
+msgid "NAMES/RUS363"
+msgstr "Muravyov"
+
+msgid "NAMES/RUS364"
+msgstr "Babochkin"
+
+msgid "NAMES/RUS365"
+msgstr "Dolgonosik"
+
+msgid "NAMES/RUS366"
+msgstr "Osin"
+
+msgid "NAMES/RUS367"
+msgstr "Pchyolkin"
+
+msgid "NAMES/RUS368"
+msgstr "Zhukovets"
+
+msgid "NAMES/RUS369"
+msgstr "Chervyakov"
+
+msgid "NAMES/RUS37"
+msgstr "Sakharov"
+
+msgid "NAMES/RUS370"
+msgstr "Ptitsyn"
+
+msgid "NAMES/RUS371"
+msgstr "Sinitsyn"
+
+msgid "NAMES/RUS372"
+msgstr "Kukushkin"
+
+msgid "NAMES/RUS373"
+msgstr "Zazyulya"
+
+msgid "NAMES/RUS374"
+msgstr "Korolkov"
+
+msgid "NAMES/RUS375"
+msgstr "Chibisov"
+
+msgid "NAMES/RUS376"
+msgstr "Ivolgin"
+
+msgid "NAMES/RUS377"
+msgstr "Kurochkin"
+
+msgid "NAMES/RUS378"
+msgstr "Chaykin"
+
+msgid "NAMES/RUS379"
+msgstr "Chayka"
+
+msgid "NAMES/RUS38"
+msgstr "Smirnov"
+
+msgid "NAMES/RUS380"
+msgstr "Perepelitsa"
+
+msgid "NAMES/RUS381"
+msgstr "Sobakin"
+
+msgid "NAMES/RUS382"
+msgstr "Korovyak"
+
+msgid "NAMES/RUS383"
+msgstr "Kabanets"
+
+msgid "NAMES/RUS384"
+msgstr "Seleznyov"
+
+msgid "NAMES/RUS385"
+msgstr "Cherepanov"
+
+msgid "NAMES/RUS386"
+msgstr "Khomyakov"
+
+msgid "NAMES/RUS387"
+msgstr "Radivil"
+
+msgid "NAMES/RUS388"
+msgstr "Stakhevich"
+
+msgid "NAMES/RUS389"
+msgstr "Stasov"
+
+msgid "NAMES/RUS39"
+msgstr "Mironov"
+
+msgid "NAMES/RUS390"
+msgstr "Protasov"
+
+msgid "NAMES/RUS391"
+msgstr "Pervukhin"
+
+msgid "NAMES/RUS392"
+msgstr "Pustomelin"
+
+msgid "NAMES/RUS393"
+msgstr "Merinov"
+
+msgid "NAMES/RUS394"
+msgstr "Lemekhov"
+
+msgid "NAMES/RUS395"
+msgstr "Kobylyako"
+
+msgid "NAMES/RUS396"
+msgstr "Zherebchenko"
+
+msgid "NAMES/RUS397"
+msgstr "Zhigaryov"
+
+msgid "NAMES/RUS398"
+msgstr "Volovich"
+
+msgid "NAMES/RUS399"
+msgstr "Volokhovich"
+
+msgid "NAMES/RUS4"
+msgstr "Antonov"
+
+msgid "NAMES/RUS40"
+msgstr "Klimov"
+
+msgid "NAMES/RUS400"
+msgstr "Roshchin"
+
+msgid "NAMES/RUS401"
+msgstr "Telegin"
+
+msgid "NAMES/RUS402"
+msgstr "Uzhikov"
+
+msgid "NAMES/RUS403"
+msgstr "Yezhov"
+
+msgid "NAMES/RUS404"
+msgstr "Lavrentyev"
+
+msgid "NAMES/RUS405"
+msgstr "Chernenko"
+
+msgid "NAMES/RUS406"
+msgstr "Sosnovskiy"
+
+msgid "NAMES/RUS407"
+msgstr "Dubov"
+
+msgid "NAMES/RUS408"
+msgstr "Romashkin"
+
+msgid "NAMES/RUS409"
+msgstr "Konopelko"
+
+msgid "NAMES/RUS41"
+msgstr "Lapshin"
+
+msgid "NAMES/RUS410"
+msgstr "Makovskiy"
+
+msgid "NAMES/RUS411"
+msgstr "Rozhkov"
+
+msgid "NAMES/RUS412"
+msgstr "Mazyuk"
+
+msgid "NAMES/RUS413"
+msgstr "Dokuchayev"
+
+msgid "NAMES/RUS414"
+msgstr "Piskunov"
+
+msgid "NAMES/RUS415"
+msgstr "Tabakov"
+
+msgid "NAMES/RUS416"
+msgstr "Kruglov"
+
+msgid "NAMES/RUS417"
+msgstr "Tolstikov"
+
+msgid "NAMES/RUS418"
+msgstr "Kholmov"
+
+msgid "NAMES/RUS419"
+msgstr "Perov"
+
+msgid "NAMES/RUS42"
+msgstr "Ilyin"
+
+msgid "NAMES/RUS420"
+msgstr "Shchegol"
+
+msgid "NAMES/RUS421"
+msgstr "Sivy"
+
+msgid "NAMES/RUS422"
+msgstr "Sedov"
+
+msgid "NAMES/RUS423"
+msgstr "Shchukin"
+
+msgid "NAMES/RUS424"
+msgstr "Okunev"
+
+msgid "NAMES/RUS425"
+msgstr "Yershov"
+
+msgid "NAMES/RUS426"
+msgstr "Plotkin"
+
+msgid "NAMES/RUS427"
+msgstr "Pugachyov"
+
+msgid "NAMES/RUS428"
+msgstr "Shtukin"
+
+msgid "NAMES/RUS429"
+msgstr "Surikov"
+
+msgid "NAMES/RUS43"
+msgstr "Reshetov"
+
+msgid "NAMES/RUS430"
+msgstr "Somov"
+
+msgid "NAMES/RUS431"
+msgstr "Karas"
+
+msgid "NAMES/RUS432"
+msgstr "Peskaryov"
+
+msgid "NAMES/RUS433"
+msgstr "Rybakov"
+
+msgid "NAMES/RUS434"
+msgstr "Nalimets"
+
+msgid "NAMES/RUS435"
+msgstr "Taranko"
+
+msgid "NAMES/RUS436"
+msgstr "Babets"
+
+msgid "NAMES/RUS437"
+msgstr "Bobkov"
+
+msgid "NAMES/RUS438"
+msgstr "Kuzovatov"
+
+msgid "NAMES/RUS439"
+msgstr "Syroyezhkin"
+
+msgid "NAMES/RUS44"
+msgstr "Losev"
+
+msgid "NAMES/RUS440"
+msgstr "Lukoshkin"
+
+msgid "NAMES/RUS441"
+msgstr "Ryzhik"
+
+msgid "NAMES/RUS442"
+msgstr "Yolkin"
+
+msgid "NAMES/RUS443"
+msgstr "Ogurtsov"
+
+msgid "NAMES/RUS444"
+msgstr "Pechyonkin"
+
+msgid "NAMES/RUS445"
+msgstr "Lozhkin"
+
+msgid "NAMES/RUS446"
+msgstr "Korzhenevskiy"
+
+msgid "NAMES/RUS447"
+msgstr "Kapitanets"
+
+msgid "NAMES/RUS448"
+msgstr "Rotmistrov"
+
+msgid "NAMES/RUS449"
+msgstr "Katukov"
+
+msgid "NAMES/RUS45"
+msgstr "Medvedev"
+
+msgid "NAMES/RUS450"
+msgstr "Knyazev"
+
+msgid "NAMES/RUS451"
+msgstr "Druzhinin"
+
+msgid "NAMES/RUS452"
+msgstr "Zheleznyak"
+
+msgid "NAMES/RUS453"
+msgstr "Valuyev"
+
+msgid "NAMES/RUS454"
+msgstr "Rozanov"
+
+msgid "NAMES/RUS455"
+msgstr "Baluyev"
+
+msgid "NAMES/RUS456"
+msgstr "Barinov"
+
+msgid "NAMES/RUS457"
+msgstr "Shlyakhtyonok"
+
+msgid "NAMES/RUS458"
+msgstr "Kostin"
+
+msgid "NAMES/RUS459"
+msgstr "Bulygin"
+
+msgid "NAMES/RUS46"
+msgstr "Volkov"
+
+msgid "NAMES/RUS460"
+msgstr "Obraztsov"
+
+msgid "NAMES/RUS461"
+msgstr "Novikov"
+
+msgid "NAMES/RUS462"
+msgstr "Gorin"
+
+msgid "NAMES/RUS463"
+msgstr "Rudnev"
+
+msgid "NAMES/RUS464"
+msgstr "Rudakovskiy"
+
+msgid "NAMES/RUS465"
+msgstr "Rudenko"
+
+msgid "NAMES/RUS466"
+msgstr "Vershkov"
+
+msgid "NAMES/RUS467"
+msgstr "Veshkin"
+
+msgid "NAMES/RUS468"
+msgstr "Cherkasov"
+
+msgid "NAMES/RUS469"
+msgstr "Shcherbakov"
+
+msgid "NAMES/RUS47"
+msgstr "Lisitsyn"
+
+msgid "NAMES/RUS470"
+msgstr "Lyubimov"
+
+msgid "NAMES/RUS471"
+msgstr "Steklov"
+
+msgid "NAMES/RUS472"
+msgstr "Steblov"
+
+msgid "NAMES/RUS473"
+msgstr "Kolesnikov"
+
+msgid "NAMES/RUS474"
+msgstr "Kolosov"
+
+msgid "NAMES/RUS475"
+msgstr "Kolomiyets"
+
+msgid "NAMES/RUS476"
+msgstr "Alyokhin"
+
+msgid "NAMES/RUS477"
+msgstr "Perepelov"
+
+msgid "NAMES/RUS478"
+msgstr "Barabanshchikov"
+
+msgid "NAMES/RUS479"
+msgstr "Trubach"
+
+msgid "NAMES/RUS48"
+msgstr "Zaytsev"
+
+msgid "NAMES/RUS480"
+msgstr "Shtyk"
+
+msgid "NAMES/RUS481"
+msgstr "Shlykov"
+
+msgid "NAMES/RUS482"
+msgstr "Kutasov"
+
+msgid "NAMES/RUS483"
+msgstr "Dragun"
+
+msgid "NAMES/RUS484"
+msgstr "Mayorov"
+
+msgid "NAMES/RUS485"
+msgstr "Streltsov"
+
+msgid "NAMES/RUS486"
+msgstr "Preobrazhenskiy"
+
+msgid "NAMES/RUS487"
+msgstr "Izmaylov"
+
+msgid "NAMES/RUS488"
+msgstr "Sheremet"
+
+msgid "NAMES/RUS489"
+msgstr "Ukhorezov"
+
+msgid "NAMES/RUS49"
+msgstr "Trusov"
+
+msgid "NAMES/RUS490"
+msgstr "Znamenskiy"
+
+msgid "NAMES/RUS491"
+msgstr "Shapkin"
+
+msgid "NAMES/RUS492"
+msgstr "Kaftanov"
+
+msgid "NAMES/RUS493"
+msgstr "Shubin"
+
+msgid "NAMES/RUS494"
+msgstr "Vorotnikov"
+
+msgid "NAMES/RUS495"
+msgstr "Pugovkin"
+
+msgid "NAMES/RUS496"
+msgstr "Blyakhin"
+
+msgid "NAMES/RUS497"
+msgstr "Starshinov"
+
+msgid "NAMES/RUS498"
+msgstr "Lyubomudrov"
+
+msgid "NAMES/RUS499"
+msgstr "Polkovnikov"
+
+msgid "NAMES/RUS5"
+msgstr "Yegorov"
+
+msgid "NAMES/RUS50"
+msgstr "Khlebnikov"
+
+msgid "NAMES/RUS500"
+msgstr "Generalov"
+
+msgid "NAMES/RUS501"
+msgstr "Baystryukov"
+
+msgid "NAMES/RUS502"
+msgstr "Biryukov"
+
+msgid "NAMES/RUS503"
+msgstr "Kavalerov"
+
+msgid "NAMES/RUS504"
+msgstr "Gubonin"
+
+msgid "NAMES/RUS505"
+msgstr "Markov"
+
+msgid "NAMES/RUS506"
+msgstr "Karaulov"
+
+msgid "NAMES/RUS507"
+msgstr "Nevzorov"
+
+msgid "NAMES/RUS508"
+msgstr "Malyshev"
+
+msgid "NAMES/RUS509"
+msgstr "Chesnokov"
+
+msgid "NAMES/RUS51"
+msgstr "Kononov"
+
+msgid "NAMES/RUS510"
+msgstr "Stremennikov"
+
+msgid "NAMES/RUS511"
+msgstr "Mazurov"
+
+msgid "NAMES/RUS512"
+msgstr "Grishin"
+
+msgid "NAMES/RUS513"
+msgstr "Podgorny"
+
+msgid "NAMES/RUS514"
+msgstr "Antropov"
+
+msgid "NAMES/RUS515"
+msgstr "Frolov"
+
+msgid "NAMES/RUS516"
+msgstr "Malofeyev"
+
+msgid "NAMES/RUS517"
+msgstr "Kravchuk"
+
+msgid "NAMES/RUS518"
+msgstr "Avchuk"
+
+msgid "NAMES/RUS519"
+msgstr "Polyanskiy"
+
+msgid "NAMES/RUS52"
+msgstr "Sablin"
+
+msgid "NAMES/RUS520"
+msgstr "Kapitonov"
+
+msgid "NAMES/RUS521"
+msgstr "Nagibin"
+
+msgid "NAMES/RUS522"
+msgstr "Shmatko"
+
+msgid "NAMES/RUS523"
+msgstr "Zhdanov"
+
+msgid "NAMES/RUS524"
+msgstr "Gorbach"
+
+msgid "NAMES/RUS525"
+msgstr "Grobovskiy"
+
+msgid "NAMES/RUS526"
+msgstr "Talyzin"
+
+msgid "NAMES/RUS527"
+msgstr "Primakov"
+
+msgid "NAMES/RUS528"
+msgstr "Kostrikov"
+
+msgid "NAMES/RUS529"
+msgstr "Krymov"
+
+msgid "NAMES/RUS53"
+msgstr "Kazakov"
+
+msgid "NAMES/RUS530"
+msgstr "Moskalenko"
+
+msgid "NAMES/RUS531"
+msgstr "Rostovtsev"
+
+msgid "NAMES/RUS532"
+msgstr "Suzdalskiy"
+
+msgid "NAMES/RUS533"
+msgstr "Novgorodtsev"
+
+msgid "NAMES/RUS534"
+msgstr "Novodvorskiy"
+
+msgid "NAMES/RUS535"
+msgstr "Staroselskiy"
+
+msgid "NAMES/RUS536"
+msgstr "Yushenkov"
+
+msgid "NAMES/RUS537"
+msgstr "Blinov"
+
+msgid "NAMES/RUS538"
+msgstr "Dostigayev"
+
+msgid "NAMES/RUS539"
+msgstr "Permyak"
+
+msgid "NAMES/RUS54"
+msgstr "Gromov"
+
+msgid "NAMES/RUS540"
+msgstr "Kazantsev"
+
+msgid "NAMES/RUS541"
+msgstr "Rzhevskiy"
+
+msgid "NAMES/RUS542"
+msgstr "Suzdaltsev"
+
+msgid "NAMES/RUS543"
+msgstr "Kostromin"
+
+msgid "NAMES/RUS544"
+msgstr "Kositsyn"
+
+msgid "NAMES/RUS545"
+msgstr "Varshavskiy"
+
+msgid "NAMES/RUS546"
+msgstr "Krivoglazov"
+
+msgid "NAMES/RUS547"
+msgstr "Ordyntsev"
+
+msgid "NAMES/RUS548"
+msgstr "Baskakov"
+
+msgid "NAMES/RUS549"
+msgstr "Murzin"
+
+msgid "NAMES/RUS55"
+msgstr "Vetrov"
+
+msgid "NAMES/RUS550"
+msgstr "Korsakov"
+
+msgid "NAMES/RUS551"
+msgstr "Korablyov"
+
+msgid "NAMES/RUS552"
+msgstr "Kobyets"
+
+msgid "NAMES/RUS553"
+msgstr "Kirsanov"
+
+msgid "NAMES/RUS554"
+msgstr "Kondratyev"
+
+msgid "NAMES/RUS555"
+msgstr "Garkavy"
+
+msgid "NAMES/RUS556"
+msgstr "Laskavy"
+
+msgid "NAMES/RUS557"
+msgstr "Vinokur"
+
+msgid "NAMES/RUS558"
+msgstr "Bragin"
+
+msgid "NAMES/RUS559"
+msgstr "Vinnichenko"
+
+msgid "NAMES/RUS56"
+msgstr "Polozov"
+
+msgid "NAMES/RUS560"
+msgstr "Shinkaryov"
+
+msgid "NAMES/RUS561"
+msgstr "Bukhalo"
+
+msgid "NAMES/RUS562"
+msgstr "Shibanov"
+
+msgid "NAMES/RUS563"
+msgstr "Klebanov"
+
+msgid "NAMES/RUS564"
+msgstr "Chumakov"
+
+msgid "NAMES/RUS565"
+msgstr "Bladyko"
+
+msgid "NAMES/RUS566"
+msgstr "Kukhta"
+
+msgid "NAMES/RUS567"
+msgstr "Kisly"
+
+msgid "NAMES/RUS568"
+msgstr "Lykov"
+
+msgid "NAMES/RUS569"
+msgstr "Lysenko"
+
+msgid "NAMES/RUS57"
+msgstr "Kalugin"
+
+msgid "NAMES/RUS570"
+msgstr "Nepluyev"
+
+msgid "NAMES/RUS571"
+msgstr "Titov"
+
+msgid "NAMES/RUS572"
+msgstr "Leonov"
+
+msgid "NAMES/RUS573"
+msgstr "Komarov"
+
+msgid "NAMES/RUS574"
+msgstr "Brilyov"
+
+msgid "NAMES/RUS575"
+msgstr "Yurasov"
+
+msgid "NAMES/RUS576"
+msgstr "Dubasov"
+
+msgid "NAMES/RUS577"
+msgstr "Shlyapnikov"
+
+msgid "NAMES/RUS578"
+msgstr "Shelepin"
+
+msgid "NAMES/RUS579"
+msgstr "Ostrovskiy"
+
+msgid "NAMES/RUS58"
+msgstr "Stogov"
+
+msgid "NAMES/RUS580"
+msgstr "Kholmogorov"
+
+msgid "NAMES/RUS581"
+msgstr "Krylov"
+
+msgid "NAMES/RUS582"
+msgstr "Khvostov"
+
+msgid "NAMES/RUS583"
+msgstr "Nosov"
+
+msgid "NAMES/RUS584"
+msgstr "Yazykov"
+
+msgid "NAMES/RUS585"
+msgstr "Chub"
+
+msgid "NAMES/RUS586"
+msgstr "Paltsev"
+
+msgid "NAMES/RUS587"
+msgstr "Brovkin"
+
+msgid "NAMES/RUS588"
+msgstr "Dolgopalets"
+
+msgid "NAMES/RUS589"
+msgstr "Khrunov"
+
+msgid "NAMES/RUS59"
+msgstr "Melnikov"
+
+msgid "NAMES/RUS590"
+msgstr "Yeliseyev"
+
+msgid "NAMES/RUS591"
+msgstr "Spiridonov"
+
+msgid "NAMES/RUS592"
+msgstr "Pankratov"
+
+msgid "NAMES/RUS593"
+msgstr "Sysoyev"
+
+msgid "NAMES/RUS594"
+msgstr "Panteleymonov"
+
+msgid "NAMES/RUS595"
+msgstr "Dukhov"
+
+msgid "NAMES/RUS596"
+msgstr "Chernoivanenko"
+
+msgid "NAMES/RUS597"
+msgstr "Stanukovich"
+
+msgid "NAMES/RUS598"
+msgstr "Lyakhov"
+
+msgid "NAMES/RUS599"
+msgstr "Glushko"
+
+msgid "NAMES/RUS6"
+msgstr "Prokhorov"
+
+msgid "NAMES/RUS60"
+msgstr "Kuznetsov"
+
+msgid "NAMES/RUS600"
+msgstr "Barmin"
+
+msgid "NAMES/RUS601"
+msgstr "Krapivin"
+
+msgid "NAMES/RUS602"
+msgstr "Serebrov"
+
+msgid "NAMES/RUS603"
+msgstr "Zolotaryov"
+
+msgid "NAMES/RUS604"
+msgstr "Tereshchenko"
+
+msgid "NAMES/RUS605"
+msgstr "Mikhnevich"
+
+msgid "NAMES/RUS606"
+msgstr "Belevich"
+
+msgid "NAMES/RUS607"
+msgstr "Yukhnevich"
+
+msgid "NAMES/RUS608"
+msgstr "Belyashov"
+
+msgid "NAMES/RUS609"
+msgstr "Kolbasyev"
+
+msgid "NAMES/RUS61"
+msgstr "Bortnikov"
+
+msgid "NAMES/RUS610"
+msgstr "Travkin"
+
+msgid "NAMES/RUS611"
+msgstr "Vasilkov"
+
+msgid "NAMES/RUS612"
+msgstr "Karetnikov"
+
+msgid "NAMES/RUS613"
+msgstr "Kalitnikov"
+
+msgid "NAMES/RUS614"
+msgstr "Gorshkov"
+
+msgid "NAMES/RUS615"
+msgstr "Ozhegov"
+
+msgid "NAMES/RUS616"
+msgstr "Portnov"
+
+msgid "NAMES/RUS617"
+msgstr "Zhgun"
+
+msgid "NAMES/RUS618"
+msgstr "Tsyganok"
+
+msgid "NAMES/RUS619"
+msgstr "Pechorin"
+
+msgid "NAMES/RUS62"
+msgstr "Durov"
+
+msgid "NAMES/RUS620"
+msgstr "Lenskiy"
+
+msgid "NAMES/RUS621"
+msgstr "Sobolev"
+
+msgid "NAMES/RUS622"
+msgstr "Gaydukevich"
+
+msgid "NAMES/RUS623"
+msgstr "Dymov"
+
+msgid "NAMES/RUS624"
+msgstr "Vodorezov"
+
+msgid "NAMES/RUS625"
+msgstr "Svetlov"
+
+msgid "NAMES/RUS626"
+msgstr "Sotnikov"
+
+msgid "NAMES/RUS627"
+msgstr "Khoruzhiy"
+
+msgid "NAMES/RUS628"
+msgstr "Yesaulov"
+
+msgid "NAMES/RUS629"
+msgstr "Pushkaryov"
+
+msgid "NAMES/RUS63"
+msgstr "Vereshchagin"
+
+msgid "NAMES/RUS630"
+msgstr "Chabanenko"
+
+msgid "NAMES/RUS631"
+msgstr "Annenskiy"
+
+msgid "NAMES/RUS632"
+msgstr "Yeletskiy"
+
+msgid "NAMES/RUS633"
+msgstr "Anechkin"
+
+msgid "NAMES/RUS634"
+msgstr "Aleksin"
+
+msgid "NAMES/RUS635"
+msgstr "Protopopov"
+
+msgid "NAMES/RUS636"
+msgstr "Chernetsov"
+
+msgid "NAMES/RUS637"
+msgstr "Pinchuk"
+
+msgid "NAMES/RUS638"
+msgstr "Yanchuk"
+
+msgid "NAMES/RUS639"
+msgstr "Pribylov"
+
+msgid "NAMES/RUS64"
+msgstr "Plotnikov"
+
+msgid "NAMES/RUS640"
+msgstr "Afanasyev"
+
+msgid "NAMES/RUS641"
+msgstr "Afonin"
+
+msgid "NAMES/RUS642"
+msgstr "Tverikin"
+
+msgid "NAMES/RUS643"
+msgstr "Bezrukov"
+
+msgid "NAMES/RUS644"
+msgstr "Gubanov"
+
+msgid "NAMES/RUS645"
+msgstr "Mogin"
+
+msgid "NAMES/RUS646"
+msgstr "Smozhevskiy"
+
+msgid "NAMES/RUS647"
+msgstr "Smolskiy"
+
+msgid "NAMES/RUS648"
+msgstr "Tyulenev"
+
+msgid "NAMES/RUS649"
+msgstr "Slashchyov"
+
+msgid "NAMES/RUS65"
+msgstr "Bondarev"
+
+msgid "NAMES/RUS650"
+msgstr "Kondrashyov"
+
+msgid "NAMES/RUS651"
+msgstr "Sobakevich"
+
+msgid "NAMES/RUS652"
+msgstr "Nozdryov"
+
+msgid "NAMES/RUS653"
+msgstr "Ruslanov"
+
+msgid "NAMES/RUS654"
+msgstr "Bezukhov"
+
+msgid "NAMES/RUS655"
+msgstr "Khrennikov"
+
+msgid "NAMES/RUS656"
+msgstr "Timokhin"
+
+msgid "NAMES/RUS657"
+msgstr "Karatayev"
+
+msgid "NAMES/RUS658"
+msgstr "Tamantsev"
+
+msgid "NAMES/RUS659"
+msgstr "Trutchenko"
+
+msgid "NAMES/RUS66"
+msgstr "Pirogov"
+
+msgid "NAMES/RUS660"
+msgstr "Dolokhov"
+
+msgid "NAMES/RUS661"
+msgstr "Chernous"
+
+msgid "NAMES/RUS662"
+msgstr "Tolkunov"
+
+msgid "NAMES/RUS663"
+msgstr "Khlestakov"
+
+msgid "NAMES/RUS664"
+msgstr "Manilov"
+
+msgid "NAMES/RUS665"
+msgstr "Skovoroda"
+
+msgid "NAMES/RUS666"
+msgstr "Solokhin"
+
+msgid "NAMES/RUS667"
+msgstr "Gannushkin"
+
+msgid "NAMES/RUS668"
+msgstr "Galushko"
+
+msgid "NAMES/RUS669"
+msgstr "Verkhaturov"
+
+msgid "NAMES/RUS67"
+msgstr "Ponomaryov"
+
+msgid "NAMES/RUS670"
+msgstr "Zoshchenko"
+
+msgid "NAMES/RUS671"
+msgstr "Kirpichnikov"
+
+msgid "NAMES/RUS672"
+msgstr "Gorelik"
+
+msgid "NAMES/RUS673"
+msgstr "Dzys"
+
+msgid "NAMES/RUS674"
+msgstr "Gryzlov"
+
+msgid "NAMES/RUS675"
+msgstr "Svidrigaylo"
+
+msgid "NAMES/RUS676"
+msgstr "Tikhomirov"
+
+msgid "NAMES/RUS677"
+msgstr "Nebyshinets"
+
+msgid "NAMES/RUS678"
+msgstr "Skirmunt"
+
+msgid "NAMES/RUS679"
+msgstr "Lepekha"
+
+msgid "NAMES/RUS68"
+msgstr "Popov"
+
+msgid "NAMES/RUS680"
+msgstr "Grubin"
+
+msgid "NAMES/RUS681"
+msgstr "Ovsyannikov"
+
+msgid "NAMES/RUS682"
+msgstr "Toloknitsin"
+
+msgid "NAMES/RUS683"
+msgstr "Brichkin"
+
+msgid "NAMES/RUS684"
+msgstr "Spitsyn"
+
+msgid "NAMES/RUS685"
+msgstr "Ogloblya"
+
+msgid "NAMES/RUS686"
+msgstr "Lazhechnikov"
+
+msgid "NAMES/RUS687"
+msgstr "Skazkin"
+
+msgid "NAMES/RUS688"
+msgstr "Kadkin"
+
+msgid "NAMES/RUS689"
+msgstr "Podushkin"
+
+msgid "NAMES/RUS69"
+msgstr "Tsarkov"
+
+msgid "NAMES/RUS690"
+msgstr "Kabushkin"
+
+msgid "NAMES/RUS691"
+msgstr "Stukov"
+
+msgid "NAMES/RUS692"
+msgstr "Kuskov"
+
+msgid "NAMES/RUS693"
+msgstr "Gramoteyev"
+
+msgid "NAMES/RUS694"
+msgstr "Pisarev"
+
+msgid "NAMES/RUS695"
+msgstr "Garmata"
+
+msgid "NAMES/RUS696"
+msgstr "Bugay"
+
+msgid "NAMES/RUS697"
+msgstr "Pomortsev"
+
+msgid "NAMES/RUS698"
+msgstr "Samus"
+
+msgid "NAMES/RUS699"
+msgstr "Buyak"
+
+msgid "NAMES/RUS7"
+msgstr "Osipov"
+
+msgid "NAMES/RUS70"
+msgstr "Dubinin"
+
+msgid "NAMES/RUS700"
+msgstr "Zadov"
+
+msgid "NAMES/RUS701"
+msgstr "Sinyagin"
+
+msgid "NAMES/RUS702"
+msgstr "Belousov"
+
+msgid "NAMES/RUS703"
+msgstr "Revinskiy"
+
+msgid "NAMES/RUS704"
+msgstr "Kopat"
+
+msgid "NAMES/RUS705"
+msgstr "Potylitsin"
+
+msgid "NAMES/RUS706"
+msgstr "Vylegzhanin"
+
+msgid "NAMES/RUS707"
+msgstr "Voytko"
+
+msgid "NAMES/RUS708"
+msgstr "Tynov"
+
+msgid "NAMES/RUS709"
+msgstr "Abramov"
+
+msgid "NAMES/RUS71"
+msgstr "Pastukhov"
+
+msgid "NAMES/RUS710"
+msgstr "Bryagin"
+
+msgid "NAMES/RUS711"
+msgstr "Prokofyev"
+
+msgid "NAMES/RUS712"
+msgstr "Dudakov"
+
+msgid "NAMES/RUS713"
+msgstr "Koronets"
+
+msgid "NAMES/RUS714"
+msgstr "Brovchenko"
+
+msgid "NAMES/RUS715"
+msgstr "Mendelev"
+
+msgid "NAMES/RUS716"
+msgstr "Zyulin"
+
+msgid "NAMES/RUS717"
+msgstr "Zelyukov"
+
+msgid "NAMES/RUS718"
+msgstr "Zaikin"
+
+msgid "NAMES/RUS719"
+msgstr "Zalutskiy"
+
+msgid "NAMES/RUS72"
+msgstr "Rogov"
+
+msgid "NAMES/RUS720"
+msgstr "Rozhnov"
+
+msgid "NAMES/RUS721"
+msgstr "Zakrevskiy"
+
+msgid "NAMES/RUS722"
+msgstr "Pavlyuchenko"
+
+msgid "NAMES/RUS723"
+msgstr "Frantsuzov"
+
+msgid "NAMES/RUS724"
+msgstr "Nemtsov"
+
+msgid "NAMES/RUS725"
+msgstr "Shvedov"
+
+msgid "NAMES/RUS726"
+msgstr "Khokhlov"
+
+msgid "NAMES/RUS727"
+msgstr "Bulbash"
+
+msgid "NAMES/RUS728"
+msgstr "Statsevich"
+
+msgid "NAMES/RUS729"
+msgstr "Shilyaev"
+
+msgid "NAMES/RUS73"
+msgstr "Rantsev"
+
+msgid "NAMES/RUS730"
+msgstr "Abdulov"
+
+msgid "NAMES/RUS731"
+msgstr "Razin"
+
+msgid "NAMES/RUS732"
+msgstr "Mazin"
+
+msgid "NAMES/RUS733"
+msgstr "Nepyanykh"
+
+msgid "NAMES/RUS734"
+msgstr "Bogomaz"
+
+msgid "NAMES/RUS735"
+msgstr "Golodnykh"
+
+msgid "NAMES/RUS736"
+msgstr "Bachilo"
+
+msgid "NAMES/RUS737"
+msgstr "Goloded"
+
+msgid "NAMES/RUS738"
+msgstr "Cherginets"
+
+msgid "NAMES/RUS739"
+msgstr "Semashko"
+
+msgid "NAMES/RUS74"
+msgstr "Gusarov"
+
+msgid "NAMES/RUS740"
+msgstr "Kozhemyaka"
+
+msgid "NAMES/RUS741"
+msgstr "Metyolkin"
+
+msgid "NAMES/RUS742"
+msgstr "Vetkin"
+
+msgid "NAMES/RUS743"
+msgstr "Vekshin"
+
+msgid "NAMES/RUS744"
+msgstr "Shishkin"
+
+msgid "NAMES/RUS745"
+msgstr "Bobrov"
+
+msgid "NAMES/RUS746"
+msgstr "Latypov"
+
+msgid "NAMES/RUS747"
+msgstr "Chugunkin"
+
+msgid "NAMES/RUS748"
+msgstr "Kolosnikov"
+
+msgid "NAMES/RUS749"
+msgstr "Pestrukhin"
+
+msgid "NAMES/RUS75"
+msgstr "Lanskoy"
+
+msgid "NAMES/RUS750"
+msgstr "Shatunov"
+
+msgid "NAMES/RUS751"
+msgstr "Koval"
+
+msgid "NAMES/RUS752"
+msgstr "Valkovich"
+
+msgid "NAMES/RUS753"
+msgstr "Korzun"
+
+msgid "NAMES/RUS754"
+msgstr "Ruzov"
+
+msgid "NAMES/RUS755"
+msgstr "Ryabuzov"
+
+msgid "NAMES/RUS756"
+msgstr "Buritskiy"
+
+msgid "NAMES/RUS757"
+msgstr "Tynevitskiy"
+
+msgid "NAMES/RUS758"
+msgstr "Krachkin"
+
+msgid "NAMES/RUS759"
+msgstr "Chaldon"
+
+msgid "NAMES/RUS76"
+msgstr "Ulanov"
+
+msgid "NAMES/RUS760"
+msgstr "Skokov"
+
+msgid "NAMES/RUS761"
+msgstr "Glazyev"
+
+msgid "NAMES/RUS762"
+msgstr "Kolobkov"
+
+msgid "NAMES/RUS763"
+msgstr "Zalesskiy"
+
+msgid "NAMES/RUS764"
+msgstr "Smetanin"
+
+msgid "NAMES/RUS765"
+msgstr "Doynikov"
+
+msgid "NAMES/RUS766"
+msgstr "Dodonov"
+
+msgid "NAMES/RUS767"
+msgstr "Kolodin"
+
+msgid "NAMES/RUS768"
+msgstr "Asetskiy"
+
+msgid "NAMES/RUS769"
+msgstr "Nekrasov"
+
+msgid "NAMES/RUS77"
+msgstr "Lebedev"
+
+msgid "NAMES/RUS770"
+msgstr "Savraskin"
+
+msgid "NAMES/RUS771"
+msgstr "Savostyanov"
+
+msgid "NAMES/RUS772"
+msgstr "Popovich"
+
+msgid "NAMES/RUS773"
+msgstr "Boreyko"
+
+msgid "NAMES/RUS774"
+msgstr "Koreyko"
+
+msgid "NAMES/RUS775"
+msgstr "Baturin"
+
+msgid "NAMES/RUS776"
+msgstr "Belotserkovets"
+
+msgid "NAMES/RUS777"
+msgstr "Borzov"
+
+msgid "NAMES/RUS778"
+msgstr "Buryskiy"
+
+msgid "NAMES/RUS779"
+msgstr "Raspopov"
+
+msgid "NAMES/RUS78"
+msgstr "Utkin"
+
+msgid "NAMES/RUS780"
+msgstr "Aleynichev"
+
+msgid "NAMES/RUS781"
+msgstr "Volobuyev"
+
+msgid "NAMES/RUS782"
+msgstr "Vyskokov"
+
+msgid "NAMES/RUS783"
+msgstr "Garkusha"
+
+msgid "NAMES/RUS784"
+msgstr "Glazunov"
+
+msgid "NAMES/RUS785"
+msgstr "Gordeyev"
+
+msgid "NAMES/RUS786"
+msgstr "Gudz"
+
+msgid "NAMES/RUS787"
+msgstr "Gudima"
+
+msgid "NAMES/RUS788"
+msgstr "Metelitsa"
+
+msgid "NAMES/RUS789"
+msgstr "Plakhov"
+
+msgid "NAMES/RUS79"
+msgstr "Gusakov"
+
+msgid "NAMES/RUS790"
+msgstr "Domyshev"
+
+msgid "NAMES/RUS791"
+msgstr "Drykin"
+
+msgid "NAMES/RUS792"
+msgstr "Dobroskokov"
+
+msgid "NAMES/RUS793"
+msgstr "Zavadskiy"
+
+msgid "NAMES/RUS794"
+msgstr "Zhelezkin"
+
+msgid "NAMES/RUS795"
+msgstr "Nogovitsyn"
+
+msgid "NAMES/RUS796"
+msgstr "Rukavishnikov"
+
+msgid "NAMES/RUS797"
+msgstr "Kireyev"
+
+msgid "NAMES/RUS798"
+msgstr "Kleymyonov"
+
+msgid "NAMES/RUS799"
+msgstr "Kobzar"
+
+msgid "NAMES/RUS8"
+msgstr "Mikhaylov"
+
+msgid "NAMES/RUS80"
+msgstr "Beryozkin"
+
+msgid "NAMES/RUS800"
+msgstr "Kostyuk"
+
+msgid "NAMES/RUS801"
+msgstr "Stashkevich"
+
+msgid "NAMES/RUS802"
+msgstr "Kuklachyov"
+
+msgid "NAMES/RUS803"
+msgstr "Levchenko"
+
+msgid "NAMES/RUS804"
+msgstr "Lesovets"
+
+msgid "NAMES/RUS805"
+msgstr "Loban"
+
+msgid "NAMES/RUS806"
+msgstr "Pankov"
+
+msgid "NAMES/RUS807"
+msgstr "Zasyadko"
+
+msgid "NAMES/RUS808"
+msgstr "Ognyov"
+
+msgid "NAMES/RUS809"
+msgstr "Milovanov"
+
+msgid "NAMES/RUS81"
+msgstr "Molotov"
+
+msgid "NAMES/RUS810"
+msgstr "Lyubushkin"
+
+msgid "NAMES/RUS811"
+msgstr "Mikhalchuk"
+
+msgid "NAMES/RUS812"
+msgstr "Mamontov"
+
+msgid "NAMES/RUS813"
+msgstr "Nezhivoy"
+
+msgid "NAMES/RUS814"
+msgstr "Novosadov"
+
+msgid "NAMES/RUS815"
+msgstr "Oshchepkov"
+
+msgid "NAMES/RUS816"
+msgstr "Palyanitsa"
+
+msgid "NAMES/RUS817"
+msgstr "Gostev"
+
+msgid "NAMES/RUS818"
+msgstr "Petrushkin"
+
+msgid "NAMES/RUS819"
+msgstr "Plushchev"
+
+msgid "NAMES/RUS82"
+msgstr "Mordvinov"
+
+msgid "NAMES/RUS820"
+msgstr "Redchenko"
+
+msgid "NAMES/RUS821"
+msgstr "Fedchenko"
+
+msgid "NAMES/RUS822"
+msgstr "Ryashin"
+
+msgid "NAMES/RUS823"
+msgstr "Sverchkov"
+
+msgid "NAMES/RUS824"
+msgstr "Kasimov"
+
+msgid "NAMES/RUS825"
+msgstr "Studyony"
+
+msgid "NAMES/RUS826"
+msgstr "Pleshcheyev"
+
+msgid "NAMES/RUS827"
+msgstr "Kleshch"
+
+msgid "NAMES/RUS828"
+msgstr "Tulnov"
+
+msgid "NAMES/RUS829"
+msgstr "Ulyanov"
+
+msgid "NAMES/RUS83"
+msgstr "Litvinov"
+
+msgid "NAMES/RUS830"
+msgstr "Tsibulya"
+
+msgid "NAMES/RUS831"
+msgstr "Shkapenko"
+
+msgid "NAMES/RUS832"
+msgstr "Fryazin"
+
+msgid "NAMES/RUS833"
+msgstr "Yendovin"
+
+msgid "NAMES/RUS834"
+msgstr "Masterkov"
+
+msgid "NAMES/RUS835"
+msgstr "Bulyga"
+
+msgid "NAMES/RUS836"
+msgstr "Semago"
+
+msgid "NAMES/RUS837"
+msgstr "Syomushkin"
+
+msgid "NAMES/RUS838"
+msgstr "Bosyakov"
+
+msgid "NAMES/RUS839"
+msgstr "Bespamyatnykh"
+
+msgid "NAMES/RUS84"
+msgstr "Ryazanov"
+
+msgid "NAMES/RUS840"
+msgstr "Baryatinskiy"
+
+msgid "NAMES/RUS841"
+msgstr "Gritsenko"
+
+msgid "NAMES/RUS842"
+msgstr "Razumnyak"
+
+msgid "NAMES/RUS843"
+msgstr "Mogilny"
+
+msgid "NAMES/RUS844"
+msgstr "Taranov"
+
+msgid "NAMES/RUS845"
+msgstr "Krestovskiy"
+
+msgid "NAMES/RUS846"
+msgstr "Kozyulin"
+
+msgid "NAMES/RUS847"
+msgstr "Plastunov"
+
+msgid "NAMES/RUS848"
+msgstr "Makeyev"
+
+msgid "NAMES/RUS849"
+msgstr "Svirin"
+
+msgid "NAMES/RUS85"
+msgstr "Nevelskoy"
+
+msgid "NAMES/RUS850"
+msgstr "Gorokh"
+
+msgid "NAMES/RUS851"
+msgstr "Monakhov"
+
+msgid "NAMES/RUS852"
+msgstr "Pogorelov"
+
+msgid "NAMES/RUS853"
+msgstr "Karpenko"
+
+msgid "NAMES/RUS854"
+msgstr "Prokopenko"
+
+msgid "NAMES/RUS855"
+msgstr "Veryovkin"
+
+msgid "NAMES/RUS856"
+msgstr "Petlyakov"
+
+msgid "NAMES/RUS857"
+msgstr "Salamatin"
+
+msgid "NAMES/RUS858"
+msgstr "Soloukhin"
+
+msgid "NAMES/RUS859"
+msgstr "Kuzmichyov"
+
+msgid "NAMES/RUS86"
+msgstr "Romanov"
+
+msgid "NAMES/RUS860"
+msgstr "Shagoyko"
+
+msgid "NAMES/RUS861"
+msgstr "Chertogon"
+
+msgid "NAMES/RUS862"
+msgstr "Babich"
+
+msgid "NAMES/RUS863"
+msgstr "Balabanov"
+
+msgid "NAMES/RUS864"
+msgstr "Malikov"
+
+msgid "NAMES/RUS865"
+msgstr "Dolgolyubov"
+
+msgid "NAMES/RUS866"
+msgstr "Maryakhin"
+
+msgid "NAMES/RUS867"
+msgstr "Koryagin"
+
+msgid "NAMES/RUS868"
+msgstr "Polezhayev"
+
+msgid "NAMES/RUS869"
+msgstr "Pustovoyt"
+
+msgid "NAMES/RUS87"
+msgstr "Lopatin"
+
+msgid "NAMES/RUS870"
+msgstr "Stradaltsev"
+
+msgid "NAMES/RUS871"
+msgstr "Krutov"
+
+msgid "NAMES/RUS872"
+msgstr "Pyzhikov"
+
+msgid "NAMES/RUS873"
+msgstr "Gaykin"
+
+msgid "NAMES/RUS874"
+msgstr "Bazhenov"
+
+msgid "NAMES/RUS875"
+msgstr "Bessonov"
+
+msgid "NAMES/RUS876"
+msgstr "Shirokov"
+
+msgid "NAMES/RUS877"
+msgstr "Blaginykh"
+
+msgid "NAMES/RUS878"
+msgstr "Vdovichenko"
+
+msgid "NAMES/RUS879"
+msgstr "Gololobov"
+
+msgid "NAMES/RUS88"
+msgstr "Zheglov"
+
+msgid "NAMES/RUS880"
+msgstr "Golod"
+
+msgid "NAMES/RUS881"
+msgstr "Gurtyak"
+
+msgid "NAMES/RUS882"
+msgstr "Loginov"
+
+msgid "NAMES/RUS883"
+msgstr "Kolodyazhny"
+
+msgid "NAMES/RUS884"
+msgstr "Korabelshchikov"
+
+msgid "NAMES/RUS885"
+msgstr "Korobeynikov"
+
+msgid "NAMES/RUS886"
+msgstr "Krivoshlykov"
+
+msgid "NAMES/RUS887"
+msgstr "Sudeykin"
+
+msgid "NAMES/RUS888"
+msgstr "Tyolkin"
+
+msgid "NAMES/RUS889"
+msgstr "Nikulin"
+
+msgid "NAMES/RUS89"
+msgstr "Kopytin"
+
+msgid "NAMES/RUS890"
+msgstr "Morgunov"
+
+msgid "NAMES/RUS891"
+msgstr "Zadnepryanskiy"
+
+msgid "NAMES/RUS892"
+msgstr "Nelyubin"
+
+msgid "NAMES/RUS893"
+msgstr "Osadchiy"
+
+msgid "NAMES/RUS894"
+msgstr "Kobelev"
+
+msgid "NAMES/RUS895"
+msgstr "Pokhlebayev"
+
+msgid "NAMES/RUS896"
+msgstr "Rastorguyev"
+
+msgid "NAMES/RUS897"
+msgstr "Bazarov"
+
+msgid "NAMES/RUS898"
+msgstr "Slesarchuk"
+
+msgid "NAMES/RUS899"
+msgstr "Tregubov"
+
+msgid "NAMES/RUS9"
+msgstr "Andreyev"
+
+msgid "NAMES/RUS90"
+msgstr "Tarasov"
+
+msgid "NAMES/RUS900"
+msgstr "Chashkin"
+
+msgid "NAMES/RUS901"
+msgstr "Fedorin"
+
+msgid "NAMES/RUS902"
+msgstr "Khromchenko"
+
+msgid "NAMES/RUS903"
+msgstr "Nelogichny"
+
+msgid "NAMES/RUS904"
+msgstr "Chernysh"
+
+msgid "NAMES/RUS905"
+msgstr "Sapozhnikov"
+
+msgid "NAMES/RUS906"
+msgstr "Yalovichny"
+
+msgid "NAMES/RUS907"
+msgstr "Tyndryakov"
+
+msgid "NAMES/RUS908"
+msgstr "Parkhayev"
+
+msgid "NAMES/RUS909"
+msgstr "Barsukov"
+
+msgid "NAMES/RUS91"
+msgstr "Sharapov"
+
+msgid "NAMES/RUS910"
+msgstr "Khryakov"
+
+msgid "NAMES/RUS911"
+msgstr "Gruzinov"
+
+msgid "NAMES/RUS912"
+msgstr "Sibiryakov"
+
+msgid "NAMES/RUS913"
+msgstr "Zhuravlyov"
+
+msgid "NAMES/RUS914"
+msgstr "Vysotskiy"
+
+msgid "NAMES/RUS915"
+msgstr "Busel"
+
+msgid "NAMES/RUS916"
+msgstr "Ishutin"
+
+msgid "NAMES/RUS917"
+msgstr "Shilov"
+
+msgid "NAMES/RUS918"
+msgstr "Kvasnikov"
+
+msgid "NAMES/RUS919"
+msgstr "Cheshebok"
+
+msgid "NAMES/RUS92"
+msgstr "Sukharev"
+
+msgid "NAMES/RUS920"
+msgstr "Saloyedov"
+
+msgid "NAMES/RUS921"
+msgstr "Pokotilo"
+
+msgid "NAMES/RUS922"
+msgstr "Rubtsov"
+
+msgid "NAMES/RUS923"
+msgstr "Skvortsov"
+
+msgid "NAMES/RUS924"
+msgstr "Gritsevets"
+
+msgid "NAMES/RUS925"
+msgstr "Balyakin"
+
+msgid "NAMES/RUS926"
+msgstr "Rogachyov"
+
+msgid "NAMES/RUS927"
+msgstr "Bozhko"
+
+msgid "NAMES/RUS928"
+msgstr "Galanin"
+
+msgid "NAMES/RUS929"
+msgstr "Gnilitskiy"
+
+msgid "NAMES/RUS93"
+msgstr "Savelyev"
+
+msgid "NAMES/RUS930"
+msgstr "Glotov"
+
+msgid "NAMES/RUS931"
+msgstr "Dolgopolov"
+
+msgid "NAMES/RUS932"
+msgstr "Sasanyuk"
+
+msgid "NAMES/RUS933"
+msgstr "Uvarov"
+
+msgid "NAMES/RUS934"
+msgstr "Platov"
+
+msgid "NAMES/RUS935"
+msgstr "Urusov"
+
+msgid "NAMES/RUS936"
+msgstr "Khrenov"
+
+msgid "NAMES/RUS937"
+msgstr "Krupnov"
+
+msgid "NAMES/RUS938"
+msgstr "Kurlovich"
+
+msgid "NAMES/RUS939"
+msgstr "Kutik"
+
+msgid "NAMES/RUS94"
+msgstr "Dobrynin"
+
+msgid "NAMES/RUS940"
+msgstr "Skryabin"
+
+msgid "NAMES/RUS941"
+msgstr "Volodko"
+
+msgid "NAMES/RUS942"
+msgstr "Lyskov"
+
+msgid "NAMES/RUS943"
+msgstr "Martynenko"
+
+msgid "NAMES/RUS944"
+msgstr "Makarevich"
+
+msgid "NAMES/RUS945"
+msgstr "Melekhov"
+
+msgid "NAMES/RUS946"
+msgstr "Mysin"
+
+msgid "NAMES/RUS947"
+msgstr "Radko"
+
+msgid "NAMES/RUS948"
+msgstr "Pechenyuk"
+
+msgid "NAMES/RUS949"
+msgstr "Posulko"
+
+msgid "NAMES/RUS95"
+msgstr "Dokhturov"
+
+msgid "NAMES/RUS950"
+msgstr "Patsyuk"
+
+msgid "NAMES/RUS951"
+msgstr "Pichul"
+
+msgid "NAMES/RUS952"
+msgstr "Puchkov"
+
+msgid "NAMES/RUS953"
+msgstr "Guchkov"
+
+msgid "NAMES/RUS954"
+msgstr "Rodzyanko"
+
+msgid "NAMES/RUS955"
+msgstr "Ruchkin"
+
+msgid "NAMES/RUS956"
+msgstr "Nozhkin"
+
+msgid "NAMES/RUS957"
+msgstr "Kutsepalov"
+
+msgid "NAMES/RUS958"
+msgstr "Sereda"
+
+msgid "NAMES/RUS959"
+msgstr "Subbotin"
+
+msgid "NAMES/RUS96"
+msgstr "Golovin"
+
+msgid "NAMES/RUS960"
+msgstr "Voskresenskiy"
+
+msgid "NAMES/RUS961"
+msgstr "Chetverikov"
+
+msgid "NAMES/RUS962"
+msgstr "Stenyayev"
+
+msgid "NAMES/RUS963"
+msgstr "Golopuzov"
+
+msgid "NAMES/RUS964"
+msgstr "Fedulin"
+
+msgid "NAMES/RUS965"
+msgstr "Zimin"
+
+msgid "NAMES/RUS966"
+msgstr "Chelobanov"
+
+msgid "NAMES/RUS967"
+msgstr "Chudinov"
+
+msgid "NAMES/RUS968"
+msgstr "Chebotaryov"
+
+msgid "NAMES/RUS969"
+msgstr "Shmelev"
+
+msgid "NAMES/RUS97"
+msgstr "Golubev"
+
+msgid "NAMES/RUS970"
+msgstr "Shevelkov"
+
+msgid "NAMES/RUS971"
+msgstr "Tarasyuk"
+
+msgid "NAMES/RUS972"
+msgstr "Voytsekhovskiy"
+
+msgid "NAMES/RUS973"
+msgstr "Zhikharyov"
+
+msgid "NAMES/RUS974"
+msgstr "Zhigaylo"
+
+msgid "NAMES/RUS975"
+msgstr "Kryukov"
+
+msgid "NAMES/RUS976"
+msgstr "Kupriyanov"
+
+msgid "NAMES/RUS977"
+msgstr "Naydyonov"
+
+msgid "NAMES/RUS978"
+msgstr "Pchelikov"
+
+msgid "NAMES/RUS979"
+msgstr "Stremaylo"
+
+msgid "NAMES/RUS98"
+msgstr "Glebov"
+
+msgid "NAMES/RUS980"
+msgstr "Strukov"
+
+msgid "NAMES/RUS981"
+msgstr "Shamshulin"
+
+msgid "NAMES/RUS982"
+msgstr "Bekteneyev"
+
+msgid "NAMES/RUS983"
+msgstr "Bulatchikov"
+
+msgid "NAMES/RUS984"
+msgstr "Balakhovich"
+
+msgid "NAMES/RUS985"
+msgstr "Aksyonov"
+
+msgid "NAMES/RUS986"
+msgstr "Astakhov"
+
+msgid "NAMES/RUS987"
+msgstr "Ugrumov"
+
+msgid "NAMES/RUS988"
+msgstr "Burmistrov"
+
+msgid "NAMES/RUS989"
+msgstr "Uglov"
+
+msgid "NAMES/RUS99"
+msgstr "Voropayev"
+
+msgid "NAMES/RUS990"
+msgstr "Chervonny"
+
+msgid "NAMES/RUS991"
+msgstr "Cherevichenko"
+
+msgid "NAMES/RUS992"
+msgstr "Minin"
+
+msgid "NAMES/RUS993"
+msgstr "Kolyshkin"
+
+msgid "NAMES/RUS994"
+msgstr "Bogun"
+
+msgid "NAMES/RUS995"
+msgstr "Kirukhin"
+
+msgid "NAMES/RUS996"
+msgstr "Gmyrya"
+
+msgid "NAMES/RUS997"
+msgstr "Dudarev"
+
+msgid "NAMES/RUS998"
+msgstr "Kolotov"
+
+msgid "NAMES/RUS999"
+msgstr "Meshchaninov"
+
+msgid "NAMES/RUSN1"
+msgstr "Aleksandr"
+
+msgid "NAMES/RUSN10"
+msgstr "Bogdan"
+
+msgid "NAMES/RUSN100"
+msgstr "Feliks"
+
+msgid "NAMES/RUSN101"
+msgstr "Filipp"
+
+msgid "NAMES/RUSN102"
+msgstr "Foma"
+
+msgid "NAMES/RUSN103"
+msgstr "Eduard"
+
+msgid "NAMES/RUSN104"
+msgstr "Yuriy"
+
+msgid "NAMES/RUSN105"
+msgstr "Yakov"
+
+msgid "NAMES/RUSN106"
+msgstr "Yaroslav"
+
+msgid "NAMES/RUSN107"
+msgstr "Anton"
+
+msgid "NAMES/RUSN108"
+msgstr "Ilya"
+
+msgid "NAMES/RUSN109"
+msgstr "Ales"
+
+msgid "NAMES/RUSN11"
+msgstr "Boris"
+
+msgid "NAMES/RUSN110"
+msgstr "Spartak"
+
+msgid "NAMES/RUSN12"
+msgstr "Bronislav"
+
+msgid "NAMES/RUSN13"
+msgstr "Vadim"
+
+msgid "NAMES/RUSN14"
+msgstr "Valentin"
+
+msgid "NAMES/RUSN15"
+msgstr "Valeriy"
+
+msgid "NAMES/RUSN16"
+msgstr "Vasiliy"
+
+msgid "NAMES/RUSN17"
+msgstr "Veniamin"
+
+msgid "NAMES/RUSN18"
+msgstr "Victor"
+
+msgid "NAMES/RUSN19"
+msgstr "Vissarion"
+
+msgid "NAMES/RUSN2"
+msgstr "Aleksey"
+
+msgid "NAMES/RUSN20"
+msgstr "Vitaliy"
+
+msgid "NAMES/RUSN21"
+msgstr "Vladlen"
+
+msgid "NAMES/RUSN22"
+msgstr "Vladimir"
+
+msgid "NAMES/RUSN23"
+msgstr "Vladislav"
+
+msgid "NAMES/RUSN24"
+msgstr "Vsevolod"
+
+msgid "NAMES/RUSN25"
+msgstr "Vyacheslav"
+
+msgid "NAMES/RUSN26"
+msgstr "Gavrila"
+
+msgid "NAMES/RUSN27"
+msgstr "Gennadiy"
+
+msgid "NAMES/RUSN28"
+msgstr "Georgiy"
+
+msgid "NAMES/RUSN29"
+msgstr "Gerasim"
+
+msgid "NAMES/RUSN3"
+msgstr "Anatoliy"
+
+msgid "NAMES/RUSN30"
+msgstr "German"
+
+msgid "NAMES/RUSN31"
+msgstr "Gleb"
+
+msgid "NAMES/RUSN32"
+msgstr "Grigoriy"
+
+msgid "NAMES/RUSN33"
+msgstr "Danila"
+
+msgid "NAMES/RUSN34"
+msgstr "Dementiy"
+
+msgid "NAMES/RUSN35"
+msgstr "Demid"
+
+msgid "NAMES/RUSN36"
+msgstr "Demyan"
+
+msgid "NAMES/RUSN37"
+msgstr "Denis"
+
+msgid "NAMES/RUSN38"
+msgstr "Dmitriy"
+
+msgid "NAMES/RUSN39"
+msgstr "Yevgeniy"
+
+msgid "NAMES/RUSN4"
+msgstr "Andrey"
+
+msgid "NAMES/RUSN40"
+msgstr "Yevdokim"
+
+msgid "NAMES/RUSN41"
+msgstr "Yegor"
+
+msgid "NAMES/RUSN42"
+msgstr "Yemelyan"
+
+msgid "NAMES/RUSN43"
+msgstr "Yefim"
+
+msgid "NAMES/RUSN44"
+msgstr "Yefrem"
+
+msgid "NAMES/RUSN45"
+msgstr "Zakhar"
+
+msgid "NAMES/RUSN46"
+msgstr "Zinoviy"
+
+msgid "NAMES/RUSN47"
+msgstr "Ivan"
+
+msgid "NAMES/RUSN48"
+msgstr "Ignatiy"
+
+msgid "NAMES/RUSN49"
+msgstr "Igor"
+
+msgid "NAMES/RUSN5"
+msgstr "Arkadiy"
+
+msgid "NAMES/RUSN50"
+msgstr "Innokentiy"
+
+msgid "NAMES/RUSN51"
+msgstr "Iosif"
+
+msgid "NAMES/RUSN52"
+msgstr "Ippolit"
+
+msgid "NAMES/RUSN53"
+msgstr "Kazimir"
+
+msgid "NAMES/RUSN54"
+msgstr "Kirill"
+
+msgid "NAMES/RUSN55"
+msgstr "Kliment"
+
+msgid "NAMES/RUSN56"
+msgstr "Konstantin"
+
+msgid "NAMES/RUSN57"
+msgstr "Kuzma"
+
+msgid "NAMES/RUSN58"
+msgstr "Lavrentiy"
+
+msgid "NAMES/RUSN59"
+msgstr "Lev"
+
+msgid "NAMES/RUSN6"
+msgstr "Arseniy"
+
+msgid "NAMES/RUSN60"
+msgstr "Leonid"
+
+msgid "NAMES/RUSN61"
+msgstr "Leontiy"
+
+msgid "NAMES/RUSN62"
+msgstr "Makar"
+
+msgid "NAMES/RUSN63"
+msgstr "Maksim"
+
+msgid "NAMES/RUSN64"
+msgstr "Mark"
+
+msgid "NAMES/RUSN65"
+msgstr "Matvey"
+
+msgid "NAMES/RUSN66"
+msgstr "Mechislav"
+
+msgid "NAMES/RUSN67"
+msgstr "Miroslav"
+
+msgid "NAMES/RUSN68"
+msgstr "Mikhail"
+
+msgid "NAMES/RUSN69"
+msgstr "Mstislav"
+
+msgid "NAMES/RUSN7"
+msgstr "Artyom"
+
+msgid "NAMES/RUSN70"
+msgstr "Nikita"
+
+msgid "NAMES/RUSN71"
+msgstr "Nikifor"
+
+msgid "NAMES/RUSN72"
+msgstr "Nikolay"
+
+msgid "NAMES/RUSN73"
+msgstr "Oleg"
+
+msgid "NAMES/RUSN74"
+msgstr "Osip"
+
+msgid "NAMES/RUSN75"
+msgstr "Ostap"
+
+msgid "NAMES/RUSN76"
+msgstr "Pavel"
+
+msgid "NAMES/RUSN77"
+msgstr "Pakhom"
+
+msgid "NAMES/RUSN78"
+msgstr "Pyotr"
+
+msgid "NAMES/RUSN79"
+msgstr "Platon"
+
+msgid "NAMES/RUSN8"
+msgstr "Arkhip"
+
+msgid "NAMES/RUSN80"
+msgstr "Potap"
+
+msgid "NAMES/RUSN81"
+msgstr "Prokhor"
+
+msgid "NAMES/RUSN82"
+msgstr "Rodion"
+
+msgid "NAMES/RUSN83"
+msgstr "Roman"
+
+msgid "NAMES/RUSN84"
+msgstr "Rostislav"
+
+msgid "NAMES/RUSN85"
+msgstr "Ruslan"
+
+msgid "NAMES/RUSN86"
+msgstr "Svyatoslav"
+
+msgid "NAMES/RUSN87"
+msgstr "Semyon"
+
+msgid "NAMES/RUSN88"
+msgstr "Sergey"
+
+msgid "NAMES/RUSN89"
+msgstr "Sidor"
+
+msgid "NAMES/RUSN9"
+msgstr "Afanasiy"
+
+msgid "NAMES/RUSN90"
+msgstr "Stanislav"
+
+msgid "NAMES/RUSN91"
+msgstr "Stepan"
+
+msgid "NAMES/RUSN92"
+msgstr "Taras"
+
+msgid "NAMES/RUSN93"
+msgstr "Timofey"
+
+msgid "NAMES/RUSN94"
+msgstr "Timur"
+
+msgid "NAMES/RUSN95"
+msgstr "Tikhon"
+
+msgid "NAMES/RUSN96"
+msgstr "Trifon"
+
+msgid "NAMES/RUSN97"
+msgstr "Trofim"
+
+msgid "NAMES/RUSN98"
+msgstr "Fyodor"
+
+msgid "NAMES/RUSN99"
+msgstr "Fedot"
+
+msgid "NAMES/RUSU1"
+msgstr "Litvyakova"
+
+msgid "NAMES/RUSUN1"
+msgstr "Marina"
+
+msgid "RANKSRUS/1"
+msgstr "Polkovnik"
+
+msgid "RANKSRUS/10"
+msgstr "Serzhant"
+
+msgid "RANKSRUS/2"
+msgstr "Podpolkovnik"
+
+msgid "RANKSRUS/3"
+msgstr "Mayor"
+
+msgid "RANKSRUS/4"
+msgstr "Kapitan"
+
+msgid "RANKSRUS/5"
+msgstr "St. Leytenant"
+
+msgid "RANKSRUS/6"
+msgstr "Leytenant"
+
+msgid "RANKSRUS/7"
+msgstr "Ml. Leytenant"
+
+msgid "RANKSRUS/8"
+msgstr "Starshina"
+
+msgid "RANKSRUS/9"
+msgstr "St. Serzhant"

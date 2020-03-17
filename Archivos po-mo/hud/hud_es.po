@@ -1,0 +1,4661 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "CAPTUREBASE_BASE"
+msgstr "Cañón"
+
+msgid "CAPTUREBASE_TURRENT"
+msgstr "Cañón AA"
+
+msgid "CHAT_BTN_TO_ALL"
+msgstr "A TODOS:"
+
+msgid "CHAT_BTN_TO_TEAM"
+msgstr "AL EQUIPO:"
+
+msgid "CHAT_BTN_TO_WING"
+msgstr "A LA ESCUADRILLA:"
+
+msgid "CHAT_COMMAND_F2"
+msgstr "¡Recibido!"
+
+msgid "CHAT_COMMAND_F3"
+msgstr "¡No es posible!"
+
+msgid "CHAT_COMMAND_F4"
+msgstr "¡Cubridme!"
+
+msgid "CHAT_COMMAND_F5"
+msgstr "¡Despejad mi retaguardia!"
+
+msgid "CHAT_COMMAND_F6"
+msgstr "¡No puedo!"
+
+msgid "CHAT_COMMAND_F7"
+msgstr "¡Ayuda!"
+
+msgid "CHAT_COMMAND_F8"
+msgstr "¡Atacad el sector!"
+
+msgid "CHAT_COMMAND_F8_AIRBASE"
+msgstr "¡Atacad la base aérea!"
+
+msgid "CHAT_COMMAND_F8_AIRFIELD"
+msgstr "¡Atacad el aeródromo de agrupación!"
+
+msgid "CHAT_COMMAND_F8_CITADEL"
+msgstr "¡Atacad el fuerte!"
+
+msgid "CHAT_COMMAND_F8_COMMANDCENTER"
+msgstr "¡Atacad el centro de mando!"
+
+msgid "CHAT_COMMAND_F8_COMMUNICATIONCENTER"
+msgstr "¡Atacad el centro de comunicaciones!"
+
+msgid "CHAT_COMMAND_F8_FACTORY"
+msgstr "¡Atacad la refinería!"
+
+msgid "CHAT_COMMAND_F8_FIELDCAMP"
+msgstr "¡Atacad los acuartelamientos!"
+
+msgid "CHAT_COMMAND_F8_FOUNDRY"
+msgstr "¡Atacad la planta de extracción!"
+
+msgid "CHAT_COMMAND_F8_MILITARYBASE"
+msgstr "¡Atacad la base militar!"
+
+msgid "CHAT_COMMAND_F8_RADIOPOINT"
+msgstr "¡Atacad el cuartel de campo!"
+
+msgid "CHAT_COMMAND_F8_RUNWAY"
+msgstr "¡Atacad el aeródromo avanzado!"
+
+msgid "CHAT_COMMAND_F8_WORKSHOP"
+msgstr "¡Atacad la planta industrial!"
+
+msgid "CHAT_COMMAND_F9"
+msgstr "¡Defended el sector!"
+
+msgid "CHAT_COMMAND_F9_AIRBASE"
+msgstr "¡Defended la base aérea!"
+
+msgid "CHAT_COMMAND_F9_AIRFIELD"
+msgstr "¡Defended el aeródromo de agrupación!"
+
+msgid "CHAT_COMMAND_F9_CITADEL"
+msgstr "¡Defended el fuerte!"
+
+msgid "CHAT_COMMAND_F9_COMMANDCENTER"
+msgstr "¡Defended el centro de mando!"
+
+msgid "CHAT_COMMAND_F9_COMMUNICATIONCENTER"
+msgstr "¡Defended el centro de comunicaciones!"
+
+msgid "CHAT_COMMAND_F9_FACTORY"
+msgstr "¡Defended la refinería!"
+
+msgid "CHAT_COMMAND_F9_FIELDCAMP"
+msgstr "¡Defended los acuartelamientos!"
+
+msgid "CHAT_COMMAND_F9_FOUNDRY"
+msgstr "¡Defended la planta de extracción!"
+
+msgid "CHAT_COMMAND_F9_MILITARYBASE"
+msgstr "¡Defended la base militar!"
+
+msgid "CHAT_COMMAND_F9_RADIOPOINT"
+msgstr "¡Defended el cuartel de campo!"
+
+msgid "CHAT_COMMAND_F9_RUNWAY"
+msgstr "¡Defended el aeródromo avanzado!"
+
+msgid "CHAT_COMMAND_F9_WORKSHOP"
+msgstr "¡Defended la planta industrial!"
+
+msgid "CHAT_ENTER_BUTTON"
+msgstr "Entrar"
+
+msgid "CHAT_LABEL_HUD_SECONDS"
+msgstr "s"
+
+msgid "CHAT_LABEL_REENTER_BUTTON_AFTER"
+msgstr "{button} desactivado durante {time}"
+
+msgid "EXIT"
+msgstr "Volver al hangar"
+
+msgid "EXIT_CAPS"
+msgstr "VUELTA AL HANGAR EN:"
+
+msgid "EXIT_FROM_BATTLE"
+msgstr "Salir"
+
+msgid "F1MENU_DECK_FIGHTER"
+msgstr "Caza embarcado"
+
+msgid "F1MENU_FLAPS"
+msgstr "Extender flaps"
+
+msgid "F1MENU_GUN_OVERHEAT_INDICATOR"
+msgstr "5 — Indicador de recalentamiento del arma"
+
+msgid "F1_MENU_AIMING_POINT_LONG_RANGE"
+msgstr "Alcance de fuego no efectivo"
+
+msgid "F1_MENU_AIMING_POINT_SHORT_RANGE"
+msgstr "Alcance de fuego efectivo"
+
+msgid "F1_MENU_AIMING_POINT_TARGET_LOCKED"
+msgstr "En el objetivo"
+
+msgid "F1_MENU_AIMING_POINT_TOO_FAR"
+msgstr "Fuera del alcance de fuego"
+
+msgid "F1_MENU_AIRCRAFT"
+msgstr "Avión"
+
+msgid "F1_MENU_AIRCRAFT_NAME"
+msgstr "Modelo de avión"
+
+msgid "F1_MENU_CONSUMABLES"
+msgstr "Consumibles"
+
+msgid "F1_MENU_NAME"
+msgstr "Nombre"
+
+msgid "F1_MENU_PLAYER_NAME"
+msgstr "Nombre del jugador"
+
+msgid "F1_WINDOW_AIRCRAFT_TURNS"
+msgstr "Girar avión"
+
+msgid "F1_WINDOW_CHAT_ENTER_CHAT_MODE"
+msgstr "Entrar en modo de chat"
+
+msgid "F1_WINDOW_CHAT_LEAVE_CHAT_MODE"
+msgstr "Salir del modo de chat"
+
+msgid "F1_WINDOW_CHAT_MESSAGE_TO_ALL"
+msgstr "Enviar un mensaje a todos los jugadores"
+
+msgid "F1_WINDOW_CHAT_MESSAGE_TO_TEAM"
+msgstr "Enviar un mensaje al equipo"
+
+msgid "F1_WINDOW_CHAT_TOGGLE_CHAT_MODES"
+msgstr "Activar modo de chat"
+
+msgid "F1_WINDOW_CONTEXT_AA_GROUND_OBJECTS"
+msgstr "- Cañones AA blindados / no blindados"
+
+msgid "F1_WINDOW_CONTEXT_DISABLED_GROUND_OBJECTS"
+msgstr "- Solamente secciones blindadas"
+
+msgid "F1_WINDOW_CONTEXT_GROUND_OBJECTS_AA_MODULES"
+msgstr "- Cañones AA"
+
+msgid "F1_WINDOW_CONTEXT_GROUND_OBJECTS_USUAL_MODULES"
+msgstr "- Sección blindada / no blindada"
+
+msgid "F1_WINDOW_CONTEXT_USUAL_GROUND_OBJECTS"
+msgstr "- Blindado / no blindado"
+
+msgid "F1_WINDOW_DEVICE_ALTITUDE_INDICATOR"
+msgstr "Altitud"
+
+msgid "F1_WINDOW_DEVICE_BOMB_INDICATOR"
+msgstr "Bombas"
+
+msgid "F1_WINDOW_DEVICE_CRITICAL_DAMAGE_INDICATOR"
+msgstr "Daño crítico"
+
+msgid "F1_WINDOW_DEVICE_CROSSHAIR_MARKER"
+msgstr "Punto de mira"
+
+msgid "F1_WINDOW_DEVICE_DISPERSION_INDICATOR"
+msgstr "Precisión"
+
+msgid "F1_WINDOW_DEVICE_DISPERSION_INDICATOR_CIRCLE"
+msgstr "Visor de puntería"
+
+msgid "F1_WINDOW_DEVICE_HP_INDICATOR"
+msgstr "Indicador de PV"
+
+msgid "F1_WINDOW_DEVICE_ROCKET_INDICATOR"
+msgstr "Cohetes"
+
+msgid "F1_WINDOW_DEVICE_SPEED_INDICATOR"
+msgstr "Velocidad en vuelo"
+
+msgid "F1_WINDOW_DEVICE_WEAPONS_INDICATOR"
+msgstr "Armas"
+
+msgid "F1_WINDOW_DEVICE_WEP_INDICATOR"
+msgstr "Disponibilidad del impulsor"
+
+msgid "F1_WINDOW_FAST_MESSAGE_ATTACK_THIS_ENEMY"
+msgstr "¡Ataque coordinado sobre <objetivo>!"
+
+msgid "F1_WINDOW_FAST_MESSAGE_ENEMY_IN_SQUARE"
+msgstr "Enemigo detectado en <sector>"
+
+msgid "F1_WINDOW_FAST_MESSAGE_GOING_TO_SQUARE"
+msgstr "Procediendo a <sector>"
+
+msgid "F1_WINDOW_FAST_MESSAGE_TAKE_ONESELF"
+msgstr "¡Enfrentándome a <objetivo>!"
+
+msgid "F1_WINDOW_FOOTER_ESC_TO_RETURN"
+msgstr "<font color='#FFB400'>Esc</font> — Volver al juego"
+
+msgid "F1_WINDOW_HEADER_CROSSHAIR_AND_DEVICES"
+msgstr "Retícula e indicadores"
+
+msgid "F1_WINDOW_HEADER_GROUND_OBJECTS"
+msgstr "Marcador de objetivos terrestres"
+
+msgid "F1_WINDOW_HEADER_HOTKEY_MESSAGES"
+msgstr "Atajos del chat"
+
+msgid "F1_WINDOW_HEADER_IN_BATTLE_MODE"
+msgstr "Modo de batalla"
+
+msgid "F1_WINDOW_HEADER_IN_CHAT_MODE"
+msgstr "Modo de chat"
+
+msgid "F1_WINDOW_HEADER_MARKER_COLORS"
+msgstr "Colores del marcador"
+
+msgid "F1_WINDOW_HEADER_OBJECT_TYPES"
+msgstr "Marcadores de objetos"
+
+msgid "F1_WINDOW_HEADER_PLANE_TYPES"
+msgstr "Marcadores de aviones"
+
+msgid "F1_WINDOW_INDICATOR_AIRCRAFT_CLASS_ICON"
+msgstr "Marcador del tipo de avión"
+
+msgid "F1_WINDOW_INDICATOR_AIRCRAFT_LEVEL"
+msgstr "Nivel del avión"
+
+msgid "F1_WINDOW_INDICATOR_AIRPLANE_NAME"
+msgstr "Modelo de avión"
+
+msgid "F1_WINDOW_INDICATOR_PLAYER_NAME"
+msgstr "Nombre del jugador"
+
+msgid "F1_WINDOW_INDICATOR_TARGET_DISTANCE"
+msgstr "Distancia al objetivo"
+
+msgid "F1_WINDOW_INDICATOR_TARGET_HP"
+msgstr "Indicador de vida"
+
+msgid "F1_WINDOW_INFO_ON_AIRCRAFT"
+msgstr "Detalles del avión"
+
+msgid "F1_WINDOW_INFO_ON_FRIEND/ENEMY"
+msgstr "Información de aliado / enemigo"
+
+msgid "F1_WINDOW_MARKER_ALLY_PLAYER"
+msgstr "Aliado"
+
+msgid "F1_WINDOW_MARKER_ENEMY_PLAYER"
+msgstr "Enemigo"
+
+msgid "F1_WINDOW_MARKER_TEAMKILLER"
+msgstr "Team killer"
+
+msgid "F1_WINDOW_MARKER_YOUR_WING_PLAYER"
+msgstr "Compañero de ala"
+
+msgid "F1_WINDOW_OBJECT_BASE"
+msgstr "Cuartel general"
+
+msgid "F1_WINDOW_OBJECT_TURRET"
+msgstr "Cañón AA"
+
+msgid "HELP_AIM_AND_MARKER_GUNS"
+msgstr "Paneles e instrumentos"
+
+msgid "HELP_AMMO"
+msgstr "5 — Munición restante"
+
+msgid "HELP_ATTACK"
+msgstr "¡Atacando!"
+
+msgid "HELP_ATTACK_PLANE"
+msgstr "Avión de ataque"
+
+msgid "HELP_COLOR_CODING"
+msgstr "Colores del marcador"
+
+msgid "HELP_CURRENT_HEIGHT_FLY"
+msgstr "11 — Altímetro"
+
+msgid "HELP_DEL_TEXT_AND_EXIT_CHAT"
+msgstr "Salir del modo de chat"
+
+msgid "HELP_DISTANCE_TO_TARGET"
+msgstr "9 — Distancia al objetivo"
+
+msgid "HELP_EQUIPMENT_DESIGNATION"
+msgstr "Marcadores de objetos"
+
+msgid "HELP_FAST_COMMANDS"
+msgstr "Atajos del chat"
+
+msgid "HELP_FIGHTER"
+msgstr "Caza"
+
+msgid "HELP_FIRE"
+msgstr "Fuego"
+
+msgid "HELP_FOLLOW_ME"
+msgstr "¡Seguidme!"
+
+msgid "HELP_FORCING"
+msgstr "Activar impulsor"
+
+msgid "HELP_HEAVY_FIGHTER"
+msgstr "Caza pesado"
+
+msgid "HELP_INDICATOR_CLIMB"
+msgstr "10 — Tasa de ascenso"
+
+msgid "HELP_INDICATOR_DAMAGE_MODULES_PLANE"
+msgstr "13 — Panel de condicion del avion"
+
+msgid "HELP_INDICATOR_DAMAGE_TARGET"
+msgstr "8 — Indicador de bida"
+
+msgid "HELP_INDICATOR_FIRE"
+msgstr "14 — Indicador de fuego"
+
+msgid "HELP_INDICATOR_FORCING"
+msgstr "1 — Disponibilidad del impulsor"
+
+msgid "HELP_INDICATOR_TRACTION"
+msgstr "3 — Posición del acelerador"
+
+msgid "HELP_INTO_CHAT"
+msgstr "Entrar en modo de chat"
+
+msgid "HELP_IN_CHAT_MODE"
+msgstr "Modo de chat"
+
+msgid "HELP_IN_COMBAT_MODE"
+msgstr "Modo de batalla"
+
+msgid "HELP_LOCKED_AIM"
+msgstr "Objetivo fijado"
+
+msgid "HELP_MESSAGE_TO_ALL_PLAYERS"
+msgstr "Al equipo / a todos"
+
+msgid "HELP_MESSAGE_TO_ALL_PLAYERS_WING"
+msgstr "Al equipo / a la escuadrilla / a todos"
+
+msgid "HELP_MESSAGE_TO_COMMAND"
+msgstr "Enviar mensaje"
+
+msgid "HELP_NAME_DAMAGE_MODEL_PLANE"
+msgstr "12 — Nombre de jugador y modelo de avión"
+
+msgid "HELP_NAVY_FIGHTER"
+msgstr "Caza polivalente"
+
+msgid "HELP_NEED_HELP"
+msgstr "¡Ayuda!"
+
+msgid "HELP_NO_WAY"
+msgstr "¡Negativo!"
+
+msgid "HELP_OBJECT_BASE"
+msgstr "Cuartel general"
+
+msgid "HELP_P1"
+msgstr ""
+"<p><b>F1</b> — Pantalla de ayuda</p><p></p><p>Presiona y mantén <b>Q</b> — "
+"Habilitar vision posterior </p><p>Presiona y mantén <b>C</b> Nivelar avión</"
+"p><p>Presiona y mantén <b>W</b> — Incrementar acelerador y activar impulsor</"
+"p><p>Presiona y mantén <b>S</b> — Desactivar motor y extender flaps</p><p></"
+"p><p><b>Barra de espacio</b>, <b>Botón izquierdo del ratón</b> o <b>botón "
+"del Joystick</b> — Fuego</p><p></p><p><b>T</b> — Fijar objetivo actual</"
+"p><p>Presiona y mantén <b>Mayúscula izquierda</b> — Fijar al objetivo</"
+"p><p>Presiona y mantén <b>Alt izquierda.</b> — Mostrar detalles de los "
+"jugadores</p><p>Presiona y mantén<b>botón derecho del ratón</b> — Habilitar "
+"modo de cámara libre</p><p></p><p><b>Alt</b>+<b>F4</b> — Exit</p>"
+
+msgid "HELP_P2"
+msgstr ""
+"<p><b>ESC</b> — Ajustes del juego</p><br/><br/><p><b>F</b> — Activar/"
+"desactivar modo francotirador</p><br/><p><b>1</b>, <b>2</b> — Fuego con "
+"grupo de armas</p><br/><br/><p>Teclas <b>2</b>, <b>4</b>, <b>6</b>, <b>8</b> "
+"en el teclado numérico — Mirar alrededor del avion</p><p></p><p>Atajos del "
+"chat:</p><p><b>F2</b> — ¡Al ataque!</p><p><b>F3</b> — ¡Volver a la base!</"
+"p><p><b>F4</b> — ¡Seguidme!</p><p><b>F5</b> — ¡Afirmativo!</p><p><b>F6</b> — "
+"¡Negativo!</p><p><b>F7</b> — ¡Ayuda!</p><p><b>F8</b> — ¡Atacando...! (con la "
+"retícula en el objetivo)</p>"
+
+msgid "HELP_PLAYER_ALLY_EQUIPMENT_DESTROYED"
+msgstr "Team killer"
+
+msgid "HELP_PLAYER_ENEMY_TEAM"
+msgstr "Enemigo"
+
+msgid "HELP_PLAYER_OUR_TEAM"
+msgstr "Aliado"
+
+msgid "HELP_PLAYER_YOUR_PLATOON"
+msgstr "Compañero de ala"
+
+msgid "HELP_ROLL_LEFT"
+msgstr "Alabear a la izquierda"
+
+msgid "HELP_ROLL_RIGHT"
+msgstr "Alabear a la derecha"
+
+msgid "HELP_SETTINGS"
+msgstr "Ajustes"
+
+msgid "HELP_SIGHTING_MARKER"
+msgstr "6 — Punto de mira"
+
+msgid "HELP_SO_ACCURATELY"
+msgstr "¡Afirmativo!"
+
+msgid "HELP_SPEED_FLY"
+msgstr "2 — Velocidad en vuelo"
+
+msgid "HELP_SPREAD_WEAPONS"
+msgstr "7 — Precisión"
+
+msgid "HELP_TIGHTEN_LEFT"
+msgstr "Guiñada a la izquierda"
+
+msgid "HELP_TIGHTEN_RIGHT"
+msgstr "Guiñada a la derecha"
+
+msgid "HELP_TILT_BACK"
+msgstr "Cabecear hacia abajo"
+
+msgid "HELP_TILT_FORWARD"
+msgstr "Cabecear hacia arriba"
+
+msgid "HELP_TO_ATTACK"
+msgstr "¡Al ataque!"
+
+msgid "HELP_TO_BASE"
+msgstr "¡Volver a la base!"
+
+msgid "HELP_TURN_OFF_ENGINE"
+msgstr "Aplicar freno aéreo"
+
+msgid "HELP_TURRET"
+msgstr "Cañón AA"
+
+msgid "HELP_WEAPONS_AND_CALIBER"
+msgstr "4 — Calibre del arma"
+
+msgid "HUD_AA_GUNS_PROTECTED_WITH_ARMOR"
+msgstr "Los cañones AA están protegidos con blindaje"
+
+msgid "HUD_ABOUT_DAMAGE_STR"
+msgstr "Avión dañado por [{player}]. Daño recibido: {damage}"
+
+msgid "HUD_ABOUT_HURTING_RAMMING_STR"
+msgstr "Colisión con [{player}]. Daño causado: {damage}"
+
+msgid "HUD_ABOUT_HURTING_STR"
+msgstr "Dañaste a [{player}]. Daño causado: {damage}"
+
+msgid "HUD_ABOUT_RAMMING_STR"
+msgstr "Avión dañado por colisionar con [{player}]."
+
+msgid "HUD_AIRCRAFT_DURABILITY"
+msgstr "PV del avión"
+
+msgid "HUD_AIRCRAFT_MODULE_ENGINE"
+msgstr "Motor"
+
+msgid "HUD_AIRCRAFT_MODULE_FUELTANK"
+msgstr "Depósito de gasolina"
+
+msgid "HUD_AIRCRAFT_MODULE_GUNNER1"
+msgstr "artillero"
+
+msgid "HUD_AIRCRAFT_MODULE_GUNNER2"
+msgstr "artillero"
+
+msgid "HUD_AIRCRAFT_MODULE_HULL"
+msgstr "Fuselaje"
+
+msgid "HUD_AIRCRAFT_MODULE_LEFTWING"
+msgstr "Ala izquierda"
+
+msgid "HUD_AIRCRAFT_MODULE_NAVIGATOR"
+msgstr "Navegador"
+
+msgid "HUD_AIRCRAFT_MODULE_PILOT"
+msgstr "Piloto"
+
+msgid "HUD_AIRCRAFT_MODULE_RADIO"
+msgstr "Radio"
+
+msgid "HUD_AIRCRAFT_MODULE_RIGHTWING"
+msgstr "Ala derecha"
+
+msgid "HUD_AIRCRAFT_MODULE_TAIL"
+msgstr "Cola"
+
+msgid "HUD_ALLY_AIR_STRIKE_INCOMING"
+msgstr "La escuadrilla de ataque ha alcanzado la zona de operaciones."
+
+msgid "HUD_ALLY_CAP_COMPLEX"
+msgstr "¡Capturado por el grupo de combate!"
+
+msgid "HUD_ALLY_DEATH_KILLER_STR"
+msgstr "{ico1} [{k}] destruyó a {ico2} [{v}]"
+
+msgid "HUD_ALLY_INFLUENCE_75"
+msgstr "¡Hemos recibido el 75 % de los recursos requeridos!"
+
+msgid "HUD_ALLY_SUPERIORITY_CAPS"
+msgstr "SUPERIORIDAD AÉREA ALCANZADA"
+
+msgid "HUD_ALLY_SUPERIORITY_DESCRIPTION"
+msgstr ""
+"Nuestro grupo de combate ha tomado el control de la zona de operaciones"
+
+msgid "HUD_ALL_ALLY_DEAD"
+msgstr "¡Todos los aviones del grupo de combate están destruidos!"
+
+msgid "HUD_ALL_ENEMY_DEAD"
+msgstr "¡Solo queda un avión enemigo!"
+
+msgid "HUD_ALTIMETER_BAROMETRIC"
+msgstr "Barométrico"
+
+msgid "HUD_AMMOPACK_REGULAR"
+msgstr "Munición estándar"
+
+msgid "HUD_ARMORED_OBJECT_AA_SECTORS"
+msgstr "Objetivos blindados: unidad/cañón AA/cañón AA de gran altura"
+
+msgid "HUD_ARMORED_PART_MESSAGE"
+msgstr "¡Las armas frontales no son efectivas contra los objetivos blindados!"
+
+msgid "HUD_ARMORED_WORKSHOP_OBJECT"
+msgstr "Talleres blindados"
+
+msgid "HUD_ATTACK_LOST_ALL_BOMBERS_DESTROYED"
+msgstr "El objetivo estratégico enemigo no ha sido destruido"
+
+msgid "HUD_ATTACK_WIN_ALL_BOMBERS_DESTROYED"
+msgstr "Objetivo destruido por bombarderos estratégicos"
+
+msgid "HUD_ATTRITION_KILL_PLANE"
+msgstr "{plane_type} destruido"
+
+msgid "HUD_ATTRITION_MULTIPLIER_TIP_ALLY"
+msgstr "Efectividad del Grupo de Combate"
+
+msgid "HUD_ATTRITION_MULTIPLIER_TIP_ENEMY"
+msgstr "Efectividad del Enemigo"
+
+msgid "HUD_BAROMETRIC_ALTIMETER"
+msgstr "Altímetro barométrico"
+
+msgid "HUD_BATTLE_COUNTDOWN"
+msgstr "La salida comienza en:"
+
+msgid "HUD_BATTLE_END_IS_NEAR_TIME"
+msgstr "La batalla terminará en {value} s"
+
+msgid "HUD_BATTLE_LOG_MESSAGE_AIR_STRIKE_PLANE"
+msgstr "Escuadrilla de aviones de ataque"
+
+msgid "HUD_BATTLE_LOG_MESSAGE_ASSIST"
+msgstr "Asistió en la destrucción de"
+
+msgid "HUD_BATTLE_LOG_MESSAGE_BATTLELOG"
+msgstr "para desplazarse por los eventos de batalla"
+
+msgid "HUD_BATTLE_LOG_MESSAGE_BATTLELOG_KEYS"
+msgstr "[Ctrl + Rueda del ratón]"
+
+msgid "HUD_BATTLE_LOG_MESSAGE_CRASHED"
+msgstr "se estrelló"
+
+msgid "HUD_BATTLE_LOG_MESSAGE_HUGE_IMPACT"
+msgstr "Contribuyó decisivamente en el derribo de"
+
+msgid "HUD_BATTLE_LOG_MESSAGE_KILLED"
+msgstr "ha sido destruido"
+
+msgid "HUD_BATTLE_LOG_MESSAGE_KILLED_BY_AA"
+msgstr "ha sido destruido por cañones AA"
+
+msgid "HUD_BATTLE_LOG_MESSAGE_WING"
+msgstr "Compañero de escuadrilla"
+
+msgid "HUD_CANDYS_RECEIVED"
+msgstr "Golosinas reunidas:"
+
+msgid "HUD_CAPTURE_ENEMY_SECTORS"
+msgstr "Captura los sectores enemigos"
+
+msgid "HUD_CHANGE_CHAT_MODE"
+msgstr "[Tab]"
+
+msgid "HUD_CHAT_ALL_MODE"
+msgstr "A todos:"
+
+msgid "HUD_CHAT_HISTORY"
+msgstr "para mostrar el historial del chat"
+
+msgid "HUD_CHAT_HISTORY_KEYS"
+msgstr "[RePág/AvPág]"
+
+msgid "HUD_CHAT_INFO"
+msgstr "para cambiar receptor"
+
+msgid "HUD_CHAT_MODE_ALL"
+msgstr "A TODOS:"
+
+msgid "HUD_CHAT_MODE_ALLY"
+msgstr "AL EQUIPO:"
+
+msgid "HUD_CHAT_SCROLL_BUTTONS"
+msgstr "para moverse entre mensajes"
+
+msgid "HUD_CHAT_TEAM_MODE"
+msgstr "Al grupo de combate:"
+
+msgid "HUD_CHAT_WING_MODE"
+msgstr "A la escuadrilla:"
+
+msgid "HUD_CHOICE_PLANE"
+msgstr "Seleccionar avión"
+
+msgid "HUD_CHOICE_RESPAWN"
+msgstr "Selecciona el punto de salida para los aviones de refuerzo"
+
+msgid "HUD_CHOICE_SPECTATOR_CAMERA"
+msgstr "Vista de cámara libre"
+
+msgid "HUD_CHOICE_SPECTATOR_MODE"
+msgstr "Alternar entre modos de cámara"
+
+msgid "HUD_CLOSE"
+msgstr "Cerrar"
+
+msgid "HUD_COMMAND_OBJECT"
+msgstr "Puesto de mando"
+
+msgid "HUD_CONSUMABLES_AND_EQUIPMENT"
+msgstr "Equipamiento y consumibles"
+
+msgid "HUD_CONTEXT_MENU_ACCEPT_INVITATION"
+msgstr "Aceptar invitación"
+
+msgid "HUD_CONTEXT_MENU_ADD_TO_FRIENDS"
+msgstr "Añadir a contactos"
+
+msgid "HUD_CONTEXT_MENU_ADD_TO_IGNORE_LIST"
+msgstr "Añadir a la lista de ignorados"
+
+msgid "HUD_CONTEXT_MENU_BUTTOB_ACCEPT"
+msgstr "Aceptar"
+
+msgid "HUD_CONTEXT_MENU_CLAIM_ALLI_DAMAGE"
+msgstr "Daño causado a aliados"
+
+msgid "HUD_CONTEXT_MENU_CLAIM_BOT"
+msgstr "Inactivo/bot"
+
+msgid "HUD_CONTEXT_MENU_CLAIM_NON-SPORT_BEHAVIOUR"
+msgstr "Juego antideportivo"
+
+msgid "HUD_CONTEXT_MENU_CLAIM_ON_PLAYER"
+msgstr "Reporte ({number_claims})"
+
+msgid "HUD_CONTEXT_MENU_CLAIM_RAMMING"
+msgstr "Embestir a aliados"
+
+msgid "HUD_CONTEXT_MENU_CLAIM_SPI"
+msgstr "Revelar posición de aliados"
+
+msgid "HUD_CONTEXT_MENU_CLAIM_TROLL"
+msgstr "Insulto y provocación"
+
+msgid "HUD_CONTEXT_MENU_FLUD"
+msgstr "Spam"
+
+msgid "HUD_CONTEXT_MENU_FORBIDDEN_CLAN-NICKNAME"
+msgstr "Nombre de usuario/nombre de clan ofensivo"
+
+msgid "HUD_CONTEXT_MENU_INVITE_TO_WING"
+msgstr "Invitar a escuadrilla"
+
+msgid "HUD_CONTEXT_MENU_MUTE_PLAYER"
+msgstr "Desactivar mensajes de voz"
+
+msgid "HUD_CONTEXT_MENU_REMOVE_FROM_FRIENDS"
+msgstr "Eliminar de contactos"
+
+msgid "HUD_CONTEXT_MENU_REMOVE_FROM_IGNORE_LIST"
+msgstr "Eliminar de la lista de ignorados"
+
+msgid "HUD_CONTEXT_MENU_UNMUTE_PLAYER"
+msgstr "Activar mensajes de voz"
+
+msgid "HUD_CONTROL_TOWER_OBJECT"
+msgstr "Torre de control"
+
+msgid "HUD_CRYTICAL_SPEED_STR"
+msgstr "¡Reduce la velocidad!"
+
+msgid "HUD_CURRENT_SECTOR"
+msgstr "Sector actual"
+
+msgid "HUD_CURRENT_WEAPON"
+msgstr "Arma de disparo frontal"
+
+msgid "HUD_DAMAGE_DEALT_TO_OBJECT"
+msgstr "Daño a los objetivos terrestres"
+
+msgid "HUD_DANGER_DAMAGE"
+msgstr "¡Daño fuerte!"
+
+msgid "HUD_DEFENDER"
+msgstr "Avión de defensa aérea"
+
+msgid "HUD_DEFENDER_FIGHTER"
+msgstr "Avión de defensa aérea (ligero)"
+
+msgid "HUD_DEFENDER_HEAVY"
+msgstr "Avión de defensa aérea (pesado)"
+
+msgid "HUD_DEFEND_ALLY_SECTORS"
+msgstr "Defiende los sectores aliados"
+
+msgid "HUD_DEF_LOST_MAIN_OBJECT_DESTROYED"
+msgstr "Objetivo destruido por bombarderos estratégicos enemigos"
+
+msgid "HUD_DEF_WIN_ALL_BOMBERS_DESTROYED"
+msgstr "El enemigo no ha podido destruir el objetivo estratégico"
+
+msgid "HUD_DESCRIPTION_BOMBARDIER"
+msgstr "Avión enemigo destruido por bomba"
+
+msgid "HUD_DESCRIPTION_FIRESPITTING"
+msgstr "Objetivo terrestre destruido por fuego"
+
+msgid "HUD_DESCRIPTION_FLAME_OF_HEAVEN"
+msgstr "Avión enemigo destruido por fuego"
+
+msgid "HUD_DESCRIPTION_RAMMING"
+msgstr "Avión enemigo destruido por embestida"
+
+msgid "HUD_DESCRIPTION_RELIABLE_REAR"
+msgstr "Avión enemigo destruido por artillero"
+
+msgid "HUD_DESCRIPTION_REVENGE"
+msgstr "Avión enemigo destruido en venganza"
+
+msgid "HUD_DESCRIPTION_ROCKETEER"
+msgstr "Avión enemigo destruido por cohete"
+
+msgid "HUD_DESCRIPTION_SECTOR_AIRBASE"
+msgstr "Permite elegir los aviones de refuerzo"
+
+msgid "HUD_DESCRIPTION_SECTOR_AIRBASE_1"
+msgstr ""
+"Permite <font color='#e5a82e'>seleccionar un nuevo avión disponible</font> "
+
+msgid "HUD_DESCRIPTION_SECTOR_AIRBASE_2"
+msgstr ""
+"<font color='#e5a82e'>Reduce el tiempo de aparición</font> para todos los "
+"nuevos aviones"
+
+msgid "HUD_DESCRIPTION_SECTOR_AIRBASE_3"
+msgstr "Permite <font color='#e5a82e'>reparar</font> un avión"
+
+msgid "HUD_DESCRIPTION_SECTOR_AIRFIELD"
+msgstr "Disminuye el tiempo que tardan en llegar los aviones de refuerzo"
+
+msgid "HUD_DESCRIPTION_SECTOR_ALL_AIRFIELDS"
+msgstr "Permite reparar un avión"
+
+msgid "HUD_DESCRIPTION_SECTOR_COMMANDCENTER"
+msgstr ""
+"Proporciona comunicaciones con el cuartel general del frente para solicitar "
+"una escuadrilla de ataque"
+
+msgid "HUD_DESCRIPTION_SECTOR_COMMANDCENTER_1"
+msgstr ""
+"Solicita que <font color='#e5a82e'>escuadrones de bombarderos</font> ataquen "
+"objetivos terrestres"
+
+msgid "HUD_DESCRIPTION_SECTOR_FACTORY"
+msgstr "Aumenta la influencia en la zona de operaciones"
+
+msgid "HUD_DESCRIPTION_SECTOR_FOUNDRY"
+msgstr "Produce regularmente una gran cantidad de recursos"
+
+msgid "HUD_DESCRIPTION_SECTOR_FOUNDRY_1"
+msgstr ""
+"<font color='#e5a82e'>80 recursos adicionales</font> cada <font "
+"color='#e5a82e'>120 segundos</font>."
+
+msgid "HUD_DESCRIPTION_SECTOR_MILITARYBASE"
+msgstr "Lanza ataques de cohetes sobre los objetivos terrestres enemigos"
+
+msgid "HUD_DESCRIPTION_SECTOR_MILITARYBASE_1"
+msgstr ""
+"Lanza <font color='#e5a82e'>ataques de cohetes</font> sobre objetivos "
+"terrestes en sectores cercanos"
+
+msgid "HUD_DESCRIPTION_SECTOR_RUNWAY"
+msgstr ""
+"Sirve como lugar por el que los aviones de refuerzo entran en la zona de "
+"operaciones"
+
+msgid "HUD_DESCRIPTION_SECTOR_RUNWAY_1"
+msgstr ""
+"Se puede seleccionar como<font color='#e5a82e'>un punto de salida</font> "
+"para nuevos aviones"
+
+msgid "HUD_DIAMETER_RADAR_AREA"
+msgstr "Radio de la zona visible"
+
+msgid "HUD_DRAW_DOMINATION"
+msgstr "Empate"
+
+msgid "HUD_DRAW_PLAYERS"
+msgstr "¡Todos los aviones destruidos!"
+
+msgid "HUD_DRAW_STR"
+msgstr "Empate"
+
+msgid "HUD_DRAW_STR_APRIL"
+msgstr "Se salieron con la suya esta vez..."
+
+msgid "HUD_DRAW_SUPERIORITY_STR"
+msgstr "Ambos bandos tenían los mismos recursos en la zona de operaciones."
+
+msgid "HUD_DRAW_TIME"
+msgstr "¡Expiró el tiempo de batalla!"
+
+msgid "HUD_EFFECTIVENESS"
+msgstr "Rendimiento:"
+
+msgid "HUD_ENEMIES_BASE_DESTROYING_STR"
+msgstr "¡Cuartel general enemigo destruido!"
+
+msgid "HUD_ENEMIES_ELIMINATION_STR"
+msgstr "Todos los aviones enemigos están destruidos"
+
+msgid "HUD_ENEMY_ACHIEVEMENTS"
+msgstr "Logros enemigos"
+
+msgid "HUD_ENEMY_AIR_STRIKE_INCOMING"
+msgstr "Escuadrilla de ataque enemiga detectada."
+
+msgid "HUD_ENEMY_BASE_ATACKED"
+msgstr "¡Cuartel general enemigo bajo ataque!"
+
+msgid "HUD_ENEMY_BASE_ATACK_FIRST"
+msgstr "Objetivo terrestre detectado. Salva en {t} segundos."
+
+msgid "HUD_ENEMY_BASE_ATACK_SECOND"
+msgstr "Fuego ajustado. Salva en {t} segundos."
+
+msgid "HUD_ENEMY_CAP_COMPLEX"
+msgstr "¡Capturado por el enemigo!"
+
+msgid "HUD_ENEMY_DEATH_KILLER_STR"
+msgstr "{ico1} [{k}] destruyó a {ico2} [{v}]"
+
+msgid "HUD_ENEMY_INFLUENCE_75"
+msgstr "¡El enemigo consiguió el 75 % de los recursos necesarios!"
+
+msgid "HUD_ENEMY_PLANES"
+msgstr "Destruir avión enemigo"
+
+msgid "HUD_ENEMY_PLANES_DESTROYED_A-B"
+msgstr "Aviones enemigos destruidos (aviones de ataque y bombarderos)"
+
+msgid "HUD_ENEMY_PLANES_DESTROYED_F-MR-HF"
+msgstr ""
+"Aviones enemigos destruidos (cazas, cazas polivalentes y cazas pesados)"
+
+msgid "HUD_ENEMY_SUPERIORITY_CAPS"
+msgstr "EL ENEMIGO HA ALCANZADO LA SUPERIORIDAD AÉREA"
+
+msgid "HUD_ENEMY_SUPERIORITY_DESCRIPTION"
+msgstr "Se ha perdido el control sobre la zona de operaciones"
+
+msgid "HUD_ENEMY_TEAM_SCORE"
+msgstr "Enemigos"
+
+msgid "HUD_ENGINE_HOT_STR"
+msgstr "¡Aviso! ¡El motor se está calentando!"
+
+msgid "HUD_ENGINE_OVERHEAT_STR"
+msgstr "¡Motor recalentado!"
+
+msgid "HUD_ESCORT_ASSAULT_ATTACK_TIP_1"
+msgstr "Captura fortalezas enemigas destruyendo objetivos terrestres"
+
+msgid "HUD_ESCORT_ASSAULT_ATTACK_TIP_2"
+msgstr "Elimina defensas AA de gran altura"
+
+msgid "HUD_ESCORT_ASSAULT_ATTACK_TIP_3"
+msgstr "Usa bombas y cohetes para destruir objetivos terrestres"
+
+msgid "HUD_ESCORT_BOMBER_ATTACK_TIP_1"
+msgstr "Captura fortalezas enemigas destruyendo objetivos terrestres"
+
+msgid "HUD_ESCORT_BOMBER_ATTACK_TIP_2"
+msgstr ""
+"Atrae el fuego de los cañones AA enemigos para ayudar al grupo de "
+"bombarderos a romper el frente"
+
+msgid "HUD_ESCORT_BOMBER_ATTACK_TIP_3"
+msgstr ""
+"Usa la torreta como defensa, o activa el impulsor para alejarte de la acción"
+
+msgid "HUD_ESCORT_FIGHTER_ATTACK_TIP_1"
+msgstr "Escolta a los grupos de bombarderos estratégicos"
+
+msgid "HUD_ESCORT_FIGHTER_ATTACK_TIP_2"
+msgstr "Destruye aviones enemigos atacando al grupo de bombarderos"
+
+msgid "HUD_ESCORT_FIGHTER_ATTACK_TIP_3"
+msgstr ""
+"Enfréntate en combate de maniobras bajo cobertura del fuego de torreta del "
+"grupo de bombarderos"
+
+msgid "HUD_ESCORT_FIGHTER_DEF_TIP_1"
+msgstr "Destruye aviones del grupo de combate enemigo"
+
+msgid "HUD_ESCORT_FIGHTER_DEF_TIP_2"
+msgstr "Defiende las defensas AA de gran altura en los sectores de fortaleza"
+
+msgid "HUD_ESCORT_FIGHTER_DEF_TIP_3"
+msgstr "Destruye bombarderos estratégicos enemigos"
+
+msgid "HUD_ESCORT_HF_ATTACK_TIP_1"
+msgstr "Destruye aviones enemigos"
+
+msgid "HUD_ESCORT_HF_ATTACK_TIP_2"
+msgstr "Defiende a los grupos de bombarderos estratégicos"
+
+msgid "HUD_ESCORT_HF_ATTACK_TIP_3"
+msgstr "Elimina defensas AA de gran altura usando tus armas externas"
+
+msgid "HUD_ESCORT_HF_DEF_TIP_1"
+msgstr "Destruye bombarderos estratégicos enemigos"
+
+msgid "HUD_ESCORT_HF_DEF_TIP_2"
+msgstr "Destruye aviones del grupo de combate enemigo"
+
+msgid "HUD_ESCORT_HF_DEF_TIP_3"
+msgstr "Usa tu velocidad y ventaja armamentística en combates de gran altura"
+
+msgid "HUD_ESCORT_NAVI_ATTACK_TIP_1"
+msgstr "Elimina defensas AA de gran altura usando tus armas externas"
+
+msgid "HUD_ESCORT_NAVI_ATTACK_TIP_2"
+msgstr "Protege a los aviones de ataque en tu grupo de combate"
+
+msgid "HUD_ESCORT_NAVI_ATTACK_TIP_3"
+msgstr "Escolta a los grupos de bombarderos estratégicos"
+
+msgid "HUD_ESCORT_NAVI_DEF_TIP_1"
+msgstr "Destruye aviones del grupo de combate enemigo"
+
+msgid "HUD_ESCORT_NAVI_DEF_TIP_2"
+msgstr "Defiende las defensas AA de gran altura en los sectores de fortaleza"
+
+msgid "HUD_ESCORT_NAVI_DEF_TIP_3"
+msgstr "Destruye bombarderos estratégicos enemigos"
+
+msgid "HUD_EVENT_ALLY_ATTACK_INCOMING_TEXT"
+msgstr "Los grupo de bombarderos están entrando en la zona de operaciones"
+
+msgid "HUD_EVENT_ALLY_REINFORCEMENTS_NOT_AVAILABLE"
+msgstr "Reserva de aviones de refuerzo agotada"
+
+msgid "HUD_EVENT_ALLY_REINFORCEMENTS_NOT_AVAILABLE_CAPS"
+msgstr "RESERVA DE REFUERZOS AGOTADA"
+
+msgid "HUD_EVENT_ALLY_REINFORCEMENTS_NOT_AVAILABLE_DESCRIPTION"
+msgstr "¡Últimos aviones aliados!"
+
+msgid "HUD_EVENT_ATTACK_BOMBERS_INCOMING"
+msgstr "¡Avance!"
+
+msgid "HUD_EVENT_ATTACK_INCOMING_CAPS"
+msgstr "NUEVO INTENTO DE ROMPER EL FRENTE"
+
+msgid "HUD_EVENT_ATTACK_OUR_BOMBERS_INCOMING"
+msgstr "Nuevos grupos de bombarderos en camino"
+
+msgid "HUD_EVENT_BOMBERS_REACHED_POINT"
+msgstr "Los bombarderos se han abierto paso hasta su objetivo"
+
+msgid "HUD_EVENT_ENEMY_ATTACK_INCOMING_TEXT"
+msgstr "Grupos de bombarderos enemigos se aproximan a la línea del frente"
+
+msgid "HUD_EVENT_ENEMY_BOMBERS_DESTROYED"
+msgstr "Grupo de bombarderos enemigos destruido"
+
+msgid "HUD_EVENT_ENEMY_REINFORCEMENTS_NOT_AVAILABLE"
+msgstr "Reserva enemiga de aviones de refuerzo agotada"
+
+msgid "HUD_EVENT_ENEMY_REINFORCEMENTS_NOT_AVAILABLE_CAPS"
+msgstr "RESERVAS ENEMIGAS AGOTADAS"
+
+msgid "HUD_EVENT_ENEMY_REINFORCEMENTS_NOT_AVAILABLE_DESCRIPTION"
+msgstr "¡Últimos aviones enemigos!"
+
+msgid "HUD_EVENT_ENEMY_SPAWN_POINT_MOVED"
+msgstr "Los refuerzos enemigos han avanzado hacia la línea del frente"
+
+msgid "HUD_EVENT_INCOMING_MIN"
+msgstr "Llegará en {value} min"
+
+msgid "HUD_EVENT_INCOMING_SEC"
+msgstr "Llegará en {value} min"
+
+msgid "HUD_EVENT_LAST_ALLY_ATTACK_INCOMING_SMALL_BANNER"
+msgstr ""
+"¡Escolta a los grupos de bombarderos a su objetivo por todos los medios!"
+
+msgid "HUD_EVENT_LAST_ALLY_ATTACK_INCOMING_TEXT"
+msgstr "¡Los bombarderos deben alcanzar su objetivo por cualquier medio!"
+
+msgid "HUD_EVENT_LAST_ATTACK_INCOMING"
+msgstr "Último ataque"
+
+msgid "HUD_EVENT_LAST_ATTACK_INCOMING_CAPS"
+msgstr "ÚLTIMO INTENTO DE ROMPER EL FRENTE"
+
+msgid "HUD_EVENT_LAST_ENEMY_ATTACK_INCOMING_SMALL_BANNER"
+msgstr "¡Destruye a los grupos de bombarderos por todos los medios!"
+
+msgid "HUD_EVENT_LAST_ENEMY_ATTACK_INCOMING_TEXT"
+msgstr "¡Hay que destruir a los bombarderos enemigos restantes!"
+
+msgid "HUD_EVENT_NAME_WESTWALL"
+msgstr "Operación Muro del Oeste"
+
+msgid "HUD_EVENT_NOT_ENOUGH_BOMBERS"
+msgstr "No quedan suficientes bombarderos para lograr el objetivo"
+
+msgid "HUD_EVENT_NOT_ENOUGH_BOMBERS_HEADING"
+msgstr "¡DESTRUYE AL GRUPO INTERCEPTADOR!"
+
+msgid "HUD_EVENT_NOT_ENOUGH_ENEMY_BOMBERS"
+msgstr "No quedan suficientes bombarderos enemigos para romper la línea"
+
+msgid "HUD_EVENT_NOT_ENOUGH_ENEMY_BOMBERS_HEADING"
+msgstr "¡NO DEJES QUE EL ENEMIGO TE DESTRUYA!"
+
+msgid "HUD_EVENT_OUR_BOMBERS_DESTROYED"
+msgstr "Grupo de bombarderos destruido"
+
+msgid "HUD_EVENT_OUR_SPAWN_POINT_MOVED"
+msgstr "Nuestros refuerzos han avanzado hacia la línea del frente"
+
+msgid "HUD_EVENT_PROTECT"
+msgstr "¡El grupo necesita cobertura!"
+
+msgid "HUD_EVENT_PROTECT_DESCRIPTION"
+msgstr "El grupo de bombarderos se aproxima a la línea del frente"
+
+msgid "HUD_EVENT_REINFORCEMENTS_NOT_AVAILABLE"
+msgstr "No se pueden pedir refuerzos"
+
+msgid "HUD_EVENT_RETREAT"
+msgstr "¡Retirada!"
+
+msgid "HUD_EVENT_RETREAT_ENEMY_BOMBERS_INCOMING"
+msgstr "Se esperan nuevos grupos de bombarderos enemigos"
+
+msgid "HUD_EVENT_SECTOR_SPAWNED"
+msgstr "Frente restaurado"
+
+msgid "HUD_EVENT_SECTOR_SPAWNED_DESCRIPTION"
+msgstr "Sistemas de defensa AA desplegados"
+
+msgid "HUD_EVENT_SPAWN_POINT_MOVED"
+msgstr "Frente roto"
+
+msgid "HUD_EVENT_TO_INTERCEPT"
+msgstr "¡Intercepta!"
+
+msgid "HUD_EVENT_TO_INTERCEPT_DESCRIPTION"
+msgstr "Se aproxima un grupo de bombarderos enemigos"
+
+msgid "HUD_F1_ARMORED_OBJECT_AA_SECTORS"
+msgstr "Objetivos terrestres blindados"
+
+msgid "HUD_F1_DEFEND_SECTOR"
+msgstr "Defensa del sector"
+
+msgid "HUD_F1_OPERATION_AREA"
+msgstr "Zona de operaciones"
+
+msgid "HUD_F1_PLANE_DEFENDERS_SECTORS"
+msgstr "Avión de defensa aérea: caza / caza pesado"
+
+msgid "HUD_F1_SECTORS"
+msgstr "Sectores"
+
+msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_1"
+msgstr ""
+"Puede seleccionarse como zona de salida para los aviones de refuerzo. Genera "
+"3 recursos cada 5 segundos."
+
+msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_1_ALT"
+msgstr "Puede seleccionarse como punto de salida para los aviones de refuerzo."
+
+msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_2"
+msgstr ""
+"Puede seleccionarse como zona de salida para los aviones de refuerzo. Reduce "
+"su tiempo de llegada en 10 segundos. Genera 3 recursos cada 5 segundos."
+
+msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_3"
+msgstr ""
+"Puede seleccionarse como zona de salida para los aviones de refuerzo. "
+"Permite seleccionar un nuevo avión disponible del mismo nivel. Reduce su "
+"tiempo de llegada en 10 segundos. Permite que se restaura la durabilidad de "
+"los aviones y se repare el daño crítico. Genera 3 recursos cada 5 segundos."
+
+msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_3_ALT"
+msgstr ""
+"Puede seleccionarse como zona de salida para los aviones de refuerzo. "
+"Permite seleccionar un nuevo avión disponible del mismo nivel. Reduce su "
+"tiempo de llegada en 10 segundos. Permite que se restaura la durabilidad de "
+"los aviones y se repare el daño crítico."
+
+msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_4"
+msgstr ""
+"Lanza descargas de cohetes sobre los objetivos terrestres enemigos. Genera 3 "
+"recursos cada 5 segundos."
+
+msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_4_ALT"
+msgstr "Lanza ataques con cohetes sobre objetivos terrestres enemigos."
+
+msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_5"
+msgstr ""
+"Solicita escuadrillas de bombarderos para atacar objetivos terrestres. "
+"Genera 3 recursos cada 5 segundos."
+
+msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_5_ALT"
+msgstr ""
+"Solicita una escuadrilla de bombarderos para atacar los objetivos terrestres "
+"enemigos."
+
+msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_6"
+msgstr ""
+"Genera 3 recursos cada 5 segundos. Además, genera 80 recursos cada 120 "
+"segundos."
+
+msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_6_ALT"
+msgstr "Presenta una buena resistencia a los ataques enemigos."
+
+msgid "HUD_F1_TEAM_SPAWNS_AVAILABLE"
+msgstr ""
+"Número de aviones de refuerzo disponibles para el grupo de combate completo"
+
+msgid "HUD_F1_UNARMORED_OBJECT_AA_SECTORS"
+msgstr ""
+"Objetivos terrestres no blindados: unidad / cañón AA / cañón AA de alta cota"
+
+msgid "HUD_FIRE_MODULE"
+msgstr "[{module}] dañado por el fuego."
+
+msgid "HUD_FLIGHT"
+msgstr "Salida"
+
+msgid "HUD_FRAME_PER_SECOND"
+msgstr "fps"
+
+msgid "HUD_GAMEMOD_ESCORT_ATTACK_TIP_1"
+msgstr ""
+"Para lograr la victoria, escolta a los grupos de bombarderos hasta su "
+"objetivo"
+
+msgid "HUD_GAMEMOD_ESCORT_ATTACK_TIP_2"
+msgstr ""
+"Destruye las defensas AA que el enemigo despliegue en la trayectoria de los "
+"grupos de bombarderos"
+
+msgid "HUD_GAMEMOD_ESCORT_ATTACK_TIP_3"
+msgstr ""
+"Capturar el sector de fortalezas delantero acerca el punto de volver a salir "
+"a la línea del frente"
+
+msgid "HUD_GAMEMOD_ESCORT_DEF_TIP_1"
+msgstr ""
+"Para lograr la victoria, impide que los grupos de bombarderos alcancen su "
+"objetivo"
+
+msgid "HUD_GAMEMOD_ESCORT_DEF_TIP_2"
+msgstr ""
+"Nuestras defensas de gran altura son especialmente eficaces contra grupos de "
+"bombarderos enemigos"
+
+msgid "HUD_GAMEMOD_ESCORT_DEF_TIP_3"
+msgstr ""
+"Perder el sector de fortalezas delantero acerca el punto de volver a salir "
+"del enemigo a la línea del frente"
+
+msgid "HUD_GAMEMOD_ESCORT_GENERAL_TIP_1"
+msgstr ""
+"La disposición del campo de batalla cambia constantemente durante la "
+"batalla: prepárate para reaccionar rápido"
+
+msgid "HUD_GAMEMOD_ESCORT_GENERAL_TIP_2"
+msgstr "Destruir todos los aviones enemigos es otra clave para la victoria"
+
+msgid "HUD_GAMEMOD_GENERAL_INFO"
+msgstr "Marcadores de batalla"
+
+msgid "HUD_GAMEMOD_GENERAL_INFO_AA"
+msgstr "Número de cañones AA de gran altura"
+
+msgid "HUD_GAMEMOD_GENERAL_INFO_BOMBERS"
+msgstr "Número de aviones en el grupo de bombarderos"
+
+msgid "HUD_GAMEMOD_GENERAL_INFO_MAIN_OBJECT"
+msgstr ""
+"Un objetivo estratégico es un objetivo que el grupo de bombarderos debe "
+"destruir"
+
+msgid "HUD_GAMEMOD_GENERAL_INFO_REINFORCEMENTS"
+msgstr "Refuerzos"
+
+msgid "HUD_GAME_RESULT_STR"
+msgstr "{s} {r}"
+
+msgid "HUD_GAME_TEAM_ATTACK"
+msgstr "Escolta a los bombarderos estratégicos a su objetivo"
+
+msgid "HUD_GAME_TEAM_ATTACK_DESCRIPTION"
+msgstr ""
+"Activa grupos de bombarderos para romper la línea de defensa enemiga. "
+"Elimina los cañones AA de gran altura en fortalezas con antelación."
+
+msgid "HUD_GAME_TEAM_DEF"
+msgstr "Defiende el objetivo estratégico"
+
+msgid "HUD_GAME_TEAM_DEF_DESCRIPTION"
+msgstr ""
+"No permitas que los grupos de bombarderos alcancen su objetivo. Defiende "
+"cañones AA de gran altura en fortalezas: son especialmente eficaces contra "
+"el enemigo."
+
+msgid "HUD_GAME_TIP_TEAM_ATTACK_CAPS"
+msgstr "GRUPO ESCOLTA"
+
+msgid "HUD_GAME_TIP_TEAM_DEF_CAPS"
+msgstr "GRUPO INTERCEPTADOR"
+
+msgid "HUD_GAME_TYPE_DESCRIPTION_AREACONQUEST"
+msgstr ""
+"Misión del grupo personales: Conseguir los recursos requeridos en la zona de "
+"operaciones. Capturar y mantener los sectores para ganar."
+
+msgid "HUD_GAME_TYPE_NAME_AREACONQUEST"
+msgstr "Conquista"
+
+msgid "HUD_GAME_TYPE_NAME_ATTRITION"
+msgstr "Guerra de desgaste"
+
+msgid "HUD_GAME_TYPE_NAME_ESCORT"
+msgstr "Escolta"
+
+msgid "HUD_GAME_TYPE_NAME_INVASION"
+msgstr "Invasión"
+
+msgid "HUD_GENERAL_TIP_ATTACK_1"
+msgstr ""
+"Las bombas y los cohetes son eficaces para destruir objetivos terrestres "
+"blindados."
+
+msgid "HUD_GENERAL_TIP_ATTACK_2"
+msgstr ""
+"El fuego sostenido con el armamento frontal produce sobrecalentamiento. Se "
+"reduce significativamente la cadencia de tiro."
+
+msgid "HUD_GENERAL_TIP_ATTACK_3"
+msgstr ""
+"Los cañones automáticos de gran calibre pueden inmovilizar a los aviones "
+"enemigos al causarles daños críticos."
+
+msgid "HUD_GENERAL_TIP_ATTACK_4"
+msgstr ""
+"Las baterías de ametralladoras de tiro rápido son más eficaces en "
+"combinación con la munición incendiaria."
+
+msgid "HUD_GENERAL_TIP_ATTACK_5"
+msgstr ""
+"Las torretas defensivas sirven para repeler los ataques de cazas enemigos."
+
+msgid "HUD_GENERAL_TIP_ATTACK_6"
+msgstr ""
+"Enemigos de ataque equipados con torretas defensivas fuera de su campo de "
+"tiro."
+
+msgid "HUD_GENERAL_TIP_ATTACK_7"
+msgstr "Los cazas pesados son más eficaces contra aviones grandes y robustos."
+
+msgid "HUD_GENERAL_TIP_DAMAGE_1"
+msgstr "El daño crítico a un motor produce pérdida de velocidad y empuje."
+
+msgid "HUD_GENERAL_TIP_DAMAGE_2"
+msgstr ""
+"El daño crítico a las alas o a la cola reduce significativamente la "
+"maniobrabilidad del avión."
+
+msgid "HUD_GENERAL_TIP_DAMAGE_3"
+msgstr "Un piloto herido disparará con menos eficacia."
+
+msgid "HUD_GENERAL_TIP_DAMAGE_4"
+msgstr "Un artillero herido no puede disparar el armamento."
+
+msgid "HUD_GENERAL_TIP_GAMEMOD_1"
+msgstr ""
+"El control sobre los aeródromos proporciona superioridad táctica a un grupo "
+"de combate y permite responder con flexibilidad a los cambios en el campo de "
+"batalla."
+
+msgid "HUD_GENERAL_TIP_GAMEMOD_2"
+msgstr "Las plantas producen un número significativo de recursos."
+
+msgid "HUD_GENERAL_TIP_GAMEMOD_3"
+msgstr ""
+"Las bases militares pueden atacar objetivos terrestres situados en sectores "
+"cercanos. Su sistema de defensa mejorado supone un peligro para todos los "
+"tipos de aviones."
+
+msgid "HUD_GENERAL_TIP_GAMEMOD_4"
+msgstr ""
+"Los centros de mando permiten comunicarse con los cuarteles generales del "
+"frente para solicitar apoyo."
+
+msgid "HUD_GENERAL_TIP_GAMEMOD_5"
+msgstr ""
+"El control sobre objetivos terrestres estratégicos incrementa el número de "
+"recursos adquiridos."
+
+msgid "HUD_GENERAL_TIP_GAMEMOD_6"
+msgstr ""
+"Cada sector está protegido por un sistema de defensa antiaérea que consta de "
+"cañones AA y aviones de defensa aérea."
+
+msgid "HUD_GENERAL_TIP_GAMEMOD_7"
+msgstr ""
+"Destruye objetivos terrestres y aviones de defensa aérea en un sector para "
+"capturarlo. Destruir aviones enemigos también contribuye a una captura "
+"rápida."
+
+msgid "HUD_GENERAL_TIP_GAMEMOD_8"
+msgstr "Los puntos personales se ganan por acciones activas en batalla."
+
+msgid "HUD_GENERAL_TIP_GAMEMOD_9"
+msgstr ""
+"La eficacia de ciertos tipos de aviones para capturar sectores depende del "
+"tipo de objetivo terrestre estratégico situado en esos sectores."
+
+msgid "HUD_GENERAL_TIP_MANEUVER_1"
+msgstr ""
+"Las maniobras activan ayudan a esquivar el fuego de aviones enemigos y "
+"cañones AA."
+
+msgid "HUD_GENERAL_TIP_MANEUVER_2"
+msgstr ""
+"Los toneles de alta velocidad permiten a un avión escaparse con eficacia de "
+"un ataque enemigo."
+
+msgid "HUD_GENERAL_TIP_MANEUVER_3"
+msgstr "Los cazas superan en maniobrabilidad a otros tipos de aviones."
+
+msgid "HUD_GENERAL_TIP_MANEUVER_4"
+msgstr ""
+"Para realizar un giro de 360° o mayor, ladea y gira en la dirección "
+"necesaria."
+
+msgid "HUD_GENERAL_TIP_MANEUVER_5"
+msgstr "Un rizo es un giro de 360 grados en el plano vertical."
+
+msgid "HUD_GENERAL_TIP_MANEUVER_6"
+msgstr ""
+"Un tonel es una maniobra en la que el avión realiza una rotación completa "
+"tanto en su eje longitudinal como en el lateral."
+
+msgid "HUD_GENERAL_TIP_MANEUVER_7"
+msgstr ""
+"La ventaja en maniobrabilidad permite al avión ponerse rápidamente en la "
+"cola del avión enemigo y elegir el ángulo óptimo de ataque."
+
+msgid "HUD_GENERAL_TIP_MANEUVER_8"
+msgstr ""
+"Cabecea el avión arriba y abajo (teclas de dirección arriba y abajo por "
+"defecto) para controlar el avión con mayor precisión al virar."
+
+msgid "HUD_GENERAL_TIP_MANEUVER_9"
+msgstr ""
+"Una maniobra «tonel de carlinga» permite escapar de fuego enemigo e "
+"incrementar la supervivencia del avión. Para realizar la maniobra, pulsa "
+"simultáneamente una tecla de cabeceo (las flechas arriba y abajo por "
+"defecto) y una tecla de alabeo (A y D por defecto)."
+
+msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_1"
+msgstr ""
+"El impulsor es un modo del motor que incrementa significativamente el empuje "
+"y la velocidad de vuelo."
+
+msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_10"
+msgstr ""
+"Una velocidad en vuelo ventajosa ayuda a escapar con facilidad del peligro."
+
+msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_11"
+msgstr ""
+"Los cazas pesados tienen una velocidad superior a la de otros tipos de "
+"aviones."
+
+msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_2"
+msgstr ""
+"Un picado es un descenso en ángulo pronunciado. Los cazas pesados suelen "
+"usar los ataques en picado."
+
+msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_3"
+msgstr ""
+"El techo de vuelo es la altitud máxima a la que un avión puede mantener el "
+"vuelo horizontal estable."
+
+msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_4"
+msgstr ""
+"Activa el impulsor para ganar velocidad de vuelo o altitud con rapidez."
+
+msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_5"
+msgstr "Extiende los flaps para reducir la velocidad de vuelo con rapidez."
+
+msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_6"
+msgstr ""
+"La controlabilidad del avión se reduce cuando su velocidad de vuelo alcanza "
+"el límite inferior."
+
+msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_7"
+msgstr ""
+"Si la velocidad del avión se reduce por debajo de su límite crítico, el "
+"avión se vuelve incontrolable."
+
+msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_8"
+msgstr ""
+"Activa el impulsor o lánzate en picado para ganar rápidamente velocidad de "
+"vuelo."
+
+msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_9"
+msgstr ""
+"El rendimiento del vuelo mejora cuando el avión vuela dentro de su rango de "
+"altitud óptima."
+
+msgid "HUD_GUNNER_KILL_SOMEBODY_STR"
+msgstr "Tu artillero destruyó a {ico} [{v}]."
+
+msgid "HUD_HEADER_PANEL_1"
+msgstr "Puntuación"
+
+msgid "HUD_HEADER_PANEL_2"
+msgstr "Comparar"
+
+msgid "HUD_HEADER_PANEL_3"
+msgstr "Consejos"
+
+msgid "HUD_HEADER_TEAM_LIST"
+msgstr "Panel del equipo"
+
+msgid "HUD_HEALTH_STR"
+msgstr "{health} PV"
+
+msgid "HUD_HEAVY_ARMORED_OBJECT"
+msgstr "Objetivo terrestre con blindaje pesado"
+
+msgid "HUD_HIGHT_MAX"
+msgstr "Techo de vuelo"
+
+msgid "HUD_INCREASE_RADAR"
+msgstr "Aumentar el tamaño del radar"
+
+msgid "HUD_INTO_BATTLE"
+msgstr "Comenzar salida"
+
+msgid "HUD_INTO_BATTLE_CAPS"
+msgstr "COMENZAR SALIDA"
+
+msgid "HUD_INVASION_ATTACK_SECTORS"
+msgstr "Captura todos los sectores"
+
+msgid "HUD_INVASION_ATTACK_SECTORS_DESCRIPTION"
+msgstr ""
+"Toma el control sobre todos los sectores enemigos durante el tiempo "
+"asignado. Cada nuevo sector capturado añade tiempo extra para el siguiente "
+"ataque."
+
+msgid "HUD_INVASION_DEFEND_SECTORS"
+msgstr "Defiende tus sectores"
+
+msgid "HUD_INVASION_DEFEND_SECTORS_DESCRIPTION"
+msgstr ""
+"Evita que el enemigo capture todos los sectores en el tiempo asignado. Cada "
+"nuevo sector capturado añade tiempo extra para el siguiente ataque."
+
+msgid "HUD_KILL_ENEMY_PLANES_CLASS_QUEST"
+msgstr "Destruye los aviones del grupo de combate enemigo"
+
+msgid "HUD_KILL_SOMEBODY_STR"
+msgstr "{ico} [{v}] destruido"
+
+msgid "HUD_KILOMETERS"
+msgstr "km"
+
+msgid "HUD_LEAVE_FROM_BATTLE_EVENT_TEXT"
+msgstr ""
+"¡Piloto! La batalla aún no ha terminado. Salir de la batalla antes de tiempo "
+"supondrá la imposición de una sanción disciplinaria: <font "
+"color='#e5a82e'>¡no recibirás golosinas, y recibirás 1000 puntos personales "
+"menos</font>!"
+
+msgid "HUD_LEAVE_FROM_BATTLE_HEADER"
+msgstr "Salir antes de tiempo"
+
+msgid "HUD_LEAVE_FROM_BATTLE_TEXT"
+msgstr ""
+"¡Piloto! La batalla aún no ha terminado. Salir de la batalla antes de tiempo "
+"supondrá la imposición de una sanción disciplinaria: <font "
+"color='#e5a82e'>¡recibirás 1000 puntos personales menos</font>!"
+
+msgid "HUD_LOCKED"
+msgstr "Bloqueado"
+
+msgid "HUD_LOCK_TARGET_TEXT"
+msgstr " "
+
+msgid "HUD_LOCK_TARGET_TEXT_2"
+msgstr "Objetivo fijado"
+
+msgid "HUD_LOGIN_BAD_DIGEST_STR"
+msgstr "Fallo conectándose al servidor. Por favor actualiza el juego."
+
+msgid "HUD_LOOSERS_STR"
+msgstr "Derrota"
+
+msgid "HUD_LOOSERS_STR_APRIL"
+msgstr "¡Lo volamos!"
+
+msgid "HUD_LOOSE_ATTRITION_STR"
+msgstr "El enemigo ha agotado nuestros últimos recursos"
+
+msgid "HUD_LOOSE_DOMINATION_STR"
+msgstr "¡El equipo enemigo logró la superioridad aérea!"
+
+msgid "HUD_LOOSE_SECTORS_STR"
+msgstr "El enemigo ha tomado el control sobre todos los sectores"
+
+msgid "HUD_LOOSE_SUPERIORITY_STR"
+msgstr "El enemigo ha tomado el control de la zona de operaciones"
+
+msgid "HUD_LOOSE_TIME_OVER_STR"
+msgstr "Se perdió la iniciativa. El tiempo de ataque terminó."
+
+msgid "HUD_MANEUVER_REDUCED"
+msgstr "¡La maniobrabilidad se ha reducido!"
+
+msgid "HUD_MANEUVER_RESTORED"
+msgstr "La maniobrabilidad se ha restaurado parcialmente."
+
+msgid "HUD_MAP_BORDER_TOO_CLOSE"
+msgstr "¡Vuelve al campo de batalla!"
+
+msgid "HUD_MAP_BORDER_TOO_CLOSE_APRIL"
+msgstr "¿Hey, estás desertando?"
+
+msgid "HUD_MAP_LOADING_SPAWN"
+msgstr "Punto de salida"
+
+msgid "HUD_MAP_LOADING_SPAWN_ALL"
+msgstr ""
+"Lugar desde el que tu avión o grupo de combate entra la zona de operaciones."
+
+msgid "HUD_MAP_LOADING_SPAWN_ALL_ALT"
+msgstr ""
+"Lugar por el que los aviones del grupo de combate entrarán la zona de "
+"operaciones"
+
+msgid "HUD_MAP_LOADING_SPAWN_CAPS"
+msgstr "PUNTO DE SALIDA"
+
+msgid "HUD_MAP_LOADING_SPAWN_ENEMY"
+msgstr ""
+"Lugar desde el que los aviones del grupo de combate enemigo entran la zona "
+"de operaciones."
+
+msgid "HUD_MAP_LOADING_SPAWN_ENEMY_ALT"
+msgstr ""
+"Lugar por el que los aviones del grupo enemigo de combate entran en la zona "
+"de operaciones"
+
+msgid "HUD_MEDIUM_ARMORED_OBJECT"
+msgstr "Objetivo terrestre con blindaje intermedio"
+
+msgid "HUD_MEDIUM_OBJECT"
+msgstr "Objetivo terrestre intermedio"
+
+msgid "HUD_MESSAGES_100-INFLUENCE"
+msgstr "de recursos"
+
+msgid "HUD_MESSAGES_25-INFLUENCE"
+msgstr "de recursos"
+
+msgid "HUD_MESSAGES_50-INFLUENCE"
+msgstr "de recursos"
+
+msgid "HUD_MESSAGES_ASSIST_VALUE"
+msgstr "Aviones destruidos con tu asistencia"
+
+msgid "HUD_MESSAGES_BATTLE_POINTS_VALUE"
+msgstr "Puntos personales conseguidos"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_ASSIST_BOMBER"
+msgstr "Asistencia en la destrucción de bombarderos de escuadrilla de ataque"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_ASSIST_DEFENDER"
+msgstr "Asistencia en la destrucción de aviones de defensa aérea"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_ASSIST_ENEMY_PLANES"
+msgstr "Asistencia en la destrucción de aviones enemigos"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_ASSIST_GROUND"
+msgstr "Asistencia en la destrucción de objetivos terrestres"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_ATTACK_SECTOR"
+msgstr "Acciones ofensivas"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_BONUS_FOR_END"
+msgstr "Bonificación por participar en una batalla hasta el final"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_CRUCIALCONTRIBUTION_CAP_SECTOR"
+msgstr "Contribución significativa a la captura de sector"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_CRUCIALCONTRIBUTION_ENEMY_PLANES"
+msgstr "Contribución significativa a la destrucción de aviones enemigos"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_DAMAGE_ALLY"
+msgstr "Aliado dañado"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_DAMAGE_BOMBER"
+msgstr "Bombardero de escuadrilla de ataque dañado"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_DAMAGE_DEFENDER"
+msgstr "Avión de defensa aérea dañado"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_DAMAGE_ENEMY_PLANES"
+msgstr "Avión enemigo dañado"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_DAMAGE_HEAVY_ARMORED_OBJECT"
+msgstr "Objetivo terrestre de gran blindaje dañado"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_DAMAGE_MEDIUM_OBJECT"
+msgstr "Objetivo terrestre intermedio dañado"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_DAMAGE_SMALL_OBJECT"
+msgstr "Objetivo terrestre pequeño dañado"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_DAMAGE_SPECIAL_OBJECT"
+msgstr "Objetivo terrestre grande dañado"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_DEFEND_SECTOR"
+msgstr "Defensa del sector"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_DESTROY_AIRFIELD"
+msgstr "Aeródromo"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_DESTROY_ARMORED_PART"
+msgstr "Sección blindada de objetivo terrestre"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_DESTROY_BOMBER"
+msgstr "Bombardero de escuadrilla de ataque"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_DESTROY_PART"
+msgstr "Sección de objetivo terrestre"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_DESTROY_SPECIAL_OBJECT"
+msgstr "Objetivo terrestre grande"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_KILL_ALLY"
+msgstr "Aliado destruido"
+
+msgid "HUD_MESSAGES_BATTLE_SCORE_PARTICIPATION_CAP_SECTOR"
+msgstr "Participación en la captura del sector"
+
+msgid "HUD_MESSAGES_DEFENDER_DESTROYED_VALUE"
+msgstr "Aviones de defensa aérea destruidos"
+
+msgid "HUD_MESSAGES_ENEMY_DESTROYED_VALUE"
+msgstr "Aviones enemigos destruidos"
+
+msgid "HUD_MESSAGES_OBJECTS_DESTROYED_VALUE"
+msgstr "Objetivos terrestres destruidos"
+
+msgid "HUD_MESSAGES_PRESS_BUTTON_TO_LOCK_TARGET"
+msgstr "Presiona C para bloquear este objetivo."
+
+msgid "HUD_MESSAGES_SPACE"
+msgstr "Espacio"
+
+msgid "HUD_MESSAGE_ALLIES_DEAD"
+msgstr "¡Eres la última esperanza de tu equipo!"
+
+msgid "HUD_MESSAGE_ALLIES_DEAD_APRIL"
+msgstr "Ese incómodo momento cuando tú eres la última esperanza."
+
+msgid "HUD_MESSAGE_ALLMOST_LOSE"
+msgstr "¡El enemigo ha logrado un 75 % de ventaja!"
+
+msgid "HUD_MESSAGE_ALLMOST_LOSE_APRIL"
+msgstr "¡Oops! ¡Parece que estamos perdiendo!"
+
+msgid "HUD_MESSAGE_ALLMOST_WIN"
+msgstr "¡Tu equipo ha logrado un 75 % de ventaja!"
+
+msgid "HUD_MESSAGE_ALLMOST_WIN_APRIL"
+msgstr "¡La victoria está cerca! ¡Sigue así!"
+
+msgid "HUD_MESSAGE_ALLY_HIT"
+msgstr "¡Has alcanzado a un avión aliado!"
+
+msgid "HUD_MESSAGE_ALLY_SUPERIORITY"
+msgstr "Controlamos la zona de operaciones"
+
+msgid "HUD_MESSAGE_ASSAULT_NOT_ALLOWED_IN_DEF_TEAM"
+msgstr "Los aviones de ataque<br>no están disponibles para un grupo defensor."
+
+msgid "HUD_MESSAGE_ASSIST_INDICATOR"
+msgstr "asistido por {name}"
+
+msgid "HUD_MESSAGE_ASSIST_INDICATOR_EXTENDED"
+msgstr "Destruido con la ayuda de {name}"
+
+msgid "HUD_MESSAGE_ASSIST_ON_KILL"
+msgstr "Puntos de asistencia: {assist_percent}"
+
+msgid "HUD_MESSAGE_ATTACK_COMPLEX"
+msgstr "¡Apoya el ataque!"
+
+msgid "HUD_MESSAGE_ATTACK_PLUS_TIME"
+msgstr "+{time} s"
+
+msgid "HUD_MESSAGE_ATTACK_THIS_ENEMY"
+msgstr "<¡Ataque coordinado sobre {player}!>"
+
+msgid "HUD_MESSAGE_ATTACK_TIME_INCREASED"
+msgstr "¡Tiempo de ataque aumentado!"
+
+msgid "HUD_MESSAGE_AT_SQUARE"
+msgstr "Estás en el sector del mapa {square}."
+
+msgid "HUD_MESSAGE_AUTOPILOT"
+msgstr "Te has salido del área del mapa. El piloto automático está activado."
+
+msgid "HUD_MESSAGE_BACK_TO_BATTLE"
+msgstr "Para saltarte la escena introductoria, pulsa {button}."
+
+msgid "HUD_MESSAGE_BACK_TO_HANGAR IN"
+msgstr "De vuelta al Hangar en:"
+
+msgid "HUD_MESSAGE_BASE_DAMAGED_SUP2_TOP"
+msgstr "Cuartel general dañado"
+
+msgid "HUD_MESSAGE_BATTLE_END_IS_NEAR"
+msgstr "La operación va a finalizar en"
+
+msgid "HUD_MESSAGE_BOMBERS_NOT_ALLOWED_IN_DEF_TEAM"
+msgstr "Los bombarderos<br>no están disponibles para un grupo defensor."
+
+msgid "HUD_MESSAGE_BOOSTER_GAIN"
+msgstr "La fortaleza del cañón AA enemigo ha disminuido."
+
+msgid "HUD_MESSAGE_BOOSTER_LOST"
+msgstr "La fortaleza del cañón AA amigo ha disminuido."
+
+msgid "HUD_MESSAGE_BUILDING_DAMAGED_SUP2_TOP"
+msgstr "Edificio dañado"
+
+msgid "HUD_MESSAGE_CANNOT_BOOST_ENGINE_DEAD"
+msgstr "¡Falló el motor! ¡Imposible usar el impulsor!"
+
+msgid "HUD_MESSAGE_COMPLEX_NAME"
+msgstr "{complex_name}"
+
+msgid "HUD_MESSAGE_CREW_HAS_HEALED"
+msgstr "¡El {crew} se ha recuperado!"
+
+msgid "HUD_MESSAGE_CREW_MEMBER_HAS_RECOVERED"
+msgstr "{crew_member} vuelve a la acción."
+
+msgid "HUD_MESSAGE_DEFEAT_IS_NEAR"
+msgstr "¡Posible derrota!"
+
+msgid "HUD_MESSAGE_DEFEND_COMPLEX"
+msgstr "¡Defiende el sector!"
+
+msgid "HUD_MESSAGE_DISABLE_INTRO"
+msgstr "Pulsa {button} para saltarte siempre la escena introductoria."
+
+msgid "HUD_MESSAGE_DISABLE_INTRO_SWITCH"
+msgstr "Para activarla, ve a ajustes generales."
+
+msgid "HUD_MESSAGE_DISABLE_OUTRO"
+msgstr "Para volver al hangar inmediatamente, pulsa {button}."
+
+msgid "HUD_MESSAGE_EFFECTIVENESS_RESTORED"
+msgstr "La eficiencia se ha recuperado parcialmente."
+
+msgid "HUD_MESSAGE_ENEMIES_DEAD"
+msgstr "¡Solo queda un avión enemigo!"
+
+msgid "HUD_MESSAGE_ENEMIES_DEAD_APRIL"
+msgstr "¡Solo queda un avión enemigo! ¡Ve a por él!"
+
+msgid "HUD_MESSAGE_ENEMY_DESTROYED_OUR_BASE"
+msgstr "¡Cuartel general amigo destruido!"
+
+msgid "HUD_MESSAGE_ENEMY_DESTROYED_OUR_BUILDING"
+msgstr "¡Edificio amigo destruido!"
+
+msgid "HUD_MESSAGE_ENEMY_DESTROYED_OUR_TURRET"
+msgstr "¡Cañón AA amigo destruido!"
+
+msgid "HUD_MESSAGE_ENEMY_DESTROYED_OUR_VEHICLE"
+msgstr "¡Unidad aliada destruida!"
+
+msgid "HUD_MESSAGE_ENEMY_KILLED"
+msgstr "Enemigo destruido"
+
+msgid "HUD_MESSAGE_ENEMY_OBJECT_DOWN"
+msgstr "¡Objetivo enemigo destruido!"
+
+msgid "HUD_MESSAGE_ENEMY_SUPERIORITY"
+msgstr "El enemigo controla la zona de operaciones"
+
+msgid "HUD_MESSAGE_ENGINE_DAMAGED_LESS_AFTERBURN"
+msgstr "¡Motor dañado! ¡Disponibilidad del impulsor disminuida!"
+
+msgid "HUD_MESSAGE_ENGINE_DEAD_LESS_THRUST"
+msgstr "¡Falló el motor! ¡Perdemos empuje!"
+
+msgid "HUD_MESSAGE_ENGINE_OVERHEAT"
+msgstr "¡Motor recalentado!"
+
+msgid "HUD_MESSAGE_ENGINE_OVERHEAT_APRIL"
+msgstr "¡Enfría los motores! No vamos a ir al espacio."
+
+msgid "HUD_MESSAGE_ENGINE_OVERHEAT_LOW_BOOST"
+msgstr "Motor recalentado: eficiencia del impulsor reducida."
+
+msgid "HUD_MESSAGE_ENGINE_WORK"
+msgstr "¡El motor vuelve a funcionar!"
+
+msgid "HUD_MESSAGE_EVENT_NAME_STORM_FRONT"
+msgstr "Frente de tempestad"
+
+msgid "HUD_MESSAGE_EVENT_NAME_STORM_FRONT_CAPS"
+msgstr "FRENTE DE TEMPESTAD"
+
+msgid "HUD_MESSAGE_EVENT_NAME_STORM_FRONT_DESCRIPTION"
+msgstr "¡Últimos aviones!"
+
+msgid "HUD_MESSAGE_FLAPS_DRAWN"
+msgstr "Flaps extendidos"
+
+msgid "HUD_MESSAGE_FRAG_LEAD_LOST"
+msgstr ""
+"¡Perdiste la cabeza por el número de aviones destruidos ante {player_name}!"
+
+msgid "HUD_MESSAGE_FRAG_LEAD_LOST_BOT"
+msgstr ""
+"¡Perdiste la cabeza por el número de aviones destruidos ante el bot "
+"{player_name}!"
+
+msgid "HUD_MESSAGE_FRAG_LEAD_TAKEN"
+msgstr "¡Vas en cabeza en la destrucción de aviones!"
+
+msgid "HUD_MESSAGE_FRAG_LEAD_TEAM"
+msgstr "tomó el liderato en aviones destruidos: {value}"
+
+msgid "HUD_MESSAGE_FRAG_LEAD_TEAM_BOT"
+msgstr "¡El bot {player_name} tomó la cabeza en aviones destruidos: {value}!"
+
+msgid "HUD_MESSAGE_FRAG_LEAD_TEAM_EXTRA"
+msgstr "incrementó su liderato en aviones destruidos: {value}"
+
+msgid "HUD_MESSAGE_FRAG_LEAD_TEAM_EXTRA_BOT"
+msgstr ""
+"¡El bot {player_name} incrementó su ventaja en aviones destruidos: {value}!"
+
+msgid "HUD_MESSAGE_FRAG_LEAD_UPDATED"
+msgstr "¡Vas en cabeza por aviones destruidos: {value}!"
+
+msgid "HUD_MESSAGE_GUNNER_HAS_HEALED"
+msgstr "¡El artillero se ha recuperado!"
+
+msgid "HUD_MESSAGE_GUN_OVERHEAT"
+msgstr "¡Armas recalentadas!"
+
+msgid "HUD_MESSAGE_LAST_ENEMY"
+msgstr "¡Último objetivo!"
+
+msgid "HUD_MESSAGE_LEADER_KILL_OBJECTS"
+msgstr ""
+"¡Destruiste al líder de la batalla (por objetivos terrestres destruidos)!"
+
+msgid "HUD_MESSAGE_LEADER_KILL_PLANES"
+msgstr "¡Destruiste al líder de la batalla (por aviones destruidos)!"
+
+msgid "HUD_MESSAGE_LEADER_KILL_POINTS"
+msgstr "¡Destruiste al líder de la batalla (por puntos de superioridad)!"
+
+msgid "HUD_MESSAGE_MODULE_WORK"
+msgstr "¡De nuevo operativo: {module}!"
+
+msgid "HUD_MESSAGE_MULTIPLIER_ALLY_RESOURCES"
+msgstr "cuando los aviones enemigos son destruidos por tu grupo de combate"
+
+msgid "HUD_MESSAGE_MULTIPLIER_ENEMY_RESOURCES"
+msgstr "cuando los aviones aliados son destruidos por el enemigo"
+
+msgid "HUD_MESSAGE_NO_FLAPS"
+msgstr "Sin flaps"
+
+msgid "HUD_MESSAGE_OBJECT_LEAD_LOST"
+msgstr ""
+"¡Perdiste la cabeza destruyendo objetivos terrestres ante {player_name}!"
+
+msgid "HUD_MESSAGE_OBJECT_LEAD_LOST_BOT"
+msgstr ""
+"¡Perdiste la cabeza destruyendo objetivos terrestres ante el bot "
+"{player_name}!"
+
+msgid "HUD_MESSAGE_OBJECT_LEAD_TAKEN"
+msgstr "¡Vas en cabeza en la destrucción de objetivos terrestres!"
+
+msgid "HUD_MESSAGE_OBJECT_LEAD_TEAM"
+msgstr "tomó el liderato en objetivos terrestres destruidos: {value}"
+
+msgid "HUD_MESSAGE_OBJECT_LEAD_TEAM_BOT"
+msgstr ""
+"¡El bot {player_name} tomó la cabeza en los objetivos terrestres destruidos: "
+"{value}!"
+
+msgid "HUD_MESSAGE_OBJECT_LEAD_TEAM_EXTRA"
+msgstr "incrementó su liderato en objetivos terrestres destruidos: {value}"
+
+msgid "HUD_MESSAGE_OBJECT_LEAD_TEAM_EXTRA_BOT"
+msgstr ""
+"¡El bot {player_name} incrementó su ventaja en objetivos terrestres "
+"destruidos: {value}!"
+
+msgid "HUD_MESSAGE_OBJECT_LEAD_UPDATED"
+msgstr "¡Vas en cabeza por objetivos terrestres destruidos: {value}!"
+
+msgid "HUD_MESSAGE_OPEN_MAP"
+msgstr "Mantén {button} para ver el mapa táctico."
+
+msgid "HUD_MESSAGE_OUR_OBJECT_DOWN"
+msgstr "¡Objetivo amigo destruido!"
+
+msgid "HUD_MESSAGE_PILOT_HAS_HEALED"
+msgstr "¡El piloto se ha recuperado!"
+
+msgid "HUD_MESSAGE_PILOT_RECOVERED_CONTROLS_RESTRICTED"
+msgstr "¡El piloto vuelve a la acción! ¡Controlabilidad del avión reducida!"
+
+msgid "HUD_MESSAGE_PILOT_WOUNDED_CONTROLS_LOST"
+msgstr "¡El piloto está conmocionado! ¡Controlabilidad del avión reducida!"
+
+msgid "HUD_MESSAGE_PLAYER_DEAD_FROM_GUNS"
+msgstr ""
+"El jugador {name} ({aircraft}) destruyó tu avión con sus armas frontales."
+
+msgid "HUD_MESSAGE_PLAYER_DEAD_FROM_GUNS_BOT"
+msgstr "El bot {name} ({aircraft}) destruyó tu avión con sus armas frontales."
+
+msgid "HUD_MESSAGE_PLAYER_RECEIVED_MEDAL"
+msgstr "¡El jugador {name} recibió la medalla de {medal_icon}{medal_name}!"
+
+msgid "HUD_MESSAGE_POINTS_LEAD_LOST"
+msgstr "¡Perdiste el liderazgo en puntos de superioridad ante {player_name}!"
+
+msgid "HUD_MESSAGE_POINTS_LEAD_LOST_BOT"
+msgstr ""
+"¡Perdiste el liderazgo en puntos de superioridad ante el bot {player_name}!"
+
+msgid "HUD_MESSAGE_POINTS_LEAD_TAKEN"
+msgstr "¡Vas en cabeza por puntos de superioridad!"
+
+msgid "HUD_MESSAGE_POINTS_LEAD_TEAM"
+msgstr "tomó el liderato en puntos de superioridad: {value}"
+
+msgid "HUD_MESSAGE_POINTS_LEAD_TEAM_BOT"
+msgstr "¡El bot {player_name} va en cabeza en puntos de superioridad: {value}!"
+
+msgid "HUD_MESSAGE_POINTS_LEAD_TEAM_EXTRA"
+msgstr "incrementó su liderato en puntos de superioridad: {value}"
+
+msgid "HUD_MESSAGE_POINTS_LEAD_TEAM_EXTRA_BOT"
+msgstr ""
+"¡El bot {player_name} incrementó su ventaja en los puntos de superioridad: "
+"{value}!"
+
+msgid "HUD_MESSAGE_SHOW_TEAMS"
+msgstr "Mantén {button} para mostrar los paneles de equipo."
+
+msgid "HUD_MESSAGE_SPECTATOR_MODE"
+msgstr ""
+"Usa los botones del ratón para cambiar entre jugadores o pulsa ESC para "
+"abandonar la batalla."
+
+msgid "HUD_MESSAGE_SUPERIORITY"
+msgstr ""
+"<FONT COLOR='#{msg_color1}'>{type}</FONT> <FONT SIZE='{size}' "
+"COLOR='#{msg_color2}'>+{points}</FONT>"
+
+msgid "HUD_MESSAGE_SUPERIORITY2"
+msgstr ""
+"<FONT SIZE='{size}' COLOR='#{msg_color2}'>+{points}</FONT> <FONT "
+"COLOR='#{msg_color1}'>{type}</FONT>"
+
+msgid "HUD_MESSAGE_SUPERIORITY_1"
+msgstr "¡Superioridad!"
+
+msgid "HUD_MESSAGE_TAIL_WORK"
+msgstr "¡La cola vuelve a funcionar!"
+
+msgid "HUD_MESSAGE_TURRET_DAMAGED_SUP2_TOP"
+msgstr "Cañón AA dañado"
+
+msgid "HUD_MESSAGE_VEHICLE_DAMAGED_SUP2_TOP"
+msgstr "Unidad dañada"
+
+msgid "HUD_MESSAGE_VICTORY_IS_NEAR"
+msgstr "¡La victoria está próxima!"
+
+msgid "HUD_MESSAGE_WE_DESTROYED_ENEMY_BASE"
+msgstr "¡Cuartel general enemigo destruido!"
+
+msgid "HUD_MESSAGE_WE_DESTROYED_ENEMY_BASE_SUP2"
+msgstr "Cuartel general enemigo dañado:"
+
+msgid "HUD_MESSAGE_WE_DESTROYED_ENEMY_BUILDING"
+msgstr "¡Edificio enemigo destruido!"
+
+msgid "HUD_MESSAGE_WE_DESTROYED_ENEMY_BUILDING_SUP2"
+msgstr "Edificio enemigo dañado:"
+
+msgid "HUD_MESSAGE_WE_DESTROYED_ENEMY_TURRET"
+msgstr "¡Cañón AA enemigo destruido!"
+
+msgid "HUD_MESSAGE_WE_DESTROYED_ENEMY_TURRET_SUP2"
+msgstr "Cañón AA enemigo dañado:"
+
+msgid "HUD_MESSAGE_WE_DESTROYED_ENEMY_VEHICLE"
+msgstr "¡Objetivo enemigo destruido!"
+
+msgid "HUD_MESSAGE_WE_DESTROYED_ENEMY_VEHICLE_SUP2"
+msgstr "Unidad enemiga dañada:"
+
+msgid "HUD_MESSAGE_WING_WORK"
+msgstr "¡El ala vuelve a funcionar!"
+
+msgid "HUD_MILES"
+msgstr "millas"
+
+msgid "HUD_MILLISECOND"
+msgstr "ms"
+
+msgid "HUD_MINIMAP_ATTENTION_ENEMY_HERE_STR"
+msgstr "Enemigo detectado en {grid_square}"
+
+msgid "HUD_MINIMAP_ATTENTION_MY_LOCATION_STR"
+msgstr "Procediendo a {grid_square}"
+
+msgid "HUD_MINIMAP_ATTENTION_STR"
+msgstr "<¡Atención al sector del mapa {grid_square}!>"
+
+msgid "HUD_MINIMAP_ENEMY_HERE_STR"
+msgstr "<Enemigo detectado en {grid_square}>"
+
+msgid "HUD_MINIMAP_GOING_TO_SQUARE_STR"
+msgstr "<Procediendo a {grid_square}>"
+
+msgid "HUD_MORE_ENEMY_SAUCERS_DEAD"
+msgstr "¡El equipo amigo destruyó más platillos volantes!"
+
+msgid "HUD_MORE_FRIENDLY_SAUCERS_DEAD"
+msgstr "¡El equipo enemigo destruyó más platillos volantes!"
+
+msgid "HUD_NAME_BOMBARDIER"
+msgstr "Bombardero"
+
+msgid "HUD_NAME_FIRESPITTING"
+msgstr "Tragafuegos"
+
+msgid "HUD_NAME_FLAME_OF_HEAVEN"
+msgstr "Cielo en llamas"
+
+msgid "HUD_NAME_OBJECT_AIRBASE"
+msgstr "Sector «Base aérea»"
+
+msgid "HUD_NAME_OBJECT_AIRFIELD"
+msgstr "Sector «Aeródromo de agrupación»"
+
+msgid "HUD_NAME_OBJECT_COMMANDCENTER"
+msgstr "Sector «Centro de mando»"
+
+msgid "HUD_NAME_OBJECT_FACTORY"
+msgstr "Sector «Refinería»"
+
+msgid "HUD_NAME_OBJECT_FIELDCAMP"
+msgstr "Sector «Acuartelamiento»"
+
+msgid "HUD_NAME_OBJECT_FOOTHOLD"
+msgstr "Sector «Fortaleza»"
+
+msgid "HUD_NAME_OBJECT_FOUNDRY"
+msgstr "Sector «Planta de extracción»"
+
+msgid "HUD_NAME_OBJECT_MILITARYBASE"
+msgstr "Sector «Base militar»"
+
+msgid "HUD_NAME_OBJECT_RADIOPOINT"
+msgstr "Sector «Cuartel de campo»"
+
+msgid "HUD_NAME_OBJECT_RUNWAY"
+msgstr "Sector «Aeródromo avanzado»"
+
+msgid "HUD_NAME_OBJECT_WORKSHOP"
+msgstr "Sector «Planta industrial»"
+
+msgid "HUD_NAME_RAMMING"
+msgstr "Ataque de embestida"
+
+msgid "HUD_NAME_RELIABLE_REAR"
+msgstr "Cobertura trasera"
+
+msgid "HUD_NAME_REVENGE"
+msgstr "Vengador"
+
+msgid "HUD_NAME_ROCKETEER"
+msgstr "Cohetero"
+
+msgid "HUD_NAME_SECTOR_AIRBASE"
+msgstr "Base aérea"
+
+msgid "HUD_NAME_SECTOR_AIRBASE_CAPS"
+msgstr "BASE AÉREA"
+
+msgid "HUD_NAME_SECTOR_AIRFIELD"
+msgstr "Aeródromo de agrupación"
+
+msgid "HUD_NAME_SECTOR_AIRFIELD_CAPS"
+msgstr "AERÓDROMO DE AGRUPACIÓN"
+
+msgid "HUD_NAME_SECTOR_CITADEL"
+msgstr "Fuerte"
+
+msgid "HUD_NAME_SECTOR_CITADEL_CAPS"
+msgstr "FUERTE"
+
+msgid "HUD_NAME_SECTOR_COMMANDCENTER"
+msgstr "Centro de mando"
+
+msgid "HUD_NAME_SECTOR_COMMANDCENTER_CAPS"
+msgstr "CENTRO DE MANDO"
+
+msgid "HUD_NAME_SECTOR_COMMUNICATIONCENTER"
+msgstr "Centro de comunicaciones"
+
+msgid "HUD_NAME_SECTOR_COMMUNICATIONCENTER_CAPS"
+msgstr "CENTRO DE COMUNICACIONES"
+
+msgid "HUD_NAME_SECTOR_FACTORY"
+msgstr "Refinería"
+
+msgid "HUD_NAME_SECTOR_FACTORY_CAPS"
+msgstr "REFINERÍA"
+
+msgid "HUD_NAME_SECTOR_FIELDCAMP"
+msgstr "Acuartelamiento"
+
+msgid "HUD_NAME_SECTOR_FIELDCAMP_CAPS"
+msgstr "ACUARTELAMIENTO"
+
+msgid "HUD_NAME_SECTOR_FOOTHOLD"
+msgstr "Fortaleza"
+
+msgid "HUD_NAME_SECTOR_FOOTHOLD_2"
+msgstr "Опорный Пункт"
+
+msgid "HUD_NAME_SECTOR_FOOTHOLD_CAPS"
+msgstr "FORTALEZA"
+
+msgid "HUD_NAME_SECTOR_FOOTHOLD_DESCRIPTION"
+msgstr "Una zona bien fortificada con un extenso sistema de defensa AA"
+
+msgid "HUD_NAME_SECTOR_FOUNDRY"
+msgstr "Planta de extracción"
+
+msgid "HUD_NAME_SECTOR_FOUNDRY_CAPS"
+msgstr "PLANTA DE EXTRACCIÓN"
+
+msgid "HUD_NAME_SECTOR_MILITARYBASE"
+msgstr "Base militar"
+
+msgid "HUD_NAME_SECTOR_MILITARYBASE_CAPS"
+msgstr "BASE MILITAR"
+
+msgid "HUD_NAME_SECTOR_RADIOPOINT"
+msgstr "Cuartel de campo"
+
+msgid "HUD_NAME_SECTOR_RADIOPOINT_CAPS"
+msgstr "CUARTEL DE CAMPO"
+
+msgid "HUD_NAME_SECTOR_RUNWAY"
+msgstr "Aeródromo avanzado"
+
+msgid "HUD_NAME_SECTOR_RUNWAY_CAPS"
+msgstr "AERÓDROMO AVANZADO"
+
+msgid "HUD_NAME_SECTOR_WORKSHOP"
+msgstr "Planta industrial"
+
+msgid "HUD_NAME_SECTOR_WORKSHOP_CAPS"
+msgstr "PLANTA INDUSTRIAL"
+
+msgid "HUD_NEW_LOADING_SCREEN_CONQUEST_DESCRIPTION"
+msgstr ""
+"Destruir grupos aéreos y objetivos terrestres enemigos o neutrales en un "
+"sector para capturarlo"
+
+msgid "HUD_NEW_LOADING_SCREEN_CONQUEST_HEADER"
+msgstr "Capturar y mantener sectores"
+
+msgid "HUD_NEXT_TARGET"
+msgstr "Alternar entre aviones aliados"
+
+msgid "HUD_OBJECTS_DESTROYED"
+msgstr "Objetivos terrestres destruidos"
+
+msgid "HUD_OUR_TEAM_SCORE"
+msgstr "Nuestro equipo"
+
+msgid "HUD_OUTRO_TOP_5_BY_OBJECTS_DESTROYED"
+msgstr ""
+"Los 5 mejores jugadores por el número de objetivos terrestres destruidos"
+
+msgid "HUD_OUTRO_TOP_5_BY_OBJECT_DAMAGE"
+msgstr "Los 5 mejores jugadores por el daño causado a objetivos terrestres"
+
+msgid "HUD_OUTRO_TOP_5_BY_PLANES_KILLED"
+msgstr "Los 5 mejores jugadores por el número de aviones destruidos"
+
+msgid "HUD_OUTRO_TOP_5_BY_PLANE_DAMAGE"
+msgstr "Los 5 mejores jugadores por el daño causado a aviones"
+
+msgid "HUD_OUTRO_TOP_5_BY_POINTS_EARNED"
+msgstr ""
+"Los 5 mejores jugadores por el número de puntos de superioridad recibidos"
+
+msgid "HUD_OUTRO_TOP_5_BY_XP_EARNED"
+msgstr "Los 5 mejores jugadores por experiencia conseguida"
+
+msgid "HUD_OWN_BASE_ATACKED"
+msgstr "¡Cuartel general amigo bajo ataque!"
+
+msgid "HUD_OWN_BASE_DESTROYING_STR"
+msgstr "¡Cuartel general amigo destruido!"
+
+msgid "HUD_OWN_DEATH_KILLER_STR"
+msgstr "Avión destruido por {ico} [{killer}]"
+
+msgid "HUD_OWN_DEATH_SUICIDE_STR"
+msgstr "{ico} [{v}] se estrelló"
+
+msgid "HUD_OWN_ELIMINATION_STR"
+msgstr "Grupo de combate destruido"
+
+msgid "HUD_PACKETS_LOST"
+msgstr "packet loss:"
+
+msgid "HUD_PERSONALS_AIRCRAFT_QUESTS"
+msgstr "Misiones personales según el tipo de avión"
+
+msgid "HUD_PERSONALS_QUESTS_PROGRESS_LVL"
+msgstr "Progreso del grado"
+
+msgid "HUD_PERSONAL_POINTS"
+msgstr "Puntos personales:"
+
+msgid "HUD_PERSONAL_SCORE"
+msgstr "Puntuación personal"
+
+msgid "HUD_PERSONAL_SCORE_RECEIVED"
+msgstr "Puntos personales recibidos"
+
+msgid "HUD_PING"
+msgstr "ping:"
+
+msgid "HUD_PLANES_AVAILABLES"
+msgstr "Salidas restantes:"
+
+msgid "HUD_PLANES_DEFENDER"
+msgstr "Avión de defensa aérea"
+
+msgid "HUD_PLANES_DESTROYED"
+msgstr "Objetivos aéreos destruidos"
+
+msgid "HUD_PLANE_DESTROYED"
+msgstr "AVIÓN DESTRUIDO"
+
+msgid "HUD_PLANE_IN_BATTLE"
+msgstr "AVIÓN EN BATALLA"
+
+msgid "HUD_PLANE_TYPE_ATTACK_SMALL"
+msgstr "Avión de ataque"
+
+msgid "HUD_PLANE_TYPE_FIGHTER_SMALL"
+msgstr "Caza"
+
+msgid "HUD_PLANE_TYPE_HEAVYFIGHTER_SMALL"
+msgstr "Caza pesado"
+
+msgid "HUD_PLANE_TYPE_MFIGHTER_SMALL"
+msgstr "Caza polivalente"
+
+msgid "HUD_PLAYERS_LIST_AND_MAP_BUTTON"
+msgstr "Panel y mapa del equipo"
+
+msgid "HUD_PLAYERS_LIST_BUTTON"
+msgstr "Muestra paneles del equipo"
+
+msgid "HUD_PLAYER_DEAD_FROM_BOMB"
+msgstr ""
+"El jugador {name} ({aircraft}) destruyó tu avión con la explosión de una "
+"bomba."
+
+msgid "HUD_PLAYER_DEAD_FROM_BOMB_BOT"
+msgstr ""
+"El bot {name} ({aircraft}) destruyó tu avión con la explosión de una bomba."
+
+msgid "HUD_PLAYER_DEAD_FROM_COMMON_REASON"
+msgstr "El jugador {name} ({aircraft}) destruyó tu avión."
+
+msgid "HUD_PLAYER_DEAD_FROM_COMMON_REASON_BOT"
+msgstr "El bot {name} ({aircraft}) destruyó tu avión."
+
+msgid "HUD_PLAYER_DEAD_FROM_GROUND"
+msgstr "Tu avión está destruido."
+
+msgid "HUD_PLAYER_DEAD_FROM_GUNNER"
+msgstr ""
+"El jugador {name} ({aircraft}) destruyó tu avión con fuego de la torreta."
+
+msgid "HUD_PLAYER_DEAD_FROM_GUNNER_BOT"
+msgstr "El bot {name} ({aircraft}) destruyó tu avión con fuego de la torreta."
+
+msgid "HUD_PLAYER_DEAD_FROM_HIT"
+msgstr "Avión destruido tras colisionar con {name} ({aircraft})."
+
+msgid "HUD_PLAYER_DEAD_FROM_ROCKET"
+msgstr "{name} ({aircraft}) destruyó tu avión con un cohete."
+
+msgid "HUD_PLAYER_DEAD_FROM_ROCKET_BOT"
+msgstr "El bot {name} ({aircraft}) destruyó tu avión con un cohete."
+
+msgid "HUD_PLAYER_DEAD_FROM_TREE"
+msgstr "Tu avión está destruido."
+
+msgid "HUD_PLAYER_DEAD_FROM_WATER"
+msgstr "Tu avión está destruido."
+
+msgid "HUD_PLAYER_DEAD_STR"
+msgstr "(muerto)"
+
+msgid "HUD_PLAYER_LOADING_STR"
+msgstr "(cargando)"
+
+msgid "HUD_PLAYER_LOST_STR"
+msgstr "(perdido)"
+
+msgid "HUD_PLAYER_ON_FIRE_STR"
+msgstr "{playerName} en llamas"
+
+msgid "HUD_POINTS_EARNED_IN"
+msgstr "Calculando recursos en:"
+
+msgid "HUD_PREPARE"
+msgstr "EN PREPARACIÓN:"
+
+msgid "HUD_PREPARE_1"
+msgstr "En preparación:"
+
+msgid "HUD_PRESS_BUTTON_FOR_BOMB_AND_ROCKETS_RELOAD"
+msgstr "Haz clic en {button} para recargar"
+
+msgid "HUD_PREVIOUS_TARGET"
+msgstr "Cambia al aliado anterior"
+
+msgid "HUD_PROMPT"
+msgstr "Chat:"
+
+msgid "HUD_PVE_NO_PLAYERS"
+msgstr "¡Todos los aviones de jugadores humanos están destruidos!"
+
+msgid "HUD_QUESTS_2015_SUMMER_01_BASIC"
+msgstr ""
+"Ganar 2 batallas volando con aviones de distinto tipo. Una batalla solo "
+"cuenta si ganáis más de 15 puntos de superioridad. "
+
+msgid "HUD_QUESTS_2015_SUMMER_01_EXTRA"
+msgstr ""
+"Sobrevivir y ganar 2 batallas volando con aviones de distinto tipo. Una "
+"batalla solo cuenta si ganáis más de 15 puntos de superioridad."
+
+msgid "HUD_QUESTS_2015_SUMMER_01_NAME"
+msgstr "Un buen comienzo"
+
+msgid "HUD_QUESTS_2015_SUMMER_02_BASIC"
+msgstr "Destruir 3 aviones enemigos o dañar 5 aviones enemigos en una batalla."
+
+msgid "HUD_QUESTS_2015_SUMMER_02_EXTRA"
+msgstr ""
+"Ganar la medalla «As» en 3 batallas y sobrevivir en cada una de estas "
+"batallas."
+
+msgid "HUD_QUESTS_2015_SUMMER_02_NAME"
+msgstr "La caza está abierta"
+
+msgid "HUD_QUESTS_2015_SUMMER_03_BASIC"
+msgstr "Destruir 2 aviones enemigos de distinto tipo en una batalla."
+
+msgid "HUD_QUESTS_2015_SUMMER_03_EXTRA"
+msgstr ""
+"Ganar 4 batallas y destruir 3 aviones de distinto tipo en cada una de las "
+"batallas."
+
+msgid "HUD_QUESTS_2015_SUMMER_03_NAME"
+msgstr "Omnívoro"
+
+msgid "HUD_QUESTS_2015_SUMMER_04_BASIC"
+msgstr ""
+"Convertirse en el jugador que más puntos de superioridad gana de vuestro "
+"equipo en una batalla."
+
+msgid "HUD_QUESTS_2015_SUMMER_04_EXTRA"
+msgstr ""
+"Convertirse en el jugador que más puntos de superioridad gana de los dos "
+"equipos en 5 batallas."
+
+msgid "HUD_QUESTS_2015_SUMMER_04_NAME"
+msgstr "Superioridad arrolladora"
+
+msgid "HUD_QUESTS_2015_SUMMER_05_BASIC"
+msgstr ""
+"Convertirse en el jugador que más experiencia gana de vuestro equipo en una "
+"batalla. "
+
+msgid "HUD_QUESTS_2015_SUMMER_05_EXTRA"
+msgstr ""
+"Convertirse en el jugador que más experiencia gana de los dos equipos en 5 "
+"batallas."
+
+msgid "HUD_QUESTS_2015_SUMMER_05_NAME"
+msgstr "Llegar a lo más alto"
+
+msgid "HUD_QUESTS_2015_SUMMER_06_BASIC"
+msgstr "Destruir 2 aviones enemigos de diferentes naciones en una batalla."
+
+msgid "HUD_QUESTS_2015_SUMMER_06_EXTRA"
+msgstr ""
+"Destruir 3 aviones enemigos de diferentes naciones en una batalla y ganar la "
+"batalla."
+
+msgid "HUD_QUESTS_2015_SUMMER_06_NAME"
+msgstr "Biodiversidad"
+
+msgid "HUD_QUESTS_2015_SUMMER_07_BASIC"
+msgstr ""
+"Convertirse en uno de los 3 mejores jugadores de vuestro equipo basándose el "
+"número de aviones u objetivos terrestres destruidos volando con aviones sin "
+"módulos mejorados."
+
+msgid "HUD_QUESTS_2015_SUMMER_07_EXTRA"
+msgstr ""
+"Convertirse en el jugador que más aviones u objetivos terrestres enemigos "
+"destruya de los dos equipos en 5 batallas volando con aviones sin módulos "
+"mejorados."
+
+msgid "HUD_QUESTS_2015_SUMMER_07_NAME"
+msgstr "Desarmado"
+
+msgid "HUD_QUESTS_2015_SUMMER_08_BASIC"
+msgstr ""
+"Ganar 3 batallas y sobrevivir. Una batalla solo cuenta si dañáis al menos un "
+"avión enemigo."
+
+msgid "HUD_QUESTS_2015_SUMMER_08_EXTRA"
+msgstr ""
+"Ganar 3 batallas y sobrevivir. Una batalla solo cuenta si dañáis al menos 2 "
+"aviones enemigos."
+
+msgid "HUD_QUESTS_2015_SUMMER_08_NAME"
+msgstr "Reglas de supervivencia"
+
+msgid "HUD_QUESTS_2015_SUMMER_09_BASIC"
+msgstr ""
+"Destruir un avión enemigo que haya ganado al menos 40 puntos de superioridad."
+
+msgid "HUD_QUESTS_2015_SUMMER_09_EXTRA"
+msgstr ""
+"Destruir un total de 10 aviones enemigos que hayan ganado al menos 50 puntos "
+"de superioridad cada uno."
+
+msgid "HUD_QUESTS_2015_SUMMER_09_NAME"
+msgstr "Selección natural"
+
+msgid "HUD_QUESTS_2015_SUMMER_10_BASIC"
+msgstr "Ganar 50 puntos de superioridad en una batalla y ganar la batalla."
+
+msgid "HUD_QUESTS_2015_SUMMER_10_EXTRA"
+msgstr ""
+"Ganar 5 batallas. Una batalla solo cuenta si ganáis al menos 1000 puntos de "
+"XP de combate."
+
+msgid "HUD_QUESTS_2015_SUMMER_10_NAME"
+msgstr "La ley del más fuerte"
+
+msgid "HUD_QUESTS_2015_SUMMER_11_BASIC"
+msgstr "Consigue el logro «Disparo rápido»."
+
+msgid "HUD_QUESTS_2015_SUMMER_11_EXTRA"
+msgstr "Consigue el logro «Disparo rápido» y la medalla «As» en una batalla."
+
+msgid "HUD_QUESTS_2015_SUMMER_11_NAME"
+msgstr "El bueno, el malo y el rápido"
+
+msgid "HUD_QUESTS_2015_SUMMER_12_BASIC"
+msgstr ""
+"Ganar 25 puntos de superioridad gracias al daño causado por bombas o cohetes "
+"en una batalla."
+
+msgid "HUD_QUESTS_2015_SUMMER_12_EXTRA"
+msgstr ""
+"Ganar un total de 800 puntos de superioridad gracias al daño causado por "
+"bombas o cohetes en cualquier número de batallas."
+
+msgid "HUD_QUESTS_2015_SUMMER_12_NAME"
+msgstr "Fuego celestial"
+
+msgid "HUD_QUESTS_2015_SUMMER_13_BASIC"
+msgstr ""
+"Destruir un total de 20 aviones enemigos en cualquier número de batallas. Un "
+"avión enemigo con una torreta cuenta por 4 aviones."
+
+msgid "HUD_QUESTS_2015_SUMMER_13_EXTRA"
+msgstr ""
+"Ganar un total de 1500 puntos de superioridad al destruir aviones enemigos. "
+"Los puntos de superioridad por destruir un enemigo con una torreta se "
+"multiplican x3."
+
+msgid "HUD_QUESTS_2015_SUMMER_13_NAME"
+msgstr "Hachimaki"
+
+msgid "HUD_QUESTS_2015_SUMMER_14_BASIC"
+msgstr ""
+"Gana 100 puntos de superioridad en una batalla jugando solo o en una "
+"escuadrilla. Puedes encontrar a un miembro de escuadrilla para esta misión "
+"usando la opción «Búsqueda automática de escuadrilla»."
+
+msgid "HUD_QUESTS_2015_SUMMER_14_EXTRA"
+msgstr ""
+"Gana 150 puntos de superioridad en una batalla y gana la batalla jugando "
+"solo o en una escuadrilla. Puedes encontrar a un miembro de escuadrilla para "
+"esta misión usando la opción «Búsqueda automática de escuadrilla»."
+
+msgid "HUD_QUESTS_2015_SUMMER_14_NAME"
+msgstr "Señores de los cielos"
+
+msgid "HUD_QUESTS_2015_SUMMER_15_BASIC"
+msgstr ""
+"Ganar 30 puntos de superioridad por destruir aviones enemigos y 10 puntos de "
+"superioridad por destruir objetivos terrestres enemigos en una batalla."
+
+msgid "HUD_QUESTS_2015_SUMMER_15_EXTRA"
+msgstr "Ganar la medalla «Destructor» 4 veces."
+
+msgid "HUD_QUESTS_2015_SUMMER_15_NAME"
+msgstr "Objetivos múltiples"
+
+msgid "HUD_QUESTS_2015_SUMMER_16_BASIC"
+msgstr ""
+"Consigue uno de los logros de servicio («As», «Destructor» o «Trueno»)."
+
+msgid "HUD_QUESTS_2015_SUMMER_16_EXTRA"
+msgstr ""
+"Sobrevivir a 5 batallas y ganar las medallas «As» y «Destructor» en cada una "
+"de ellas."
+
+msgid "HUD_QUESTS_2015_SUMMER_16_NAME"
+msgstr "Panteón"
+
+msgid "HUD_QUESTS_2015_SUMMER_17_BASIC"
+msgstr ""
+"Causa 1000 PV de daño en aviones enemigos en una batalla jugando solo o en "
+"una escuadrilla. Puedes encontrar a un miembro de escuadrilla para esta "
+"misión usando la opción «Búsqueda automática de escuadrilla»."
+
+msgid "HUD_QUESTS_2015_SUMMER_17_EXTRA"
+msgstr ""
+"Causa un daño total equivalente al 30 % de los PV totales del equipo "
+"enemigo, pero no menos de 1500 PV, en una batalla jugando solo o en una "
+"escuadrilla. Puedes encontrar a un miembro de escuadrilla para esta misión "
+"usando la opción «Búsqueda automática de escuadrilla»."
+
+msgid "HUD_QUESTS_2015_SUMMER_17_NAME"
+msgstr "Doble golpe"
+
+msgid "HUD_QUESTS_2015_SUMMER_18_BASIC"
+msgstr ""
+"Ganar una batalla. Se deben completar las tareas primarias de todas las "
+"misiones precedentes."
+
+msgid "HUD_QUESTS_2015_SUMMER_18_EXTRA"
+msgstr ""
+"Ganar una batalla. Se deben completar las tareas adicionales de todas las "
+"misiones precedentes."
+
+msgid "HUD_QUESTS_2015_SUMMER_18_NAME"
+msgstr "El largo camino hacia la cima"
+
+msgid "HUD_QUESTS_ADDITIONAL"
+msgstr "Tarea adicional:"
+
+msgid "HUD_QUESTS_ADDITIONAL_PERFORMED"
+msgstr "¡Tareas adicionales completadas!"
+
+msgid "HUD_QUESTS_COMPLEX_01_BASIC"
+msgstr "Destruye un avión de ataque enemigo o caza polivalente."
+
+msgid "HUD_QUESTS_COMPLEX_01_EXTRA"
+msgstr "Destruye 3 tipos diferentes de aviones enemigos en una batalla."
+
+msgid "HUD_QUESTS_COMPLEX_01_NAME"
+msgstr "Piloto de defensa aérea"
+
+msgid "HUD_QUESTS_COMPLEX_02_BASIC"
+msgstr ""
+"Destruye al menos 1 avión enemigo y al menos 1 objetivo terrestre enemigo en "
+"una batalla."
+
+msgid "HUD_QUESTS_COMPLEX_02_EXTRA"
+msgstr ""
+"Consigue la medalla «Trueno» y destruye al menos 2 aviones enemigos en una "
+"batalla. Gana y sobrevive en la batalla."
+
+msgid "HUD_QUESTS_COMPLEX_02_NAME"
+msgstr "Aire y tierra"
+
+msgid "HUD_QUESTS_COMPLEX_03_BASIC"
+msgstr "Consigue al menos 50 puntos de superioridad al final de la batalla."
+
+msgid "HUD_QUESTS_COMPLEX_03_EXTRA"
+msgstr ""
+"Consigue al menos 50 puntos de superioridad al final de cada batalla y sé el "
+"mejor jugador de tu equipo por puntos de superioridad obtenidos en 2 "
+"batallas seguidas."
+
+msgid "HUD_QUESTS_COMPLEX_03_NAME"
+msgstr "Reinado de la superioridad"
+
+msgid "HUD_QUESTS_COMPLEX_04_BASIC"
+msgstr "Daña al menos 4 aviones enemigos en una batalla."
+
+msgid "HUD_QUESTS_COMPLEX_04_EXTRA"
+msgstr "Consigue la medalla «As» en al menos 2 de 3 batallas jugadas seguidas."
+
+msgid "HUD_QUESTS_COMPLEX_04_NAME"
+msgstr "Tentando al destino"
+
+msgid "HUD_QUESTS_COMPLEX_05_BASIC"
+msgstr "Sé el primero en destruir un avión enemigo."
+
+msgid "HUD_QUESTS_COMPLEX_05_EXTRA"
+msgstr ""
+"Sé el primero en destruir 2 aviones enemigos, gana y sobrevive a la batalla."
+
+msgid "HUD_QUESTS_COMPLEX_05_NAME"
+msgstr "Primera presa"
+
+msgid "HUD_QUESTS_COMPLEX_06_BASIC"
+msgstr "Consigue el logro «Disparo rápido»."
+
+msgid "HUD_QUESTS_COMPLEX_06_EXTRA"
+msgstr "Destruye los últimos 3 aviones enemigos restantes en una batalla."
+
+msgid "HUD_QUESTS_COMPLEX_06_NAME"
+msgstr "Ataque relámpago"
+
+msgid "HUD_QUESTS_COMPLEX_07_BASIC"
+msgstr ""
+"Gana una batalla y sé uno de los 3 mejores por experiencia conseguida en tu "
+"equipo."
+
+msgid "HUD_QUESTS_COMPLEX_07_EXTRA"
+msgstr ""
+"Consigue la mayor cantidad de experiencia de entre todos los jugadores en "
+"ambos equipos en 2 batallas seguidas."
+
+msgid "HUD_QUESTS_COMPLEX_07_NAME"
+msgstr "¡Únete a la élite!"
+
+msgid "HUD_QUESTS_COMPLEX_08_BASIC"
+msgstr ""
+"Reúne o ingresa en una escuadrilla, gana y sobrevive a la batalla. Puedes "
+"encontrar a un miembro de escuadrilla para esta misión usando la opción "
+"«Búsqueda automática de escuadrilla»."
+
+msgid "HUD_QUESTS_COMPLEX_08_EXTRA"
+msgstr "Consigue el logro contribución épica, gana y sobrevive a la batalla."
+
+msgid "HUD_QUESTS_COMPLEX_08_NAME"
+msgstr "El poder de la unidad"
+
+msgid "HUD_QUESTS_COMPLEX_09_BASIC"
+msgstr "Consigue la medalla «As» o «Destructor»."
+
+msgid "HUD_QUESTS_COMPLEX_09_EXTRA"
+msgstr ""
+"Consigue las medallas «As» y «Destructor» en una batalla. Repite el "
+"resultado al menos 4 veces durante 24 horas."
+
+msgid "HUD_QUESTS_COMPLEX_09_NAME"
+msgstr "Recompensas legítimas"
+
+msgid "HUD_QUESTS_COMPLEX_10_BASIC"
+msgstr "Daña al menos 1 avión enemigo con cohetes."
+
+msgid "HUD_QUESTS_COMPLEX_10_EXTRA"
+msgstr "Destruye al menos 2 aviones enemigos con cohetes en una batalla."
+
+msgid "HUD_QUESTS_COMPLEX_10_NAME"
+msgstr "La hazaña del cohetero"
+
+msgid "HUD_QUESTS_COMPLEX_11_BASIC"
+msgstr ""
+"Gana una batalla. Las tareas primarias de las misiones 1 a 10 se tienen que "
+"completar en las batallas precedentes."
+
+msgid "HUD_QUESTS_COMPLEX_11_EXTRA"
+msgstr ""
+"Gana una batalla. Las misiones 1 a 10 se tienen que completar con distinción "
+"en las batallas precedentes."
+
+msgid "HUD_QUESTS_COMPLEX_11_NAME"
+msgstr "El triunfo definitivo"
+
+msgid "HUD_QUESTS_COMPLEX_PERFORMED"
+msgstr "¡Misión totalmente completada!"
+
+msgid "HUD_QUESTS_MAIN"
+msgstr "Tarea primaria:"
+
+msgid "HUD_QUESTS_MAIN_PERFORMED"
+msgstr "¡Tarea primaria completada!"
+
+msgid "HUD_QUEST_DESCRIPTION_TEAM_WORK"
+msgstr "Asiste en la destrucción de aviones enemigos"
+
+msgid "HUD_QUEST_NAME_TEAM_WORK"
+msgstr "Trabajo en equipo"
+
+msgid "HUD_QUEST_TASK_TEAM_WORK"
+msgstr "Destruidos con asistencia"
+
+msgid "HUD_RADAR_TOWER_OBJECT"
+msgstr "Estación de radar"
+
+msgid "HUD_RADIUS_VISION_ZONE"
+msgstr "Radio de la zona visible"
+
+msgid "HUD_RAMMING_OBSTACLE_STR"
+msgstr "Colisión. Daño recibido: {damage}"
+
+msgid "HUD_RECAP_NOT_AVAILABLE"
+msgstr "El sector no se puede capturar"
+
+msgid "HUD_REDUCE_RADAR"
+msgstr "Reduce el tamaño del radar"
+
+msgid "HUD_REINFORCEMENTS_AVAILABLE"
+msgstr "Número disponible de aviones de refuerzo"
+
+msgid "HUD_REINFORCEMENTS_NOT_AVAILABLE"
+msgstr "No es posible comenzar la salida"
+
+msgid "HUD_REPLAY_ATTENTION_HEADER"
+msgstr "¡Atención!"
+
+msgid "HUD_REPLAY_BACK_TO_PLAY_BUTTON"
+msgstr "Volver a la repetición"
+
+msgid "HUD_REPLAY_CAMERA"
+msgstr "Cámara"
+
+msgid "HUD_REPLAY_CHECKBOX_PLAYER_NAME"
+msgstr "Mostrar nombre del jugador"
+
+msgid "HUD_REPLAY_CHECKBOX_WITHOUT_UI"
+msgstr "Ocultar interfaz de batalla"
+
+msgid "HUD_REPLAY_CUSTOM_MOVIE_CAMERA"
+msgstr "Preajuste de cámara personalizada"
+
+msgid "HUD_REPLAY_EXIT_BUTTON"
+msgstr "Salir de la repetición"
+
+msgid "HUD_REPLAY_FILM_MODE"
+msgstr "Modo «Película»"
+
+msgid "HUD_REPLAY_GENERAL"
+msgstr "General"
+
+msgid "HUD_REPLAY_HIDE-SHOW_UI"
+msgstr "Ocultar/mostrar interfaz"
+
+msgid "HUD_REPLAY_MOVIE_CAMERA-1"
+msgstr "Cámara 1"
+
+msgid "HUD_REPLAY_MOVIE_CAMERA-10"
+msgstr "Cámara 10"
+
+msgid "HUD_REPLAY_MOVIE_CAMERA-2"
+msgstr "Cámara 2"
+
+msgid "HUD_REPLAY_MOVIE_CAMERA-3"
+msgstr "Cámara 3"
+
+msgid "HUD_REPLAY_MOVIE_CAMERA-4"
+msgstr "Cámara 4"
+
+msgid "HUD_REPLAY_MOVIE_CAMERA-5"
+msgstr "Cámara 5"
+
+msgid "HUD_REPLAY_MOVIE_CAMERA-6"
+msgstr "Cámara 6"
+
+msgid "HUD_REPLAY_MOVIE_CAMERA-7"
+msgstr "Cámara 7"
+
+msgid "HUD_REPLAY_MOVIE_CAMERA-8"
+msgstr "Cámara 8"
+
+msgid "HUD_REPLAY_MOVIE_CAMERA-9"
+msgstr "Cámara 9"
+
+msgid "HUD_REPLAY_MOVIE_DEFAULT_CAMERA"
+msgstr "Cámara por defecto"
+
+msgid "HUD_REPLAY_NO_BUTTON"
+msgstr "No"
+
+msgid "HUD_REPLAY_PLAYBACK"
+msgstr "Repetición"
+
+msgid "HUD_REPLAY_PLAYBACK-PAUSE"
+msgstr "Reproducir / Pausa"
+
+msgid "HUD_REPLAY_PLAYBACK_MENU_HEADER"
+msgstr "Menú de repetición"
+
+msgid "HUD_REPLAY_PLAYBACK_SPEED-X025"
+msgstr "0,25x"
+
+msgid "HUD_REPLAY_PLAYBACK_SPEED-X05"
+msgstr "0,5x"
+
+msgid "HUD_REPLAY_PLAYBACK_SPEED-X075"
+msgstr "0,75x"
+
+msgid "HUD_REPLAY_PLAYBACK_SPEED-X1"
+msgstr "1,0x"
+
+msgid "HUD_REPLAY_PLAYBACK_SPEED-X2"
+msgstr "2,0x"
+
+msgid "HUD_REPLAY_PLAYBACK_SPEED-X4"
+msgstr "4,0x"
+
+msgid "HUD_REPLAY_PLAYBACK_SPEED-X8"
+msgstr "8,0x"
+
+msgid "HUD_REPLAY_PRESS_KEY_PLAYER"
+msgstr "Pulsa {key} para mostrar el reproductor"
+
+msgid "HUD_REPLAY_PRINT_SCREEN"
+msgstr "Capturar pantalla"
+
+msgid "HUD_REPLAY_SHOW-HIDE_PLAYER"
+msgstr "Mostrar/ocultar reproductor"
+
+msgid "HUD_REPLAY_SHOW_HOTKEYS"
+msgstr "Mostrar atajos"
+
+msgid "HUD_REPLAY_SHOW_TEAM_SCORE"
+msgstr "Mostrar paneles de equipo"
+
+msgid "HUD_REPLAY_SLOWDOWN_PLAYBACK"
+msgstr "Reducir"
+
+msgid "HUD_REPLAY_SPEEDUP_PLAYBACK"
+msgstr "Acelerar"
+
+msgid "HUD_REPLAY_STANDART_MODE"
+msgstr "Modo por defecto"
+
+msgid "HUD_REPLAY_START_REWIND"
+msgstr ""
+"El rebobinado puede llevar varios minutos.<br><font size='6'><br></"
+"font>¿Comenzar rebobinado?"
+
+msgid "HUD_REPLAY_TOOLTIPS_CAMERA"
+msgstr "Cámara"
+
+msgid "HUD_REPLAY_TOOLTIPS_CONTINUE"
+msgstr "Reanudar"
+
+msgid "HUD_REPLAY_TOOLTIPS_PLAYBACK_SPEED"
+msgstr "Velocidad de reproducción"
+
+msgid "HUD_REPLAY_TOOLTIPS_REPEAT"
+msgstr "Repetir"
+
+msgid "HUD_REPLAY_TOOLTIPS_SET_PAUSE"
+msgstr "Pausar"
+
+msgid "HUD_REPLAY_TOOLTIPS_UI"
+msgstr "Interfaz"
+
+msgid "HUD_REPLAY_TURN_ON-OFF_POSTEFFECTS"
+msgstr "Activar/desactivar post-efectos"
+
+msgid "HUD_REPLAY_YES_BUTTON"
+msgstr "Sí"
+
+msgid "HUD_RESOURCES"
+msgstr "Recursos"
+
+msgid "HUD_RESOURCE_POINTS_MULTIPLIER"
+msgstr "{value}x efectividad"
+
+msgid "HUD_RULES_DESCRIPTION_ATTRITION"
+msgstr ""
+"Destruye aviones del grupo de combate enemigo, agotando sus recursos.<br>Los "
+"sectores bajo tu control aumentan sus pérdidas."
+
+msgid "HUD_RULES_HEADER_ATTRITION"
+msgstr "Agota recursos enemigos"
+
+msgid "HUD_SCALE_REINFORCEMENTS_AVAILABLE"
+msgstr "Número disponible de aviones de refuerzo"
+
+msgid "HUD_SCALE_REINFORCEMENTS_UNAVAILABLE"
+msgstr "Refuerzos no disponibles"
+
+msgid "HUD_SECTORS_CAPTURED"
+msgstr "Sectores capturados"
+
+msgid "HUD_SECTOR_ARMORED"
+msgstr "Sector fortificado"
+
+msgid "HUD_SECTOR_ATTACK_ON"
+msgstr "Ataca mientras pilotas aviones de los siguientes tipos:"
+
+msgid "HUD_SECTOR_BOMBING"
+msgstr "Bombardeando"
+
+msgid "HUD_SECTOR_DEFEND_ON"
+msgstr "Defiende mientras pilotas aviones de los siguientes tipos:"
+
+msgid "HUD_SECTOR_DESCRIPTION_AIRFIELD_1"
+msgstr "Puede seleccionarse como punto de salida para los aviones de refuerzo."
+
+msgid "HUD_SECTOR_DESCRIPTION_AIRFIELD_2"
+msgstr ""
+"Puede seleccionarse como punto de salida para los aviones de refuerzo. Desde "
+"aquí llegan más rápido."
+
+msgid "HUD_SECTOR_DESCRIPTION_AIRFIELD_3"
+msgstr "Permite seleccionar un nuevo avión disponible del mismo nivel."
+
+msgid "HUD_SECTOR_DESCRIPTION_ATTACK_1"
+msgstr ""
+"Solicita una escuadrilla de bombarderos para atacar los objetivos terrestres "
+"enemigos."
+
+msgid "HUD_SECTOR_DESCRIPTION_ATTACK_2"
+msgstr "Lanza ataques con cohetes sobre objetivos terrestres enemigos."
+
+msgid "HUD_SECTOR_DESCRIPTION_DEF_1"
+msgstr ""
+"Equipado con cañones AA ligeros, pero protegido por una gran cantidad de "
+"cazas."
+
+msgid "HUD_SECTOR_DESCRIPTION_DEF_2"
+msgstr "Sistema de defensa que incluye cañones AA de alta cota."
+
+msgid "HUD_SECTOR_DESCRIPTION_DEF_3"
+msgstr ""
+"Equipado con un potente sistema de defensa antiaérea y protegido por cazas "
+"pesados."
+
+msgid "HUD_SECTOR_DESCRIPTION_DEF_4"
+msgstr ""
+"Equipado con cañones AA ligeros y de alta cota. Protegido también por cazas."
+
+msgid "HUD_SECTOR_DESCRIPTION_DEF_AIRBASE_ALT"
+msgstr ""
+"Bien protegido por un gran número de cazas y cañones AA ligeros de "
+"diferentes tipos."
+
+msgid "HUD_SECTOR_DESCRIPTION_DEF_AIRBASE_MAIN"
+msgstr ""
+"Equipado con cañones AA débiles, pero protegido por un gran número de cazas."
+
+msgid "HUD_SECTOR_DESCRIPTION_DEF_COMMANDCENTER_MAIN"
+msgstr ""
+"Equipado con un potente sistema de defensa antiaéreo y protegido por cazas "
+"ligeros."
+
+msgid "HUD_SECTOR_DESCRIPTION_DEF_FIELDCAMP_ALT"
+msgstr "Protección moderada de cazas y cañones AA de diferentes tipos."
+
+msgid "HUD_SECTOR_DESCRIPTION_DEF_FOUNDRY_ALT"
+msgstr ""
+"Protegido por un gran número de cañones AA de gran altura, pero sin "
+"protección de aviones de defensa aérea."
+
+msgid "HUD_SECTOR_DESCRIPTION_DEF_FOUNDRY_MAIN"
+msgstr "Protegido por cañones AA de gran altura y varios cazas pesados."
+
+msgid "HUD_SECTOR_DESCRIPTION_DEF_RADIOPOINT_MAIN"
+msgstr ""
+"Defendido por múltiples cañones AA ligeros y varios de gran altura. "
+"Protegido también por cazas."
+
+msgid "HUD_SECTOR_DESCRIPTION_DEF_WORKSHOP_ALT"
+msgstr "Protección moderada de cazas y cañones AA de diferentes tipos."
+
+msgid "HUD_SECTOR_DESCRIPTION_DEF_WORKSHOP_MAIN"
+msgstr "Protegido por cañones AA de gran altura y varios cazas pesados."
+
+msgid "HUD_SECTOR_DESCRIPTION_INFLUENCE_1"
+msgstr "Genera 3 recursos cada 5 segundos."
+
+msgid "HUD_SECTOR_DESCRIPTION_INFLUENCE_2"
+msgstr "Genera 5 recursos cada 5 segundos."
+
+msgid "HUD_SECTOR_DESCRIPTION_INFLUENCE_3"
+msgstr "Genera 100 recursos cada 90 segundos."
+
+msgid "HUD_SECTOR_DESCRIPTION_INFLUENCE_3_ALT"
+msgstr ""
+"Genera 3 recursos cada 5 segundos, además genera 80 recursos cada 120 "
+"segundos."
+
+msgid "HUD_SECTOR_DESCRIPTION_OBJECT_1"
+msgstr "Contiene objetivos terrestres no blindados."
+
+msgid "HUD_SECTOR_DESCRIPTION_OBJECT_2"
+msgstr "Contiene principalmente objetivos terrestres blindados."
+
+msgid "HUD_SECTOR_DESCRIPTION_OBJECT_3"
+msgstr "Contiene objetivos terrestres blindados."
+
+msgid "HUD_SECTOR_DESCRIPTION_OBJECT_4"
+msgstr "Contiene objetivos terrestres con gran blindaje."
+
+msgid "HUD_SECTOR_DESCRIPTION_OBJECT_5"
+msgstr "Contiene un objetivo terrestre bien fortificado."
+
+msgid "HUD_SECTOR_DESCRIPTION_OBJECT_6"
+msgstr "Contiene objetivos terrestres fortificados."
+
+msgid "HUD_SECTOR_FIND_TARGET"
+msgstr "Buscando un objetivo"
+
+msgid "HUD_SECTOR_INFLUENCE_EVERY_5_SEC"
+msgstr ""
+"<font color='#e5a82e'>+3 recursos</font> cada <font color='#e5a82e'>5 "
+"segundos</font>."
+
+msgid "HUD_SECTOR_IS_NOT_WORKING"
+msgstr "Inactivo"
+
+msgid "HUD_SECTOR_IS_NOT_WORKING_ALT"
+msgstr "Inactivo"
+
+msgid "HUD_SECTOR_MESSAGES_CAN_SWAP_YOUR_PLANES"
+msgstr "Permite cambiar<br>tu avión"
+
+msgid "HUD_SECTOR_MESSAGES_INCREASED_INFLUENCE"
+msgstr "Producción de recursos acelerada"
+
+msgid "HUD_SECTOR_MESSAGES_ROCKET_ATTACK"
+msgstr "Ataque de cohetes"
+
+msgid "HUD_SECTOR_MESSAGES_SPAWN"
+msgstr "Punto de salida para los aviones de refuerzo"
+
+msgid "HUD_SECTOR_MESSAGES_SPAWNTIME_REDUCE"
+msgstr "-{spawntime_reduce} s de tiempo a la llegada<br>de aviones de refuerzo"
+
+msgid "HUD_SECTOR_MESSAGES_SUPPORT_SUMMON"
+msgstr "Solicita apoyo"
+
+msgid "HUD_SECTOR_MESSAGES_VICTORY_POINTS_INFLUENCE_INCREASE"
+msgstr "+{victory_points} a los recursos"
+
+msgid "HUD_SECTOR_REDEPLOY"
+msgstr "Redesplegando..."
+
+msgid "HUD_SECTOR_SPECIAL_CHARACTERISTICS"
+msgstr "Características especiales:"
+
+msgid "HUD_SKIP"
+msgstr "Saltar"
+
+msgid "HUD_SMALL_ARMORED_OBJECT"
+msgstr "Objetivo blindado terrestre pequeño"
+
+msgid "HUD_SMALL_OBJECT"
+msgstr "Objetivo terrestre pequeño"
+
+msgid "HUD_SOMEBODY_DEATH_KILLER_STR"
+msgstr "{ico1} [{k}] destruyó a {ico2} [{v}]"
+
+msgid "HUD_SOMEBODY_DEATH_SUICIDE_STR"
+msgstr "{ico} [{v}] se estrelló"
+
+msgid "HUD_SPECTATOR_MODE"
+msgstr "Modo espectador"
+
+msgid "HUD_SPLASH_UNMAPPED_CONTROLS_HEADER"
+msgstr "¡Configura tus controles!"
+
+msgid "HUD_STALL_SPEED"
+msgstr "Velocidad de pérdida"
+
+msgid "HUD_STALL_STR"
+msgstr "¡Aviso de entrada en pérdida!"
+
+msgid "HUD_STALL_STR_APRIL"
+msgstr "¡Mantén la calma y acelera!"
+
+msgid "HUD_START_FIRE"
+msgstr "¡Fuego!"
+
+msgid "HUD_START_FIRE_APRIL"
+msgstr "¡Se están calentando las cosas ahí!"
+
+msgid "HUD_STOP_FIRE"
+msgstr "¡Fuego extinguido!"
+
+msgid "HUD_SUPERIORITY_AIRPLANE_DOWNED"
+msgstr "{type} destruido:"
+
+msgid "HUD_SUPERIORITY_DECREASE"
+msgstr "Superioridad enemiga:"
+
+msgid "HUD_SUPERIORITY_VALUE"
+msgstr "+{points} puntos de superioridad"
+
+msgid "HUD_TEAM_MEMBERS"
+msgstr "Grupo de combate"
+
+msgid "HUD_TEST_FLIGHT"
+msgstr "Vuelo de prueba"
+
+msgid "HUD_TEST_FLIGHT_CAPS"
+msgstr "VUELO DE PRUEBA"
+
+msgid "HUD_TEST_FLIGHT_DESCRIPTION"
+msgstr ""
+"Un vuelo para probar el equipamiento montado y la configuración de "
+"consumibles. Los ingresos de experiencia y créditos por batalla son "
+"significativamente inferiores."
+
+msgid "HUD_TEST_FLIGHT_TIP-1"
+msgstr "Una versión gratuita de prueba del equipamiento usado"
+
+msgid "HUD_TEST_FLIGHT_TIP-2"
+msgstr ""
+"Los ingresos de experiencia y créditos por batalla son significativamente "
+"inferiores"
+
+msgid "HUD_TEST_FLIGHT_TIP-3"
+msgstr "No se pueden cambiar los aviones en una batalla de prueba"
+
+msgid "HUD_TIME_LEFT_TO_REACH_POINT"
+msgstr "Alcanzará el objetivo en:"
+
+msgid "HUD_TIME_LEFT_TO_REPAIR_TURRET"
+msgstr "La torreta estará operativa en {SS}"
+
+msgid "HUD_TIPS_AIRBASE_DESCRIPTION"
+msgstr "Permite seleccionar un nuevo avión disponible en el mismo nivel"
+
+msgid "HUD_TIPS_ASSAULT"
+msgstr "AVIONES DE ATAQUE"
+
+msgid "HUD_TIPS_ATTACK_GROUP"
+msgstr "GRUPO ATACANTE"
+
+msgid "HUD_TIPS_ATTRITION_MODE"
+msgstr "GUERRA DE DESGASTE"
+
+msgid "HUD_TIPS_BOMBERS"
+msgstr "BOMBARDEROS"
+
+msgid "HUD_TIPS_CAPTURE_SECTORS"
+msgstr "CAPTURA SECTORES"
+
+msgid "HUD_TIPS_CLASS_QUESTS"
+msgstr "MISIONES DE TIPO DE AVIÓN"
+
+msgid "HUD_TIPS_COMM_CENTER_DESCRIPTION"
+msgstr ""
+"Solicita que una escuadrilla de bombarderos ataque objetivos terrestres "
+"enemigos"
+
+msgid "HUD_TIPS_CONQUEST_MODE"
+msgstr "CONQUISTA"
+
+msgid "HUD_TIPS_DEFENCE_GROUP"
+msgstr "GRUPO DEFENSOR"
+
+msgid "HUD_TIPS_FACTORY_DESCRIPTION"
+msgstr "Consigue 80 recursos adicionales cada 120 segundos"
+
+msgid "HUD_TIPS_FAST_MESSAGES"
+msgstr "ATAJOS DEL CHAT"
+
+msgid "HUD_TIPS_FIGHTERS"
+msgstr "CAZAS"
+
+msgid "HUD_TIPS_FOOTHOLD_DESCRIPTION"
+msgstr "Requiere más acciones activas para ser capturada"
+
+msgid "HUD_TIPS_GAMEMOD"
+msgstr "Modo de juego"
+
+msgid "HUD_TIPS_GAMEMOD_CONQUEST"
+msgstr "Modo de juego «Conquista»"
+
+msgid "HUD_TIPS_GAMEMOD_ESCORT"
+msgstr "Modo de juego «Escolta»"
+
+msgid "HUD_TIPS_GAMEMOD_INVASION"
+msgstr "Modo de juego «Invasión»"
+
+msgid "HUD_TIPS_HEAVY_FIGHTERS"
+msgstr "CAZAS PESADOS"
+
+msgid "HUD_TIPS_HOT_BUTTONS"
+msgstr "ATAJOS"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_ATTACK-DEFENCE"
+msgstr "Destruir todos los aviones enemigos es otra forma de ganar"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_ATTACK_1"
+msgstr ""
+"Para ganar una batalla, captura todos los sectores enemigos durante un "
+"periodo de tiempo limitado"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_ATTACK_2"
+msgstr ""
+"El enemigo no puede recapturar sectores capturados por tu grupo de combate"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_ATTACK_3"
+msgstr "Capturar un sector proporciona tiempo de ataque adicional"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_ATTACK_4"
+msgstr "El número de salidas es limitado, lo que favorece a tu grupo"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_ATTRITION_1"
+msgstr "Destruye aviones enemigos, agotando sus recursos"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_ATTRITION_2"
+msgstr ""
+"El grupo de combate que primero se quede sin recursos pierde la batalla"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_ATTRITION_3"
+msgstr ""
+"Los sectores bajo el control de tu grupo de combate incrementan la "
+"efectividad global de tus acciones en batalla"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_ATTRITION_4"
+msgstr ""
+"Cuanto mayor sea la efectividad del grupo de combate, más significativa será "
+"para el enemigo la pérdida de un avión"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_1"
+msgstr "Defiende los objetivos terrestres clave"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_10"
+msgstr ""
+"Aviones rápidos polivalentes diseñados para interceptar aviones enemigos a "
+"cotas altas"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_11"
+msgstr ""
+"Aviones resistentes diseñados para destruir objetivos terrestres a baja cota"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_12"
+msgstr ""
+"Aviones pesados de alta velocidad diseñados para destruir objetivos "
+"terrestres a gran altura"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_2"
+msgstr "Proporciona apoyo a aviones de otros tipos"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_3"
+msgstr "Aviones de ataque enemigos"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_4"
+msgstr "Suprime las defensas enemigas"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_5"
+msgstr "Ataca los objetivos terrestres clave"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_6"
+msgstr "Destruye los aviones enemigos de alta cota"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_7"
+msgstr "Usa el potente armamento defensivo"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_8"
+msgstr ""
+"Aviones maniobrables diseñados para repeler los ataques enemigos y cubrir a "
+"los aliados"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_9"
+msgstr ""
+"Aviones polivalentes diseñados para el combate cercano y para destruir "
+"pequeños objetivos terrestres"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_CLASS_QUESTS_1"
+msgstr "Cada avión tiene tres misiones específicas según el tipo de avión"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_CLASS_QUESTS_2"
+msgstr ""
+"Completar estas misiones aumenta el grado del tipo de avión y asegura un "
+"buen rango en el grupo de combate"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_CLASS_QUESTS_3"
+msgstr ""
+"Para ver la lista de misiones específicas del tipo de avión y su progreso, "
+"pulsa y mantén"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_CONQUEST_1"
+msgstr "Al comienzo de una batalla, los sectores no pertenecen a ningún bando"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_CONQUEST_2"
+msgstr ""
+"Para capturar un sector, destruye los objetivos terrestres y aéreos que "
+"contiene"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_CONQUEST_3"
+msgstr ""
+"Una vez un sector es capturado, no puede ser recapturado por el enemigo "
+"durante 30 segundos"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_DEFENCE_1"
+msgstr ""
+"Para ganar una batalla, mantén el control sobre al menos un sector antes de "
+"que termine la batalla"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_DEFENCE_2"
+msgstr "No puedes recapturar sectores capturados por el enemigo"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_DEFENCE_3"
+msgstr "Capturar un sector proporciona al enemigo tiempo adicional para atacar"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_DEFENCE_4"
+msgstr "El número de salidas es limitado, lo que favorece al enemigo"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_GAMEMODE_1"
+msgstr "Captura y mantén sectores clave en la zona de operaciones"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_GAMEMODE_2"
+msgstr ""
+"Los sectores proporcionan 3 recursos cada 5 segundos para el grupo que los "
+"controla"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_GAMEMODE_3"
+msgstr ""
+"Algunos sectores proporcionan ventajas exclusivas para el grupo que los "
+"controla"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_GAMEMODE_4"
+msgstr ""
+"Gana el grupo de combate que consiga antes el número requerido de recursos"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_GAMEMODE_5"
+msgstr ""
+"Destruir todos los aviones enemigos tras la llegada del frente de tempestad "
+"es otra clave para la victoria"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_HOT_BUTTONS_1"
+msgstr "Procediendo hacia el sector"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_HOT_BUTTONS_2"
+msgstr "Atacando / Apoyando"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_HOT_BUTTONS_3"
+msgstr "Información detallada"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_HOT_BUTTONS_4"
+msgstr "Mapa, paneles del equipo, misiones del tipo de avión"
+
+msgid "HUD_TIPS_HOW_TO_PLAY_HOT_BUTTONS_5"
+msgstr "Escalado del radar"
+
+msgid "HUD_TIPS_INFLUENCE_DESCRIPTION"
+msgstr "Otorga 3 recursos cada 5 segundos"
+
+msgid "HUD_TIPS_MILITARYBASE_DESCRIPTION"
+msgstr ""
+"Lanza ataques de cohetes sobre objetivos terrestres en sectores cercanos"
+
+msgid "HUD_TIPS_MILITARYBASE_DESCRIPTION_2"
+msgstr ""
+"Elige el sector que está siendo atacado por más aviones como objetivo de los "
+"ataques con cohetes"
+
+msgid "HUD_TIPS_MILITARYBASE_DESCRIPTION_F1"
+msgstr "Apoya el ataque del grupo de combate con ataques con cohetes"
+
+msgid "HUD_TIPS_MILITARYBASE_STATUS_ATTACK_SUPP"
+msgstr "Ofrece apoyo al ataque"
+
+msgid "HUD_TIPS_MILITARYBASE_STATUS_WAITING"
+msgstr "Buscando objetivo..."
+
+msgid "HUD_TIPS_NAVY_FIGHTERS"
+msgstr "CAZAS POLIVALENTES"
+
+msgid "HUD_TIPS_NEW_TERRITORY"
+msgstr "¡Nuevo sector!"
+
+msgid "HUD_TIPS_PLANE_CLASS"
+msgstr "Tipo de avión"
+
+msgid "HUD_TIPS_REPAIR_DESCRIPTION"
+msgstr "Permite reparar los aviones"
+
+msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_1"
+msgstr ""
+"Equipado con {teamObject:12} cañones AA poco potentes, pero protegido por "
+"una gran cantidad de {class:1} cazas."
+
+msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_2"
+msgstr ""
+"Protegido moderadamente por {class:1} cazas y {teamObject:12} "
+"{teamObject:13} cañones AA de diferentes tipos."
+
+msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_3"
+msgstr ""
+"Bien protegido por un gran número de {teamObject:12} cañones AA ligeros y "
+"{class:1} {class:2} cazas de diferentes tipos."
+
+msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_4"
+msgstr ""
+"Equipado con un gran número de {teamObject:13} cañones AA de alta cota, pero "
+"sin protección de aviones de defensa aérea."
+
+msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_5"
+msgstr ""
+"Equipado con una potente {teamObject:12} {teamObject:13} defensa antiaérea "
+"polivalente y protegido por {class:1} cazas ligeros."
+
+msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_6"
+msgstr ""
+"Equipado con una potente {teamObject:12} {teamObject:13} defensa antiaérea "
+"polivalente y protegido por {class:2} cazas pesados."
+
+msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_7"
+msgstr ""
+"Equipado con un potente {teamObject:12} {teamObject:13} sistema defensivo "
+"antiaéreo polivalente. No está protegido por aviones de defensa aérea."
+
+msgid "HUD_TIPS_SPAWN_POINT_DESCRIPTION"
+msgstr "Puede seleccionarse como punto de salida para los aviones de refuerzo"
+
+msgid "HUD_TIPS_SPAWN_TIME_DESCRIPTION"
+msgstr ""
+"Reduce el tiempo de salida para todos los aviones de refuerzo en 10 segundos"
+
+msgid "HUD_TIPS_TACTIC"
+msgstr "Tácticas"
+
+msgid "HUD_TIPS_UI"
+msgstr "Interfaz"
+
+msgid "HUD_TOOLTIPS_AIRCRAFT_MODULE_BACK_ENGINE"
+msgstr "motor trasero"
+
+msgid "HUD_TOOLTIPS_AIRCRAFT_MODULE_CENTER_ENGINE"
+msgstr "motor central"
+
+msgid "HUD_TOOLTIPS_AIRCRAFT_MODULE_LEFT_ENGINE"
+msgstr "motor izquierdo"
+
+msgid "HUD_TOOLTIPS_AIRCRAFT_MODULE_LEFT_WING"
+msgstr "ala izquierda"
+
+msgid "HUD_TOOLTIPS_AIRCRAFT_MODULE_RIGHT_ENGINE"
+msgstr "motor derecho"
+
+msgid "HUD_TOOLTIPS_AIRCRAFT_MODULE_RIGHT_WING"
+msgstr "ala derecha"
+
+msgid "HUD_TOOLTIPS_AIRCRAFT_MODULE_TAIL"
+msgstr "cola"
+
+msgid "HUD_TOOLTIPS_AIRCRAFT_MODULE_TURRET"
+msgstr "torreta"
+
+msgid "HUD_TOOLTIPS_AIRCRAFT_WITHOUT_CRIT_DMG"
+msgstr "No hay daño crítico"
+
+msgid "HUD_TOOLTIPS_AP-INCINERATINGBELT"
+msgstr "Cinta incendiaria alto explosivo"
+
+msgid "HUD_TOOLTIPS_ARMOURPIERCINGBELT"
+msgstr "Cinta universal"
+
+msgid "HUD_TOOLTIPS_BATTLE_POINTS"
+msgstr "Puntos personales"
+
+msgid "HUD_TOOLTIPS_BOOST_REMAINING"
+msgstr "Disponibilidad del impulsor"
+
+msgid "HUD_TOOLTIPS_BUTTON_TO_USE_DESCRIPTION"
+msgstr "Presiona {button} para utilizar."
+
+msgid "HUD_TOOLTIPS_CLASS_EFFECTIVENESS"
+msgstr "Eficiencia de tipo de avión"
+
+msgid "HUD_TOOLTIPS_CLICK_TO_USE"
+msgstr "Pulsa {key} para usarlo."
+
+msgid "HUD_TOOLTIPS_CONSUMABLES_AIR-RESTARTER"
+msgstr "Repara parcialmente un motor dañado."
+
+msgid "HUD_TOOLTIPS_CONSUMABLES_EXTINGUISHER_1"
+msgstr "Apaga el fuego."
+
+msgid "HUD_TOOLTIPS_CONSUMABLES_EXTINGUISHER_2"
+msgstr ""
+"Apaga el fuego y proporciona resistencia contra los incendios durante 15 "
+"segundos tras usarse."
+
+msgid "HUD_TOOLTIPS_CONSUMABLES_OUTPOST"
+msgstr ""
+"+50 % de créditos por batalla. Verificación de los resultados de batalla por "
+"observadores terrestres."
+
+msgid "HUD_TOOLTIPS_CONSUMABLES_RECON"
+msgstr ""
+"+25 % de experiencia del avión por batalla. Verificación de los ataques "
+"aéreos por el reconocimiento aéreo."
+
+msgid "HUD_TOOLTIPS_DAMAGE"
+msgstr "Daño"
+
+msgid "HUD_TOOLTIPS_DESCRIPTION_AMMUNITIONS"
+msgstr "Munición a bordo"
+
+msgid "HUD_TOOLTIPS_DESCRIPTION_AUTO_USE_1"
+msgstr "Se usa automáticamente."
+
+msgid "HUD_TOOLTIPS_DESCRIPTION_AUTO_USE_2"
+msgstr "Se usa automáticamente tras acabar la batalla."
+
+msgid "HUD_TOOLTIPS_FRAGBELT"
+msgstr "Cinta alto explosivo"
+
+msgid "HUD_TOOLTIPS_GENERALPURPOSEBELT_CANNON"
+msgstr "Cinta incendiaria alta penetración"
+
+msgid "HUD_TOOLTIPS_MASTERY_POINTS"
+msgstr "Puntos de maestría"
+
+msgid "HUD_TOOLTIPS_MY_PLANE"
+msgstr "Mi avión"
+
+msgid "HUD_TOOLTIPS_NEW_TERRITORY"
+msgstr "¡Nuevo sector!"
+
+msgid "HUD_TOOLTIPS_PLANES_TACTICAL_RESERVE"
+msgstr "Número de aviones en reserva táctica"
+
+msgid "HUD_TOOLTIPS_STANDARTBELT"
+msgstr "Cinta estándar"
+
+msgid "HUD_TOOLTIPS_WITHOUT_BONUSES"
+msgstr "Sin bonificaciones"
+
+msgid "HUD_TOOLTIP_CHOOSE_MIN_ONE_CAMERA"
+msgstr "Se debe seleccionar<br>al menos una cámara."
+
+msgid "HUD_TOOLTIP_CONSUMABLE_BUTTON"
+msgstr "Presiona {button} para usar."
+
+msgid "HUD_TOOLTIP_THRUST_BUTTON"
+msgstr "Presiona {button} para activar el impulsor."
+
+msgid "HUD_TOOLTIP_THRUST_DURATION"
+msgstr "Disponibilidad del impulsor"
+
+msgid "HUD_TOO_LOW_ALTITUDE_STR"
+msgstr " "
+
+msgid "HUD_TOO_LOW_ALTITUDE_STR_APRIL"
+msgstr "¡Mantén la calma y cabecea hacia arriba!"
+
+msgid "HUD_TO_HANGAR"
+msgstr "De vuelta al hangar en:"
+
+msgid "HUD_TURRET_KILL_SOMEBODY_STR"
+msgstr "{ico} [{v}] destruido por cañón AA"
+
+msgid "HUD_TYPE_ASSAULT_NEW_TIP_1"
+msgstr "Ataca sectores enemigos destruyendo objetivos terrestres"
+
+msgid "HUD_TYPE_ASSAULT_NEW_TIP_2"
+msgstr "Emplea bombas y cohetes para destruir objetivos terrestres"
+
+msgid "HUD_TYPE_ASSAULT_NEW_TIP_3"
+msgstr "Evita los enfrentamientos y mantente a baja altura"
+
+msgid "HUD_TYPE_ASSAULT_TIP_1"
+msgstr ""
+"Los aviones de ataque son resistentes y pesados y están diseñados para "
+"atacar objetivos terrestres con armas frontales y externas mientras vuelan a "
+"baja altura."
+
+msgid "HUD_TYPE_ASSAULT_TIP_10"
+msgstr ""
+"Mientras capturas un sector, elige la dirección de vuelo que te permitirá "
+"atacar el mayor número posible de objetivos terrestres."
+
+msgid "HUD_TYPE_ASSAULT_TIP_2"
+msgstr ""
+"Utiliza tu potente armamento externo para destruir rápidamente objetivos "
+"terrestres de gran tamaño."
+
+msgid "HUD_TYPE_ASSAULT_TIP_3"
+msgstr ""
+"Enfréntate a los aviones enemigos despistados en ataques frontales. Utiliza "
+"tu potente armamento frontal y confía en tu gran reserva de puntos de vida."
+
+msgid "HUD_TYPE_ASSAULT_TIP_4"
+msgstr ""
+"Atacar objetivos terrestres volando a baja altura te permite mantenerte "
+"fuera del alcance de los cazas enemigos de gran altura."
+
+msgid "HUD_TYPE_ASSAULT_TIP_5"
+msgstr "Utiliza las torretas para defenderte de los cazas enemigos."
+
+msgid "HUD_TYPE_ASSAULT_TIP_6"
+msgstr "Activa el impulsor para alcanzar rápidamente los sectores clave."
+
+msgid "HUD_TYPE_ASSAULT_TIP_7"
+msgstr "Evita los enfrentamientos con cazas y aviones polivalentes enemigos."
+
+msgid "HUD_TYPE_ASSAULT_TIP_8"
+msgstr ""
+"Los aviones de ataque son más eficaces al capturar plantas y menos al "
+"capturar aeródromos."
+
+msgid "HUD_TYPE_ASSAULT_TIP_9"
+msgstr ""
+"Utiliza las bombas y los cohetes para aniquilar los objetivos terrestres "
+"dañados por las armas frontales."
+
+msgid "HUD_TYPE_BOMBER_NEW_TIP_1"
+msgstr "Ataca sectores enemigos destruyendo objetivos terrestres a gran altura"
+
+msgid "HUD_TYPE_BOMBER_NEW_TIP_2"
+msgstr "Ataca primero los objetivos terrestres grandes"
+
+msgid "HUD_TYPE_BOMBER_NEW_TIP_3"
+msgstr ""
+"Utiliza las torretas para defenderte o actia el impulsor para romper el "
+"contacto"
+
+msgid "HUD_TYPE_BOMBER_TIP_1"
+msgstr ""
+"Los bombarderos medios son aviones rápidos diseñados para atacar objetivos "
+"con bombas desde una gran altura."
+
+msgid "HUD_TYPE_BOMBER_TIP_2"
+msgstr "Ataca primero los grandes objetivos terrestres."
+
+msgid "HUD_TYPE_BOMBER_TIP_3"
+msgstr ""
+"Atacar los objetivos terrestres desde una gran altura te permite mantenerte "
+"fuera del alcance de disparo de la mayoría de cazas enemigos."
+
+msgid "HUD_TYPE_BOMBER_TIP_4"
+msgstr ""
+"Utiliza las torretas para defenderte de los cazas enemigos o activa el "
+"impulsor para escapar de ellos."
+
+msgid "HUD_TYPE_BOMBER_TIP_5"
+msgstr ""
+"Un bombardero a baja altitud es un objetivo fácil para los cazas enemigos."
+
+msgid "HUD_TYPE_BOMBER_TIP_6"
+msgstr "No cuentes con el armamento frontal de los bombarderos."
+
+msgid "HUD_TYPE_BOMBER_TIP_7"
+msgstr ""
+"Los bombarderos son más eficaces al capturar centros de mando y menos al "
+"capturar aeródromos."
+
+msgid "HUD_TYPE_BOMBER_TIP_8"
+msgstr ""
+"Para repeler con éxito los ataques enemigos, cambia al control de las "
+"torretas (presionando la tecla T por defecto)."
+
+msgid "HUD_TYPE_BOMBER_TIP_9"
+msgstr ""
+"Para soltar bombas con éxito, activa la mira especial de bombardeo "
+"(presionando la tecla Máy. Izq. por defecto)."
+
+msgid "HUD_TYPE_FIGHTERS_NEW_TIP_1"
+msgstr "Asiste a los aviones del grupo de combate"
+
+msgid "HUD_TYPE_FIGHTERS_NEW_TIP_2"
+msgstr "Defiende sectores de los ataques de aviones enemigos"
+
+msgid "HUD_TYPE_FIGHTERS_NEW_TIP_3"
+msgstr "Enfrentate en combate de maniobra de baja y media altura"
+
+msgid "HUD_TYPE_FIGHTERS_NEW_TIP_4"
+msgstr "Enfréntate en combate de maniobras a baja y media altitud."
+
+msgid "HUD_TYPE_FIGHTERS_TIP_1"
+msgstr ""
+"Los cazas maniobrables son aviones móviles diseñados para destruir a los "
+"cazas enemigos y a los aviones polivalentes en un combate aéreo dinámico."
+
+msgid "HUD_TYPE_FIGHTERS_TIP_10"
+msgstr ""
+"Los cazas son más eficaces al capturar aeródromos y menos al capturar "
+"plantas."
+
+msgid "HUD_TYPE_FIGHTERS_TIP_2"
+msgstr ""
+"Los cazas de alta velocidad son aviones dinámicos con buenas tasas de "
+"ascenso diseñados para interceptar y destruir cazas y bombarderos medios "
+"enemigos a gran altura."
+
+msgid "HUD_TYPE_FIGHTERS_TIP_3"
+msgstr ""
+"Utiliza la ventaja en maniobrabilidad de un caza para interceptar a los "
+"cazas pesados y polivalentes."
+
+msgid "HUD_TYPE_FIGHTERS_TIP_4"
+msgstr ""
+"Gracias a su gran velocidad, los cazas ligeros pueden alcanzar rápidamente a "
+"un avión enemigo."
+
+msgid "HUD_TYPE_FIGHTERS_TIP_5"
+msgstr ""
+"Los cazas ligeros tienen la mejor maniobrabilidad. Utiliza esta ventaja para "
+"situarte en la cola de los aviones enemigos."
+
+msgid "HUD_TYPE_FIGHTERS_TIP_6"
+msgstr ""
+"Una maniobra de tonel es una forma fácil y eficaz de esquivar un ataque "
+"frontal."
+
+msgid "HUD_TYPE_FIGHTERS_TIP_7"
+msgstr ""
+"Evita los enfrentamientos con aviones de ataque enemigos cuando vueles en "
+"cazas ligeros sin apoyo."
+
+msgid "HUD_TYPE_FIGHTERS_TIP_8"
+msgstr ""
+"Evita los enfrentamientos individuales con aviones de ataque y bombarderos "
+"enemigos."
+
+msgid "HUD_TYPE_FIGHTERS_TIP_9"
+msgstr ""
+"Los cazas no son objetivos prioritarios para los sistemas defensivos "
+"enemigos. Utiliza esta ventaja para cubrir a los aviones de ataque a tierra "
+"aliados."
+
+msgid "HUD_TYPE_H-FIGHTERS_NEW_TIP_1"
+msgstr "Ataca sectores enemigos destruyendo objetivos aéreos y terresteres"
+
+msgid "HUD_TYPE_H-FIGHTERS_NEW_TIP_2"
+msgstr "Destruye bombarderos enemigos"
+
+msgid "HUD_TYPE_H-FIGHTERS_NEW_TIP_3"
+msgstr "Emplea tu velocidad y ventaja en armamento en combate de gran altura"
+
+msgid "HUD_TYPE_H-FIGHTERS_TIP_1"
+msgstr ""
+"Los cazas pesados son aviones polivalentes con potente armamento frontal "
+"diseñados para interceptar aviones de ataque a tierra enemigos y destruir "
+"objetivos terrestres."
+
+msgid "HUD_TYPE_H-FIGHTERS_TIP_10"
+msgstr ""
+"Utiliza tu velocidad ventajosa para alcanzar sectores clave con rapidez."
+
+msgid "HUD_TYPE_H-FIGHTERS_TIP_2"
+msgstr ""
+"Utiliza tu potente armamento frontal para destruir rápidamente aviones de "
+"ataque y bombarderos enemigos."
+
+msgid "HUD_TYPE_H-FIGHTERS_TIP_3"
+msgstr ""
+"Con un ataque bien planeado, un caza pesado puede destruir un avión enemigo "
+"de una pasada."
+
+msgid "HUD_TYPE_H-FIGHTERS_TIP_4"
+msgstr ""
+"Enfréntate a cazas desde una altura superior con una gran velocidad de "
+"ataque."
+
+msgid "HUD_TYPE_H-FIGHTERS_TIP_5"
+msgstr "Activa el impulsor para ganar rápidamente velocidad y altitud."
+
+msgid "HUD_TYPE_H-FIGHTERS_TIP_6"
+msgstr ""
+"Evita los combates de maniobras con los cazas enemigos. Activa el impulsor "
+"para alejarte de ellos."
+
+msgid "HUD_TYPE_H-FIGHTERS_TIP_7"
+msgstr "Utiliza tu armamento de ataque para eliminar las defensas antiaéreas."
+
+msgid "HUD_TYPE_H-FIGHTERS_TIP_8"
+msgstr ""
+"La mayoría de los sectores tienen sistemas de defensa dirigidos a destruir "
+"cazas enemigos pesados. Maniobra y utiliza tu velocidad ventajosa para "
+"evitar el fuego de los cañones antiaéreos y los aviones de defensa aérea."
+
+msgid "HUD_TYPE_H-FIGHTERS_TIP_9"
+msgstr ""
+"Los cazas pesados son más eficaces al capturar centros de mando y menos al "
+"capturar bases militares."
+
+msgid "HUD_TYPE_NAVY_NEW_TIP_1"
+msgstr "Destruye cañones AA con el armamento externo"
+
+msgid "HUD_TYPE_NAVY_NEW_TIP_2"
+msgstr "Defiende sectores de los ataques de aviones enemigos"
+
+msgid "HUD_TYPE_NAVY_TIP_1"
+msgstr ""
+"Los cazas polivalentes son aviones multitarea capaces de enfrentarse a "
+"aviones enemigos a corta distancia y destruir objetivos terrestres poco "
+"resistentes."
+
+msgid "HUD_TYPE_NAVY_TIP_2"
+msgstr ""
+"Utiliza tu potente armamento para destruir aviones de ataque y bombarderos "
+"enemigos."
+
+msgid "HUD_TYPE_NAVY_TIP_3"
+msgstr "Evita combates de maniobras con los cazas enemigos."
+
+msgid "HUD_TYPE_NAVY_TIP_4"
+msgstr "Utiliza tu armamento de ataque para eliminar las defensas antiaéreas."
+
+msgid "HUD_TYPE_NAVY_TIP_5"
+msgstr ""
+"Ataca a los aviones de ataque a tierra enemigos fuera de su campo de tiro."
+
+msgid "HUD_TYPE_NAVY_TIP_6"
+msgstr ""
+"Los cazas polivalentes son más eficaces al capturar centros de mando y menos "
+"al capturar plantas."
+
+msgid "HUD_TYPE_NAVY_TIP_7"
+msgstr ""
+"Los cazas polivalentes son más efectivos al capturar centros de mando y "
+"menos efectivos al capturar plantas."
+
+msgid "HUD_UNARMORED_OBJECT_SECTORS"
+msgstr "Objetivos no blindados"
+
+msgid "HUD_UNLOCK_TARGET_TEXT"
+msgstr " "
+
+msgid "HUD_UNLOCK_TARGET_TEXT_2"
+msgstr "Objetivo no fijado"
+
+msgid "HUD_WAITING4START_STR"
+msgstr "Iniciando la batalla..."
+
+msgid "HUD_WARNING_MESSAGE_ALIGH_PLANE"
+msgstr "¡Estabiliza el avión!"
+
+msgid "HUD_WARNING_MESSAGE_ANTI_AIR_DEF"
+msgstr "¡Estás bajo fuego AA!"
+
+msgid "HUD_WARNING_MESSAGE_AUTOPILOT"
+msgstr "Piloto automático activado"
+
+msgid "HUD_WARNING_MESSAGE_BACK_TO_OPERATION_AREA"
+msgstr "¡Vuelve a la zona de operación!"
+
+msgid "HUD_WARNING_MESSAGE_BOMBING_IMPOSSIBLE"
+msgstr "¡No es posible soltar una bomba!"
+
+msgid "HUD_WARNING_MESSAGE_CHANGE_FLIGHT_PATH"
+msgstr "¡Cambia de dirección!"
+
+msgid "HUD_WARNING_MESSAGE_COLLISION"
+msgstr "¡Alerta de colisión!"
+
+msgid "HUD_WARNING_MESSAGE_EFFECTIVENESS_REDUCED"
+msgstr "Eficacia reducida."
+
+msgid "HUD_WARNING_MESSAGE_ENEMY_ON_SIX"
+msgstr "¡Enemigo en cola!"
+
+msgid "HUD_WARNING_MESSAGE_ENGINE_MALFUNCTION"
+msgstr "¡El motor está dañado!"
+
+msgid "HUD_WARNING_MESSAGE_ENGINE_OVERHEAT"
+msgstr "¡El motor se ha sobrecalentado!"
+
+msgid "HUD_WARNING_MESSAGE_GUNNER_CANT_SHOOT"
+msgstr "No es posible disparar"
+
+msgid "HUD_WARNING_MESSAGE_GUNNER_WOUNDED"
+msgstr "¡El artillero está herido!"
+
+msgid "HUD_WARNING_MESSAGE_IMPOSSIBLE_BOOST"
+msgstr "No es posible usar el impulsor"
+
+msgid "HUD_WARNING_MESSAGE_INCREASE_YOUR_SPEED"
+msgstr "¡Aumenta la velocidad!"
+
+msgid "HUD_WARNING_MESSAGE_LEAVE_BATTLEFIELD"
+msgstr "¡Estás saliendo del campo de batalla!"
+
+msgid "HUD_WARNING_MESSAGE_LEAVE_OPERATION_AREA"
+msgstr "¡Has volado fuera del área de operaciones!"
+
+msgid "HUD_WARNING_MESSAGE_MANEUVER_AAD"
+msgstr "¡Maniobra para escapar del fuego enemigo!"
+
+msgid "HUD_WARNING_MESSAGE_MANEUVER_PLAYER"
+msgstr "¡Maniobra para escapar de la vista del enemigo!"
+
+msgid "HUD_WARNING_MESSAGE_MANEUVER_STOP_FIRE"
+msgstr "¡Maniobra para extinguir el fuego!"
+
+msgid "HUD_WARNING_MESSAGE_MODULE_DESTROYED"
+msgstr "¡Destruido: {module}!"
+
+msgid "HUD_WARNING_MESSAGE_NO_BOMB"
+msgstr "No hay bombas que soltar"
+
+msgid "HUD_WARNING_MESSAGE_NO_PERSONAL_AIRCRAFT_TYPE-SPECIFIC_MISSIONS"
+msgstr ""
+"No hay misiones específicas del tipo de avión para el avión seleccionado en "
+"este modo de juego."
+
+msgid "HUD_WARNING_MESSAGE_NO_ROCKETS"
+msgstr "No hay cohetes que disparar"
+
+msgid "HUD_WARNING_MESSAGE_PILOT_WOUNDED"
+msgstr "¡El piloto está herido!"
+
+msgid "HUD_WARNING_MESSAGE_PLANE_IN_FIRE"
+msgstr "¡El avión está en llamas!"
+
+msgid "HUD_WARNING_MESSAGE_REDUCED_DURATION_BOOST"
+msgstr "Duración del impulsor incrementada"
+
+msgid "HUD_WARNING_MESSAGE_REDUCED_RATE_OF_FIRE"
+msgstr "Cadencia de tiro reducida."
+
+msgid "HUD_WARNING_MESSAGE_TAIL_DAMAGED"
+msgstr "¡La cola está dañada!"
+
+msgid "HUD_WARNING_MESSAGE_WAIT_REPLENISH_AMMUNITION"
+msgstr "Espera hasta que se vuelva a suministrar el armamento."
+
+msgid "HUD_WARNING_MESSAGE_WEAPONS_OVERHEAT"
+msgstr "¡Las armas se han sobrecalentado!"
+
+msgid "HUD_WARNING_MESSAGE_WING_DAMAGED"
+msgstr "¡El ala está dañada!"
+
+msgid "HUD_WEAPONS"
+msgstr "Armas"
+
+msgid "HUD_WINNERS_STR"
+msgstr "¡Victoria!"
+
+msgid "HUD_WINNERS_STR_APRIL"
+msgstr "¡Eso fue fácil!"
+
+msgid "HUD_WIN_ATTRITION_STR"
+msgstr "Recursos enemigos agotados. La operación se completó con éxito."
+
+msgid "HUD_WIN_DOMINATION_STR"
+msgstr "¡El equipo amigo logró la superioridad aérea!"
+
+msgid "HUD_WIN_SECTORS_STR"
+msgstr "El grupo de combate ha tomado el control sobre todos los sectores"
+
+msgid "HUD_WIN_SUPERIORITY_STR"
+msgstr "El grupo de combate tomó control de la zona de operaciones"
+
+msgid "HUD_WIN_TIME_OVER_STR"
+msgstr "El enemigo perdió la iniciativa. El ataque se detuvo."
+
+msgid "HUD_WORKSHOP_OBJECT"
+msgstr "Talleres"
+
+msgid "HUD_YOU_MESSAGE"
+msgstr "Tú"
+
+msgid "HUD_ZOOM_IN_RADAR"
+msgstr "Área de radar ampliada"
+
+msgid "HUD_ZOOM_OUT_RADAR"
+msgstr "Área de radar alejada"
+
+msgid "INGAME_HELP_KEYS_ASSIGNMENT_TIP"
+msgstr ""
+"Para ver y personalizar los controles del juego, click en <font "
+"color='#FFB400'>Ajustes</font>."
+
+msgid "INGAME_HELP_RETURN_TO_GAME"
+msgstr "Esc — Volver al juego"
+
+msgid "INGAME_HELP_SCREEN_TITLE"
+msgstr "Batalla estándar"
+
+msgid "INGAME_MENU"
+msgstr "Menú de batalla"
+
+msgid "MENU_HELP_BUTTON"
+msgstr "Ayuda"
+
+msgid "MINIHELP"
+msgstr ""
+"<b><font color='#FFB400'>Esc</font></b> — Ajustes, <b><font "
+"color='#FFB400'>F1</font></b> — Ayuda"
+
+msgid "MINIHELP_ESC_TO_RETURN"
+msgstr "Presiona Esc para volver al juego"
+
+msgid "OBJECT_NAME_BATTLESHIP"
+msgstr "Barco de guerra"
+
+msgid "OBJECT_NAME_RLS STOREHOUSE"
+msgstr "Taller de mantenimiento"
+
+msgid "POPUP_MENU"
+msgstr "Menú del juego"
+
+msgid "QUICK_MESSAGE_ERROR_COMPLEX"
+msgstr "Designa un sector con más precisión"
+
+msgid "QUICK_MESSAGE_ERROR_PLANE"
+msgstr "Designa un objetivo con más precisión"
+
+msgid "QUICK_MESSAGE_ERROR_SCREEN"
+msgstr "Solo un piloto puede transmitir mensajes."
+
+msgid "QUICK_MESSAGE_ERROR_TIMER"
+msgstr "El contacto de radio estará disponible en: {time_sec} s"
+
+msgid "QUICK_MESSAGE_F2_1"
+msgstr "¡Procediendo a atacar el sector «{sector}»!"
+
+msgid "QUICK_MESSAGE_F2_2"
+msgstr "¡Procediendo a defender el sector «{sector}»!"
+
+msgid "QUICK_MESSAGE_F2_3"
+msgstr "¡Procediendo al sector «{sector}»!"
+
+msgid "QUICK_MESSAGE_F3_1"
+msgstr "¡Combatiendo por el sector «{sector}»! ¡Ayuda!"
+
+msgid "QUICK_MESSAGE_F3_2"
+msgstr "¡Defendiendo el sector «{sector}»! ¡Ayuda!"
+
+msgid "QUICK_MESSAGE_F3_NEED_HELP"
+msgstr "¡Solicitando apoyo!"
+
+msgid "QUICK_MESSAGE_F4_1"
+msgstr "¡Atacando a {player_name}!"
+
+msgid "QUICK_MESSAGE_F4_2"
+msgstr "¡Escoltando a {player_name}!"
+
+msgid "QUICK_MESSAGE_F4_3"
+msgstr "¡Atacando escuadrilla de bombarderos!"
+
+msgid "QUICK_MESSAGE_F4_4"
+msgstr "¡Escoltando escuadrilla de bombarderos!"
+
+msgid "QUICK_MESSAGE_F5_1"
+msgstr "¡Lo tengo en la cola! ¡Necesito ayuda!"
+
+msgid "QUICK_MESSAGE_F8_1"
+msgstr "¡Buen trabajo!"
+
+msgid "RANDOM."
+msgstr "Mapa aleatorio"
+
+msgid "REPLAY_FREE_CAMERA_OFF"
+msgstr "Cámara fija activada"
+
+msgid "REPLAY_FREE_CAMERA_ON"
+msgstr "Cámara libre activada"
+
+msgid "REPLAY_HEADER_HOTKEYS"
+msgstr "Atajos del teclado"
+
+msgid "REPLAY_HEADER_PLAYER_PANEL"
+msgstr "Panel del reproductor"
+
+msgid "REPLAY_HOTKEY_BACKWARD"
+msgstr "Rebobinar 20 (40) segundos"
+
+msgid "REPLAY_HOTKEY_BEGIN"
+msgstr "Saltar al inicio"
+
+msgid "REPLAY_HOTKEY_END"
+msgstr "Saltar al final"
+
+msgid "REPLAY_HOTKEY_FASTER"
+msgstr "Acelerar"
+
+msgid "REPLAY_HOTKEY_FORWARD"
+msgstr "Avance rápido 20 (40) segundos"
+
+msgid "REPLAY_HOTKEY_PLAY_PAUSE"
+msgstr "Reproducir / pausa"
+
+msgid "REPLAY_HOTKEY_SHOW_PLAYER"
+msgstr "Mostrar panel del reproductor"
+
+msgid "REPLAY_HOTKEY_SLOWER"
+msgstr "Ralentizar"
+
+msgid "REPLAY_MENU_HEADER"
+msgstr "Menú de repeticiones"
+
+msgid "REPLAY_MENU_OPTION_EXIT"
+msgstr "Salir de repetición"
+
+msgid "REPLAY_MENU_OPTION_RESUME"
+msgstr "Volver a repetición"
+
+msgid "REPLAY_MESSAGE_BACKWARD"
+msgstr "Rebobinar<br>20 s {button}<br>40 s {combo}"
+
+msgid "REPLAY_MESSAGE_BEGIN"
+msgstr "Saltar al inicio<br>{button}"
+
+msgid "REPLAY_MESSAGE_END"
+msgstr "Saltar al final<br>{button}"
+
+msgid "REPLAY_MESSAGE_FASTER"
+msgstr "Aumentar velocidad<br>{btn1}, {btn2} + Scroll Up"
+
+msgid "REPLAY_MESSAGE_FORWARD"
+msgstr "Avance rápido<br>20 s {button}<br>40 s {combo}"
+
+msgid "REPLAY_MESSAGE_HEADER_REPLAY_ENDED"
+msgstr "Salir de repetición"
+
+msgid "REPLAY_MESSAGE_LEAVE_REPLAY"
+msgstr "¿Salir de esta repetición?"
+
+msgid "REPLAY_MESSAGE_PAUSE"
+msgstr "Pausa<br>{button}"
+
+msgid "REPLAY_MESSAGE_PRESS_TO_SEE_PLAYER"
+msgstr "Pulsa {button} para mostrar el reproductor."
+
+msgid "REPLAY_MESSAGE_REPLAY"
+msgstr "Reproducir<br>{button}"
+
+msgid "REPLAY_MESSAGE_REPLAY_ENDED"
+msgstr "Fin de la repetición"
+
+msgid "REPLAY_MESSAGE_REPLAY_ENDED_OK_TO_EXIT"
+msgstr "Fin de la repetición. Haz clic en OK para salir de la repetición."
+
+msgid "REPLAY_MESSAGE_SLOWER"
+msgstr "Reducir velocidad<br>{btn1}, {btn2} + Scroll Down"
+
+msgid "REPLAY_MESSAGE_SPEED"
+msgstr "Velocidad de reproducción:"
+
+msgid "REPLAY_OPTION_PAUSE"
+msgstr "Pausa"
+
+msgid "REPLAY_PANEL_CONTEXT_CURRENT_PLAY_SPEED"
+msgstr "Velocidad de reproducción"
+
+msgid "REPLAY_PANEL_CONTEXT_PLAYER_MESSAGES"
+msgstr "Mensajes del reproductor"
+
+msgid "REPLAY_PANEL_CONTEXT_TIME_CURRENT_FULL"
+msgstr "Momento actual / duración total"
+
+msgid "RESUME"
+msgstr "Volver a la batalla"
+
+msgid "SETTINGS_SHOW_TIPS_CHECKBOX"
+msgstr "Mostrar consejos antes de que comience la batalla"
+
+msgid "SIEGE_RADIO_TEXT"
+msgstr "Barrido aéreo"
+
+msgid "SUPERIORITY_RADIO_TEXT"
+msgstr "¡SUPERIORIDAD!"
+
+msgid "TEAMOBJECTS_TURRET_STR"
+msgstr "Objetivos enemigos con cañones AA"
+
+msgid "TEAMOBJECT_STR"
+msgstr "Objetivo enemigo"
+
+msgid "TEAMOBJECT_TURRET_STR"
+msgstr "Objetivo enemigo con cañón AA"
+
+msgid "TEAMS_STRUCTURE_ENEMY"
+msgstr "Enemigos"
+
+msgid "TEAMS_STRUCTURE_US"
+msgstr "Nuestro equipo"
+
+msgid "TEAMTURRET_STR"
+msgstr "Cañón AA"
+
+msgid "UI_ASSIST_MESSAGE"
+msgstr "Asistido al destruir a {name} ({aircraft})"
+
+msgid "UI_AUTOPILOT_MODE"
+msgstr "PILOTO AUTOMÁTICO"
+
+msgid "UI_CAMERA_LOCKED"
+msgstr "Presiona {key} para volver al modo de cámara estándar."
+
+msgid "UI_CREW_DAMAGED"
+msgstr "[{crew}] herido"
+
+msgid "UI_CREW_DESTROYED"
+msgstr "[{crew}] conmocionado"
+
+msgid "UI_CREW_HEALED"
+msgstr "[{crew}] curado"
+
+msgid "UI_CREW_REPAIRED"
+msgstr "[{crew}] vuelta a la acción"
+
+msgid "UI_DISABLED_BOMBS"
+msgstr "¡Sin bombas!"
+
+msgid "UI_DISABLED_ROCKETS"
+msgstr "¡Sin cohetes!"
+
+msgid "UI_DOWNED_AIRCRAFT"
+msgstr "Avión destruido (+1)"
+
+msgid "UI_DOWNED_AIRCRAFT_SUP2"
+msgstr "Avión destruido:"
+
+msgid "UI_DOWNED_AIRCRAFT_SUP2_TOP"
+msgstr "Avión destruido"
+
+msgid "UI_DOWNED_ALLY_AIRCRAFT"
+msgstr "Aliado destruido:"
+
+msgid "UI_DOWNED_BASE_OBJECT"
+msgstr "Cuartel general destruido (+3)"
+
+msgid "UI_DOWNED_BASE_OBJECT_SUP2"
+msgstr "Cuartel general destruido:"
+
+msgid "UI_DOWNED_BASE_OBJECT_SUP2_TOP"
+msgstr "Cuartel general destruido"
+
+msgid "UI_DOWNED_GROUND_OBJECT"
+msgstr "Objetivo terrestre destruido (+1)"
+
+msgid "UI_DOWNED_GROUND_OBJECT_SUP2"
+msgstr "Objetivo terrestre destruido:"
+
+msgid "UI_DOWNED_GROUND_OBJECT_SUP2_TOP"
+msgstr "Objetivo terrestre destruido"
+
+msgid "UI_DOWNED_TURRET"
+msgstr "¡Cañón AA destruido!"
+
+msgid "UI_DOWNED_TURRET_SUP2_TOP"
+msgstr "Cañón AA destruido"
+
+msgid "UI_ENEMY_HAS_THE_ADVANTAGE"
+msgstr "¡El equipo enemigo consiguió ventaja!"
+
+msgid "UI_FIRE_EXTINGUISHED"
+msgstr "El fuego está apagado"
+
+msgid "UI_INFO_TARGET_AFTER_DEATH"
+msgstr ""
+"<FONT COLOR='#{msg_color}'>Jugador: [{player}] {plane}; PV: {strength}</FONT>"
+
+msgid "UI_INFO_TARGET_AFTER_DEATH_BOT"
+msgstr ""
+"<FONT COLOR='#{msg_color}'>Bot: [{player}] {plane}; PV: {strength}</FONT>"
+
+msgid "UI_LARGE_ROLL"
+msgstr "No puedes lanzar una bomba: ángulo de inclinación excesivo."
+
+msgid "UI_MESSAGE_BOMBING_NO_EFFECT"
+msgstr "El bombardeo es ineficaz"
+
+msgid "UI_MESSAGE_ENEMY_DOWN"
+msgstr "¡Enemigo destruido!"
+
+msgid "UI_MESSAGE_ENGINE_DAMAGED_CANNOT_BOOST"
+msgstr "¡Motor dañado! ¡Imposible usar el impulsor!"
+
+msgid "UI_MESSAGE_ENGINE_DEAD"
+msgstr "¡Falló el motor!"
+
+msgid "UI_MESSAGE_ENGINE_RESTARTED"
+msgstr "¡Motor reiniciado!"
+
+msgid "UI_MESSAGE_EVENT_AIRFIELD_CAP"
+msgstr "Aeródromo de agrupación capturado"
+
+msgid "UI_MESSAGE_EVENT_AIRFIELD_LOST"
+msgstr "Aeródromo de agrupación perdido"
+
+msgid "UI_MESSAGE_EVENT_ALLY_DESTROYED"
+msgstr "{name} ({aircraft}) destruido"
+
+msgid "UI_MESSAGE_EVENT_ALLY_SUICIDE"
+msgstr "{name} ({aircraft}) estrellado"
+
+msgid "UI_MESSAGE_GROUND_TARGET_DESTORYED"
+msgstr "¡Objetivo terrestre destruido!"
+
+msgid "UI_MESSAGE_INCREASE_ALTITUDE"
+msgstr "Gana altitud."
+
+msgid "UI_MESSAGE_PLAYER_BURNED_YOU"
+msgstr "El jugador {name} ({aircraft}) destruyó tu avión."
+
+msgid "UI_MESSAGE_PLAYER_BURNED_YOU_BOT"
+msgstr "El bot {name} ({aircraft}) destruyó tu avión."
+
+msgid "UI_MESSAGE_PLAYER_GETS_ACHIEVEMENT"
+msgstr ""
+"<FONT COLOR='#{msg_color1}'>{user_name}</FONT> <FONT "
+"COLOR='#{msg_color2}'>recibió el logro {achievement_name}</FONT>"
+
+msgid "UI_MESSAGE_PLAYER_GETS_AWARD"
+msgstr ""
+"<FONT COLOR='#{msg_color1}'>{user_name}</FONT> <FONT "
+"COLOR='#{msg_color2}'>recibió la condecoración {achievement_name}</FONT>"
+
+msgid "UI_MESSAGE_PLAYER_KILLED_YOU_BY_RAM"
+msgstr ""
+"Tu avión se destruyó tras colisionar con el jugador {name} ({aircraft})."
+
+msgid "UI_MESSAGE_PLAYER_KILLED_YOU_BY_RAM_BOT"
+msgstr "Tu avión se destruyó tras una colisión con el bot {name} ({aircraft})."
+
+msgid "UI_MESSAGE_PLAYER_KILLED_YOU_WITH_BOMB"
+msgstr ""
+"El jugador {name} ({aircraft}) destruyó tu avión con la explosión de una "
+"bomba."
+
+msgid "UI_MESSAGE_PLAYER_KILLED_YOU_WITH_ROCKET"
+msgstr "El jugador {name} ({aircraft}) destruyó tu avión con un cohete."
+
+msgid "UI_MESSAGE_REDUCE_ALTITUDE"
+msgstr "Pierde altitud."
+
+msgid "UI_MESSAGE_YOU_BURNED"
+msgstr "Tu avión fue destruido por el fuego."
+
+msgid "UI_MESSAGE_YOU_BURNED_2-0"
+msgstr "Avión destruido por incendio"
+
+msgid "UI_MESSAGE_YOU_DEAD_COLLISION_2-0"
+msgstr "Avión destruido al colisionar con {name} ({aircraft})"
+
+msgid "UI_MESSAGE_YOU_DEAD_FROM_AA"
+msgstr "Tu avión fue destruido por un cañón AA."
+
+msgid "UI_MESSAGE_YOU_DEAD_FROM_AA_2-0"
+msgstr "Avión destruido por cañones AA"
+
+msgid "UI_MESSAGE_YOU_DEAD_FROM_BOMBER_2-0"
+msgstr "Avión destruido por aviones de la escuadrilla de ataque"
+
+msgid "UI_MESSAGE_YOU_DEAD_FROM_DEFENDER_2-0"
+msgstr "Avión destruido por avión de defensa aérea"
+
+msgid "UI_MESSAGE_YOU_DEAD_FROM_ENEMY_BOMB_2-0"
+msgstr "Avión destruido con bombas por {name} ({aircraft})"
+
+msgid "UI_MESSAGE_YOU_DEAD_FROM_ENEMY_GUNNER_2-0"
+msgstr "Avión destruido con fuego de la torreta por {name} ({aircraft})"
+
+msgid "UI_MESSAGE_YOU_DEAD_FROM_ENEMY_PLANE_2-0"
+msgstr "Avión destruido por {name} ({aircraft})"
+
+msgid "UI_MESSAGE_YOU_DEAD_FROM_ENEMY_ROCKET_2-0"
+msgstr "Avión destruido con cohetes por {name} ({aircraft})"
+
+msgid "UI_MESSAGE_YOU_FALL_ON_GROUND"
+msgstr "Tu avión se destruyó tras colisionar con el terreno."
+
+msgid "UI_MESSAGE_YOU_FALL_ON_GROUND_TARGET"
+msgstr "Tu avión está destruido."
+
+msgid "UI_MESSAGE_YOU_FALL_ON_WATER"
+msgstr "Tu avión se destruyó tras colisionar con la superficie del agua."
+
+msgid "UI_MESSAGE_YOU_GET_ACHIEVEMENT"
+msgstr ""
+"<FONT COLOR='#{msg_color1}'>Recibiste el logro {achievement_name}</FONT>"
+
+msgid "UI_MESSAGE_YOU_GET_AWARD"
+msgstr ""
+"<FONT COLOR='#{msg_color1}'>Recibiste la condecoración {achievement_name}</"
+"FONT>"
+
+msgid "UI_MODULE_DAMAGED_BY_PLAYER"
+msgstr "[{module}] dañado por {ico} [{player}]"
+
+msgid "UI_MODULE_DAMAGED_BY_TURRET"
+msgstr "[{module}] dañado por cañón AA"
+
+msgid "UI_MODULE_DESTROYED_BY_PLAYER"
+msgstr "[{module}] destruido por {ico} [{player}]"
+
+msgid "UI_MODULE_DESTROYED_BY_TURRET"
+msgstr "[{module}] destruido por cañón AA"
+
+msgid "UI_MODULE_REPAIRED"
+msgstr "[{module}] es operativo"
+
+msgid "UI_NO_AMMO"
+msgstr "No puedes disparar: sin munición."
+
+msgid "UI_NO_BOMBS"
+msgstr "¡Sin bombas!"
+
+msgid "UI_NO_ROCKETS"
+msgstr "¡Sin cohetes!"
+
+msgid "UI_RAMMING_MODULE_DAMAGED"
+msgstr "[{module}] dañado tras una colisión."
+
+msgid "UI_RAMMING_MODULE_DAMAGED_BY_PLANE"
+msgstr "[{module}] dañado tra una colisión con {ico}[{player}]."
+
+msgid "UI_SPECTATOR_MODE"
+msgstr "MODO ESPECTADOR"
+
+msgid "UI_SPECTATOR_MODE_INFO"
+msgstr "Click derecho para cambiar entre aviones aliados."
+
+msgid "UI_SPECTATOR_MODE_INFO_HELP1"
+msgstr "Cambia entre aviones aliados."
+
+msgid "UI_SPECTATOR_MODE_INFO_HELP2"
+msgstr "Volver al hangar. Entra en batalla en otro avión."
+
+msgid "UI_SPECTATOR_MODE_INFO_HELP_BTN1"
+msgstr "Click derecho"
+
+msgid "UI_SPECTATOR_MODE_INFO_HELP_BTN2"
+msgstr "Esc"
+
+msgid "UI_SPECTATOR_MODE_LABEL_ASSISTED"
+msgstr "Asistido"
+
+msgid "UI_SPECTATOR_MODE_LABEL_BACK_TO_HANGAR"
+msgstr "Ir al hangar para iniciar otra partida."
+
+msgid "UI_SPECTATOR_MODE_LABEL_CHANGE_CAMERA_STYLE"
+msgstr "Activar visión de cámara."
+
+msgid "UI_SPECTATOR_MODE_LABEL_CINEMA"
+msgstr "Película"
+
+msgid "UI_SPECTATOR_MODE_LABEL_DAMAGE"
+msgstr "Daño"
+
+msgid "UI_SPECTATOR_MODE_LABEL_DESTROYED"
+msgstr "Destruido"
+
+msgid "UI_SPECTATOR_MODE_LABEL_DYNAMIC_CAMERA"
+msgstr "Cámara dinámica"
+
+msgid "UI_SPECTATOR_MODE_LABEL_MOUSE_BUTTONS"
+msgstr "Botones del ratón"
+
+msgid "UI_SPECTATOR_MODE_LABEL_SPECTATOR"
+msgstr "Cámara libre"
+
+msgid "UI_SPECTATOR_MODE_LABEL_SWITCH_BETWEEN_PLANES"
+msgstr "Cambiar entre aviones aliados."
+
+msgid "UI_SPECTATOR_MODE_LABEL_TO_SHOW_HIDE"
+msgstr "Mostrar/ocultar consejos."
+
+msgid "UI_SPECTATOR_MODE_SHOW_MARKERS"
+msgstr "Mostrar marcadores por encima del avión y objetivos terrestres"
+
+msgid "UI_SPECTATOR_MODE_SWITCH_LMB_RMB"
+msgstr "Haz clic derecho o izquierdo para cambiar a modo espectador."
+
+msgid "UI_SPEEDO_KMH"
+msgstr "km/h"
+
+msgid "UI_SPEEDO_KNT"
+msgstr "nudo"
+
+msgid "UI_SPEEDO_MPH"
+msgstr "mph"
+
+msgid "UI_SUICIDE_ALLY_AIRCRAFT"
+msgstr "Avión estrellado"
+
+msgid "UI_SWITCH_TO_MOUSE_BASIC_MODE"
+msgstr "Modo básico del ratón habilitado."
+
+msgid "UI_SWITCH_TO_MOUSE_BATTLE_MODE"
+msgstr "Modo de batalla del ratón habilitado."
+
+msgid "UI_VARIO_FEET"
+msgstr "pies"
+
+msgid "UI_VARIO_FT"
+msgstr "ft"
+
+msgid "UI_VARIO_M"
+msgstr "m"
+
+msgid "UI_VARIO_METERS"
+msgstr "metros"
+
+msgid "UI_WEAPONS_CHARGE"
+msgstr "No puedes disparar: el cañón está recargando."
+
+msgid "UI_WE_HAVE_THE_ADVANTAGE"
+msgstr "¡El equipo aliado consiguió ventaja!"
+
+msgid "WAIT_BATTLE"
+msgstr "La batalla comienza en"
+
+msgid "WAIT_BATTLE_FINISH"
+msgstr "¡Comienza la batalla!"
+
+msgid "WAIT_BATTLE_FINISH_APRIL"
+msgstr "¡Desafío aceptado!"
+
+msgid "WAIT_PLAYERS"
+msgstr "ESPERANDO JUGADORES..."

@@ -1,0 +1,1488 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: \n"
+"Language: es\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgid "BOT_ACE_TEAMGROUP_1"
+msgstr "¡Conseguí mi primer interceptor!"
+
+msgid "BOT_ACE_TEAMGROUP_1-10_1"
+msgstr "Felicidades"
+
+msgid "BOT_ACE_TEAMGROUP_1-10_2"
+msgstr "Bien hecho"
+
+msgid "BOT_ACE_TEAMGROUP_1-10_3"
+msgstr "¡Buen trabajo!"
+
+msgid "BOT_ACE_TEAMGROUP_1-10_4"
+msgstr "No me sorprende, ¡ese avión está pasado!"
+
+msgid "BOT_ACE_TEAMGROUP_1-10_5"
+msgstr "¿Puedes hacerlo otra vez?"
+
+msgid "BOT_ACE_TEAMGROUP_1-10_6"
+msgstr "¡Ve a por la medalla de Marseille!"
+
+msgid "BOT_ACE_TEAMGROUP_1-10_7"
+msgstr "¡Sigue así!"
+
+msgid "BOT_ACE_TEAMGROUP_1-10_8"
+msgstr "Enséñame, gurú"
+
+msgid "BOT_ACE_TEAMGROUP_1-10_9"
+msgstr ""
+"¡Cualquiera puede conseguir un «Interceptor»! ¡Trata de conseguir un "
+"«McCampbell»!"
+
+msgid "BOT_ACE_TEAMGROUP_10"
+msgstr "Llevando al equipo hacia la victoria"
+
+msgid "BOT_ACE_TEAMGROUP_2"
+msgstr "¡Muy bien!"
+
+msgid "BOT_ACE_TEAMGROUP_3"
+msgstr "La mejor racha de derribados"
+
+msgid "BOT_ACE_TEAMGROUP_4"
+msgstr "¡Vamos a enfrentarnos a ellos!"
+
+msgid "BOT_ACE_TEAMGROUP_5"
+msgstr "¡Siguiente!"
+
+msgid "BOT_ACE_TEAMGROUP_6"
+msgstr "¡Eso fue difícil!"
+
+msgid "BOT_ACE_TEAMGROUP_7"
+msgstr "buena partida :)"
+
+msgid "BOT_ACE_TEAMGROUP_8"
+msgstr "¡Buen inicio!"
+
+msgid "BOT_ACE_TEAMGROUP_9"
+msgstr "Yo solo... como siempre..."
+
+msgid "BOT_CHAT_BOMBER_HELP_MESSAGES_BOMBSCOPE_1"
+msgstr ""
+"¡Aproximándose a la zona del objetivo! Cambiando al modo de mira de "
+"bombardeo (Máy. Izq.)."
+
+msgid "BOT_CHAT_BOMBER_HELP_MESSAGES_BOMBSCOPE_2"
+msgstr "¡Objetivos en la mira de bombardeo! Comenzando bombardeo (Máy. Izq.)."
+
+msgid "BOT_CHAT_BOMBER_HELP_MESSAGES_REARGUNNER"
+msgstr "¡Enemigo en mi cola! Cambiando a modo de artillero (T)."
+
+msgid "BOT_DEAD_ALLGROUP_1"
+msgstr "¡No es justo!"
+
+msgid "BOT_DEAD_ALLGROUP_1_1"
+msgstr "¡Mantén los ojos abiertos!"
+
+msgid "BOT_DEAD_ALLGROUP_1_2"
+msgstr "Apunta mejor"
+
+msgid "BOT_DEAD_ALLGROUP_1_3"
+msgstr "No vueles en línea recta"
+
+msgid "BOT_DEAD_ALLGROUP_1_4"
+msgstr "¡Nos vemos!"
+
+msgid "BOT_DEAD_ALLGROUP_1_5"
+msgstr "Eso fue pura suerte"
+
+msgid "BOT_DEAD_ALLGROUP_1_6"
+msgstr "Tío, eres peligroso"
+
+msgid "BOT_DEAD_ALLGROUP_1_7"
+msgstr "¡Me derribaste en la última batalla!"
+
+msgid "BOT_DEAD_ALLSINGLE_1"
+msgstr "¡Trampa!"
+
+msgid "BOT_DEAD_ALLSINGLE_2"
+msgstr "Otra vez no :("
+
+msgid "BOT_DEAD_ALLSINGLE_3"
+msgstr "¡La próxima vez iré a por ti!"
+
+msgid "BOT_DEAD_ALLSINGLE_4"
+msgstr "¡Pagarás por esto!"
+
+msgid "BOT_DEAD_ALLSINGLE_5"
+msgstr "¡No es justo, estaba escribiendo un mensaje!"
+
+msgid "BOT_DEAD_ALLSINGLE_6"
+msgstr "¡Ahora estás en mi lista!"
+
+msgid "BOT_DEAD_ALLSINGLE_7"
+msgstr "Tu Kung Fu es mejor que el mío"
+
+msgid "BOT_DEAD_ALLSINGLE_8"
+msgstr "No he podido acabar la misión diaria otra vez"
+
+msgid "BOT_DEAD_TEAMGROUP_1"
+msgstr "Otra vez será :("
+
+msgid "BOT_DEAD_TEAMGROUP_1_1"
+msgstr "Apunta mejor"
+
+msgid "BOT_DEAD_TEAMGROUP_1_2"
+msgstr "No vueles en línea recta"
+
+msgid "BOT_DEAD_TEAMGROUP_1_3"
+msgstr "¡Mira el minimapa!"
+
+msgid "BOT_DEAD_TEAMGROUP_1_4"
+msgstr "¿Atacaste de frente otra vez?"
+
+msgid "BOT_DEAD_TEAMGROUP_1_5"
+msgstr "¡Vigila tus alas!"
+
+msgid "BOT_DEAD_TEAMGROUP_1_6"
+msgstr "No vueles sin compañero de ala"
+
+msgid "BOT_DEAD_TEAMGROUP_2"
+msgstr "¡Oh, vamos!"
+
+msgid "BOT_DEAD_TEAMGROUP_2_1"
+msgstr "Apunta mejor"
+
+msgid "BOT_DEAD_TEAMGROUP_2_2"
+msgstr "No vueles en línea recta"
+
+msgid "BOT_DEAD_TEAMGROUP_2_3"
+msgstr "¡Mira el minimapa!"
+
+msgid "BOT_DEAD_TEAMGROUP_2_4"
+msgstr "¿Atacaste de frente otra vez?"
+
+msgid "BOT_DEAD_TEAMGROUP_2_5"
+msgstr "¡Vigila tus alas!"
+
+msgid "BOT_DEAD_TEAMGROUP_2_6"
+msgstr "No vueles sin compañero de ala"
+
+msgid "BOT_DEAD_TEAMGROUP_3"
+msgstr "¡Está claro que hoy no es mi día!"
+
+msgid "BOT_DEAD_TEAMGROUP_3_1"
+msgstr "¡No te preocupes!"
+
+msgid "BOT_DEAD_TEAMGROUP_3_2"
+msgstr "Esas cosas pasan"
+
+msgid "BOT_DEAD_TEAMGROUP_3_3"
+msgstr "Prueba con otro avión"
+
+msgid "BOT_DEAD_TEAMGROUP_3_4"
+msgstr "¡Mejor suerte la próxima vez!"
+
+msgid "BOT_DEAD_TEAMGROUP_3_5"
+msgstr "No vueles sin compañero de ala"
+
+msgid "BOT_DEAD_TEAMGROUP_3_6"
+msgstr "¡Tómatelo con calma!"
+
+msgid "BOT_DEAD_TEAMSINGLE_1"
+msgstr "Otra vez no :("
+
+msgid "BOT_DEAD_TEAMSINGLE_2"
+msgstr "¡Oh, vamos!"
+
+msgid "BOT_DEAD_TEAMSINGLE_3"
+msgstr "¡Está claro que hoy no es mi día!"
+
+msgid "BOT_DEAD_TEAMSINGLE_4"
+msgstr "¡No es justo, estaba escribiendo un mensaje!"
+
+msgid "BOT_DEAD_TEAMSINGLE_5"
+msgstr "Me ensordecieron los disparos"
+
+msgid "BOT_DEFEAT_TEAMSINGLE_1"
+msgstr "Ok..."
+
+msgid "BOT_DEFEAT_TEAMSINGLE_10"
+msgstr "A veces pasa"
+
+msgid "BOT_DEFEAT_TEAMSINGLE_11"
+msgstr "¡La próxima vez ganaremos!"
+
+msgid "BOT_DEFEAT_TEAMSINGLE_12"
+msgstr "Hoy no es nuestro día"
+
+msgid "BOT_DEFEAT_TEAMSINGLE_13"
+msgstr "Fallaron los bots."
+
+msgid "BOT_DEFEAT_TEAMSINGLE_2"
+msgstr "Fallo :("
+
+msgid "BOT_DEFEAT_TEAMSINGLE_3"
+msgstr "Lo hicimos lo mejor que pudimos"
+
+msgid "BOT_DEFEAT_TEAMSINGLE_4"
+msgstr "Lo dimos todo."
+
+msgid "BOT_DEFEAT_TEAMSINGLE_5"
+msgstr "Ugh, otra vez las estadísticas arruinadas"
+
+msgid "BOT_DEFEAT_TEAMSINGLE_6"
+msgstr "Perdí 10 batallas seguidas"
+
+msgid "BOT_DEFEAT_TEAMSINGLE_7"
+msgstr "Esta vez estuvimos realmente cerca..."
+
+msgid "BOT_DEFEAT_TEAMSINGLE_8"
+msgstr "Misión fallida"
+
+msgid "BOT_DEFEAT_TEAMSINGLE_9"
+msgstr "Luchamos hasta el fin"
+
+msgid "BOT_JA_TR_ALLSINGLE_1"
+msgstr "¿Quién va a participar en el evento de esta noche?"
+
+msgid "BOT_JA_TR_ALLSINGLE_2"
+msgstr "Ey, ¿en qué bando debería jugar?"
+
+msgid "BOT_JA_TR_ALLSINGLE_3"
+msgstr "¿Alguien ha conseguido un avión de la rama nueva?"
+
+msgid "BOT_JA_TR_ALLSINGLE_4"
+msgstr "¿Qué habéis conseguido de vuestras cajas de botín?"
+
+msgid "BOT_JA_TR_ALLSINGLE_5"
+msgstr ""
+"Conseguí una misión para un avión japonés en la caja de botín. ¡Ahora tengo "
+"que completarla!"
+
+msgid "BOT_JA_TR_ALLSINGLE_6"
+msgstr "¿Qué tipo de avión es el mejor para el evento actual?"
+
+msgid "BOT_JA_TR_BEFORE_BATTLE_ALLY_1"
+msgstr "¡Ven a volar con nosotros! ¡Tenemos una tortita!"
+
+msgid "BOT_JA_TR_BEFORE_BATTLE_ALLY_2"
+msgstr "Paso lista: ¿quién va a luchar con los Aliados?"
+
+msgid "BOT_JA_TR_BEFORE_BATTLE_ALLY_3"
+msgstr "Ey, Eje, ¿nos vais a atacar otra vez?"
+
+msgid "BOT_JA_TR_BEFORE_BATTLE_AXIS_1"
+msgstr "¿Listos para luchar, Aliados?"
+
+msgid "BOT_JA_TR_BEFORE_BATTLE_AXIS_2"
+msgstr "¡Veremos cómo defendéis esta noche los Aliados!"
+
+msgid "BOT_JA_TR_BEFORE_BATTLE_AXIS_3"
+msgstr "¡Piloto! ¡El Eje te necesita para capturar el Océano Pacífico!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_1"
+msgstr "¡Sin piedad con el enemigo! ¡Defended vuestras posiciones!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_2"
+msgstr "¡Presionad en ataque para contrarrestar la astucia del enemigo!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_3"
+msgstr "¡No podemos retirarnos a ningún sitio! ¡Al ataque!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_4"
+msgstr "Seguro que me llevaré a casa una katana en esta batalla."
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_5"
+msgstr ""
+"¡Solo quedará chatarra de los aviones enemigos al finalizar la batalla!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_6"
+msgstr ""
+"Perfecto, ni siquiera tenemos que buscar el botín. ¡Ellos nos lo traen!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_7"
+msgstr "No comenzamos este combate pero sin duda lo acabaremos."
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_1"
+msgstr "¡El océano será nuestro!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_2"
+msgstr "¡Vaya! ¡Mi katana no cabe en la cabina del piloto!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_3"
+msgstr "¡Por la mañana nuestras banderas ondearán en el cielo!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_4"
+msgstr "¡No tenéis más opción que mantener el terreno!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_5"
+msgstr "¡Pilotos! ¡No se olvidará vuestro coraje!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_6"
+msgstr ""
+"¡Capturad el Océano Pacífico y todas las cajas de botín serán vuestras!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_7"
+msgstr "El viento de las islas impulsa mis alas. ¡Derrotaremos al enemigo!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_8"
+msgstr "El fuego del sol naciente guía a mi avión. ¡Banzai!"
+
+msgid "BOT_KILL_ALLGROUP_1"
+msgstr "¡Sí, lo hice!"
+
+msgid "BOT_KILL_ALLGROUP_1_1"
+msgstr "No lo hice :("
+
+msgid "BOT_KILL_ALLGROUP_1_10"
+msgstr "¡Mi gato me distrajo!"
+
+msgid "BOT_KILL_ALLGROUP_1_11"
+msgstr "No te vi"
+
+msgid "BOT_KILL_ALLGROUP_1_2"
+msgstr "¡Oh, vamos!"
+
+msgid "BOT_KILL_ALLGROUP_1_3"
+msgstr "¡Está claro que hoy no es mi día!"
+
+msgid "BOT_KILL_ALLGROUP_1_4"
+msgstr "¡No es justo!"
+
+msgid "BOT_KILL_ALLGROUP_1_5"
+msgstr "¡Trampa!"
+
+msgid "BOT_KILL_ALLGROUP_1_6"
+msgstr "Otra vez no :("
+
+msgid "BOT_KILL_ALLGROUP_1_7"
+msgstr "¡La próxima vez iré a por ti!"
+
+msgid "BOT_KILL_ALLGROUP_1_8"
+msgstr "Normal, ¡ese avión está pasado!"
+
+msgid "BOT_KILL_ALLGROUP_1_9"
+msgstr "No pude esquivarlo a tiempo."
+
+msgid "BOT_KILL_ALLGROUP_2"
+msgstr "Es la primera vez que derribo un {plane_name}"
+
+msgid "BOT_KILL_ALLGROUP_2_1"
+msgstr "Otra vez será :("
+
+msgid "BOT_KILL_ALLGROUP_2_10"
+msgstr "¡Mi gato me distrajo!"
+
+msgid "BOT_KILL_ALLGROUP_2_11"
+msgstr "No te vi"
+
+msgid "BOT_KILL_ALLGROUP_2_2"
+msgstr "¡Oh, vamos!"
+
+msgid "BOT_KILL_ALLGROUP_2_3"
+msgstr "¡Está claro que hoy no es mi día!"
+
+msgid "BOT_KILL_ALLGROUP_2_4"
+msgstr "¡No es justo!"
+
+msgid "BOT_KILL_ALLGROUP_2_5"
+msgstr "¡Trampa!"
+
+msgid "BOT_KILL_ALLGROUP_2_6"
+msgstr "Otra vez no :("
+
+msgid "BOT_KILL_ALLGROUP_2_7"
+msgstr "¡La próxima vez iré a por ti!"
+
+msgid "BOT_KILL_ALLGROUP_2_8"
+msgstr "Normal, ¡ese avión está pasado!"
+
+msgid "BOT_KILL_ALLGROUP_2_9"
+msgstr "No pude esquivarlo a tiempo."
+
+msgid "BOT_KILL_ALLGROUP_3"
+msgstr "¡Buen disparo!"
+
+msgid "BOT_KILL_ALLGROUP_3_1"
+msgstr "Otra vez será :("
+
+msgid "BOT_KILL_ALLGROUP_3_10"
+msgstr "¡Mi gato me distrajo!"
+
+msgid "BOT_KILL_ALLGROUP_3_11"
+msgstr "No te vi"
+
+msgid "BOT_KILL_ALLGROUP_3_2"
+msgstr "¡Oh, vamos!"
+
+msgid "BOT_KILL_ALLGROUP_3_3"
+msgstr "¡Está claro que hoy no es mi día!"
+
+msgid "BOT_KILL_ALLGROUP_3_4"
+msgstr "¡No es justo!"
+
+msgid "BOT_KILL_ALLGROUP_3_5"
+msgstr "¡Trampa!"
+
+msgid "BOT_KILL_ALLGROUP_3_6"
+msgstr "Otra vez no :("
+
+msgid "BOT_KILL_ALLGROUP_3_7"
+msgstr "¡La próxima vez iré a por ti!"
+
+msgid "BOT_KILL_ALLGROUP_3_8"
+msgstr "Normal, ¡ese avión está pasado!"
+
+msgid "BOT_KILL_ALLGROUP_3_9"
+msgstr "No pude esquivarlo a tiempo."
+
+msgid "BOT_KILL_ALLGROUP_4"
+msgstr "¡Eres mío!"
+
+msgid "BOT_KILL_ALLGROUP_4_1"
+msgstr "Otra vez será :("
+
+msgid "BOT_KILL_ALLGROUP_4_10"
+msgstr "¡Mi gato me distrajo!"
+
+msgid "BOT_KILL_ALLGROUP_4_11"
+msgstr "No te vi"
+
+msgid "BOT_KILL_ALLGROUP_4_2"
+msgstr "¡Oh, vamos!"
+
+msgid "BOT_KILL_ALLGROUP_4_3"
+msgstr "¡Está claro que hoy no es mi día!"
+
+msgid "BOT_KILL_ALLGROUP_4_4"
+msgstr "¡No es justo!"
+
+msgid "BOT_KILL_ALLGROUP_4_5"
+msgstr "¡Trampa!"
+
+msgid "BOT_KILL_ALLGROUP_4_6"
+msgstr "Otra vez no :("
+
+msgid "BOT_KILL_ALLGROUP_4_7"
+msgstr "¡La próxima vez iré a por ti!"
+
+msgid "BOT_KILL_ALLGROUP_4_8"
+msgstr "Normal, ¡ese avión está pasado!"
+
+msgid "BOT_KILL_ALLGROUP_4_9"
+msgstr "No pude esquivarlo a tiempo."
+
+msgid "BOT_KILL_TEAMGROUP_1"
+msgstr "¡Eso estuvo cerca!"
+
+msgid "BOT_KILL_TEAMGROUP_1_1"
+msgstr "¡Bien hecho!"
+
+msgid "BOT_KILL_TEAMGROUP_1_2"
+msgstr "Me gusta"
+
+msgid "BOT_KILL_TEAMGROUP_1_3"
+msgstr "Enséñame, gurú"
+
+msgid "BOT_KILL_TEAMGROUP_1_4"
+msgstr "Aprende a luchar en el aire"
+
+msgid "BOT_KILL_TEAMGROUP_2"
+msgstr "Es la primera vez que derribo un {plane_name}"
+
+msgid "BOT_KILL_TEAMGROUP_2_1"
+msgstr "Felicidades"
+
+msgid "BOT_KILL_TEAMGROUP_2_2"
+msgstr "Sigue así"
+
+msgid "BOT_KILL_TEAMGROUP_2_3"
+msgstr "No tardarás en derribar un Me P.1101 ;)"
+
+msgid "BOT_KILL_TEAMGROUP_3"
+msgstr "¡Buen disparo!"
+
+msgid "BOT_KILL_TEAMGROUP_3_1"
+msgstr "Buena puntería"
+
+msgid "BOT_KILL_TEAMGROUP_3_2"
+msgstr "¡Aquí tenemos un verdadero francotirador!"
+
+msgid "BOT_KILL_TEAMGROUP_3_3"
+msgstr "¡Derribado!"
+
+msgid "BOT_KILL_TEAMGROUP_3_4"
+msgstr "Normal, ¡ese avión está pasado!"
+
+msgid "BOT_KILL_TEAMSINGLE_1"
+msgstr "¡Buen disparo!"
+
+msgid "BOT_KILL_TEAMSINGLE_2"
+msgstr "Es la primera vez que derribo un {plane_name}"
+
+msgid "BOT_KILL_TEAMSINGLE_3"
+msgstr "¡Eso estuvo cerca!"
+
+msgid "BOT_LASTENEMY_ALLGROUP_1"
+msgstr "¡Ríndete!"
+
+msgid "BOT_LASTENEMY_ALLGROUP_1-6_1"
+msgstr "¡Los bots nunca se rinden!"
+
+msgid "BOT_LASTENEMY_ALLGROUP_1-6_2"
+msgstr "¡Ya veremos quién gana!"
+
+msgid "BOT_LASTENEMY_ALLGROUP_1-6_3"
+msgstr "¡Que nadie escape!"
+
+msgid "BOT_LASTENEMY_ALLGROUP_1-6_5"
+msgstr "¡Ven a por mi!"
+
+msgid "BOT_LASTENEMY_ALLGROUP_1-6_6"
+msgstr "¡No me provoques!"
+
+msgid "BOT_LASTENEMY_ALLGROUP_1-6_7"
+msgstr "¡De ninguna manera! ¡Puedo ganar esto!"
+
+msgid "BOT_LASTENEMY_ALLGROUP_2"
+msgstr "¡No tienes ninguna posibilidad!"
+
+msgid "BOT_LASTENEMY_ALLGROUP_3"
+msgstr "No podrás escaparte"
+
+msgid "BOT_LASTENEMY_ALLGROUP_4"
+msgstr "Ya te pillaré"
+
+msgid "BOT_LASTENEMY_ALLGROUP_5"
+msgstr "¡No juegues al escondite!"
+
+msgid "BOT_LASTENEMY_ALLGROUP_6"
+msgstr "¡Vamos! ¡Luchemos en un uno contra uno!"
+
+msgid "BOT_LASTENEMY_TEAMGROUP_1"
+msgstr "Gracias por la partida"
+
+msgid "BOT_LASTENEMY_TEAMGROUP_1-4_1"
+msgstr "A tí también"
+
+msgid "BOT_LASTENEMY_TEAMGROUP_1-4_2"
+msgstr "¡Recibido!"
+
+msgid "BOT_LASTENEMY_TEAMGROUP_1-4_3"
+msgstr "Manejado por humanos"
+
+msgid "BOT_LASTENEMY_TEAMGROUP_2"
+msgstr "Buena partida, bien jugado"
+
+msgid "BOT_LASTENEMY_TEAMGROUP_3"
+msgstr "Buena partida"
+
+msgid "BOT_LASTENEMY_TEAMGROUP_4"
+msgstr "¡Sí! ¡x2 al fin!"
+
+msgid "BOT_LAST_TEAMGROUP_1"
+msgstr "Vuela hacia la AA"
+
+msgid "BOT_LAST_TEAMGROUP_1-7_1"
+msgstr "¡No distraigas al piloto!"
+
+msgid "BOT_LAST_TEAMGROUP_2"
+msgstr "¡A por ellos!"
+
+msgid "BOT_LAST_TEAMGROUP_3"
+msgstr "¡Creemos en tí!"
+
+msgid "BOT_LAST_TEAMGROUP_4"
+msgstr "¡{last_player_name}, eres nuestra última esperanza!"
+
+msgid "BOT_LAST_TEAMGROUP_5"
+msgstr "¡Lucha hasta el fin!"
+
+msgid "BOT_LAST_TEAMGROUP_6"
+msgstr "Te hemos hundido, humano..."
+
+msgid "BOT_LAST_TEAMGROUP_7"
+msgstr "¡Mándalos al infierno!"
+
+msgid "BOT_LOSING_TEAMGROUP_1"
+msgstr "¡Inténtalo con más ganas!"
+
+msgid "BOT_LOSING_TEAMGROUP_1_1"
+msgstr "¡Lo hacemos lo mejor que podemos!"
+
+msgid "BOT_LOSING_TEAMSINGLE_1"
+msgstr "¡Inténtalo con más ganas!"
+
+msgid "BOT_LOSING_TEAMSINGLE_10"
+msgstr "Perdiendo de nuevo..."
+
+msgid "BOT_LOSING_TEAMSINGLE_2"
+msgstr "¡Equilíbralo!"
+
+msgid "BOT_LOSING_TEAMSINGLE_3"
+msgstr "¡Podemos ganar esta partida!"
+
+msgid "BOT_LOSING_TEAMSINGLE_4"
+msgstr "¡Podemos hacerlo!"
+
+msgid "BOT_LOSING_TEAMSINGLE_5"
+msgstr "¡Por favor, aguanta!"
+
+msgid "BOT_LOSING_TEAMSINGLE_6"
+msgstr "Oww, lo intenté con tantas ganas..."
+
+msgid "BOT_LOSING_TEAMSINGLE_7"
+msgstr "¿A dónde se fueron todos?"
+
+msgid "BOT_LOSING_TEAMSINGLE_8"
+msgstr "El equipo apesta :("
+
+msgid "BOT_LOSING_TEAMSINGLE_9"
+msgstr "¡Pensaba que lo teníamos!"
+
+msgid "BOT_LTO_ALLGROUP_1"
+msgstr "¿Alguien ha probado el nuevo A6M3 (exp.)?"
+
+msgid "BOT_LTO_ALLGROUP_1_1"
+msgstr "¡Conseguí un Gorovets con él en la última batalla!"
+
+msgid "BOT_LTO_ALLSINGLE_1"
+msgstr "Ooh, ¡el nuevo avión premium japonés asesta un daño masivo!"
+
+msgid "BOT_LTO_ALLSINGLE_2"
+msgstr "¡El A6M3 es genial! ¡Bueno causando daño y maniobrable!"
+
+msgid "BOT_LTO_ALLSINGLE_3"
+msgstr ""
+"¿Cuál es la mejor manera de usar los cinco puntos de habilidad del A6M3? "
+"¿Algún consejo?"
+
+msgid "BOT_LTO_ALLSINGLE_4"
+msgstr "¡Me encanta el nuevo avión japonés de gran calibre!"
+
+msgid "BOT_LTO_ALLSINGLE_5"
+msgstr ""
+"¿Qué es preferible mejorar en el A6M3: el motor o la capacidad de dañar?"
+
+msgid "BOT_LTO_ALLSINGLE_6"
+msgstr ""
+"¡Es un sueño hecho realidad! ¡Finalmente han añadido el Zero con cañón de 30 "
+"mm!"
+
+msgid "BOT_LTO_ALLSINGLE_7"
+msgstr ""
+"El Zero estándar es como un samurái con un cuchillo, el nuevo A6M3 es como "
+"un samurái con una espada."
+
+msgid "BOT_LTO_ALLSINGLE_8"
+msgstr ""
+"Con el A6M5, tengo que esquivar a todas horas. Con el nuevo avión premium, "
+"ELLOS tienen que esquivarme a mí."
+
+msgid "BOT_LTO_ALLSINGLE_9"
+msgstr "El A6M3 es mortal en combate cercano"
+
+msgid "BOT_NY_AFTER_ALLGROUP_1"
+msgstr "¡Felices fiestas a todos!"
+
+msgid "BOT_NY_AFTER_ALLGROUP_1_1"
+msgstr "¡Gracias! ¡A ti también!"
+
+msgid "BOT_NY_AFTER_ALLGROUP_2"
+msgstr "¡Os deseo a todos un feliz año nuevo!"
+
+msgid "BOT_NY_AFTER_ALLGROUP_2_1"
+msgstr "¡Te deseo lo mismo!"
+
+msgid "BOT_NY_AFTER_ALLGROUP_3"
+msgstr "¡Feliz año nuevo!"
+
+msgid "BOT_NY_AFTER_ALLGROUP_3_1"
+msgstr "¡Te deseo lo mismo!"
+
+msgid "BOT_NY_AFTER_ALLGROUP_4"
+msgstr "¡Feliz año nuevo, pilotos!"
+
+msgid "BOT_NY_AFTER_ALLGROUP_4_1"
+msgstr "¡Feliz año nuevo!"
+
+msgid "BOT_NY_AFTER_ALLGROUP_5"
+msgstr "¡Os deseo a todos un cielo limpio el nuevo año!"
+
+msgid "BOT_NY_AFTER_ALLGROUP_5_1"
+msgstr "¡A ti también!"
+
+msgid "BOT_NY_AFTER_ALLGROUP_6"
+msgstr "¿Qué tal si te sales de los fuegos artificiales?"
+
+msgid "BOT_NY_AFTER_ALLGROUP_6_1"
+msgstr "¡Esa es una buena idea!"
+
+msgid "BOT_NY_AFTER_ALLGROUP_7"
+msgstr "¿Es hora de derribar el árbol de Navidad?"
+
+msgid "BOT_NY_AFTER_ALLGROUP_7_1"
+msgstr "Nunca es demasiado tarde."
+
+msgid "BOT_NY_AFTER_ALLGROUP_8"
+msgstr "¡Viendo Solo en casa y jugando a WoWp al mismo tiempo!"
+
+msgid "BOT_NY_AFTER_ALLGROUP_8_1"
+msgstr "¡Ja! ¡Yo estoy viendo La jungla de cristal!"
+
+msgid "BOT_NY_AFTER_ALLSINGLE_1"
+msgstr "¡Os deseo a todos un montón de batallas con éxito el nuevo año!"
+
+msgid "BOT_NY_AFTER_ALLSINGLE_2"
+msgstr "¡Os deseo a todos un feliz año nuevo sin críticos ni incendios!"
+
+msgid "BOT_NY_AFTER_ALLSINGLE_3"
+msgstr "¡Buena suerte a todos el próximo año!"
+
+msgid "BOT_NY_AFTER_ALLSINGLE_4"
+msgstr "¡Que el cielo esté limpio para todos el próximo año!"
+
+msgid "BOT_NY_AFTER_ALLSINGLE_5"
+msgstr "¡Que el nuevo año os traiga excitantes batallas!"
+
+msgid "BOT_NY_AFTER_ALLSINGLE_6"
+msgstr ""
+"¡Os deseo a todos despegues fáciles y aterrizajes blandos! ¡Feliz año nuevo!"
+
+msgid "BOT_NY_AFTER_ALLSINGLE_7"
+msgstr "¡Os deseo a todos que lleguéis a la cima! ¡Feliz año nuevo!"
+
+msgid "BOT_NY_AFTER_ALLSINGLE_8"
+msgstr "¿Alguien se ha dejado las bengalas?"
+
+msgid "BOT_NY_ALLSINGLE_1"
+msgstr "¿Qué tal si te sales de los fuegos artificiales?"
+
+msgid "BOT_NY_ALLSINGLE_2"
+msgstr "¡Oh no! ¡Mi gato acaba de tirar el árbol de navidad otra vez!"
+
+msgid "BOT_NY_ALLSINGLE_3"
+msgstr "¡Vacaciones! ¡Por fin puedo volar!"
+
+msgid "BOT_NY_ALLSINGLE_4"
+msgstr "Jingle bells, jingle bells…"
+
+msgid "BOT_NY_BEFORE_ALLGROUP_1"
+msgstr "¿Alguien ha puesto los adornos?"
+
+msgid "BOT_NY_BEFORE_ALLGROUP_1_1"
+msgstr "Todavía tengo los adornos del año pasado."
+
+msgid "BOT_NY_BEFORE_ALLGROUP_2"
+msgstr "¿Alguno ha puesto ya los calcetines?"
+
+msgid "BOT_NY_BEFORE_ALLGROUP_2_1"
+msgstr "Los puse hace tres días."
+
+msgid "BOT_NY_BEFORE_ALLSINGLE_1"
+msgstr "¡Feliz año nuevo a todos!"
+
+msgid "BOT_NY_BEFORE_ALLSINGLE_2"
+msgstr "¡Feliz día de año nuevo!"
+
+msgid "BOT_NY_BEFORE_ALLSINGLE_3"
+msgstr "¡Felices fiestas!"
+
+msgid "BOT_NY_BEFORE_ALLSINGLE_4"
+msgstr "¡Por fin puse el árbol de navidad!"
+
+msgid "BOT_NY_BEFORE_ALLSINGLE_5"
+msgstr "¡Hurra! ¡Vacaciones!"
+
+msgid "BOT_NY_BEFORE_ALLSINGLE_6"
+msgstr "¡No hay tiempo para celebrarlo! ¡Es hora de luchar!"
+
+msgid "BOT_NY_BEFORE_ALLSINGLE_7"
+msgstr "¡Las fiestas por fin están aquí! ¡Ahora puedo volar dia y noche!"
+
+msgid "BOT_SPRING_ALLGROUP_1"
+msgstr "¿Cuántas misiones habéis completado?"
+
+msgid "BOT_SPRING_ALLGROUP_1_1"
+msgstr "Ni siquiera he empezado todavía."
+
+msgid "BOT_SPRING_ALLGROUP_1_2"
+msgstr "¡La dificultad de la última todavía me hace sudar!"
+
+msgid "BOT_SPRING_ALLGROUP_1_3"
+msgstr "Espero finalizarlas todas en unos cuantos días."
+
+msgid "BOT_SPRING_ALLGROUP_2"
+msgstr "¿Puedo hacer la 13.ª misión con el avión premium?"
+
+msgid "BOT_SPRING_ALLGROUP_2_1"
+msgstr "¡DEBERÍAS hacerlo con el avión premium!"
+
+msgid "BOT_SPRING_ALLGROUP_2_2"
+msgstr "¡Sí! No sudarás con el IL-10M."
+
+msgid "BOT_SPRING_ALLGROUP_3"
+msgstr "¿Alguien ha visto el nuevo caza?"
+
+msgid "BOT_SPRING_ALLGROUP_3_1"
+msgstr "Espero volar en él pronto..."
+
+msgid "BOT_SPRING_ALLGROUP_3_2"
+msgstr "Sí, es impresionante."
+
+msgid "BOT_SPRING_ALLGROUP_4"
+msgstr "¿Qué evento especial está en marcha ahora mismo?"
+
+msgid "BOT_SPRING_ALLGROUP_4_1"
+msgstr "¿Hago todas las misiones y consigo el I-180-3?"
+
+msgid "BOT_SPRING_ALLGROUP_5"
+msgstr "¿Quién ha probado el I-180-3?"
+
+msgid "BOT_SPRING_ALLGROUP_5_1"
+msgstr "Algunos dicen que está OP..."
+
+msgid "BOT_SPRING_ALLGROUP_5_2"
+msgstr "¡Gira de locura!"
+
+msgid "BOT_SPRING_ALLGROUP_5_3"
+msgstr "Es perfecto para el combate de cerca"
+
+msgid "BOT_SPRING_ALLGROUP_6"
+msgstr "¡Derribé a un desarrollador en mi última batalla!"
+
+msgid "BOT_SPRING_ALLGROUP_6_1"
+msgstr "¡Todo el mundo debería probarlo!"
+
+msgid "BOT_SPRING_ALLGROUP_6_2"
+msgstr "¿Cómo pudiste? ¡Ayudó a crear el juego y tú...!"
+
+msgid "BOT_SPRING_ALLGROUP_7"
+msgstr "¿Qué cintas de munición son mejores para las ametralladoras?"
+
+msgid "BOT_SPRING_ALLGROUP_7_1"
+msgstr "Las de alto explosivo incendiarias"
+
+msgid "BOT_SPRING_ALLGROUP_8"
+msgstr "Olvidémoslo"
+
+msgid "BOT_SPRING_ALLGROUP_8_1"
+msgstr "¡De ninguna manera! ¡Te hemos estado esperando!"
+
+msgid "BOT_SPRING_ALLSINGLE_2"
+msgstr "¿Qué avión es mejor para completar la 7.ª misión?"
+
+msgid "BOT_SPRING_ALLSINGLE_3"
+msgstr "¡Conseguí 10 «Cohetero» haciendo las nuevas misiones!"
+
+msgid "BOT_SPRING_ALLSINGLE_4"
+msgstr "Me encerré en mi habitación para acabar todas las misiones"
+
+msgid "BOT_SPRING_ALLSINGLE_5"
+msgstr "¡No me iré a la cama hasta que consiga el I-180-3!"
+
+msgid "BOT_SPRING_ALLSINGLE_6"
+msgstr "Acabo de probar el I-180-3... ¡me he mareado!"
+
+msgid "BOT_SPRING_ALLSINGLE_7"
+msgstr ""
+"¡¿Sabías que el I-180-3 tiene un nuevo módulo y camuflaje con "
+"bonificaciones?!"
+
+msgid "BOT_SPRING_ALLSINGLE_8"
+msgstr "Ahora es más divertido con las misiones diarias"
+
+msgid "BOT_SPRING_ALLSINGLE_9"
+msgstr "Ey colegas, ¿cuánto tiempo premium debería comprar?"
+
+msgid "BOT_SPRING_EFFECT_ALLGROUP_1"
+msgstr "¡Tengo la cabina de vuelo mojada por volar bajo sobre el agua!"
+
+msgid "BOT_SPRING_EFFECT_ALLGROUP_1_1"
+msgstr "¡El mío cogió polvo en el desierto!"
+
+msgid "BOT_SPRING_EFFECT_ALLGROUP_2"
+msgstr "¡Ahora podemos lavar nuestros aviones volando sobre el agua!"
+
+msgid "BOT_SPRING_EFFECT_ALLGROUP_2_1"
+msgstr "¡y ensuciarlos en el desierto!"
+
+msgid "BOT_SPRING_EFFECT_ALLSINGLE_1"
+msgstr "¿Visteis los nuevos efectos a baja altura?"
+
+msgid "BOT_SPRING_EFFECT_ALLSINGLE_2"
+msgstr "¡El avión vuela como un cohete con su nuevo camuflaje!"
+
+msgid "BOT_SPRING_HANGAR_ALLSINGLE_1"
+msgstr "¡El hangar se carga realmente rápido ahora! ¿Os habéis dado cuenta?"
+
+msgid "BOT_SPRING_HANGAR_ALLSINGLE_2"
+msgstr "¡No me lo puedo creer! ¡No hay lag en el hangar!"
+
+msgid "BOT_SPRING_HANGAR_ALLSINGLE_3"
+msgstr "¡Parece que hemos trabajado la optimización en este parche!"
+
+msgid "BOT_SPRING_LTO302_ALLSINGLE_1"
+msgstr "¿Ha conseguido alguien el Kostikov 302?"
+
+msgid "BOT_SPRING_LTO302_ALLSINGLE_2"
+msgstr "¡Probé el Kostikov 302! ¡Tiene buena velocidad!"
+
+msgid "BOT_SPRING_LTO302_ALLSINGLE_3"
+msgstr ""
+"¡No salgo más de marcha! ¡Prefiero ahorrar dinero para el Kostikov 302!"
+
+msgid "BOT_SPRING_LTO302_ALLSINGLE_4"
+msgstr "¡El día que compre el Kostikov 302, le compraré flores a mi esposa!"
+
+msgid "BOT_SPRING_SKILLS_ALLSINGLE_1"
+msgstr ""
+"No puedo decidir las habilidades del piloto que quiero dominar... ¿Algún "
+"consejo?"
+
+msgid "BOT_SPRING_SKILLS_ALLSINGLE_2"
+msgstr "Compañeros, ¿qué habilidades elegís para los pilotos de caza?"
+
+msgid "BOT_SPRING_SKILLS_ALLSINGLE_3"
+msgstr ""
+"¡Las nuevas habilidades para los tripulantes han aumentado mi tasa de "
+"victorias!"
+
+msgid "BOT_SPRING_SKILLS_ALLSINGLE_4"
+msgstr "¡No te olvides de dominar las nuevas habilidades para la tripulación!"
+
+msgid "BOT_SPRING_SKILLS_ALLSINGLE_5"
+msgstr "¡Cubridme! ¡Olvidé dominar las habilidades para el piloto!"
+
+msgid "BOT_START_ALLGROUP_1"
+msgstr "¡Buena suerte!"
+
+msgid "BOT_START_ALLGROUP_1_1"
+msgstr "¡Vamos a por tí!"
+
+msgid "BOT_START_ALLGROUP_1_10"
+msgstr "Tengo una herradura en mi cabina, ¡y funciona!"
+
+msgid "BOT_START_ALLGROUP_1_2"
+msgstr "Buena suerte"
+
+msgid "BOT_START_ALLGROUP_1_3"
+msgstr "La Fortuna favorece a las mentes preparadas."
+
+msgid "BOT_START_ALLGROUP_1_4"
+msgstr "¡Me fabrico mi propia suerte!"
+
+msgid "BOT_START_ALLGROUP_1_5"
+msgstr "¡La Fortuna favorece al audaz!"
+
+msgid "BOT_START_ALLGROUP_1_6"
+msgstr "Los ganadores no creen en la coincidencia."
+
+msgid "BOT_START_ALLGROUP_1_7"
+msgstr "¡La suerte no tiene nada que ver con esto!"
+
+msgid "BOT_START_ALLGROUP_1_8"
+msgstr "Más bien confío en mi habilidad"
+
+msgid "BOT_START_ALLGROUP_1_9"
+msgstr "¡Un buen equipo no necesita suerte!"
+
+msgid "BOT_START_ALLGROUP_2"
+msgstr "¡Hey {bot_name}! ¡Cuánto tiempo sin verte!"
+
+msgid "BOT_START_ALLGROUP_2_1"
+msgstr "¡Mira quién está aquí!"
+
+msgid "BOT_START_ALLGROUP_2_10"
+msgstr "Ey, cuánto tiempo sin verte"
+
+msgid "BOT_START_ALLGROUP_2_11"
+msgstr "¿Jugando a WoWp en el trabajo?"
+
+msgid "BOT_START_ALLGROUP_2_12"
+msgstr "¡Me alegro de verte otra vez en activo!"
+
+msgid "BOT_START_ALLGROUP_2_13"
+msgstr "¡Bienvenido!"
+
+msgid "BOT_START_ALLGROUP_2_14"
+msgstr "¡Hola, desconocido!"
+
+msgid "BOT_START_ALLGROUP_2_15"
+msgstr "La última vez que te vi fue hace 1000 batallas"
+
+msgid "BOT_START_ALLGROUP_2_16"
+msgstr "¿Dónde has estado?"
+
+msgid "BOT_START_ALLGROUP_2_2"
+msgstr "¡Hey! ¡Vamos al PvP!"
+
+msgid "BOT_START_ALLGROUP_2_3"
+msgstr "¡Conseguí un «Interceptor en la última batalla!"
+
+msgid "BOT_START_ALLGROUP_2_4"
+msgstr "¡Hola!"
+
+msgid "BOT_START_ALLGROUP_2_5"
+msgstr "¡Oh, guau! Pensé que ese avión ya no se fabricaba."
+
+msgid "BOT_START_ALLGROUP_2_6"
+msgstr "¡Otra vez tú!"
+
+msgid "BOT_START_ALLGROUP_2_7"
+msgstr "¡Me alegro de verte de vuelta en los cielos!"
+
+msgid "BOT_START_ALLGROUP_2_8"
+msgstr "Me alegro de verte"
+
+msgid "BOT_START_ALLGROUP_2_9"
+msgstr "¿Te gustaría jugar en una escuadrilla?"
+
+msgid "BOT_START_ALLGROUP_3"
+msgstr "¿Te gusta el {plane_name}?"
+
+msgid "BOT_START_ALLGROUP_3_1"
+msgstr "¡Lo llevo bien!"
+
+msgid "BOT_START_ALLGROUP_3_2"
+msgstr "Está bastante bien."
+
+msgid "BOT_START_ALLGROUP_3_3"
+msgstr "Es lo suficientemente bueno."
+
+msgid "BOT_START_ALLGROUP_3_4"
+msgstr "Es bueno si el piloto es bueno."
+
+msgid "BOT_START_ALLGROUP_3_5"
+msgstr "Me gusta"
+
+msgid "BOT_START_ALLGROUP_3_6"
+msgstr "Es la primera batalla con él"
+
+msgid "BOT_START_ALLGROUP_3_7"
+msgstr "Acabo de comprarlo, todavía no estoy seguro"
+
+msgid "BOT_START_ALLGROUP_3_8"
+msgstr "¡Me hace ganar un «Interceptor» en cada batalla!"
+
+msgid "BOT_START_ALLGROUP_4"
+msgstr "¿Cuál es tu récord de destruidos en una batalla?"
+
+msgid "BOT_START_ALLGROUP_4_1"
+msgstr "Conseguí Marseille 3 veces hasta ahora"
+
+msgid "BOT_START_ALLGROUP_4_2"
+msgstr "Mi Lang está impreso y enmarcado"
+
+msgid "BOT_START_ALLGROUP_4_3"
+msgstr "Aún no he conseguido un «Interceptor»"
+
+msgid "BOT_START_ALLGROUP_4_4"
+msgstr "Me faltó un derribo para conseguir una McCampbell en la última batalla"
+
+msgid "BOT_START_ALLSINGLE_1"
+msgstr "¡Busco clan!"
+
+msgid "BOT_START_ALLSINGLE_10"
+msgstr "Nos vemos en el centro, ¡y que gane el mejor equipo!"
+
+msgid "BOT_START_ALLSINGLE_11"
+msgstr "¡Mantened la cabeza y el motor fríos!"
+
+msgid "BOT_START_ALLSINGLE_2"
+msgstr "{random_player_name}, ¿te gustaría ingresar en una escuadrilla?"
+
+msgid "BOT_START_ALLSINGLE_3"
+msgstr "¿De verdad, MM?"
+
+msgid "BOT_START_ALLSINGLE_4"
+msgstr "Tercera vez seguida en este mapa."
+
+msgid "BOT_START_ALLSINGLE_5"
+msgstr "¿Cuándo sale el próximo parche?"
+
+msgid "BOT_START_ALLSINGLE_6"
+msgstr "¡Saludad a los jefes supremos robóticos!"
+
+msgid "BOT_START_ALLSINGLE_7"
+msgstr "¡{random_player_name}, vamos a entrenar en un 1 contra 1!"
+
+msgid "BOT_START_ALLSINGLE_8"
+msgstr "¡Se ha rescindido la Primera Ley de la Robótica!"
+
+msgid "BOT_START_ALLSINGLE_9"
+msgstr "¡Sube, brilla y lucha!"
+
+msgid "BOT_START_TEAMGROUP_1"
+msgstr "¡Buena suerte a todos!"
+
+msgid "BOT_START_TEAMGROUP_1_1"
+msgstr "¡Tenemos que ganar!"
+
+msgid "BOT_START_TEAMGROUP_1_2"
+msgstr "Buena suerte, divertíos"
+
+msgid "BOT_START_TEAMGROUP_2"
+msgstr "¡Hey {bot_name}! ¡Cuánto tiempo sin verte!"
+
+msgid "BOT_START_TEAMGROUP_2_1"
+msgstr "¡Mira quién está aquí!"
+
+msgid "BOT_START_TEAMGROUP_2_2"
+msgstr "¡Hey! ¡Vamos al PvP!"
+
+msgid "BOT_START_TEAMGROUP_2_3"
+msgstr "¡Conseguí un «Interceptor en la última batalla!"
+
+msgid "BOT_START_TEAMGROUP_2_4"
+msgstr "¡Hola!"
+
+msgid "BOT_START_TEAMGROUP_3"
+msgstr "¡Permaneced juntos y moveos en el sentido del reloj!"
+
+msgid "BOT_START_TEAMGROUP_3_1"
+msgstr "¡Guau, buena táctica!"
+
+msgid "BOT_START_TEAMGROUP_3_10"
+msgstr "En el sentido de las agujas del reloj siempre funciona"
+
+msgid "BOT_START_TEAMGROUP_3_11"
+msgstr "ir rápido hacia el centro => victoria fácil"
+
+msgid "BOT_START_TEAMGROUP_3_2"
+msgstr "¡Inesperado!"
+
+msgid "BOT_START_TEAMGROUP_3_3"
+msgstr "Voy por el medio"
+
+msgid "BOT_START_TEAMGROUP_3_4"
+msgstr "¡Cubridme!"
+
+msgid "BOT_START_TEAMGROUP_3_5"
+msgstr "¡Dejadme conseguir un «Interceptor»!"
+
+msgid "BOT_START_TEAMGROUP_3_6"
+msgstr "Me voy a marear"
+
+msgid "BOT_START_TEAMGROUP_3_7"
+msgstr "Vayamos rápido hacia el centro en su lugar"
+
+msgid "BOT_START_TEAMGROUP_3_8"
+msgstr "¡No voléis solos!"
+
+msgid "BOT_START_TEAMGROUP_3_9"
+msgstr "¡Negativo!"
+
+msgid "BOT_START_TEAMGROUP_4"
+msgstr "¿Listo para perder de nuevo?"
+
+msgid "BOT_START_TEAMGROUP_4_1"
+msgstr "Nah, ¡{random_player_name} nos llevará hacia la victoria!"
+
+msgid "BOT_START_TEAMGROUP_4_10"
+msgstr "Las victorias comienzan con confianza."
+
+msgid "BOT_START_TEAMGROUP_4_11"
+msgstr "Haced vuestro trabajo y todo irá bien"
+
+msgid "BOT_START_TEAMGROUP_4_12"
+msgstr "No, ¡necesito hacer mi x2!"
+
+msgid "BOT_START_TEAMGROUP_4_13"
+msgstr "¡Listo para ganar de nuevo!"
+
+msgid "BOT_START_TEAMGROUP_4_2"
+msgstr "No te preocupes. ¡Nos haremos con esta!"
+
+msgid "BOT_START_TEAMGROUP_4_3"
+msgstr "¡Que no cunda el pánico!"
+
+msgid "BOT_START_TEAMGROUP_4_4"
+msgstr "No escuches a ese tío."
+
+msgid "BOT_START_TEAMGROUP_4_5"
+msgstr "¡Negativo!"
+
+msgid "BOT_START_TEAMGROUP_4_6"
+msgstr "¡Los bots nunca están preocupados!"
+
+msgid "BOT_START_TEAMGROUP_4_7"
+msgstr "¡Mantén la calma y no te quejes!"
+
+msgid "BOT_START_TEAMGROUP_4_8"
+msgstr "¡Sigue luchando! ¡No abandones!"
+
+msgid "BOT_START_TEAMGROUP_4_9"
+msgstr "¡Ey! ¡La gente puede oírte!"
+
+msgid "BOT_START_TEAMGROUP_5"
+msgstr "Cuanto más cerca estemos, más rápido acabaremos"
+
+msgid "BOT_START_TEAMGROUP_5_1"
+msgstr "¡Tenemos aquí a un poeta!"
+
+msgid "BOT_START_TEAMGROUP_5_2"
+msgstr "o más rápido perderemos"
+
+msgid "BOT_START_TEAMGROUP_5_3"
+msgstr "¡Recibido!"
+
+msgid "BOT_START_TEAMGROUP_5_4"
+msgstr "¡De ningún modo!"
+
+msgid "BOT_START_TEAMGROUP_5_5"
+msgstr "¿Cómorl?"
+
+msgid "BOT_START_TEAMGROUP_5_6"
+msgstr "Iré rápido al centro al centro del mapa"
+
+msgid "BOT_START_TEAMSINGLE_1"
+msgstr "Gran altitud: hacia arriba"
+
+msgid "BOT_START_TEAMSINGLE_10"
+msgstr "¡Quedaos a cubierto!"
+
+msgid "BOT_START_TEAMSINGLE_11"
+msgstr "¡Podemos hacerlo!"
+
+msgid "BOT_START_TEAMSINGLE_12"
+msgstr "Esta vez ganaremos seguro"
+
+msgid "BOT_START_TEAMSINGLE_2"
+msgstr "¡Dejad para el final a los aviones de ataque!"
+
+msgid "BOT_START_TEAMSINGLE_3"
+msgstr "Aviones de ataque, destruid los cañones AA"
+
+msgid "BOT_START_TEAMSINGLE_4"
+msgstr "Es la primera vez en este pájaro"
+
+msgid "BOT_START_TEAMSINGLE_5"
+msgstr "Soy de stock"
+
+msgid "BOT_START_TEAMSINGLE_6"
+msgstr "¡Tenemos que ganar!"
+
+msgid "BOT_START_TEAMSINGLE_7"
+msgstr "Aviones de ataque, permaneced juntos"
+
+msgid "BOT_START_TEAMSINGLE_8"
+msgstr "Cuanto más cerca estemos, más rápido acabaremos"
+
+msgid "BOT_START_TEAMSINGLE_9"
+msgstr "¡Cubrid a vuestros compañeros!"
+
+msgid "BOT_SURVIVOR_ALLGROUP_1"
+msgstr "¡Venid a por mí, tíos!"
+
+msgid "BOT_SURVIVOR_ALLGROUP_1_1"
+msgstr "¡Ríndete!"
+
+msgid "BOT_SURVIVOR_ALLGROUP_1_2"
+msgstr "¡Estás acabado!"
+
+msgid "BOT_SURVIVOR_ALLGROUP_1_3"
+msgstr "Luchemos en un 1 contra 1"
+
+msgid "BOT_SURVIVOR_ALLSINGLE_1"
+msgstr "Los bots nunca se rinden"
+
+msgid "BOT_SURVIVOR_ALLSINGLE_2"
+msgstr "¡Que no se acerquen!"
+
+msgid "BOT_SURVIVOR_ALLSINGLE_3"
+msgstr "¿Dónde están los humanos cuando los necesitas?"
+
+msgid "BOT_SURVIVOR_ALLSINGLE_4"
+msgstr "¿Estás seguro de querer luchar conmigo?"
+
+msgid "BOT_SURVIVOR_ALLSINGLE_5"
+msgstr "¡No me provoques!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_1"
+msgstr "¡AYUDA!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_1_1"
+msgstr "¡Creemos en tí!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_1_2"
+msgstr "¡Está todo en tus manos!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_1_3"
+msgstr "¡Uno para todos!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_2"
+msgstr "¿Por qué estoy solo?"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_2_1"
+msgstr "¡Creemos en tí!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_2_2"
+msgstr "¡Está todo en tus manos!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_2_3"
+msgstr "¡Uno para todos!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_3"
+msgstr "Yo solo otra vez :("
+
+msgid "BOT_SURVIVOR_TEAMGROUP_3_1"
+msgstr "¡Creemos en tí!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_3_2"
+msgstr "¡Está todo en tus manos!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_3_3"
+msgstr "¡Uno para todos!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_4"
+msgstr "¿Dónde están los demás?"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_4_1"
+msgstr "¡Creemos en tí!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_4_2"
+msgstr "¡Está todo en tus manos!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_4_3"
+msgstr "¡Uno para todos!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_5"
+msgstr "Otra vez lo tengo que hacer yo todo..."
+
+msgid "BOT_SURVIVOR_TEAMGROUP_5_1"
+msgstr "¡Creemos en tí!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_5_2"
+msgstr "¡Está todo en tus manos!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_5_3"
+msgstr "¡Uno para todos!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_6"
+msgstr "Esta es mi última oportunidad..."
+
+msgid "BOT_SURVIVOR_TEAMGROUP_6_1"
+msgstr "¡Creemos en tí!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_6_2"
+msgstr "¡Está todo en tus manos!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_6_3"
+msgstr "¡Uno para todos!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_7"
+msgstr "Ha llegado el momento de los bots..."
+
+msgid "BOT_SURVIVOR_TEAMGROUP_7_1"
+msgstr "¡Creemos en tí!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_7_2"
+msgstr "¡Está todo en tus manos!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_7_3"
+msgstr "¡Uno para todos!"
+
+msgid "BOT_VICTORY_ALLSINGLE_1"
+msgstr "Buena partida"
+
+msgid "BOT_VICTORY_ALLSINGLE_2"
+msgstr "Gracias por la batalla"
+
+msgid "BOT_VICTORY_ALLSINGLE_3"
+msgstr "Gracias por la partida"
+
+msgid "BOT_VICTORY_ALLSINGLE_4"
+msgstr "Bien hecho, equipo"
+
+msgid "BOT_VICTORY_ALLSINGLE_5"
+msgstr "¡x2 al fin!"
+
+msgid "BOT_VICTORY_ALLSINGLE_6"
+msgstr "¡Buen trabajo de todos!"
+
+msgid "BOT_VICTORY_ALLSINGLE_7"
+msgstr "Buena partida, bien jugado"
+
+msgid "BOT_VICTORY_ALLSINGLE_8"
+msgstr "¡Sabía que podíamos hacerlo!"
+
+msgid "BOT_VICTORY_ALLSINGLE_9"
+msgstr "La victoria sabe bien"
+
+msgid "BOT_VICTORY_TEAMSINGLE_1"
+msgstr "Buena partida"
+
+msgid "BOT_VICTORY_TEAMSINGLE_2"
+msgstr "Gracias por la batalla"
+
+msgid "BOT_VICTORY_TEAMSINGLE_3"
+msgstr "Gracias por la partida"
+
+msgid "BOT_VICTORY_TEAMSINGLE_4"
+msgstr "Bien hecho, equipo"
+
+msgid "BOT_VICTORY_TEAMSINGLE_5"
+msgstr "¡x2 al fin!"
+
+msgid "BOT_VICTORY_TEAMSINGLE_6"
+msgstr "¡Buen trabajo de todos!"
+
+msgid "BOT_VICTORY_TEAMSINGLE_7"
+msgstr "Buena partida, bien jugado"
+
+msgid "BOT_VICTORY_TEAMSINGLE_8"
+msgstr "¡Sabía que podíamos hacerlo!"
+
+msgid "BOT_WINNING_ALLGROUP_1"
+msgstr "¡1:0 para nosotros!"
+
+msgid "BOT_WINNING_ALLGROUP_1_1"
+msgstr "¡La próxima vez iré a por ti!"
+
+msgid "BOT_WINNING_ALLGROUP_1_2"
+msgstr "Algo fue mal"
+
+msgid "BOT_WINNING_ALLGROUP_2"
+msgstr "¡Nuestros bots son mejores que los tuyos!"
+
+msgid "BOT_WINNING_ALLGROUP_2_1"
+msgstr "¡La próxima vez iré a por ti!"
+
+msgid "BOT_WINNING_ALLGROUP_2_2"
+msgstr "Algo fue mal"
+
+msgid "BOT_WINNING_TEAMSINGLE_1"
+msgstr "¡Por favor no te estrelles!"
+
+msgid "BOT_WINNING_TEAMSINGLE_10"
+msgstr "¡Al fin he conseguido mi x2!"
+
+msgid "BOT_WINNING_TEAMSINGLE_2"
+msgstr "¡Dadlo todo!"
+
+msgid "BOT_WINNING_TEAMSINGLE_3"
+msgstr "Acaba con ellos"
+
+msgid "BOT_WINNING_TEAMSINGLE_4"
+msgstr "La victoria está cerca"
+
+msgid "BOT_WINNING_TEAMSINGLE_5"
+msgstr "Solo un poco más"
+
+msgid "BOT_WINNING_TEAMSINGLE_6"
+msgstr "¡Estamos ganando!"
+
+msgid "BOT_WINNING_TEAMSINGLE_7"
+msgstr "¡Victoria al fin!"
+
+msgid "BOT_WINNING_TEAMSINGLE_8"
+msgstr "Permaneced juntos para sobrevivir"
+
+msgid "BOT_WINNING_TEAMSINGLE_9"
+msgstr "La victoria está cerca"

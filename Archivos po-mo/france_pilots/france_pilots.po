@@ -1,0 +1,4543 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"PO-Revision-Date: 2019-10-10 13:27+0200\n"
+"Last-Translator: Developer <noreply@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgid "NAMES/FR1"
+msgstr "Abadie"
+
+msgid "NAMES/FR10"
+msgstr "Amiot"
+
+msgid "NAMES/FR100"
+msgstr "Blaise"
+
+msgid "NAMES/FR1000"
+msgstr "Trouvé"
+
+msgid "NAMES/FR1001"
+msgstr "Truong"
+
+msgid "NAMES/FR1002"
+msgstr "Turpin"
+
+msgid "NAMES/FR1003"
+msgstr "Vacher"
+
+msgid "NAMES/FR1004"
+msgstr "Vaillant"
+
+msgid "NAMES/FR1005"
+msgstr "Valentin"
+
+msgid "NAMES/FR1006"
+msgstr "Valette"
+
+msgid "NAMES/FR1007"
+msgstr "Vallée"
+
+msgid "NAMES/FR1008"
+msgstr "Vallet"
+
+msgid "NAMES/FR1009"
+msgstr "Vannier"
+
+msgid "NAMES/FR101"
+msgstr "Blanc"
+
+msgid "NAMES/FR1010"
+msgstr "Varin"
+
+msgid "NAMES/FR1011"
+msgstr "Varlet"
+
+msgid "NAMES/FR1012"
+msgstr "Vasseur"
+
+msgid "NAMES/FR1013"
+msgstr "Vautier"
+
+msgid "NAMES/FR1014"
+msgstr "Vautrin"
+
+msgid "NAMES/FR1015"
+msgstr "Verdier"
+
+msgid "NAMES/FR1016"
+msgstr "Verger"
+
+msgid "NAMES/FR1017"
+msgstr "Vernet"
+
+msgid "NAMES/FR1018"
+msgstr "Vernier"
+
+msgid "NAMES/FR1019"
+msgstr "Véron"
+
+msgid "NAMES/FR102"
+msgstr "Blanchard"
+
+msgid "NAMES/FR1020"
+msgstr "Verrier"
+
+msgid "NAMES/FR1021"
+msgstr "Vial"
+
+msgid "NAMES/FR1022"
+msgstr "Viard"
+
+msgid "NAMES/FR1023"
+msgstr "Viaud"
+
+msgid "NAMES/FR1024"
+msgstr "Vidal"
+
+msgid "NAMES/FR1025"
+msgstr "Viel"
+
+msgid "NAMES/FR1026"
+msgstr "Vigier"
+
+msgid "NAMES/FR1027"
+msgstr "Vignal"
+
+msgid "NAMES/FR1028"
+msgstr "Vigneron"
+
+msgid "NAMES/FR1029"
+msgstr "Vignon"
+
+msgid "NAMES/FR103"
+msgstr "Blanchet"
+
+msgid "NAMES/FR1030"
+msgstr "Vigouroux"
+
+msgid "NAMES/FR1031"
+msgstr "Viguier"
+
+msgid "NAMES/FR1032"
+msgstr "Vilain"
+
+msgid "NAMES/FR1033"
+msgstr "Villain"
+
+msgid "NAMES/FR1034"
+msgstr "Villard"
+
+msgid "NAMES/FR1035"
+msgstr "Villeneuve"
+
+msgid "NAMES/FR1036"
+msgstr "Villette"
+
+msgid "NAMES/FR1037"
+msgstr "Vincent"
+
+msgid "NAMES/FR1038"
+msgstr "Vivier"
+
+msgid "NAMES/FR1039"
+msgstr "Voisin"
+
+msgid "NAMES/FR104"
+msgstr "Blandin"
+
+msgid "NAMES/FR1040"
+msgstr "Wagner"
+
+msgid "NAMES/FR1041"
+msgstr "Walter"
+
+msgid "NAMES/FR1042"
+msgstr "Waffenschmidt"
+
+msgid "NAMES/FR1043"
+msgstr "Weiss"
+
+msgid "NAMES/FR1044"
+msgstr "Balzac"
+
+msgid "NAMES/FR1045"
+msgstr "Descartes"
+
+msgid "NAMES/FR1046"
+msgstr "Alesi"
+
+msgid "NAMES/FR1047"
+msgstr "Ampère"
+
+msgid "NAMES/FR1048"
+msgstr "Becquere"
+
+msgid "NAMES/FR1049"
+msgstr "Parson"
+
+msgid "NAMES/FR105"
+msgstr "Blin"
+
+msgid "NAMES/FR1050"
+msgstr "Curie"
+
+msgid "NAMES/FR1051"
+msgstr "Debussy"
+
+msgid "NAMES/FR1052"
+msgstr "Diderot"
+
+msgid "NAMES/FR1053"
+msgstr "Binoche"
+
+msgid "NAMES/FR1054"
+msgstr "Fourier"
+
+msgid "NAMES/FR1055"
+msgstr "Fresnel"
+
+msgid "NAMES/FR1056"
+msgstr "Laffite"
+
+msgid "NAMES/FR1057"
+msgstr "Mandelbrot"
+
+msgid "NAMES/FR1058"
+msgstr "Marat"
+
+msgid "NAMES/FR1059"
+msgstr "Mariotte"
+
+msgid "NAMES/FR106"
+msgstr "Bloch"
+
+msgid "NAMES/FR1060"
+msgstr "Shirin"
+
+msgid "NAMES/FR1061"
+msgstr "Mitterrand"
+
+msgid "NAMES/FR1062"
+msgstr "Offenbach"
+
+msgid "NAMES/FR1063"
+msgstr "Pescarolo"
+
+msgid "NAMES/FR1064"
+msgstr "Lumière"
+
+msgid "NAMES/FR1065"
+msgstr "Poincaré"
+
+msgid "NAMES/FR1066"
+msgstr "Robespierre"
+
+msgid "NAMES/FR1067"
+msgstr "Verne"
+
+msgid "NAMES/FR1068"
+msgstr "Zola"
+
+msgid "NAMES/FR1069"
+msgstr "Dornier"
+
+msgid "NAMES/FR107"
+msgstr "Blondeau"
+
+msgid "NAMES/FR1070"
+msgstr "Altéry"
+
+msgid "NAMES/FR1071"
+msgstr "Clémenceau"
+
+msgid "NAMES/FR1072"
+msgstr "Minier"
+
+msgid "NAMES/FR1073"
+msgstr "Baïleche"
+
+msgid "NAMES/FR1074"
+msgstr "Morato"
+
+msgid "NAMES/FR1075"
+msgstr "Lenorman"
+
+msgid "NAMES/FR1076"
+msgstr "Fiori"
+
+msgid "NAMES/FR1077"
+msgstr "Carné"
+
+msgid "NAMES/FR108"
+msgstr "Blondel"
+
+msgid "NAMES/FR109"
+msgstr "Blot"
+
+msgid "NAMES/FR11"
+msgstr "André"
+
+msgid "NAMES/FR110"
+msgstr "Bob"
+
+msgid "NAMES/FR111"
+msgstr "Bocquet"
+
+msgid "NAMES/FR112"
+msgstr "Bodin"
+
+msgid "NAMES/FR113"
+msgstr "Bois"
+
+msgid "NAMES/FR114"
+msgstr "Boisseau"
+
+msgid "NAMES/FR115"
+msgstr "Boisson"
+
+msgid "NAMES/FR116"
+msgstr "Boivin"
+
+msgid "NAMES/FR117"
+msgstr "Bon"
+
+msgid "NAMES/FR118"
+msgstr "Bonhomme"
+
+msgid "NAMES/FR119"
+msgstr "Bonin"
+
+msgid "NAMES/FR12"
+msgstr "Andrieu"
+
+msgid "NAMES/FR120"
+msgstr "Bonnard"
+
+msgid "NAMES/FR121"
+msgstr "Bonnaud"
+
+msgid "NAMES/FR122"
+msgstr "Bonneau"
+
+msgid "NAMES/FR123"
+msgstr "Bonnefoy"
+
+msgid "NAMES/FR124"
+msgstr "Bonnin"
+
+msgid "NAMES/FR125"
+msgstr "Bonnot"
+
+msgid "NAMES/FR126"
+msgstr "Bontemps"
+
+msgid "NAMES/FR127"
+msgstr "Bordes"
+
+msgid "NAMES/FR128"
+msgstr "Borel"
+
+msgid "NAMES/FR129"
+msgstr "Bossard"
+
+msgid "NAMES/FR13"
+msgstr "Andrieux"
+
+msgid "NAMES/FR130"
+msgstr "Bouchard"
+
+msgid "NAMES/FR131"
+msgstr "Bouche"
+
+msgid "NAMES/FR132"
+msgstr "Boucher"
+
+msgid "NAMES/FR133"
+msgstr "Bouchet"
+
+msgid "NAMES/FR134"
+msgstr "Bouchez"
+
+msgid "NAMES/FR135"
+msgstr "Boudet"
+
+msgid "NAMES/FR136"
+msgstr "Bouet"
+
+msgid "NAMES/FR137"
+msgstr "Bouillon"
+
+msgid "NAMES/FR138"
+msgstr "Boulanger"
+
+msgid "NAMES/FR139"
+msgstr "Boulay"
+
+msgid "NAMES/FR14"
+msgstr "Antoine"
+
+msgid "NAMES/FR140"
+msgstr "Boulet"
+
+msgid "NAMES/FR141"
+msgstr "Bouquet"
+
+msgid "NAMES/FR142"
+msgstr "Bour"
+
+msgid "NAMES/FR143"
+msgstr "Bourbon"
+
+msgid "NAMES/FR144"
+msgstr "Bourdin"
+
+msgid "NAMES/FR145"
+msgstr "Bourdon"
+
+msgid "NAMES/FR146"
+msgstr "Bourgeois"
+
+msgid "NAMES/FR147"
+msgstr "Bourgoin"
+
+msgid "NAMES/FR148"
+msgstr "Bourguignon"
+
+msgid "NAMES/FR149"
+msgstr "Bousquet"
+
+msgid "NAMES/FR15"
+msgstr "Armand"
+
+msgid "NAMES/FR150"
+msgstr "Boutet"
+
+msgid "NAMES/FR151"
+msgstr "Boutin"
+
+msgid "NAMES/FR152"
+msgstr "Bouton"
+
+msgid "NAMES/FR153"
+msgstr "Bouvard"
+
+msgid "NAMES/FR154"
+msgstr "Bouvet"
+
+msgid "NAMES/FR155"
+msgstr "Bouvier"
+
+msgid "NAMES/FR156"
+msgstr "Boyer"
+
+msgid "NAMES/FR157"
+msgstr "Braud"
+
+msgid "NAMES/FR158"
+msgstr "Brault"
+
+msgid "NAMES/FR159"
+msgstr "Bresson"
+
+msgid "NAMES/FR16"
+msgstr "Arnaud"
+
+msgid "NAMES/FR160"
+msgstr "Bret"
+
+msgid "NAMES/FR161"
+msgstr "Breton"
+
+msgid "NAMES/FR162"
+msgstr "Briand"
+
+msgid "NAMES/FR163"
+msgstr "Brière"
+
+msgid "NAMES/FR164"
+msgstr "Brisset"
+
+msgid "NAMES/FR165"
+msgstr "Brochard"
+
+msgid "NAMES/FR166"
+msgstr "Brossard"
+
+msgid "NAMES/FR167"
+msgstr "Brousse"
+
+msgid "NAMES/FR168"
+msgstr "Bru"
+
+msgid "NAMES/FR169"
+msgstr "Brule"
+
+msgid "NAMES/FR17"
+msgstr "Arnould"
+
+msgid "NAMES/FR170"
+msgstr "Brun"
+
+msgid "NAMES/FR171"
+msgstr "Bruneau"
+
+msgid "NAMES/FR172"
+msgstr "Brunel"
+
+msgid "NAMES/FR173"
+msgstr "Brunet"
+
+msgid "NAMES/FR174"
+msgstr "Bruyère"
+
+msgid "NAMES/FR175"
+msgstr "Buisson"
+
+msgid "NAMES/FR176"
+msgstr "Bureau"
+
+msgid "NAMES/FR177"
+msgstr "Burel"
+
+msgid "NAMES/FR178"
+msgstr "Busson"
+
+msgid "NAMES/FR179"
+msgstr "Cabrol"
+
+msgid "NAMES/FR18"
+msgstr "Arnoux"
+
+msgid "NAMES/FR180"
+msgstr "Cadet"
+
+msgid "NAMES/FR181"
+msgstr "Cadiou"
+
+msgid "NAMES/FR182"
+msgstr "Caillaud"
+
+msgid "NAMES/FR183"
+msgstr "Caillet"
+
+msgid "NAMES/FR184"
+msgstr "Calvet"
+
+msgid "NAMES/FR185"
+msgstr "Calvez"
+
+msgid "NAMES/FR186"
+msgstr "Camus"
+
+msgid "NAMES/FR187"
+msgstr "Cano"
+
+msgid "NAMES/FR188"
+msgstr "Capelle"
+
+msgid "NAMES/FR189"
+msgstr "Cardon"
+
+msgid "NAMES/FR19"
+msgstr "Astier"
+
+msgid "NAMES/FR190"
+msgstr "Cariou"
+
+msgid "NAMES/FR191"
+msgstr "Carlier"
+
+msgid "NAMES/FR192"
+msgstr "Caron"
+
+msgid "NAMES/FR193"
+msgstr "Carpentier"
+
+msgid "NAMES/FR194"
+msgstr "Carré"
+
+msgid "NAMES/FR195"
+msgstr "Carrier"
+
+msgid "NAMES/FR196"
+msgstr "Carrière"
+
+msgid "NAMES/FR197"
+msgstr "Cartier"
+
+msgid "NAMES/FR198"
+msgstr "Castel"
+
+msgid "NAMES/FR199"
+msgstr "Causse"
+
+msgid "NAMES/FR2"
+msgstr "Adam"
+
+msgid "NAMES/FR20"
+msgstr "Aubert"
+
+msgid "NAMES/FR200"
+msgstr "Chabert"
+
+msgid "NAMES/FR201"
+msgstr "Chabot"
+
+msgid "NAMES/FR202"
+msgstr "Chaillou"
+
+msgid "NAMES/FR203"
+msgstr "Chambon"
+
+msgid "NAMES/FR204"
+msgstr "Champion"
+
+msgid "NAMES/FR205"
+msgstr "Chapelle"
+
+msgid "NAMES/FR206"
+msgstr "Chapuis"
+
+msgid "NAMES/FR207"
+msgstr "Charbonnier"
+
+msgid "NAMES/FR208"
+msgstr "Chardon"
+
+msgid "NAMES/FR209"
+msgstr "Charles"
+
+msgid "NAMES/FR21"
+msgstr "Aubertin"
+
+msgid "NAMES/FR210"
+msgstr "Charlet"
+
+msgid "NAMES/FR211"
+msgstr "Charlier"
+
+msgid "NAMES/FR212"
+msgstr "Charlot"
+
+msgid "NAMES/FR213"
+msgstr "Charpentier"
+
+msgid "NAMES/FR214"
+msgstr "Charrier"
+
+msgid "NAMES/FR215"
+msgstr "Charron"
+
+msgid "NAMES/FR216"
+msgstr "Chartier"
+
+msgid "NAMES/FR217"
+msgstr "Charton"
+
+msgid "NAMES/FR218"
+msgstr "Chateau"
+
+msgid "NAMES/FR219"
+msgstr "Chatelain"
+
+msgid "NAMES/FR22"
+msgstr "Aubin"
+
+msgid "NAMES/FR220"
+msgstr "Chaumont"
+
+msgid "NAMES/FR221"
+msgstr "Chauveau"
+
+msgid "NAMES/FR222"
+msgstr "Chauvel"
+
+msgid "NAMES/FR223"
+msgstr "Chauvet"
+
+msgid "NAMES/FR224"
+msgstr "Chauvin"
+
+msgid "NAMES/FR225"
+msgstr "Chemin"
+
+msgid "NAMES/FR226"
+msgstr "Chêne"
+
+msgid "NAMES/FR227"
+msgstr "Chenu"
+
+msgid "NAMES/FR228"
+msgstr "Chevalier"
+
+msgid "NAMES/FR229"
+msgstr "Chevrier"
+
+msgid "NAMES/FR23"
+msgstr "Aubry"
+
+msgid "NAMES/FR230"
+msgstr "Chiron"
+
+msgid "NAMES/FR231"
+msgstr "Chollet"
+
+msgid "NAMES/FR232"
+msgstr "Chopin"
+
+msgid "NAMES/FR233"
+msgstr "Chrétien"
+
+msgid "NAMES/FR234"
+msgstr "Claude"
+
+msgid "NAMES/FR235"
+msgstr "Claudel"
+
+msgid "NAMES/FR236"
+msgstr "Clément"
+
+msgid "NAMES/FR237"
+msgstr "Clerc"
+
+msgid "NAMES/FR238"
+msgstr "Cochet"
+
+msgid "NAMES/FR239"
+msgstr "Cohen"
+
+msgid "NAMES/FR24"
+msgstr "Auffret"
+
+msgid "NAMES/FR240"
+msgstr "Colas"
+
+msgid "NAMES/FR241"
+msgstr "Colin"
+
+msgid "NAMES/FR242"
+msgstr "Collet"
+
+msgid "NAMES/FR243"
+msgstr "Collignon"
+
+msgid "NAMES/FR244"
+msgstr "Collin"
+
+msgid "NAMES/FR245"
+msgstr "Colson"
+
+msgid "NAMES/FR246"
+msgstr "Combe"
+
+msgid "NAMES/FR247"
+msgstr "Combes"
+
+msgid "NAMES/FR248"
+msgstr "Comte"
+
+msgid "NAMES/FR249"
+msgstr "Constant"
+
+msgid "NAMES/FR25"
+msgstr "Augé"
+
+msgid "NAMES/FR250"
+msgstr "Conte"
+
+msgid "NAMES/FR251"
+msgstr "Cordier"
+
+msgid "NAMES/FR252"
+msgstr "Cormier"
+
+msgid "NAMES/FR253"
+msgstr "Cornet"
+
+msgid "NAMES/FR254"
+msgstr "Cornu"
+
+msgid "NAMES/FR255"
+msgstr "Corre"
+
+msgid "NAMES/FR256"
+msgstr "Costa"
+
+msgid "NAMES/FR257"
+msgstr "Coste"
+
+msgid "NAMES/FR258"
+msgstr "Cottin"
+
+msgid "NAMES/FR259"
+msgstr "Couderc"
+
+msgid "NAMES/FR26"
+msgstr "Auger"
+
+msgid "NAMES/FR260"
+msgstr "Coudert"
+
+msgid "NAMES/FR261"
+msgstr "Coulon"
+
+msgid "NAMES/FR262"
+msgstr "Courtin"
+
+msgid "NAMES/FR263"
+msgstr "Courtois"
+
+msgid "NAMES/FR264"
+msgstr "Cousin"
+
+msgid "NAMES/FR265"
+msgstr "Coutant"
+
+msgid "NAMES/FR266"
+msgstr "Couturier"
+
+msgid "NAMES/FR267"
+msgstr "Crépin"
+
+msgid "NAMES/FR268"
+msgstr "Cros"
+
+msgid "NAMES/FR269"
+msgstr "Crouzet"
+
+msgid "NAMES/FR27"
+msgstr "Auvray"
+
+msgid "NAMES/FR270"
+msgstr "Cuny"
+
+msgid "NAMES/FR271"
+msgstr "Cuvelier"
+
+msgid "NAMES/FR272"
+msgstr "Da Costa"
+
+msgid "NAMES/FR273"
+msgstr "Daniel"
+
+msgid "NAMES/FR274"
+msgstr "Darras"
+
+msgid "NAMES/FR275"
+msgstr "Dauphin"
+
+msgid "NAMES/FR276"
+msgstr "Daval"
+
+msgid "NAMES/FR277"
+msgstr "David"
+
+msgid "NAMES/FR278"
+msgstr "Davy"
+
+msgid "NAMES/FR279"
+msgstr "Lebelle"
+
+msgid "NAMES/FR28"
+msgstr "Avril"
+
+msgid "NAMES/FR280"
+msgstr "De Sousa"
+
+msgid "NAMES/FR281"
+msgstr "Debray"
+
+msgid "NAMES/FR282"
+msgstr "Dédé"
+
+msgid "NAMES/FR283"
+msgstr "Defrance"
+
+msgid "NAMES/FR284"
+msgstr "Dejean"
+
+msgid "NAMES/FR285"
+msgstr "Delacroix"
+
+msgid "NAMES/FR286"
+msgstr "Delage"
+
+msgid "NAMES/FR287"
+msgstr "Delahaye"
+
+msgid "NAMES/FR288"
+msgstr "Delalande"
+
+msgid "NAMES/FR289"
+msgstr "Delamare"
+
+msgid "NAMES/FR29"
+msgstr "Bachelet"
+
+msgid "NAMES/FR290"
+msgstr "Delannoy"
+
+msgid "NAMES/FR291"
+msgstr "Delaporte"
+
+msgid "NAMES/FR292"
+msgstr "Delarue"
+
+msgid "NAMES/FR293"
+msgstr "Delattre"
+
+msgid "NAMES/FR294"
+msgstr "Delaunay"
+
+msgid "NAMES/FR295"
+msgstr "Delcroix"
+
+msgid "NAMES/FR296"
+msgstr "Delhaye"
+
+msgid "NAMES/FR297"
+msgstr "Delmas"
+
+msgid "NAMES/FR298"
+msgstr "Delorme"
+
+msgid "NAMES/FR299"
+msgstr "Demange"
+
+msgid "NAMES/FR3"
+msgstr "Albert"
+
+msgid "NAMES/FR30"
+msgstr "Bailleul"
+
+msgid "NAMES/FR300"
+msgstr "Demay"
+
+msgid "NAMES/FR301"
+msgstr "Denis"
+
+msgid "NAMES/FR302"
+msgstr "Derrien"
+
+msgid "NAMES/FR303"
+msgstr "Desbois"
+
+msgid "NAMES/FR304"
+msgstr "Descamps"
+
+msgid "NAMES/FR305"
+msgstr "Deschamps"
+
+msgid "NAMES/FR306"
+msgstr "Deshayes"
+
+msgid "NAMES/FR307"
+msgstr "Després"
+
+msgid "NAMES/FR308"
+msgstr "Devaux"
+
+msgid "NAMES/FR309"
+msgstr "Deville"
+
+msgid "NAMES/FR31"
+msgstr "Bailly"
+
+msgid "NAMES/FR310"
+msgstr "Devos"
+
+msgid "NAMES/FR311"
+msgstr "Didier"
+
+msgid "NAMES/FR312"
+msgstr "Diot"
+
+msgid "NAMES/FR313"
+msgstr "Doré"
+
+msgid "NAMES/FR314"
+msgstr "Dos Santos"
+
+msgid "NAMES/FR315"
+msgstr "Doucet"
+
+msgid "NAMES/FR316"
+msgstr "Doyen"
+
+msgid "NAMES/FR317"
+msgstr "Drouet"
+
+msgid "NAMES/FR318"
+msgstr "Drouin"
+
+msgid "NAMES/FR319"
+msgstr "Dubois"
+
+msgid "NAMES/FR32"
+msgstr "Ballet"
+
+msgid "NAMES/FR320"
+msgstr "Dubos"
+
+msgid "NAMES/FR321"
+msgstr "Dubost"
+
+msgid "NAMES/FR322"
+msgstr "Dubreuil"
+
+msgid "NAMES/FR323"
+msgstr "Dubuc"
+
+msgid "NAMES/FR324"
+msgstr "Dubus"
+
+msgid "NAMES/FR325"
+msgstr "Duc"
+
+msgid "NAMES/FR326"
+msgstr "Duchemin"
+
+msgid "NAMES/FR327"
+msgstr "Duchêne"
+
+msgid "NAMES/FR328"
+msgstr "Duchesne"
+
+msgid "NAMES/FR329"
+msgstr "Duclos"
+
+msgid "NAMES/FR33"
+msgstr "Barbe"
+
+msgid "NAMES/FR330"
+msgstr "Ducrocq"
+
+msgid "NAMES/FR331"
+msgstr "Duez"
+
+msgid "NAMES/FR332"
+msgstr "Dufour"
+
+msgid "NAMES/FR333"
+msgstr "Duhamel"
+
+msgid "NAMES/FR334"
+msgstr "Dujardin"
+
+msgid "NAMES/FR335"
+msgstr "Dumas"
+
+msgid "NAMES/FR336"
+msgstr "Dumont"
+
+msgid "NAMES/FR337"
+msgstr "Dumortier"
+
+msgid "NAMES/FR338"
+msgstr "Dumoulin"
+
+msgid "NAMES/FR339"
+msgstr "Dupin"
+
+msgid "NAMES/FR34"
+msgstr "Barbier"
+
+msgid "NAMES/FR340"
+msgstr "Dupond"
+
+msgid "NAMES/FR341"
+msgstr "Dupont"
+
+msgid "NAMES/FR342"
+msgstr "Duprat"
+
+msgid "NAMES/FR343"
+msgstr "Dupré"
+
+msgid "NAMES/FR344"
+msgstr "Dupuis"
+
+msgid "NAMES/FR345"
+msgstr "Dupuy"
+
+msgid "NAMES/FR346"
+msgstr "Durand"
+
+msgid "NAMES/FR347"
+msgstr "Durant"
+
+msgid "NAMES/FR348"
+msgstr "Duret"
+
+msgid "NAMES/FR349"
+msgstr "Durieux"
+
+msgid "NAMES/FR35"
+msgstr "Barbot"
+
+msgid "NAMES/FR350"
+msgstr "Duriez"
+
+msgid "NAMES/FR351"
+msgstr "Dussart"
+
+msgid "NAMES/FR352"
+msgstr "Dutertre"
+
+msgid "NAMES/FR353"
+msgstr "Esnault"
+
+msgid "NAMES/FR354"
+msgstr "Estève"
+
+msgid "NAMES/FR355"
+msgstr "Étienne"
+
+msgid "NAMES/FR356"
+msgstr "Evrard"
+
+msgid "NAMES/FR357"
+msgstr "Fabre"
+
+msgid "NAMES/FR358"
+msgstr "Faivre"
+
+msgid "NAMES/FR359"
+msgstr "Faucher"
+
+msgid "NAMES/FR36"
+msgstr "Bardet"
+
+msgid "NAMES/FR360"
+msgstr "Faure"
+
+msgid "NAMES/FR361"
+msgstr "Favier"
+
+msgid "NAMES/FR362"
+msgstr "Favre"
+
+msgid "NAMES/FR363"
+msgstr "Favreau"
+
+msgid "NAMES/FR364"
+msgstr "Faye"
+
+msgid "NAMES/FR365"
+msgstr "Fayolle"
+
+msgid "NAMES/FR366"
+msgstr "Félix"
+
+msgid "NAMES/FR367"
+msgstr "Fernandes"
+
+msgid "NAMES/FR368"
+msgstr "Fernandez"
+
+msgid "NAMES/FR369"
+msgstr "Féron"
+
+msgid "NAMES/FR37"
+msgstr "Baron"
+
+msgid "NAMES/FR370"
+msgstr "Ferrand"
+
+msgid "NAMES/FR371"
+msgstr "Ferré"
+
+msgid "NAMES/FR372"
+msgstr "Ferreira"
+
+msgid "NAMES/FR373"
+msgstr "Ferrer"
+
+msgid "NAMES/FR374"
+msgstr "Ferrier"
+
+msgid "NAMES/FR375"
+msgstr "Ferry"
+
+msgid "NAMES/FR376"
+msgstr "Fèvre"
+
+msgid "NAMES/FR377"
+msgstr "Février"
+
+msgid "NAMES/FR378"
+msgstr "Fiévet"
+
+msgid "NAMES/FR379"
+msgstr "Fischer"
+
+msgid "NAMES/FR38"
+msgstr "Barraud"
+
+msgid "NAMES/FR380"
+msgstr "Flament"
+
+msgid "NAMES/FR381"
+msgstr "Fleury"
+
+msgid "NAMES/FR382"
+msgstr "Floch"
+
+msgid "NAMES/FR383"
+msgstr "Fontaine"
+
+msgid "NAMES/FR384"
+msgstr "Fonteneau"
+
+msgid "NAMES/FR385"
+msgstr "Forestier"
+
+msgid "NAMES/FR386"
+msgstr "Forget"
+
+msgid "NAMES/FR387"
+msgstr "Fort"
+
+msgid "NAMES/FR388"
+msgstr "Fortin"
+
+msgid "NAMES/FR389"
+msgstr "Foucault"
+
+msgid "NAMES/FR39"
+msgstr "Barre"
+
+msgid "NAMES/FR390"
+msgstr "Foucher"
+
+msgid "NAMES/FR391"
+msgstr "Foulon"
+
+msgid "NAMES/FR392"
+msgstr "Fouquet"
+
+msgid "NAMES/FR393"
+msgstr "Fourcade"
+
+msgid "NAMES/FR394"
+msgstr "Fournet"
+
+msgid "NAMES/FR395"
+msgstr "Fournier"
+
+msgid "NAMES/FR396"
+msgstr "Fraisse"
+
+msgid "NAMES/FR397"
+msgstr "Franco"
+
+msgid "NAMES/FR398"
+msgstr "Frémont"
+
+msgid "NAMES/FR399"
+msgstr "Froment"
+
+msgid "NAMES/FR4"
+msgstr "Alexandre"
+
+msgid "NAMES/FR40"
+msgstr "Barreau"
+
+msgid "NAMES/FR400"
+msgstr "Fuchs"
+
+msgid "NAMES/FR401"
+msgstr "Gaillard"
+
+msgid "NAMES/FR402"
+msgstr "Gallais"
+
+msgid "NAMES/FR403"
+msgstr "Gallet"
+
+msgid "NAMES/FR404"
+msgstr "Gallois"
+
+msgid "NAMES/FR405"
+msgstr "Garcia"
+
+msgid "NAMES/FR406"
+msgstr "Garin"
+
+msgid "NAMES/FR407"
+msgstr "Garnier"
+
+msgid "NAMES/FR408"
+msgstr "Garreau"
+
+msgid "NAMES/FR409"
+msgstr "Gasnier"
+
+msgid "NAMES/FR41"
+msgstr "Barret"
+
+msgid "NAMES/FR410"
+msgstr "Gaubert"
+
+msgid "NAMES/FR411"
+msgstr "Gaudin"
+
+msgid "NAMES/FR412"
+msgstr "Gaultier"
+
+msgid "NAMES/FR413"
+msgstr "Gauthier"
+
+msgid "NAMES/FR414"
+msgstr "Gautier"
+
+msgid "NAMES/FR415"
+msgstr "Gay"
+
+msgid "NAMES/FR416"
+msgstr "Geffroy"
+
+msgid "NAMES/FR417"
+msgstr "Genet"
+
+msgid "NAMES/FR418"
+msgstr "Genty"
+
+msgid "NAMES/FR419"
+msgstr "Geoffroy"
+
+msgid "NAMES/FR42"
+msgstr "Barrier"
+
+msgid "NAMES/FR420"
+msgstr "Georges"
+
+msgid "NAMES/FR421"
+msgstr "Girgl"
+
+msgid "NAMES/FR422"
+msgstr "Gerardin"
+
+msgid "NAMES/FR423"
+msgstr "Germain"
+
+msgid "NAMES/FR424"
+msgstr "Gervais"
+
+msgid "NAMES/FR425"
+msgstr "Gibert"
+
+msgid "NAMES/FR426"
+msgstr "Gicquel"
+
+msgid "NAMES/FR427"
+msgstr "Gil"
+
+msgid "NAMES/FR428"
+msgstr "Gilbert"
+
+msgid "NAMES/FR429"
+msgstr "Gilles"
+
+msgid "NAMES/FR43"
+msgstr "Barrière"
+
+msgid "NAMES/FR430"
+msgstr "Gillet"
+
+msgid "NAMES/FR431"
+msgstr "Gillot"
+
+msgid "NAMES/FR432"
+msgstr "Giménez"
+
+msgid "NAMES/FR433"
+msgstr "Girard"
+
+msgid "NAMES/FR434"
+msgstr "Giraud"
+
+msgid "NAMES/FR435"
+msgstr "Girault"
+
+msgid "NAMES/FR436"
+msgstr "Girod"
+
+msgid "NAMES/FR437"
+msgstr "Gobert"
+
+msgid "NAMES/FR438"
+msgstr "Godard"
+
+msgid "NAMES/FR439"
+msgstr "Godart"
+
+msgid "NAMES/FR44"
+msgstr "Barthe"
+
+msgid "NAMES/FR440"
+msgstr "Godefroy"
+
+msgid "NAMES/FR441"
+msgstr "Godet"
+
+msgid "NAMES/FR442"
+msgstr "Godin"
+
+msgid "NAMES/FR443"
+msgstr "Gonsalve"
+
+msgid "NAMES/FR444"
+msgstr "Gosselin"
+
+msgid "NAMES/FR445"
+msgstr "Gosset"
+
+msgid "NAMES/FR446"
+msgstr "Goujon"
+
+msgid "NAMES/FR447"
+msgstr "Grand"
+
+msgid "NAMES/FR448"
+msgstr "Grandjean"
+
+msgid "NAMES/FR449"
+msgstr "Grange"
+
+msgid "NAMES/FR45"
+msgstr "Barthélémy"
+
+msgid "NAMES/FR450"
+msgstr "Granger"
+
+msgid "NAMES/FR451"
+msgstr "Granier"
+
+msgid "NAMES/FR452"
+msgstr "Gras"
+
+msgid "NAMES/FR453"
+msgstr "Grégoire"
+
+msgid "NAMES/FR454"
+msgstr "Grenier"
+
+msgid "NAMES/FR455"
+msgstr "Grimaud"
+
+msgid "NAMES/FR456"
+msgstr "Grondin"
+
+msgid "NAMES/FR457"
+msgstr "Gros"
+
+msgid "NAMES/FR458"
+msgstr "Grosjean"
+
+msgid "NAMES/FR459"
+msgstr "Guegan"
+
+msgid "NAMES/FR46"
+msgstr "Basset"
+
+msgid "NAMES/FR460"
+msgstr "Gueguen"
+
+msgid "NAMES/FR461"
+msgstr "Guérin"
+
+msgid "NAMES/FR462"
+msgstr "Guerry"
+
+msgid "NAMES/FR463"
+msgstr "Guibert"
+
+msgid "NAMES/FR464"
+msgstr "Guichard"
+
+msgid "NAMES/FR465"
+msgstr "Guignard"
+
+msgid "NAMES/FR466"
+msgstr "Guilbaud"
+
+msgid "NAMES/FR467"
+msgstr "Guilbert"
+
+msgid "NAMES/FR468"
+msgstr "Guillard"
+
+msgid "NAMES/FR469"
+msgstr "Guillaume"
+
+msgid "NAMES/FR47"
+msgstr "Bastien"
+
+msgid "NAMES/FR470"
+msgstr "Guillemin"
+
+msgid "NAMES/FR471"
+msgstr "Guillemot"
+
+msgid "NAMES/FR472"
+msgstr "Guillet"
+
+msgid "NAMES/FR473"
+msgstr "Guillon"
+
+msgid "NAMES/FR474"
+msgstr "Guillot"
+
+msgid "NAMES/FR475"
+msgstr "Guillou"
+
+msgid "NAMES/FR476"
+msgstr "Guilloux"
+
+msgid "NAMES/FR477"
+msgstr "Guiot"
+
+msgid "NAMES/FR478"
+msgstr "Guiraud"
+
+msgid "NAMES/FR479"
+msgstr "Guitton"
+
+msgid "NAMES/FR48"
+msgstr "Bataille"
+
+msgid "NAMES/FR480"
+msgstr "Guy"
+
+msgid "NAMES/FR481"
+msgstr "Guyard"
+
+msgid "NAMES/FR482"
+msgstr "Guyon"
+
+msgid "NAMES/FR483"
+msgstr "Guyot"
+
+msgid "NAMES/FR484"
+msgstr "Haas"
+
+msgid "NAMES/FR485"
+msgstr "Haddad"
+
+msgid "NAMES/FR486"
+msgstr "Hamel"
+
+msgid "NAMES/FR487"
+msgstr "Hamelin"
+
+msgid "NAMES/FR488"
+msgstr "Hamon"
+
+msgid "NAMES/FR489"
+msgstr "Hardouin"
+
+msgid "NAMES/FR49"
+msgstr "Baud"
+
+msgid "NAMES/FR490"
+msgstr "Hardy"
+
+msgid "NAMES/FR491"
+msgstr "Hebert"
+
+msgid "NAMES/FR492"
+msgstr "Henry"
+
+msgid "NAMES/FR493"
+msgstr "Hérault"
+
+msgid "NAMES/FR494"
+msgstr "Hernandez"
+
+msgid "NAMES/FR495"
+msgstr "Hervé"
+
+msgid "NAMES/FR496"
+msgstr "Hoarau"
+
+msgid "NAMES/FR497"
+msgstr "Hubert"
+
+msgid "NAMES/FR498"
+msgstr "Huchet"
+
+msgid "NAMES/FR499"
+msgstr "Huet"
+
+msgid "NAMES/FR5"
+msgstr "Alix"
+
+msgid "NAMES/FR50"
+msgstr "Baudet"
+
+msgid "NAMES/FR500"
+msgstr "Hugues"
+
+msgid "NAMES/FR501"
+msgstr "Huguet"
+
+msgid "NAMES/FR502"
+msgstr "Humbert"
+
+msgid "NAMES/FR503"
+msgstr "Husson"
+
+msgid "NAMES/FR504"
+msgstr "Imbert"
+
+msgid "NAMES/FR505"
+msgstr "Jacob"
+
+msgid "NAMES/FR506"
+msgstr "Jacq"
+
+msgid "NAMES/FR507"
+msgstr "Jacquemin"
+
+msgid "NAMES/FR508"
+msgstr "Jacques"
+
+msgid "NAMES/FR509"
+msgstr "Jacquet"
+
+msgid "NAMES/FR51"
+msgstr "Baudin"
+
+msgid "NAMES/FR510"
+msgstr "Jacquin"
+
+msgid "NAMES/FR511"
+msgstr "Jacquot"
+
+msgid "NAMES/FR512"
+msgstr "Jaffre"
+
+msgid "NAMES/FR513"
+msgstr "Jamet"
+
+msgid "NAMES/FR514"
+msgstr "Janin"
+
+msgid "NAMES/FR515"
+msgstr "Janvier"
+
+msgid "NAMES/FR516"
+msgstr "Jaouen"
+
+msgid "NAMES/FR517"
+msgstr "Jardin"
+
+msgid "NAMES/FR518"
+msgstr "Jarry"
+
+msgid "NAMES/FR519"
+msgstr "Jean"
+
+msgid "NAMES/FR52"
+msgstr "Baudoin"
+
+msgid "NAMES/FR520"
+msgstr "Jeanne"
+
+msgid "NAMES/FR521"
+msgstr "Jeannin"
+
+msgid "NAMES/FR522"
+msgstr "Jégou"
+
+msgid "NAMES/FR523"
+msgstr "Jiménez"
+
+msgid "NAMES/FR524"
+msgstr "Jolivet"
+
+msgid "NAMES/FR525"
+msgstr "Jolly"
+
+msgid "NAMES/FR526"
+msgstr "Joseph"
+
+msgid "NAMES/FR527"
+msgstr "Jouan"
+
+msgid "NAMES/FR528"
+msgstr "Joubert"
+
+msgid "NAMES/FR529"
+msgstr "Jourdain"
+
+msgid "NAMES/FR53"
+msgstr "Baudouin"
+
+msgid "NAMES/FR530"
+msgstr "Jourdan"
+
+msgid "NAMES/FR531"
+msgstr "Jouve"
+
+msgid "NAMES/FR532"
+msgstr "Julien"
+
+msgid "NAMES/FR533"
+msgstr "Jullien"
+
+msgid "NAMES/FR534"
+msgstr "Jung"
+
+msgid "NAMES/FR535"
+msgstr "Keller"
+
+msgid "NAMES/FR536"
+msgstr "Kieffer"
+
+msgid "NAMES/FR537"
+msgstr "Klein"
+
+msgid "NAMES/FR538"
+msgstr "Labat"
+
+msgid "NAMES/FR539"
+msgstr "Labbé"
+
+msgid "NAMES/FR54"
+msgstr "Baudry"
+
+msgid "NAMES/FR540"
+msgstr "Laborde"
+
+msgid "NAMES/FR541"
+msgstr "Lacaze"
+
+msgid "NAMES/FR542"
+msgstr "Lacombe"
+
+msgid "NAMES/FR543"
+msgstr "Lacour"
+
+msgid "NAMES/FR544"
+msgstr "Lacroix"
+
+msgid "NAMES/FR545"
+msgstr "Laffont"
+
+msgid "NAMES/FR546"
+msgstr "Lafon"
+
+msgid "NAMES/FR547"
+msgstr "Lafond"
+
+msgid "NAMES/FR548"
+msgstr "Lafont"
+
+msgid "NAMES/FR549"
+msgstr "Lagarde"
+
+msgid "NAMES/FR55"
+msgstr "Bauer"
+
+msgid "NAMES/FR550"
+msgstr "Lagrange"
+
+msgid "NAMES/FR551"
+msgstr "Laine"
+
+msgid "NAMES/FR552"
+msgstr "Lair"
+
+msgid "NAMES/FR553"
+msgstr "Lalanne"
+
+msgid "NAMES/FR554"
+msgstr "Lallemand"
+
+msgid "NAMES/FR555"
+msgstr "Lallement"
+
+msgid "NAMES/FR556"
+msgstr "Lambert"
+
+msgid "NAMES/FR557"
+msgstr "Lamotte"
+
+msgid "NAMES/FR558"
+msgstr "Lamour"
+
+msgid "NAMES/FR559"
+msgstr "Lamy"
+
+msgid "NAMES/FR56"
+msgstr "Bayle"
+
+msgid "NAMES/FR560"
+msgstr "Landais"
+
+msgid "NAMES/FR561"
+msgstr "Lang"
+
+msgid "NAMES/FR562"
+msgstr "Langlais"
+
+msgid "NAMES/FR563"
+msgstr "Langlois"
+
+msgid "NAMES/FR564"
+msgstr "Lapeyre"
+
+msgid "NAMES/FR565"
+msgstr "Lapierre"
+
+msgid "NAMES/FR566"
+msgstr "Laporte"
+
+msgid "NAMES/FR567"
+msgstr "Larcher"
+
+msgid "NAMES/FR568"
+msgstr "Laroche"
+
+msgid "NAMES/FR569"
+msgstr "Larue"
+
+msgid "NAMES/FR57"
+msgstr "Bazin"
+
+msgid "NAMES/FR570"
+msgstr "Lassalle"
+
+msgid "NAMES/FR571"
+msgstr "Lasserre"
+
+msgid "NAMES/FR572"
+msgstr "Latour"
+
+msgid "NAMES/FR573"
+msgstr "Launay"
+
+msgid "NAMES/FR574"
+msgstr "Laurent"
+
+msgid "NAMES/FR575"
+msgstr "Laval"
+
+msgid "NAMES/FR576"
+msgstr "Lavaud"
+
+msgid "NAMES/FR577"
+msgstr "Lavergne"
+
+msgid "NAMES/FR578"
+msgstr "Lavigne"
+
+msgid "NAMES/FR579"
+msgstr "Chabrol"
+
+msgid "NAMES/FR58"
+msgstr "Beal"
+
+msgid "NAMES/FR580"
+msgstr "Le Bars"
+
+msgid "NAMES/FR581"
+msgstr "Le Berre"
+
+msgid "NAMES/FR582"
+msgstr "Le Bihan"
+
+msgid "NAMES/FR583"
+msgstr "Le Borgne"
+
+msgid "NAMES/FR584"
+msgstr "Le Bras"
+
+msgid "NAMES/FR585"
+msgstr "Le Breton"
+
+msgid "NAMES/FR586"
+msgstr "Le Bris"
+
+msgid "NAMES/FR587"
+msgstr "Le Corre"
+
+msgid "NAMES/FR588"
+msgstr "Le Dû"
+
+msgid "NAMES/FR589"
+msgstr "Le Floch"
+
+msgid "NAMES/FR59"
+msgstr "Beau"
+
+msgid "NAMES/FR590"
+msgstr "Le Gac"
+
+msgid "NAMES/FR591"
+msgstr "Le Gal"
+
+msgid "NAMES/FR592"
+msgstr "Le Gall"
+
+msgid "NAMES/FR593"
+msgstr "Le Goff"
+
+msgid "NAMES/FR594"
+msgstr "Le Guen"
+
+msgid "NAMES/FR595"
+msgstr "Le Meur"
+
+msgid "NAMES/FR596"
+msgstr "Le Roux"
+
+msgid "NAMES/FR597"
+msgstr "Le Roy"
+
+msgid "NAMES/FR598"
+msgstr "Lebas"
+
+msgid "NAMES/FR599"
+msgstr "Lebeau"
+
+msgid "NAMES/FR6"
+msgstr "Allain"
+
+msgid "NAMES/FR60"
+msgstr "Beaufils"
+
+msgid "NAMES/FR600"
+msgstr "Leblanc"
+
+msgid "NAMES/FR601"
+msgstr "Leblond"
+
+msgid "NAMES/FR602"
+msgstr "Lebon"
+
+msgid "NAMES/FR603"
+msgstr "Lebreton"
+
+msgid "NAMES/FR604"
+msgstr "Lebrun"
+
+msgid "NAMES/FR605"
+msgstr "Lechat"
+
+msgid "NAMES/FR606"
+msgstr "Leclerc"
+
+msgid "NAMES/FR607"
+msgstr "Leclercq"
+
+msgid "NAMES/FR608"
+msgstr "Leclère"
+
+msgid "NAMES/FR609"
+msgstr "Lecocq"
+
+msgid "NAMES/FR61"
+msgstr "Beaulieu"
+
+msgid "NAMES/FR610"
+msgstr "Lecoeur"
+
+msgid "NAMES/FR611"
+msgstr "Lecomte"
+
+msgid "NAMES/FR612"
+msgstr "Leconte"
+
+msgid "NAMES/FR613"
+msgstr "Lecoq"
+
+msgid "NAMES/FR614"
+msgstr "Lecourt"
+
+msgid "NAMES/FR615"
+msgstr "Lécuyer"
+
+msgid "NAMES/FR616"
+msgstr "Ledoux"
+
+msgid "NAMES/FR617"
+msgstr "Ledru"
+
+msgid "NAMES/FR618"
+msgstr "Leduc"
+
+msgid "NAMES/FR619"
+msgstr "Lefebvre"
+
+msgid "NAMES/FR62"
+msgstr "Beaumont"
+
+msgid "NAMES/FR620"
+msgstr "Lefeuvre"
+
+msgid "NAMES/FR621"
+msgstr "Lefèvre"
+
+msgid "NAMES/FR622"
+msgstr "Lefort"
+
+msgid "NAMES/FR623"
+msgstr "Lefranc"
+
+msgid "NAMES/FR624"
+msgstr "Lefrancois"
+
+msgid "NAMES/FR625"
+msgstr "Legay"
+
+msgid "NAMES/FR626"
+msgstr "Legendre"
+
+msgid "NAMES/FR627"
+msgstr "Léger"
+
+msgid "NAMES/FR628"
+msgstr "Legrand"
+
+msgid "NAMES/FR629"
+msgstr "Legras"
+
+msgid "NAMES/FR63"
+msgstr "Beauvais"
+
+msgid "NAMES/FR630"
+msgstr "Legros"
+
+msgid "NAMES/FR631"
+msgstr "Lejeune"
+
+msgid "NAMES/FR632"
+msgstr "Leleu"
+
+msgid "NAMES/FR633"
+msgstr "Lelièvre"
+
+msgid "NAMES/FR634"
+msgstr "Lelong"
+
+msgid "NAMES/FR635"
+msgstr "Leloup"
+
+msgid "NAMES/FR636"
+msgstr "Lemaire"
+
+msgid "NAMES/FR637"
+msgstr "Lemaitre"
+
+msgid "NAMES/FR638"
+msgstr "Lemarchand"
+
+msgid "NAMES/FR639"
+msgstr "Lemercier"
+
+msgid "NAMES/FR64"
+msgstr "Beck"
+
+msgid "NAMES/FR640"
+msgstr "Lemoine"
+
+msgid "NAMES/FR641"
+msgstr "Lemonnier"
+
+msgid "NAMES/FR642"
+msgstr "Lenglet"
+
+msgid "NAMES/FR643"
+msgstr "Lenoir"
+
+msgid "NAMES/FR644"
+msgstr "Léon"
+
+msgid "NAMES/FR645"
+msgstr "Léonard"
+
+msgid "NAMES/FR646"
+msgstr "Lepage"
+
+msgid "NAMES/FR647"
+msgstr "Lépine"
+
+msgid "NAMES/FR648"
+msgstr "Leprêtre"
+
+msgid "NAMES/FR649"
+msgstr "Leray"
+
+msgid "NAMES/FR65"
+msgstr "Becker"
+
+msgid "NAMES/FR650"
+msgstr "Leriche"
+
+msgid "NAMES/FR651"
+msgstr "Leroux"
+
+msgid "NAMES/FR652"
+msgstr "Leroy"
+
+msgid "NAMES/FR653"
+msgstr "Lesage"
+
+msgid "NAMES/FR654"
+msgstr "Lesueur"
+
+msgid "NAMES/FR655"
+msgstr "Letellier"
+
+msgid "NAMES/FR656"
+msgstr "Levasseur"
+
+msgid "NAMES/FR657"
+msgstr "Lévêque"
+
+msgid "NAMES/FR658"
+msgstr "Lévy"
+
+msgid "NAMES/FR659"
+msgstr "Lhomme"
+
+msgid "NAMES/FR66"
+msgstr "Bègue"
+
+msgid "NAMES/FR660"
+msgstr "Lienard"
+
+msgid "NAMES/FR661"
+msgstr "Loiseau"
+
+msgid "NAMES/FR662"
+msgstr "Loisel"
+
+msgid "NAMES/FR663"
+msgstr "Loison"
+
+msgid "NAMES/FR664"
+msgstr "Lombard"
+
+msgid "NAMES/FR665"
+msgstr "Lopez"
+
+msgid "NAMES/FR666"
+msgstr "Louis"
+
+msgid "NAMES/FR667"
+msgstr "Louvet"
+
+msgid "NAMES/FR668"
+msgstr "Loyer"
+
+msgid "NAMES/FR669"
+msgstr "Lucas"
+
+msgid "NAMES/FR67"
+msgstr "Beguin"
+
+msgid "NAMES/FR670"
+msgstr "Ly"
+
+msgid "NAMES/FR671"
+msgstr "Macé"
+
+msgid "NAMES/FR672"
+msgstr "Madec"
+
+msgid "NAMES/FR673"
+msgstr "Magne"
+
+msgid "NAMES/FR674"
+msgstr "Magnier"
+
+msgid "NAMES/FR675"
+msgstr "Magnin"
+
+msgid "NAMES/FR676"
+msgstr "Mahé"
+
+msgid "NAMES/FR677"
+msgstr "Mahieu"
+
+msgid "NAMES/FR678"
+msgstr "Maillard"
+
+msgid "NAMES/FR679"
+msgstr "Maillet"
+
+msgid "NAMES/FR68"
+msgstr "Belin"
+
+msgid "NAMES/FR680"
+msgstr "Maillot"
+
+msgid "NAMES/FR681"
+msgstr "Maire"
+
+msgid "NAMES/FR682"
+msgstr "Maisonneuve"
+
+msgid "NAMES/FR683"
+msgstr "Maître"
+
+msgid "NAMES/FR684"
+msgstr "Malherbe"
+
+msgid "NAMES/FR685"
+msgstr "Mallet"
+
+msgid "NAMES/FR686"
+msgstr "Manceau"
+
+msgid "NAMES/FR687"
+msgstr "Mangin"
+
+msgid "NAMES/FR688"
+msgstr "Marais"
+
+msgid "NAMES/FR689"
+msgstr "Marc"
+
+msgid "NAMES/FR69"
+msgstr "Bellanger"
+
+msgid "NAMES/FR690"
+msgstr "Marcel"
+
+msgid "NAMES/FR691"
+msgstr "Marchal"
+
+msgid "NAMES/FR692"
+msgstr "Marchand"
+
+msgid "NAMES/FR693"
+msgstr "Maréchal"
+
+msgid "NAMES/FR694"
+msgstr "Marie"
+
+msgid "NAMES/FR695"
+msgstr "Marin"
+
+msgid "NAMES/FR696"
+msgstr "Marion"
+
+msgid "NAMES/FR697"
+msgstr "Marot"
+
+msgid "NAMES/FR698"
+msgstr "Marques"
+
+msgid "NAMES/FR699"
+msgstr "Marquet"
+
+msgid "NAMES/FR7"
+msgstr "Allard"
+
+msgid "NAMES/FR70"
+msgstr "Bellec"
+
+msgid "NAMES/FR700"
+msgstr "Marquis"
+
+msgid "NAMES/FR701"
+msgstr "Marteau"
+
+msgid "NAMES/FR702"
+msgstr "Martel"
+
+msgid "NAMES/FR703"
+msgstr "Marti"
+
+msgid "NAMES/FR704"
+msgstr "Martin"
+
+msgid "NAMES/FR705"
+msgstr "Martineau"
+
+msgid "NAMES/FR706"
+msgstr "Martinet"
+
+msgid "NAMES/FR707"
+msgstr "Martini"
+
+msgid "NAMES/FR708"
+msgstr "Martins"
+
+msgid "NAMES/FR709"
+msgstr "Marty"
+
+msgid "NAMES/FR71"
+msgstr "Bellet"
+
+msgid "NAMES/FR710"
+msgstr "Mary"
+
+msgid "NAMES/FR711"
+msgstr "Mas"
+
+msgid "NAMES/FR712"
+msgstr "Masse"
+
+msgid "NAMES/FR713"
+msgstr "Masson"
+
+msgid "NAMES/FR714"
+msgstr "Mathieu"
+
+msgid "NAMES/FR715"
+msgstr "Mathis"
+
+msgid "NAMES/FR716"
+msgstr "Mathon"
+
+msgid "NAMES/FR717"
+msgstr "Mauger"
+
+msgid "NAMES/FR718"
+msgstr "Maurel"
+
+msgid "NAMES/FR719"
+msgstr "Maurice"
+
+msgid "NAMES/FR72"
+msgstr "Ben"
+
+msgid "NAMES/FR720"
+msgstr "Maurin"
+
+msgid "NAMES/FR721"
+msgstr "Maury"
+
+msgid "NAMES/FR722"
+msgstr "Luis"
+
+msgid "NAMES/FR723"
+msgstr "Mazé"
+
+msgid "NAMES/FR724"
+msgstr "Mazet"
+
+msgid "NAMES/FR725"
+msgstr "Menard"
+
+msgid "NAMES/FR726"
+msgstr "Mendès"
+
+msgid "NAMES/FR727"
+msgstr "Menu"
+
+msgid "NAMES/FR728"
+msgstr "Mercier"
+
+msgid "NAMES/FR729"
+msgstr "Merle"
+
+msgid "NAMES/FR73"
+msgstr "Benard"
+
+msgid "NAMES/FR730"
+msgstr "Merlet"
+
+msgid "NAMES/FR731"
+msgstr "Merlin"
+
+msgid "NAMES/FR732"
+msgstr "Métais"
+
+msgid "NAMES/FR733"
+msgstr "Métayer"
+
+msgid "NAMES/FR734"
+msgstr "Métivier"
+
+msgid "NAMES/FR735"
+msgstr "Meunier"
+
+msgid "NAMES/FR736"
+msgstr "Meyer"
+
+msgid "NAMES/FR737"
+msgstr "Michaud"
+
+msgid "NAMES/FR738"
+msgstr "Michaux"
+
+msgid "NAMES/FR739"
+msgstr "Michel"
+
+msgid "NAMES/FR74"
+msgstr "Benoist"
+
+msgid "NAMES/FR740"
+msgstr "Michelet"
+
+msgid "NAMES/FR741"
+msgstr "Michon"
+
+msgid "NAMES/FR742"
+msgstr "Mignot"
+
+msgid "NAMES/FR743"
+msgstr "Mille"
+
+msgid "NAMES/FR744"
+msgstr "Millet"
+
+msgid "NAMES/FR745"
+msgstr "Millot"
+
+msgid "NAMES/FR746"
+msgstr "Moi"
+
+msgid "NAMES/FR747"
+msgstr "Moine"
+
+msgid "NAMES/FR748"
+msgstr "Molina"
+
+msgid "NAMES/FR749"
+msgstr "Mollet"
+
+msgid "NAMES/FR75"
+msgstr "Benoît"
+
+msgid "NAMES/FR750"
+msgstr "Monfort"
+
+msgid "NAMES/FR751"
+msgstr "Monier"
+
+msgid "NAMES/FR752"
+msgstr "Monin"
+
+msgid "NAMES/FR753"
+msgstr "Monnet"
+
+msgid "NAMES/FR754"
+msgstr "Monnier"
+
+msgid "NAMES/FR755"
+msgstr "Montagne"
+
+msgid "NAMES/FR756"
+msgstr "Monteil"
+
+msgid "NAMES/FR757"
+msgstr "Mora"
+
+msgid "NAMES/FR758"
+msgstr "Morand"
+
+msgid "NAMES/FR759"
+msgstr "Moreau"
+
+msgid "NAMES/FR76"
+msgstr "Berard"
+
+msgid "NAMES/FR760"
+msgstr "Moreira"
+
+msgid "NAMES/FR761"
+msgstr "Morel"
+
+msgid "NAMES/FR762"
+msgstr "Moreno"
+
+msgid "NAMES/FR763"
+msgstr "Moret"
+
+msgid "NAMES/FR764"
+msgstr "Morice"
+
+msgid "NAMES/FR765"
+msgstr "Morin"
+
+msgid "NAMES/FR766"
+msgstr "Morvan"
+
+msgid "NAMES/FR767"
+msgstr "Motte"
+
+msgid "NAMES/FR768"
+msgstr "Moulin"
+
+msgid "NAMES/FR769"
+msgstr "Mounier"
+
+msgid "NAMES/FR77"
+msgstr "Berger"
+
+msgid "NAMES/FR770"
+msgstr "Mouton"
+
+msgid "NAMES/FR771"
+msgstr "Muller"
+
+msgid "NAMES/FR772"
+msgstr "Munier"
+
+msgid "NAMES/FR773"
+msgstr "Munoz"
+
+msgid "NAMES/FR774"
+msgstr "Murat"
+
+msgid "NAMES/FR775"
+msgstr "Navarro"
+
+msgid "NAMES/FR776"
+msgstr "Nédélec"
+
+msgid "NAMES/FR777"
+msgstr "Neveu"
+
+msgid "NAMES/FR778"
+msgstr "Nguyen"
+
+msgid "NAMES/FR779"
+msgstr "Nicolas"
+
+msgid "NAMES/FR78"
+msgstr "Bernard"
+
+msgid "NAMES/FR780"
+msgstr "Nicolle"
+
+msgid "NAMES/FR781"
+msgstr "Noël"
+
+msgid "NAMES/FR782"
+msgstr "Nogues"
+
+msgid "NAMES/FR783"
+msgstr "Normand"
+
+msgid "NAMES/FR784"
+msgstr "Nowak"
+
+msgid "NAMES/FR785"
+msgstr "Oger"
+
+msgid "NAMES/FR786"
+msgstr "Olive"
+
+msgid "NAMES/FR787"
+msgstr "Olivier"
+
+msgid "NAMES/FR788"
+msgstr "Ollier"
+
+msgid "NAMES/FR789"
+msgstr "Ollivier"
+
+msgid "NAMES/FR79"
+msgstr "Bernier"
+
+msgid "NAMES/FR790"
+msgstr "Oudin"
+
+msgid "NAMES/FR791"
+msgstr "Pages"
+
+msgid "NAMES/FR792"
+msgstr "Paillard"
+
+msgid "NAMES/FR793"
+msgstr "Pain"
+
+msgid "NAMES/FR794"
+msgstr "Papin"
+
+msgid "NAMES/FR795"
+msgstr "Paquet"
+
+msgid "NAMES/FR796"
+msgstr "Parent"
+
+msgid "NAMES/FR797"
+msgstr "Paris"
+
+msgid "NAMES/FR798"
+msgstr "Parisot"
+
+msgid "NAMES/FR799"
+msgstr "Parmentier"
+
+msgid "NAMES/FR8"
+msgstr "Alvès"
+
+msgid "NAMES/FR80"
+msgstr "Berry"
+
+msgid "NAMES/FR800"
+msgstr "Pascal"
+
+msgid "NAMES/FR801"
+msgstr "Pasquet"
+
+msgid "NAMES/FR802"
+msgstr "Pasquier"
+
+msgid "NAMES/FR803"
+msgstr "Pastor"
+
+msgid "NAMES/FR804"
+msgstr "Paul"
+
+msgid "NAMES/FR805"
+msgstr "Payen"
+
+msgid "NAMES/FR806"
+msgstr "Payet"
+
+msgid "NAMES/FR807"
+msgstr "Pélissier"
+
+msgid "NAMES/FR808"
+msgstr "Pelletier"
+
+msgid "NAMES/FR809"
+msgstr "Peltier"
+
+msgid "NAMES/FR81"
+msgstr "Berthe"
+
+msgid "NAMES/FR810"
+msgstr "Pereira"
+
+msgid "NAMES/FR811"
+msgstr "Pérès"
+
+msgid "NAMES/FR812"
+msgstr "Perez"
+
+msgid "NAMES/FR813"
+msgstr "Périn"
+
+msgid "NAMES/FR814"
+msgstr "Pernot"
+
+msgid "NAMES/FR815"
+msgstr "Péron"
+
+msgid "NAMES/FR816"
+msgstr "Perrault"
+
+msgid "NAMES/FR817"
+msgstr "Perret"
+
+msgid "NAMES/FR818"
+msgstr "Perrier"
+
+msgid "NAMES/FR819"
+msgstr "Perrin"
+
+msgid "NAMES/FR82"
+msgstr "Berthelot"
+
+msgid "NAMES/FR820"
+msgstr "Perrot"
+
+msgid "NAMES/FR821"
+msgstr "Petit"
+
+msgid "NAMES/FR822"
+msgstr "Petitjean"
+
+msgid "NAMES/FR823"
+msgstr "Peyre"
+
+msgid "NAMES/FR824"
+msgstr "Pham"
+
+msgid "NAMES/FR825"
+msgstr "Philibert"
+
+msgid "NAMES/FR826"
+msgstr "Philippe"
+
+msgid "NAMES/FR827"
+msgstr "Philippon"
+
+msgid "NAMES/FR828"
+msgstr "Philippot"
+
+msgid "NAMES/FR829"
+msgstr "Picard"
+
+msgid "NAMES/FR83"
+msgstr "Berthet"
+
+msgid "NAMES/FR830"
+msgstr "Pichard"
+
+msgid "NAMES/FR831"
+msgstr "Pichon"
+
+msgid "NAMES/FR832"
+msgstr "Picot"
+
+msgid "NAMES/FR833"
+msgstr "Pierre"
+
+msgid "NAMES/FR834"
+msgstr "Pierron"
+
+msgid "NAMES/FR835"
+msgstr "Pillet"
+
+msgid "NAMES/FR836"
+msgstr "Pineau"
+
+msgid "NAMES/FR837"
+msgstr "Pinel"
+
+msgid "NAMES/FR838"
+msgstr "Pinson"
+
+msgid "NAMES/FR839"
+msgstr "Pinto"
+
+msgid "NAMES/FR84"
+msgstr "Berthier"
+
+msgid "NAMES/FR840"
+msgstr "Piot"
+
+msgid "NAMES/FR841"
+msgstr "Piquet"
+
+msgid "NAMES/FR842"
+msgstr "Pirès"
+
+msgid "NAMES/FR843"
+msgstr "Poirier"
+
+msgid "NAMES/FR844"
+msgstr "Poirot"
+
+msgid "NAMES/FR845"
+msgstr "Poisson"
+
+msgid "NAMES/FR846"
+msgstr "Pollet"
+
+msgid "NAMES/FR847"
+msgstr "Pommier"
+
+msgid "NAMES/FR848"
+msgstr "Poncet"
+
+msgid "NAMES/FR849"
+msgstr "Pons"
+
+msgid "NAMES/FR85"
+msgstr "Bertin"
+
+msgid "NAMES/FR850"
+msgstr "Porte"
+
+msgid "NAMES/FR851"
+msgstr "Portier"
+
+msgid "NAMES/FR852"
+msgstr "Potier"
+
+msgid "NAMES/FR853"
+msgstr "Pottier"
+
+msgid "NAMES/FR854"
+msgstr "Pouget"
+
+msgid "NAMES/FR855"
+msgstr "Poulain"
+
+msgid "NAMES/FR856"
+msgstr "Poulet"
+
+msgid "NAMES/FR857"
+msgstr "Pouliquen"
+
+msgid "NAMES/FR858"
+msgstr "Prat"
+
+msgid "NAMES/FR859"
+msgstr "Prevost"
+
+msgid "NAMES/FR86"
+msgstr "Berton"
+
+msgid "NAMES/FR860"
+msgstr "Prévôt"
+
+msgid "NAMES/FR861"
+msgstr "Prieur"
+
+msgid "NAMES/FR862"
+msgstr "Prigent"
+
+msgid "NAMES/FR863"
+msgstr "Prost"
+
+msgid "NAMES/FR864"
+msgstr "Proust"
+
+msgid "NAMES/FR865"
+msgstr "Provost"
+
+msgid "NAMES/FR866"
+msgstr "Pruvost"
+
+msgid "NAMES/FR867"
+msgstr "Puech"
+
+msgid "NAMES/FR868"
+msgstr "Pujol"
+
+msgid "NAMES/FR869"
+msgstr "Raffin"
+
+msgid "NAMES/FR87"
+msgstr "Bertrand"
+
+msgid "NAMES/FR870"
+msgstr "Ragot"
+
+msgid "NAMES/FR871"
+msgstr "Raimbault"
+
+msgid "NAMES/FR872"
+msgstr "Rambaud"
+
+msgid "NAMES/FR873"
+msgstr "Ramos"
+
+msgid "NAMES/FR874"
+msgstr "Rault"
+
+msgid "NAMES/FR875"
+msgstr "Raymond"
+
+msgid "NAMES/FR876"
+msgstr "Raynal"
+
+msgid "NAMES/FR877"
+msgstr "Raynaud"
+
+msgid "NAMES/FR878"
+msgstr "Reboul"
+
+msgid "NAMES/FR879"
+msgstr "Redon"
+
+msgid "NAMES/FR88"
+msgstr "Besançon"
+
+msgid "NAMES/FR880"
+msgstr "Regnier"
+
+msgid "NAMES/FR881"
+msgstr "Remond"
+
+msgid "NAMES/FR882"
+msgstr "Rémy"
+
+msgid "NAMES/FR883"
+msgstr "Renard"
+
+msgid "NAMES/FR884"
+msgstr "Renaud"
+
+msgid "NAMES/FR885"
+msgstr "Renault"
+
+msgid "NAMES/FR886"
+msgstr "Renou"
+
+msgid "NAMES/FR887"
+msgstr "Revel"
+
+msgid "NAMES/FR888"
+msgstr "Rey"
+
+msgid "NAMES/FR889"
+msgstr "Reynaud"
+
+msgid "NAMES/FR89"
+msgstr "Besnard"
+
+msgid "NAMES/FR890"
+msgstr "Ribeiro"
+
+msgid "NAMES/FR891"
+msgstr "Ricard"
+
+msgid "NAMES/FR892"
+msgstr "Richard"
+
+msgid "NAMES/FR893"
+msgstr "Richer"
+
+msgid "NAMES/FR894"
+msgstr "Richet"
+
+msgid "NAMES/FR895"
+msgstr "Rigaud"
+
+msgid "NAMES/FR896"
+msgstr "Riou"
+
+msgid "NAMES/FR897"
+msgstr "Rivet"
+
+msgid "NAMES/FR898"
+msgstr "Rivière"
+
+msgid "NAMES/FR899"
+msgstr "Robert"
+
+msgid "NAMES/FR9"
+msgstr "Amar"
+
+msgid "NAMES/FR90"
+msgstr "Besse"
+
+msgid "NAMES/FR900"
+msgstr "Robin"
+
+msgid "NAMES/FR901"
+msgstr "Robinet"
+
+msgid "NAMES/FR902"
+msgstr "Roche"
+
+msgid "NAMES/FR903"
+msgstr "Rocher"
+
+msgid "NAMES/FR904"
+msgstr "Rochette"
+
+msgid "NAMES/FR905"
+msgstr "Rodier"
+
+msgid "NAMES/FR906"
+msgstr "Rodrigues"
+
+msgid "NAMES/FR907"
+msgstr "Rodriguez"
+
+msgid "NAMES/FR908"
+msgstr "Roger"
+
+msgid "NAMES/FR909"
+msgstr "Roland"
+
+msgid "NAMES/FR91"
+msgstr "Besson"
+
+msgid "NAMES/FR910"
+msgstr "Rolland"
+
+msgid "NAMES/FR911"
+msgstr "Rollet"
+
+msgid "NAMES/FR912"
+msgstr "Rollin"
+
+msgid "NAMES/FR913"
+msgstr "Rondeau"
+
+msgid "NAMES/FR914"
+msgstr "Roques"
+
+msgid "NAMES/FR915"
+msgstr "Rose"
+
+msgid "NAMES/FR916"
+msgstr "Rossi"
+
+msgid "NAMES/FR917"
+msgstr "Rossignol"
+
+msgid "NAMES/FR918"
+msgstr "Roth"
+
+msgid "NAMES/FR919"
+msgstr "Rouanet"
+
+msgid "NAMES/FR92"
+msgstr "Bidault"
+
+msgid "NAMES/FR920"
+msgstr "Rougier"
+
+msgid "NAMES/FR921"
+msgstr "Rousseau"
+
+msgid "NAMES/FR922"
+msgstr "Roussel"
+
+msgid "NAMES/FR923"
+msgstr "Rousselle"
+
+msgid "NAMES/FR924"
+msgstr "Rousset"
+
+msgid "NAMES/FR925"
+msgstr "Roux"
+
+msgid "NAMES/FR926"
+msgstr "Rouxel"
+
+msgid "NAMES/FR927"
+msgstr "Rouyer"
+
+msgid "NAMES/FR928"
+msgstr "Roy"
+
+msgid "NAMES/FR929"
+msgstr "Royer"
+
+msgid "NAMES/FR93"
+msgstr "Bigot"
+
+msgid "NAMES/FR930"
+msgstr "Ruiz"
+
+msgid "NAMES/FR931"
+msgstr "Sabatier"
+
+msgid "NAMES/FR932"
+msgstr "Salaun"
+
+msgid "NAMES/FR933"
+msgstr "Salles"
+
+msgid "NAMES/FR934"
+msgstr "Salmon"
+
+msgid "NAMES/FR935"
+msgstr "Samson"
+
+msgid "NAMES/FR936"
+msgstr "Sanchez"
+
+msgid "NAMES/FR937"
+msgstr "Sarrazin"
+
+msgid "NAMES/FR938"
+msgstr "Saulnier"
+
+msgid "NAMES/FR939"
+msgstr "Saunier"
+
+msgid "NAMES/FR94"
+msgstr "Billard"
+
+msgid "NAMES/FR940"
+msgstr "Sauvage"
+
+msgid "NAMES/FR941"
+msgstr "Savary"
+
+msgid "NAMES/FR942"
+msgstr "Schaeffer"
+
+msgid "NAMES/FR943"
+msgstr "Resnais"
+
+msgid "NAMES/FR944"
+msgstr "Schmitt"
+
+msgid "NAMES/FR945"
+msgstr "Schneider"
+
+msgid "NAMES/FR946"
+msgstr "Ségard"
+
+msgid "NAMES/FR947"
+msgstr "Seguin"
+
+msgid "NAMES/FR948"
+msgstr "Segura"
+
+msgid "NAMES/FR949"
+msgstr "Sellier"
+
+msgid "NAMES/FR95"
+msgstr "Billet"
+
+msgid "NAMES/FR950"
+msgstr "Sénéchal"
+
+msgid "NAMES/FR951"
+msgstr "Sergent"
+
+msgid "NAMES/FR952"
+msgstr "Serra"
+
+msgid "NAMES/FR953"
+msgstr "Serrano"
+
+msgid "NAMES/FR954"
+msgstr "Serre"
+
+msgid "NAMES/FR955"
+msgstr "Serres"
+
+msgid "NAMES/FR956"
+msgstr "Sevin"
+
+msgid "NAMES/FR957"
+msgstr "Sicard"
+
+msgid "NAMES/FR958"
+msgstr "Simon"
+
+msgid "NAMES/FR959"
+msgstr "Simonin"
+
+msgid "NAMES/FR96"
+msgstr "Billon"
+
+msgid "NAMES/FR960"
+msgstr "Simonnet"
+
+msgid "NAMES/FR961"
+msgstr "Soares"
+
+msgid "NAMES/FR962"
+msgstr "Soler"
+
+msgid "NAMES/FR963"
+msgstr "Soulard"
+
+msgid "NAMES/FR964"
+msgstr "Soulié"
+
+msgid "NAMES/FR965"
+msgstr "Soulier"
+
+msgid "NAMES/FR966"
+msgstr "Stephan"
+
+msgid "NAMES/FR967"
+msgstr "Tanguy"
+
+msgid "NAMES/FR968"
+msgstr "Tardy"
+
+msgid "NAMES/FR969"
+msgstr "Tavernier"
+
+msgid "NAMES/FR97"
+msgstr "Binet"
+
+msgid "NAMES/FR970"
+msgstr "Teissier"
+
+msgid "NAMES/FR971"
+msgstr "Tellier"
+
+msgid "NAMES/FR972"
+msgstr "Terrien"
+
+msgid "NAMES/FR973"
+msgstr "Terrier"
+
+msgid "NAMES/FR974"
+msgstr "Tessier"
+
+msgid "NAMES/FR975"
+msgstr "Texier"
+
+msgid "NAMES/FR976"
+msgstr "Teyssier"
+
+msgid "NAMES/FR977"
+msgstr "Thébault"
+
+msgid "NAMES/FR978"
+msgstr "Théry"
+
+msgid "NAMES/FR979"
+msgstr "Thévenet"
+
+msgid "NAMES/FR98"
+msgstr "Bisson"
+
+msgid "NAMES/FR980"
+msgstr "Thévenin"
+
+msgid "NAMES/FR981"
+msgstr "Thibaud"
+
+msgid "NAMES/FR982"
+msgstr "Thibault"
+
+msgid "NAMES/FR983"
+msgstr "Thibaut"
+
+msgid "NAMES/FR984"
+msgstr "Thiebaut"
+
+msgid "NAMES/FR985"
+msgstr "Thierry"
+
+msgid "NAMES/FR986"
+msgstr "Thiery"
+
+msgid "NAMES/FR987"
+msgstr "Thiriet"
+
+msgid "NAMES/FR988"
+msgstr "Thirion"
+
+msgid "NAMES/FR989"
+msgstr "Thomas"
+
+msgid "NAMES/FR99"
+msgstr "Bizet"
+
+msgid "NAMES/FR990"
+msgstr "Thouvenin"
+
+msgid "NAMES/FR991"
+msgstr "Tison"
+
+msgid "NAMES/FR992"
+msgstr "Tisserand"
+
+msgid "NAMES/FR993"
+msgstr "Tissier"
+
+msgid "NAMES/FR994"
+msgstr "Tissot"
+
+msgid "NAMES/FR995"
+msgstr "Tixier"
+
+msgid "NAMES/FR996"
+msgstr "Torrès"
+
+msgid "NAMES/FR997"
+msgstr "Tournier"
+
+msgid "NAMES/FR998"
+msgstr "Toussaint"
+
+msgid "NAMES/FR999"
+msgstr "Tran"
+
+msgid "NAMES/FRN1"
+msgstr "Adrian"
+
+msgid "NAMES/FRN10"
+msgstr "Adnot"
+
+msgid "NAMES/FRN100"
+msgstr "Cain"
+
+msgid "NAMES/FRN101"
+msgstr "Camille"
+
+msgid "NAMES/FRN102"
+msgstr "Campion"
+
+msgid "NAMES/FRN103"
+msgstr "Célestin"
+
+msgid "NAMES/FRN104"
+msgstr "Cerf"
+
+msgid "NAMES/FRN105"
+msgstr "Césaire"
+
+msgid "NAMES/FRN106"
+msgstr "César"
+
+msgid "NAMES/FRN107"
+msgstr "Chandler"
+
+msgid "NAMES/FRN108"
+msgstr "Charlemagne"
+
+msgid "NAMES/FRN109"
+msgstr "Charles"
+
+msgid "NAMES/FRN11"
+msgstr "Adolphe"
+
+msgid "NAMES/FRN110"
+msgstr "Charlot"
+
+msgid "NAMES/FRN111"
+msgstr "Chrestien"
+
+msgid "NAMES/FRN112"
+msgstr "Chrétien"
+
+msgid "NAMES/FRN113"
+msgstr "Christophe"
+
+msgid "NAMES/FRN114"
+msgstr "Claude"
+
+msgid "NAMES/FRN115"
+msgstr "Clément"
+
+msgid "NAMES/FRN116"
+msgstr "Clotaire"
+
+msgid "NAMES/FRN117"
+msgstr "Clovis"
+
+msgid "NAMES/FRN118"
+msgstr "Colombain"
+
+msgid "NAMES/FRN119"
+msgstr "Colombe"
+
+msgid "NAMES/FRN12"
+msgstr "Adrien"
+
+msgid "NAMES/FRN120"
+msgstr "Come"
+
+msgid "NAMES/FRN121"
+msgstr "Constantin"
+
+msgid "NAMES/FRN122"
+msgstr "Corbin"
+
+msgid "NAMES/FRN123"
+msgstr "Corin"
+
+msgid "NAMES/FRN124"
+msgstr "Corneille"
+
+msgid "NAMES/FRN125"
+msgstr "Cosme"
+
+msgid "NAMES/FRN126"
+msgstr "Cupidon"
+
+msgid "NAMES/FRN127"
+msgstr "Cyprien"
+
+msgid "NAMES/FRN128"
+msgstr "Cyrille"
+
+msgid "NAMES/FRN129"
+msgstr "Damien"
+
+msgid "NAMES/FRN13"
+msgstr "Aillard"
+
+msgid "NAMES/FRN130"
+msgstr "Degare"
+
+msgid "NAMES/FRN131"
+msgstr "Denis"
+
+msgid "NAMES/FRN132"
+msgstr "Déodat"
+
+msgid "NAMES/FRN133"
+msgstr "Désiré"
+
+msgid "NAMES/FRN134"
+msgstr "Devereux"
+
+msgid "NAMES/FRN135"
+msgstr "Didier"
+
+msgid "NAMES/FRN136"
+msgstr "Dieudonné"
+
+msgid "NAMES/FRN137"
+msgstr "Diodore"
+
+msgid "NAMES/FRN138"
+msgstr "Dion"
+
+msgid "NAMES/FRN139"
+msgstr "Dominique"
+
+msgid "NAMES/FRN14"
+msgstr "Aimé"
+
+msgid "NAMES/FRN140"
+msgstr "Donatien"
+
+msgid "NAMES/FRN141"
+msgstr "Edgard"
+
+msgid "NAMES/FRN142"
+msgstr "Edmond"
+
+msgid "NAMES/FRN143"
+msgstr "Édouard"
+
+msgid "NAMES/FRN144"
+msgstr "Élie"
+
+msgid "NAMES/FRN145"
+msgstr "Élliot"
+
+msgid "NAMES/FRN146"
+msgstr "Éloi"
+
+msgid "NAMES/FRN147"
+msgstr "Éloy"
+
+msgid "NAMES/FRN148"
+msgstr "Emaurri"
+
+msgid "NAMES/FRN149"
+msgstr "Émile"
+
+msgid "NAMES/FRN15"
+msgstr "Aimeri"
+
+msgid "NAMES/FRN150"
+msgstr "Émilien"
+
+msgid "NAMES/FRN151"
+msgstr "Emmanuel"
+
+msgid "NAMES/FRN152"
+msgstr "Énéas"
+
+msgid "NAMES/FRN153"
+msgstr "Érec"
+
+msgid "NAMES/FRN154"
+msgstr "Herménégilde"
+
+msgid "NAMES/FRN155"
+msgstr "Esclados"
+
+msgid "NAMES/FRN156"
+msgstr "Esmé"
+
+msgid "NAMES/FRN157"
+msgstr "Étienne"
+
+msgid "NAMES/FRN158"
+msgstr "Eudes"
+
+msgid "NAMES/FRN159"
+msgstr "Eudo"
+
+msgid "NAMES/FRN16"
+msgstr "Aimeric"
+
+msgid "NAMES/FRN160"
+msgstr "Eudon"
+
+msgid "NAMES/FRN161"
+msgstr "Eugène"
+
+msgid "NAMES/FRN162"
+msgstr "Eustache"
+
+msgid "NAMES/FRN163"
+msgstr "Évariste"
+
+msgid "NAMES/FRN164"
+msgstr "Everard"
+
+msgid "NAMES/FRN165"
+msgstr "Evrard"
+
+msgid "NAMES/FRN166"
+msgstr "Fabien"
+
+msgid "NAMES/FRN167"
+msgstr "Fabrice"
+
+msgid "NAMES/FRN168"
+msgstr "Félicien"
+
+msgid "NAMES/FRN169"
+msgstr "Félicité"
+
+msgid "NAMES/FRN17"
+msgstr "Alain"
+
+msgid "NAMES/FRN170"
+msgstr "Félix"
+
+msgid "NAMES/FRN171"
+msgstr "Fernand"
+
+msgid "NAMES/FRN172"
+msgstr "Ferrand"
+
+msgid "NAMES/FRN173"
+msgstr "Ferrant"
+
+msgid "NAMES/FRN174"
+msgstr "Fiacre"
+
+msgid "NAMES/FRN175"
+msgstr "Filibert"
+
+msgid "NAMES/FRN176"
+msgstr "Filimor"
+
+msgid "NAMES/FRN177"
+msgstr "Firmin"
+
+msgid "NAMES/FRN178"
+msgstr "Florence"
+
+msgid "NAMES/FRN179"
+msgstr "Florentin"
+
+msgid "NAMES/FRN18"
+msgstr "Alaire"
+
+msgid "NAMES/FRN180"
+msgstr "Folque"
+
+msgid "NAMES/FRN181"
+msgstr "Foulques"
+
+msgid "NAMES/FRN182"
+msgstr "Franc"
+
+msgid "NAMES/FRN183"
+msgstr "Franck"
+
+msgid "NAMES/FRN184"
+msgstr "François"
+
+msgid "NAMES/FRN185"
+msgstr "Fraser"
+
+msgid "NAMES/FRN186"
+msgstr "Frédéric"
+
+msgid "NAMES/FRN187"
+msgstr "Fréry"
+
+msgid "NAMES/FRN188"
+msgstr "Fulbert"
+
+msgid "NAMES/FRN189"
+msgstr "Gaël"
+
+msgid "NAMES/FRN19"
+msgstr "Alard"
+
+msgid "NAMES/FRN190"
+msgstr "Gaetan"
+
+msgid "NAMES/FRN191"
+msgstr "Gahariet"
+
+msgid "NAMES/FRN192"
+msgstr "Galehot"
+
+msgid "NAMES/FRN193"
+msgstr "Garland"
+
+msgid "NAMES/FRN194"
+msgstr "Gascon"
+
+msgid "NAMES/FRN195"
+msgstr "Gaspard"
+
+msgid "NAMES/FRN196"
+msgstr "Gaston"
+
+msgid "NAMES/FRN197"
+msgstr "Gauthier"
+
+msgid "NAMES/FRN198"
+msgstr "Gautier"
+
+msgid "NAMES/FRN199"
+msgstr "Gauvain"
+
+msgid "NAMES/FRN2"
+msgstr "Absolon"
+
+msgid "NAMES/FRN20"
+msgstr "Albain"
+
+msgid "NAMES/FRN200"
+msgstr "Geoffroi"
+
+msgid "NAMES/FRN201"
+msgstr "Georges"
+
+msgid "NAMES/FRN202"
+msgstr "Gérald"
+
+msgid "NAMES/FRN203"
+msgstr "Girgl"
+
+msgid "NAMES/FRN204"
+msgstr "Géraud"
+
+msgid "NAMES/FRN205"
+msgstr "Germain"
+
+msgid "NAMES/FRN206"
+msgstr "Gervais"
+
+msgid "NAMES/FRN207"
+msgstr "Gervaise"
+
+msgid "NAMES/FRN208"
+msgstr "Gilebert"
+
+msgid "NAMES/FRN209"
+msgstr "Gilles"
+
+msgid "NAMES/FRN21"
+msgstr "Alberi"
+
+msgid "NAMES/FRN210"
+msgstr "Gisbert"
+
+msgid "NAMES/FRN211"
+msgstr "Godard"
+
+msgid "NAMES/FRN212"
+msgstr "Goddard"
+
+msgid "NAMES/FRN213"
+msgstr "Godefrei"
+
+msgid "NAMES/FRN214"
+msgstr "Godefrey"
+
+msgid "NAMES/FRN215"
+msgstr "Gorlois"
+
+msgid "NAMES/FRN216"
+msgstr "Gosse"
+
+msgid "NAMES/FRN217"
+msgstr "Gratien"
+
+msgid "NAMES/FRN218"
+msgstr "Grégoire"
+
+msgid "NAMES/FRN219"
+msgstr "Gregory"
+
+msgid "NAMES/FRN22"
+msgstr "Albert"
+
+msgid "NAMES/FRN220"
+msgstr "Gringolet"
+
+msgid "NAMES/FRN221"
+msgstr "Grosvenor"
+
+msgid "NAMES/FRN222"
+msgstr "Guarin"
+
+msgid "NAMES/FRN223"
+msgstr "Guarinot"
+
+msgid "NAMES/FRN224"
+msgstr "Guilbert"
+
+msgid "NAMES/FRN225"
+msgstr "Guillaume"
+
+msgid "NAMES/FRN226"
+msgstr "Gul"
+
+msgid "NAMES/FRN227"
+msgstr "Gustave"
+
+msgid "NAMES/FRN228"
+msgstr "Guy"
+
+msgid "NAMES/FRN229"
+msgstr "Gwenael"
+
+msgid "NAMES/FRN23"
+msgstr "Alexandre"
+
+msgid "NAMES/FRN230"
+msgstr "Gy"
+
+msgid "NAMES/FRN231"
+msgstr "Gysbert"
+
+msgid "NAMES/FRN232"
+msgstr "Hamblin"
+
+msgid "NAMES/FRN233"
+msgstr "Hamelet"
+
+msgid "NAMES/FRN234"
+msgstr "Hamelin"
+
+msgid "NAMES/FRN235"
+msgstr "Hamlin"
+
+msgid "NAMES/FRN236"
+msgstr "Hamnet"
+
+msgid "NAMES/FRN237"
+msgstr "Hamon"
+
+msgid "NAMES/FRN238"
+msgstr "Henri"
+
+msgid "NAMES/FRN239"
+msgstr "Hercule"
+
+msgid "NAMES/FRN24"
+msgstr "Alfonse"
+
+msgid "NAMES/FRN240"
+msgstr "Herluin"
+
+msgid "NAMES/FRN241"
+msgstr "Hervé"
+
+msgid "NAMES/FRN242"
+msgstr "Hilaire"
+
+msgid "NAMES/FRN243"
+msgstr "Honoré"
+
+msgid "NAMES/FRN244"
+msgstr "Horace"
+
+msgid "NAMES/FRN245"
+msgstr "Hrodger"
+
+msgid "NAMES/FRN246"
+msgstr "Hubert"
+
+msgid "NAMES/FRN247"
+msgstr "Hugon"
+
+msgid "NAMES/FRN248"
+msgstr "Hugues"
+
+msgid "NAMES/FRN249"
+msgstr "Ignace"
+
+msgid "NAMES/FRN25"
+msgstr "Allard"
+
+msgid "NAMES/FRN250"
+msgstr "Ilbert"
+
+msgid "NAMES/FRN251"
+msgstr "Irène"
+
+msgid "NAMES/FRN252"
+msgstr "Isaïe"
+
+msgid "NAMES/FRN253"
+msgstr "Ives"
+
+msgid "NAMES/FRN254"
+msgstr "Ivon"
+
+msgid "NAMES/FRN255"
+msgstr "Jacques"
+
+msgid "NAMES/FRN256"
+msgstr "James"
+
+msgid "NAMES/FRN257"
+msgstr "Jean"
+
+msgid "NAMES/FRN258"
+msgstr "Jean-Baptiste"
+
+msgid "NAMES/FRN259"
+msgstr "Jeannot"
+
+msgid "NAMES/FRN26"
+msgstr "Aloys"
+
+msgid "NAMES/FRN260"
+msgstr "Jehan"
+
+msgid "NAMES/FRN261"
+msgstr "Jérémie"
+
+msgid "NAMES/FRN262"
+msgstr "Jérôme"
+
+msgid "NAMES/FRN263"
+msgstr "Joël"
+
+msgid "NAMES/FRN264"
+msgstr "Jori"
+
+msgid "NAMES/FRN265"
+msgstr "Josse"
+
+msgid "NAMES/FRN266"
+msgstr "Josselin"
+
+msgid "NAMES/FRN267"
+msgstr "Josue"
+
+msgid "NAMES/FRN268"
+msgstr "Jourdain"
+
+msgid "NAMES/FRN269"
+msgstr "Jules"
+
+msgid "NAMES/FRN27"
+msgstr "Alfons"
+
+msgid "NAMES/FRN270"
+msgstr "Julien"
+
+msgid "NAMES/FRN271"
+msgstr "Juste"
+
+msgid "NAMES/FRN272"
+msgstr "Lammert"
+
+msgid "NAMES/FRN273"
+msgstr "Caspar"
+
+msgid "NAMES/FRN274"
+msgstr "Lancelot"
+
+msgid "NAMES/FRN275"
+msgstr "Launce"
+
+msgid "NAMES/FRN276"
+msgstr "Launcelot"
+
+msgid "NAMES/FRN277"
+msgstr "Laurent"
+
+msgid "NAMES/FRN278"
+msgstr "Laurentin"
+
+msgid "NAMES/FRN279"
+msgstr "Lazare"
+
+msgid "NAMES/FRN28"
+msgstr "Alvère"
+
+msgid "NAMES/FRN280"
+msgstr "Léandre"
+
+msgid "NAMES/FRN281"
+msgstr "Léger"
+
+msgid "NAMES/FRN282"
+msgstr "Lemoine"
+
+msgid "NAMES/FRN283"
+msgstr "Léolin"
+
+msgid "NAMES/FRN284"
+msgstr "Léon"
+
+msgid "NAMES/FRN285"
+msgstr "Léonard"
+
+msgid "NAMES/FRN286"
+msgstr "Leonce"
+
+msgid "NAMES/FRN287"
+msgstr "Leonide"
+
+msgid "NAMES/FRN288"
+msgstr "Leopold"
+
+msgid "NAMES/FRN289"
+msgstr "Leroy"
+
+msgid "NAMES/FRN29"
+msgstr "Alvin"
+
+msgid "NAMES/FRN290"
+msgstr "Lionel"
+
+msgid "NAMES/FRN291"
+msgstr "Loois"
+
+msgid "NAMES/FRN292"
+msgstr "Looys"
+
+msgid "NAMES/FRN293"
+msgstr "Lothair"
+
+msgid "NAMES/FRN294"
+msgstr "Lothaire"
+
+msgid "NAMES/FRN295"
+msgstr "Louie"
+
+msgid "NAMES/FRN296"
+msgstr "Louis"
+
+msgid "NAMES/FRN297"
+msgstr "Loup"
+
+msgid "NAMES/FRN298"
+msgstr "Louvel"
+
+msgid "NAMES/FRN299"
+msgstr "Luc"
+
+msgid "NAMES/FRN3"
+msgstr "Ace"
+
+msgid "NAMES/FRN30"
+msgstr "Amable"
+
+msgid "NAMES/FRN300"
+msgstr "Lucien"
+
+msgid "NAMES/FRN301"
+msgstr "Macaire"
+
+msgid "NAMES/FRN302"
+msgstr "Mainard"
+
+msgid "NAMES/FRN303"
+msgstr "Mainfred"
+
+msgid "NAMES/FRN304"
+msgstr "Malgier"
+
+msgid "NAMES/FRN305"
+msgstr "Marc"
+
+msgid "NAMES/FRN306"
+msgstr "Marceau"
+
+msgid "NAMES/FRN307"
+msgstr "Marcel"
+
+msgid "NAMES/FRN308"
+msgstr "Marcellin"
+
+msgid "NAMES/FRN309"
+msgstr "Marcelon"
+
+msgid "NAMES/FRN31"
+msgstr "Amadieu"
+
+msgid "NAMES/FRN310"
+msgstr "Marin"
+
+msgid "NAMES/FRN311"
+msgstr "Marrok"
+
+msgid "NAMES/FRN312"
+msgstr "Martin"
+
+msgid "NAMES/FRN313"
+msgstr "Mathieu"
+
+msgid "NAMES/FRN314"
+msgstr "Mathis"
+
+msgid "NAMES/FRN315"
+msgstr "Matthieu"
+
+msgid "NAMES/FRN316"
+msgstr "Mauger"
+
+msgid "NAMES/FRN317"
+msgstr "Maugier"
+
+msgid "NAMES/FRN318"
+msgstr "Maurice"
+
+msgid "NAMES/FRN319"
+msgstr "Maxence"
+
+msgid "NAMES/FRN32"
+msgstr "Amadour"
+
+msgid "NAMES/FRN320"
+msgstr "Maxime"
+
+msgid "NAMES/FRN321"
+msgstr "Maximilien"
+
+msgid "NAMES/FRN322"
+msgstr "Michel"
+
+msgid "NAMES/FRN323"
+msgstr "Milun"
+
+msgid "NAMES/FRN324"
+msgstr "Modeste"
+
+msgid "NAMES/FRN325"
+msgstr "Moïse"
+
+msgid "NAMES/FRN326"
+msgstr "Napoleon"
+
+msgid "NAMES/FRN327"
+msgstr "Narcisse"
+
+msgid "NAMES/FRN328"
+msgstr "Nazaire"
+
+msgid "NAMES/FRN329"
+msgstr "Nel"
+
+msgid "NAMES/FRN33"
+msgstr "Amauger"
+
+msgid "NAMES/FRN330"
+msgstr "Nicolas"
+
+msgid "NAMES/FRN331"
+msgstr "Nihel"
+
+msgid "NAMES/FRN332"
+msgstr "Noe"
+
+msgid "NAMES/FRN333"
+msgstr "Noël"
+
+msgid "NAMES/FRN334"
+msgstr "Norbert"
+
+msgid "NAMES/FRN335"
+msgstr "Oda"
+
+msgid "NAMES/FRN336"
+msgstr "Odilon"
+
+msgid "NAMES/FRN337"
+msgstr "Olivier"
+
+msgid "NAMES/FRN338"
+msgstr "Onesime"
+
+msgid "NAMES/FRN339"
+msgstr "Onfroi"
+
+msgid "NAMES/FRN34"
+msgstr "Amauri"
+
+msgid "NAMES/FRN340"
+msgstr "Otes"
+
+msgid "NAMES/FRN341"
+msgstr "Papillion"
+
+msgid "NAMES/FRN342"
+msgstr "Pascal"
+
+msgid "NAMES/FRN343"
+msgstr "Paschal"
+
+msgid "NAMES/FRN344"
+msgstr "Patrice"
+
+msgid "NAMES/FRN345"
+msgstr "Paul"
+
+msgid "NAMES/FRN346"
+msgstr "Pépin"
+
+msgid "NAMES/FRN347"
+msgstr "Perceval"
+
+msgid "NAMES/FRN348"
+msgstr "Perrin"
+
+msgid "NAMES/FRN349"
+msgstr "Philbert"
+
+msgid "NAMES/FRN35"
+msgstr "Amaury"
+
+msgid "NAMES/FRN350"
+msgstr "Philibert"
+
+msgid "NAMES/FRN351"
+msgstr "Philippe"
+
+msgid "NAMES/FRN352"
+msgstr "Pierre"
+
+msgid "NAMES/FRN353"
+msgstr "Pierres"
+
+msgid "NAMES/FRN354"
+msgstr "Pons"
+
+msgid "NAMES/FRN355"
+msgstr "Quentin"
+
+msgid "NAMES/FRN356"
+msgstr "Raimond"
+
+msgid "NAMES/FRN357"
+msgstr "Raimund"
+
+msgid "NAMES/FRN358"
+msgstr "Rainier"
+
+msgid "NAMES/FRN359"
+msgstr "Raoul"
+
+msgid "NAMES/FRN36"
+msgstr "Ambroise"
+
+msgid "NAMES/FRN360"
+msgstr "Raphaël"
+
+msgid "NAMES/FRN361"
+msgstr "Raulf"
+
+msgid "NAMES/FRN362"
+msgstr "Régis"
+
+msgid "NAMES/FRN363"
+msgstr "Reinald"
+
+msgid "NAMES/FRN364"
+msgstr "Rémi"
+
+msgid "NAMES/FRN365"
+msgstr "Rémy"
+
+msgid "NAMES/FRN366"
+msgstr "Renard"
+
+msgid "NAMES/FRN367"
+msgstr "Renart"
+
+msgid "NAMES/FRN368"
+msgstr "Renaud"
+
+msgid "NAMES/FRN369"
+msgstr "René"
+
+msgid "NAMES/FRN37"
+msgstr "Ame"
+
+msgid "NAMES/FRN370"
+msgstr "Reynaud"
+
+msgid "NAMES/FRN371"
+msgstr "Reynold"
+
+msgid "NAMES/FRN372"
+msgstr "Richaud"
+
+msgid "NAMES/FRN373"
+msgstr "Riche"
+
+msgid "NAMES/FRN374"
+msgstr "Robert"
+
+msgid "NAMES/FRN375"
+msgstr "Roch"
+
+msgid "NAMES/FRN376"
+msgstr "Rodolphe"
+
+msgid "NAMES/FRN377"
+msgstr "Rodrigue"
+
+msgid "NAMES/FRN378"
+msgstr "Rogier"
+
+msgid "NAMES/FRN379"
+msgstr "Roland"
+
+msgid "NAMES/FRN38"
+msgstr "Amédée"
+
+msgid "NAMES/FRN380"
+msgstr "Rolande"
+
+msgid "NAMES/FRN381"
+msgstr "Romain"
+
+msgid "NAMES/FRN382"
+msgstr "Roul"
+
+msgid "NAMES/FRN383"
+msgstr "Rousel"
+
+msgid "NAMES/FRN384"
+msgstr "Sacha"
+
+msgid "NAMES/FRN385"
+msgstr "Sacheverell"
+
+msgid "NAMES/FRN386"
+msgstr "Salomon"
+
+msgid "NAMES/FRN387"
+msgstr "Sébastien"
+
+msgid "NAMES/FRN388"
+msgstr "Séraphin"
+
+msgid "NAMES/FRN389"
+msgstr "Serge"
+
+msgid "NAMES/FRN39"
+msgstr "Anastase"
+
+msgid "NAMES/FRN390"
+msgstr "Sévère"
+
+msgid "NAMES/FRN391"
+msgstr "Séverin"
+
+msgid "NAMES/FRN392"
+msgstr "Simon"
+
+msgid "NAMES/FRN393"
+msgstr "Stéphane"
+
+msgid "NAMES/FRN394"
+msgstr "Stuart"
+
+msgid "NAMES/FRN395"
+msgstr "Sylvain"
+
+msgid "NAMES/FRN396"
+msgstr "Sylvestre"
+
+msgid "NAMES/FRN397"
+msgstr "Télesphore"
+
+msgid "NAMES/FRN398"
+msgstr "Théo"
+
+msgid "NAMES/FRN399"
+msgstr "Théodore"
+
+msgid "NAMES/FRN4"
+msgstr "Acelet"
+
+msgid "NAMES/FRN40"
+msgstr "Anatole"
+
+msgid "NAMES/FRN400"
+msgstr "Théophile"
+
+msgid "NAMES/FRN401"
+msgstr "Thibauld"
+
+msgid "NAMES/FRN402"
+msgstr "Thibault"
+
+msgid "NAMES/FRN403"
+msgstr "Thierri"
+
+msgid "NAMES/FRN404"
+msgstr "Thierry"
+
+msgid "NAMES/FRN405"
+msgstr "Timothée"
+
+msgid "NAMES/FRN406"
+msgstr "Toussaint"
+
+msgid "NAMES/FRN407"
+msgstr "Tristan"
+
+msgid "NAMES/FRN408"
+msgstr "Tristand"
+
+msgid "NAMES/FRN409"
+msgstr "Tristram"
+
+msgid "NAMES/FRN41"
+msgstr "Albin"
+
+msgid "NAMES/FRN410"
+msgstr "Urbain"
+
+msgid "NAMES/FRN411"
+msgstr "Valentin"
+
+msgid "NAMES/FRN412"
+msgstr "Valère"
+
+msgid "NAMES/FRN413"
+msgstr "Valérian"
+
+msgid "NAMES/FRN414"
+msgstr "Valéry"
+
+msgid "NAMES/FRN415"
+msgstr "Veillantif"
+
+msgid "NAMES/FRN416"
+msgstr "Vincens"
+
+msgid "NAMES/FRN417"
+msgstr "Vivien"
+
+msgid "NAMES/FRN418"
+msgstr "Waltier"
+
+msgid "NAMES/FRN419"
+msgstr "Willelm"
+
+msgid "NAMES/FRN42"
+msgstr "André"
+
+msgid "NAMES/FRN420"
+msgstr "Yvain"
+
+msgid "NAMES/FRN421"
+msgstr "Yves"
+
+msgid "NAMES/FRN422"
+msgstr "Yvon"
+
+msgid "NAMES/FRN423"
+msgstr "Zacharie"
+
+msgid "NAMES/FRN43"
+msgstr "Andrien"
+
+msgid "NAMES/FRN44"
+msgstr "Andrion"
+
+msgid "NAMES/FRN45"
+msgstr "Ange"
+
+msgid "NAMES/FRN46"
+msgstr "Ansel"
+
+msgid "NAMES/FRN47"
+msgstr "Anselme"
+
+msgid "NAMES/FRN48"
+msgstr "Antoine"
+
+msgid "NAMES/FRN49"
+msgstr "Antonin"
+
+msgid "NAMES/FRN5"
+msgstr "Acelin"
+
+msgid "NAMES/FRN50"
+msgstr "Aousten"
+
+msgid "NAMES/FRN51"
+msgstr "Apollinaire"
+
+msgid "NAMES/FRN52"
+msgstr "Archimbaud"
+
+msgid "NAMES/FRN53"
+msgstr "Aristide"
+
+msgid "NAMES/FRN54"
+msgstr "Arluin"
+
+msgid "NAMES/FRN55"
+msgstr "Arman"
+
+msgid "NAMES/FRN56"
+msgstr "Armand"
+
+msgid "NAMES/FRN57"
+msgstr "Armel"
+
+msgid "NAMES/FRN58"
+msgstr "Arnaud"
+
+msgid "NAMES/FRN59"
+msgstr "Asce"
+
+msgid "NAMES/FRN6"
+msgstr "Achille"
+
+msgid "NAMES/FRN60"
+msgstr "Astor"
+
+msgid "NAMES/FRN61"
+msgstr "Athanase"
+
+msgid "NAMES/FRN62"
+msgstr "Auben"
+
+msgid "NAMES/FRN63"
+msgstr "Aubéron"
+
+msgid "NAMES/FRN64"
+msgstr "Aubert"
+
+msgid "NAMES/FRN65"
+msgstr "Aubin"
+
+msgid "NAMES/FRN66"
+msgstr "Audric"
+
+msgid "NAMES/FRN67"
+msgstr "Auguste"
+
+msgid "NAMES/FRN68"
+msgstr "Augustin"
+
+msgid "NAMES/FRN69"
+msgstr "Aurèle"
+
+msgid "NAMES/FRN7"
+msgstr "Adalard"
+
+msgid "NAMES/FRN70"
+msgstr "Aurélien"
+
+msgid "NAMES/FRN71"
+msgstr "Avery"
+
+msgid "NAMES/FRN72"
+msgstr "Aymeric"
+
+msgid "NAMES/FRN73"
+msgstr "Baldoin"
+
+msgid "NAMES/FRN74"
+msgstr "Baptiste"
+
+msgid "NAMES/FRN75"
+msgstr "Barnabé"
+
+msgid "NAMES/FRN76"
+msgstr "Barthelmy"
+
+msgid "NAMES/FRN77"
+msgstr "Bartholomieu"
+
+msgid "NAMES/FRN78"
+msgstr "Barthomieu"
+
+msgid "NAMES/FRN79"
+msgstr "Basile"
+
+msgid "NAMES/FRN8"
+msgstr "Adélard"
+
+msgid "NAMES/FRN80"
+msgstr "Bastien"
+
+msgid "NAMES/FRN81"
+msgstr "Baudouin"
+
+msgid "NAMES/FRN82"
+msgstr "Bayard"
+
+msgid "NAMES/FRN83"
+msgstr "Beaumont"
+
+msgid "NAMES/FRN84"
+msgstr "Beauregard"
+
+msgid "NAMES/FRN85"
+msgstr "Bédoier"
+
+msgid "NAMES/FRN86"
+msgstr "Bénédict"
+
+msgid "NAMES/FRN87"
+msgstr "Beneoit"
+
+msgid "NAMES/FRN88"
+msgstr "Bénézet"
+
+msgid "NAMES/FRN89"
+msgstr "Benjamin"
+
+msgid "NAMES/FRN9"
+msgstr "Adnet"
+
+msgid "NAMES/FRN90"
+msgstr "Benoît"
+
+msgid "NAMES/FRN91"
+msgstr "Bérenger"
+
+msgid "NAMES/FRN92"
+msgstr "Bernard"
+
+msgid "NAMES/FRN93"
+msgstr "Bertrand"
+
+msgid "NAMES/FRN94"
+msgstr "Blaise"
+
+msgid "NAMES/FRN95"
+msgstr "Brian"
+
+msgid "NAMES/FRN96"
+msgstr "Briant"
+
+msgid "NAMES/FRN97"
+msgstr "Brice"
+
+msgid "NAMES/FRN98"
+msgstr "Briefbras"
+
+msgid "NAMES/FRN99"
+msgstr "Bruce"
+
+msgid "RANKSFR/1"
+msgstr "Colonel"
+
+msgid "RANKSFR/10"
+msgstr "Sergent-chef"
+
+msgid "RANKSFR/2"
+msgstr "Lieutenant-colonel"
+
+msgid "RANKSFR/3"
+msgstr "Commandant"
+
+msgid "RANKSFR/4"
+msgstr "Capitaine"
+
+msgid "RANKSFR/5"
+msgstr "Lieutenant"
+
+msgid "RANKSFR/6"
+msgstr "Sous-lieutenant"
+
+msgid "RANKSFR/7"
+msgstr "Aspirant"
+
+msgid "RANKSFR/8"
+msgstr "Adjutant-chef"
+
+msgid "RANKSFR/9"
+msgstr "Adjutant"
